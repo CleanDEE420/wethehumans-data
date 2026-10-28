@@ -1,0 +1,63 @@
+{
+ "generated_at": "2026-10-28 17:53 CDT",
+ "generated_date": "2026-10-28",
+ "ebay": {
+  "listings_live": 8211,
+  "store_dex_species": 712,
+  "as_of": "2026-10-28"
+ },
+ "site": {
+  "pages": 192,
+  "quotes_cards": 14,
+  "office_feed": 24,
+  "projects_cards": 13,
+  "fb_posts_shelf": 6,
+  "as_of": "2026-10-28"
+ },
+ "pinterest": {
+  "followers": 4957,
+  "monthly_views": 27109,
+  "pins": 7197,
+  "boards": 18,
+  "as_of": "2026-10-28"
+ },
+ "pinterest_pack": {
+  "engine_pins_total": 0,
+  "image_posted": 14,
+  "image_total": 30,
+  "updated": "2026-10-28",
+  "video_posted": 1,
+  "video_total": 6
+ },
+ "inspiration_lines": 2243,
+ "manual": {
+  "credit": {
+   "as_of": "2026-10-04",
+   "current": 621,
+   "target": 640
+  },
+  "decisions_open": 6,
+  "instagram": {
+   "as_of": "2026-10-27",
+   "followers": 896
+  },
+  "machine": {
+   "baseline_runs_per_day": 41,
+   "jobs_label": "18 jobs · 1 watcher hook",
+   "runs_per_day": "~12"
+  },
+  "manual_as_of": "2026-10-28",
+  "personal_dex": {
+   "as_of": "2026-10-24",
+   "have": 975,
+   "total": 1025
+  },
+  "projects_active": 17,
+  "tax": {
+   "as_of": "2026-10-20",
+   "documented_costs": 5035.31,
+   "gross_sales": 1899.14
+  }
+ },
+ "warnings": []
+}
