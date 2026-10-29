@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29 06:56 CDT",
+ "generated_at": "2026-10-29 09:40 CDT",
  "generated_date": "2026-10-29",
  "ebay": {
   "listings_live": 8247,
@@ -40,6 +40,17 @@
   "followers": 0,
   "following": 11,
   "posts": 4,
+  "as_of": "2026-10-29"
+ },
+ "ebay_sales": {
+  "last_7d": {
+   "orders": 20,
+   "gross": 139.34
+  },
+  "last_30d": {
+   "orders": 41,
+   "gross": 391.9
+  },
   "as_of": "2026-10-29"
  },
  "inspiration_lines": 2243,
