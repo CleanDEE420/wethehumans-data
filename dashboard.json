@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29 05:57 CDT",
+ "generated_at": "2026-10-29 06:56 CDT",
  "generated_date": "2026-10-29",
  "ebay": {
   "listings_live": 8247,
@@ -35,6 +35,13 @@
   "video_posted": 1,
   "video_total": 6
  },
+ "bluesky": {
+  "handle": "wethehumans.cool",
+  "followers": 0,
+  "following": 11,
+  "posts": 4,
+  "as_of": "2026-10-29"
+ },
  "inspiration_lines": 2243,
  "manual": {
   "credit": {
@@ -42,17 +49,52 @@
    "current": 621,
    "target": 640
   },
-  "decisions_open": 6,
+  "decisions": [
+   {
+    "detail": "Plus your sample-shirt call (FH-001 on black) and a Fourthwall payout check — 9 tees are live, but the money pipe is unproven until payout is set and a sample verifies print + placement.",
+    "since": "2026-10-29",
+    "title": "ForeverHumans: give the site-v2 deploy go + point foreverhumans.com",
+    "unlocks": "The owned hub goes live and promotion can start"
+   },
+   {
+    "detail": "Gumby preps the full packet and demo; the submission itself is yours. The SocialForge app already exists and is connected — only Trial access blocks API pin creation.",
+    "since": "2026-10-28",
+    "title": "Pinterest Standard access — review + submit the application",
+    "unlocks": "API pin posting retires both browser drip runs (~14 runs/week)"
+   },
+   {
+    "detail": "Mailbox proven broken: two test emails never landed even though DNS checks out healthy (Mailgun MX + SPF live). The termination chain stays gated until mail actually flows.",
+    "since": "2026-10-29",
+    "title": "DC Mechanical: inspect the Squarespace email-forwarding panel",
+    "unlocks": "Missouri SOS password reset → Articles of Termination (LC1721559) → Angi cleanup"
+   },
+   {
+    "detail": "Check whether clicks registered from the two test links — today's Featured Card post (customid=featured) and one Pinterest pin (customid=pin). Job ebay-ambassador-proof-check asks you once at 10 AM.",
+    "since": "2026-10-28",
+    "title": "Ambassador dashboard glance — Sat Oct 31, 10:00 AM",
+    "unlocks": "Rollout call: Featured Card → Pinterest pins → shelf links → /links/ button"
+   }
+  ],
+  "decisions_open": 4,
+  "foreverhumans": {
+   "as_of": "2026-10-29",
+   "domain_status": "foreverhumans.com pointing pending (goes to the site once deployed)",
+   "held": "FH-008",
+   "price": 25,
+   "products_live": 9,
+   "shop_url": "https://foreverhumans-shop.fourthwall.com/",
+   "site_status": "site-v2 built, not deployed"
+  },
   "instagram": {
    "as_of": "2026-10-27",
    "followers": 896
   },
   "machine": {
    "baseline_runs_per_day": 41,
-   "jobs_label": "18 jobs · 1 watcher hook",
+   "jobs_label": "17 jobs · 1 watcher hook",
    "runs_per_day": "~12"
   },
-  "manual_as_of": "2026-10-28",
+  "manual_as_of": "2026-10-29",
   "personal_dex": {
    "as_of": "2026-10-24",
    "have": 975,
@@ -64,6 +106,15 @@
    "documented_costs": 5035.31,
    "gross_sales": 1899.14
   }
+ },
+ "foreverhumans": {
+  "as_of": "2026-10-29",
+  "domain_status": "foreverhumans.com pointing pending (goes to the site once deployed)",
+  "held": "FH-008",
+  "price": 25,
+  "products_live": 9,
+  "shop_url": "https://foreverhumans-shop.fourthwall.com/",
+  "site_status": "site-v2 built, not deployed"
  },
  "warnings": []
 }
