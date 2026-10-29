@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28 18:16 CDT",
+ "generated_at": "2026-10-28 21:04 CDT",
  "generated_date": "2026-10-28",
  "ebay": {
   "listings_live": 8211,
@@ -16,13 +16,19 @@
  },
  "pinterest": {
   "followers": 4957,
-  "monthly_views": 27109,
-  "pins": 7197,
+  "monthly_views": 27271,
+  "pins": 7202,
   "boards": 18,
   "as_of": "2026-10-28"
  },
+ "youtube": {
+  "subscribers": 148,
+  "views": 104700,
+  "videos": 85,
+  "as_of": "2026-10-28"
+ },
  "pinterest_pack": {
-  "engine_pins_total": 0,
+  "engine_pins_total": 5,
   "image_posted": 14,
   "image_total": 30,
   "updated": "2026-10-28",
