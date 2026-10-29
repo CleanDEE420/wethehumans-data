@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29 10:09 CDT",
+ "generated_at": "2026-10-29 11:19 CDT",
  "generated_date": "2026-10-29",
  "ebay": {
   "listings_live": 8247,
@@ -44,8 +44,8 @@
  },
  "ebay_sales": {
   "last_7d": {
-   "orders": 20,
-   "gross": 139.34
+   "orders": 19,
+   "gross": 136.5
   },
   "last_30d": {
    "orders": 41,
@@ -62,7 +62,7 @@
   },
   "decisions": [
    {
-    "detail": "Site-v2 DEPLOYED and foreverhumans.com repointed to Netlify Oct 29 on your launch order — We The Humans family ribbon + \"One human. Three doors.\" section folded in at your ask; final HTTPS check runs ~10:37 AM as DNS finishes spreading. Still yours before any traffic push: the Fourthwall payout check and the FH-001 sample order (9 tees live; money pipe unproven until payout is set and a sample verifies print + placement).",
+    "detail": "DONE Oct 29: site-v2 deployed, foreverhumans.com pointed + HTTPS-verified, and the Fourthwall store flipped from Coming soon to Live (proven anonymously — the 9 tees are buyable). Still yours before any traffic push: the Fourthwall payout check and the FH-001 sample order, so the first real dollar is proven end-to-end.",
     "since": "2026-10-29",
     "title": "ForeverHumans: give the site-v2 deploy go + point foreverhumans.com",
     "unlocks": "The owned hub goes live and promotion can start"
@@ -89,12 +89,12 @@
   "decisions_open": 4,
   "foreverhumans": {
    "as_of": "2026-10-29",
-   "domain_status": "foreverhumans.com repointed to Netlify Oct 29 (apex A 75.2.60.5, www CNAME foreverhumans.netlify.app); HTTPS verification pending propagation",
+   "domain_status": "foreverhumans.com live on Netlify (HTTPS verified Oct 29)",
    "held": "FH-008",
    "price": 25,
    "products_live": 9,
    "shop_url": "https://foreverhumans-shop.fourthwall.com/",
-   "site_status": "site-v2 DEPLOYED Oct 29 to Netlify (foreverhumans.netlify.app verified live)"
+   "site_status": "site-v2 LIVE at foreverhumans.com (deployed + domain verified Oct 29)"
   },
   "instagram": {
    "as_of": "2026-10-27",
@@ -120,12 +120,12 @@
  },
  "foreverhumans": {
   "as_of": "2026-10-29",
-  "domain_status": "foreverhumans.com repointed to Netlify Oct 29 (apex A 75.2.60.5, www CNAME foreverhumans.netlify.app); HTTPS verification pending propagation",
+  "domain_status": "foreverhumans.com live on Netlify (HTTPS verified Oct 29)",
   "held": "FH-008",
   "price": 25,
   "products_live": 9,
   "shop_url": "https://foreverhumans-shop.fourthwall.com/",
-  "site_status": "site-v2 DEPLOYED Oct 29 to Netlify (foreverhumans.netlify.app verified live)"
+  "site_status": "site-v2 LIVE at foreverhumans.com (deployed + domain verified Oct 29)"
  },
  "warnings": []
 }
