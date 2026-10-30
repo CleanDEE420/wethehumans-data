@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-10-29 11:19 CDT",
- "generated_date": "2026-10-29",
+ "generated_at": "2026-10-30 05:54 CDT",
+ "generated_date": "2026-10-30",
  "ebay": {
-  "listings_live": 8247,
-  "store_dex_species": 716,
-  "as_of": "2026-10-29"
+  "listings_live": 8258,
+  "store_dex_species": 720,
+  "as_of": "2026-10-30"
  },
  "site": {
-  "pages": 192,
+  "pages": 193,
   "quotes_cards": 14,
   "office_feed": 24,
   "projects_cards": 13,
   "fb_posts_shelf": 6,
-  "as_of": "2026-10-29"
+  "as_of": "2026-10-30"
  },
  "pinterest": {
   "followers": 4957,
-  "monthly_views": 27271,
-  "pins": 7202,
+  "monthly_views": 27382,
+  "pins": 7212,
   "boards": 18,
-  "as_of": "2026-10-29"
+  "as_of": "2026-10-30"
  },
  "youtube": {
   "subscribers": 148,
   "views": 104701,
   "videos": 85,
-  "as_of": "2026-10-29"
+  "as_of": "2026-10-30"
  },
  "pinterest_pack": {
-  "engine_pins_total": 5,
-  "image_posted": 14,
+  "engine_pins_total": 10,
+  "image_posted": 19,
   "image_total": 30,
-  "updated": "2026-10-28",
+  "updated": "2026-10-29",
   "video_posted": 1,
-  "video_total": 6
+  "video_total": 7
  },
  "bluesky": {
   "handle": "wethehumans.cool",
   "followers": 0,
   "following": 11,
-  "posts": 4,
-  "as_of": "2026-10-29"
+  "posts": 5,
+  "as_of": "2026-10-30"
  },
  "ebay_sales": {
   "last_7d": {
-   "orders": 19,
-   "gross": 136.5
+   "orders": 17,
+   "gross": 100.4
   },
   "last_30d": {
    "orders": 41,
    "gross": 391.9
   },
-  "as_of": "2026-10-29"
+  "as_of": "2026-10-30"
  },
  "inspiration_lines": 2243,
  "manual": {
@@ -62,9 +62,9 @@
   },
   "decisions": [
    {
-    "detail": "DONE Oct 29: site-v2 deployed, foreverhumans.com pointed + HTTPS-verified, and the Fourthwall store flipped from Coming soon to Live (proven anonymously — the 9 tees are buyable). Still yours before any traffic push: the Fourthwall payout check and the FH-001 sample order, so the first real dollar is proven end-to-end.",
+    "detail": "DONE Oct 29: site live, store public, Fourthwall payout/banking SET UP by CleanDEE, and the FH-001 sample ('It's Only Metal') ORDERED by him. Last proof step: the shirt lands in hand and the ~$12 profit actually hits his account — then the first real dollar is proven end-to-end and the traffic push unlocks.",
     "since": "2026-10-29",
-    "title": "ForeverHumans: give the site-v2 deploy go + point foreverhumans.com",
+    "title": "ForeverHumans: first-dollar proof — sample delivery + payout landing",
     "unlocks": "The owned hub goes live and promotion can start"
    },
    {
@@ -91,8 +91,10 @@
    "as_of": "2026-10-29",
    "domain_status": "foreverhumans.com live on Netlify (HTTPS verified Oct 29)",
    "held": "FH-008",
+   "payout_status": "banking set up Oct 29",
    "price": 25,
    "products_live": 9,
+   "sample_status": "FH-001 'It's Only Metal' ordered Oct 29 (awaiting delivery + payout landing)",
    "shop_url": "https://foreverhumans-shop.fourthwall.com/",
    "site_status": "site-v2 LIVE at foreverhumans.com (deployed + domain verified Oct 29)"
   },
@@ -122,8 +124,10 @@
   "as_of": "2026-10-29",
   "domain_status": "foreverhumans.com live on Netlify (HTTPS verified Oct 29)",
   "held": "FH-008",
+  "payout_status": "banking set up Oct 29",
   "price": 25,
   "products_live": 9,
+  "sample_status": "FH-001 'It's Only Metal' ordered Oct 29 (awaiting delivery + payout landing)",
   "shop_url": "https://foreverhumans-shop.fourthwall.com/",
   "site_status": "site-v2 LIVE at foreverhumans.com (deployed + domain verified Oct 29)"
  },
