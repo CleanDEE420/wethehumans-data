@@ -1,0 +1,64 @@
+{
+ "generated": "2026-10-31T11:14:47",
+ "window_days": 7,
+ "sites": {
+  "wethehumans.cool": {
+   "status": "live",
+   "pageviews7d": 42,
+   "visits7d": 20,
+   "by_day": [
+    {
+     "date": "2026-10-29",
+     "pageviews": 33,
+     "visits": 11
+    },
+    {
+     "date": "2026-10-30",
+     "pageviews": 6,
+     "visits": 6
+    },
+    {
+     "date": "2026-10-31",
+     "pageviews": 3,
+     "visits": 3
+    }
+   ],
+   "top_pages": [
+    {
+     "path": "/",
+     "pageviews": 12
+    },
+    {
+     "path": "/links/",
+     "pageviews": 6
+    },
+    {
+     "path": "/quotes/",
+     "pageviews": 4
+    },
+    {
+     "path": "/dad-hustle/",
+     "pageviews": 4
+    },
+    {
+     "path": "/cards/",
+     "pageviews": 3
+    }
+   ]
+  },
+  "foreverhumans.com": {
+   "status": "pending",
+   "pageviews7d": 0,
+   "visits7d": 0,
+   "by_day": [],
+   "top_pages": []
+  },
+  "storefabapp.com": {
+   "status": "pending",
+   "pageviews7d": 0,
+   "visits7d": 0,
+   "by_day": [],
+   "top_pages": []
+  }
+ }
+}
