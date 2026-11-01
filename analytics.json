@@ -1,11 +1,11 @@
 {
- "generated": "2026-10-31T11:14:47",
+ "generated": "2026-11-01T11:53:48",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 42,
-   "visits7d": 20,
+   "pageviews7d": 50,
+   "visits7d": 28,
    "by_day": [
     {
      "date": "2026-10-29",
@@ -19,25 +19,30 @@
     },
     {
      "date": "2026-10-31",
-     "pageviews": 3,
-     "visits": 3
+     "pageviews": 9,
+     "visits": 9
+    },
+    {
+     "date": "2026-11-01",
+     "pageviews": 2,
+     "visits": 2
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 12
+     "pageviews": 15
     },
     {
      "path": "/links/",
      "pageviews": 6
     },
     {
-     "path": "/quotes/",
+     "path": "/dad-hustle/",
      "pageviews": 4
     },
     {
-     "path": "/dad-hustle/",
+     "path": "/quotes/",
      "pageviews": 4
     },
     {
@@ -54,11 +59,31 @@
    "top_pages": []
   },
   "storefabapp.com": {
-   "status": "pending",
-   "pageviews7d": 0,
-   "visits7d": 0,
-   "by_day": [],
-   "top_pages": []
+   "status": "live",
+   "pageviews7d": 38,
+   "visits7d": 24,
+   "by_day": [
+    {
+     "date": "2026-10-31",
+     "pageviews": 1,
+     "visits": 1
+    },
+    {
+     "date": "2026-11-01",
+     "pageviews": 37,
+     "visits": 23
+    }
+   ],
+   "top_pages": [
+    {
+     "path": "/app/",
+     "pageviews": 31
+    },
+    {
+     "path": "/",
+     "pageviews": 7
+    }
+   ]
   }
  }
 }
