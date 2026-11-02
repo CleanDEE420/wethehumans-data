@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T17:24:26",
+ "generated": "2026-11-02T17:36:22",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
@@ -81,8 +81,8 @@
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 99,
-   "visits7d": 56,
+   "pageviews7d": 100,
+   "visits7d": 57,
    "by_day": [
     {
      "date": "2026-10-31",
@@ -96,8 +96,8 @@
     },
     {
      "date": "2026-11-02",
-     "pageviews": 50,
-     "visits": 25
+     "pageviews": 51,
+     "visits": 26
     }
    ],
    "top_pages": [
@@ -107,7 +107,7 @@
     },
     {
      "path": "/",
-     "pageviews": 35
+     "pageviews": 36
     },
     {
      "path": "/privacy/",
