@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-02T12:08:09",
+ "generated": "2026-11-02T17:24:26",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 97,
-   "visits7d": 51,
+   "pageviews7d": 103,
+   "visits7d": 56,
    "by_day": [
     {
      "date": "2026-10-29",
@@ -29,55 +29,60 @@
     },
     {
      "date": "2026-11-02",
-     "pageviews": 19,
-     "visits": 15
+     "pageviews": 25,
+     "visits": 20
     }
    ],
    "top_pages": [
     {
-     "path": "/artists/",
+     "path": "/",
      "pageviews": 22
     },
     {
-     "path": "/",
-     "pageviews": 19
+     "path": "/artists/",
+     "pageviews": 22
     },
     {
      "path": "/links/",
      "pageviews": 7
     },
     {
-     "path": "/seller-school/",
-     "pageviews": 5
+     "path": "/dad-hustle/",
+     "pageviews": 6
     },
     {
-     "path": "/dad-hustle/",
+     "path": "/seller-school/",
      "pageviews": 5
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 4,
-   "visits7d": 4,
+   "pageviews7d": 5,
+   "visits7d": 5,
    "by_day": [
     {
      "date": "2026-11-01",
      "pageviews": 4,
      "visits": 4
+    },
+    {
+     "date": "2026-11-02",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 4
+     "pageviews": 5
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 86,
-   "visits7d": 46,
+   "pageviews7d": 99,
+   "visits7d": 56,
    "by_day": [
     {
      "date": "2026-10-31",
@@ -91,18 +96,18 @@
     },
     {
      "date": "2026-11-02",
-     "pageviews": 37,
-     "visits": 15
+     "pageviews": 50,
+     "visits": 25
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 54
+     "pageviews": 60
     },
     {
      "path": "/",
-     "pageviews": 28
+     "pageviews": 35
     },
     {
      "path": "/privacy/",
