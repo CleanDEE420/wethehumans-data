@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-01T11:53:48",
+ "generated": "2026-11-02T12:08:09",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 50,
-   "visits7d": 28,
+   "pageviews7d": 97,
+   "visits7d": 51,
    "by_day": [
     {
      "date": "2026-10-29",
@@ -24,44 +24,60 @@
     },
     {
      "date": "2026-11-01",
-     "pageviews": 2,
-     "visits": 2
+     "pageviews": 30,
+     "visits": 10
+    },
+    {
+     "date": "2026-11-02",
+     "pageviews": 19,
+     "visits": 15
+    }
+   ],
+   "top_pages": [
+    {
+     "path": "/artists/",
+     "pageviews": 22
+    },
+    {
+     "path": "/",
+     "pageviews": 19
+    },
+    {
+     "path": "/links/",
+     "pageviews": 7
+    },
+    {
+     "path": "/seller-school/",
+     "pageviews": 5
+    },
+    {
+     "path": "/dad-hustle/",
+     "pageviews": 5
+    }
+   ]
+  },
+  "foreverhumans.com": {
+   "status": "live",
+   "pageviews7d": 4,
+   "visits7d": 4,
+   "by_day": [
+    {
+     "date": "2026-11-01",
+     "pageviews": 4,
+     "visits": 4
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 15
-    },
-    {
-     "path": "/links/",
-     "pageviews": 6
-    },
-    {
-     "path": "/dad-hustle/",
      "pageviews": 4
-    },
-    {
-     "path": "/quotes/",
-     "pageviews": 4
-    },
-    {
-     "path": "/cards/",
-     "pageviews": 3
     }
    ]
   },
-  "foreverhumans.com": {
-   "status": "pending",
-   "pageviews7d": 0,
-   "visits7d": 0,
-   "by_day": [],
-   "top_pages": []
-  },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 38,
-   "visits7d": 24,
+   "pageviews7d": 86,
+   "visits7d": 46,
    "by_day": [
     {
      "date": "2026-10-31",
@@ -70,18 +86,31 @@
     },
     {
      "date": "2026-11-01",
+     "pageviews": 48,
+     "visits": 30
+    },
+    {
+     "date": "2026-11-02",
      "pageviews": 37,
-     "visits": 23
+     "visits": 15
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 31
+     "pageviews": 54
     },
     {
      "path": "/",
-     "pageviews": 7
+     "pageviews": 28
+    },
+    {
+     "path": "/privacy/",
+     "pageviews": 3
+    },
+    {
+     "path": "/grading/",
+     "pageviews": 1
     }
    ]
   }
