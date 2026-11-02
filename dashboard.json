@@ -1,57 +1,57 @@
 {
- "generated_at": "2026-11-01 05:54 CST",
- "generated_date": "2026-11-01",
+ "generated_at": "2026-11-02 06:08 CST",
+ "generated_date": "2026-11-02",
  "ebay": {
-  "listings_live": 8263,
-  "store_dex_species": 723,
-  "as_of": "2026-11-01"
+  "listings_live": 8284,
+  "store_dex_species": 729,
+  "as_of": "2026-11-02"
  },
  "site": {
-  "pages": 193,
+  "pages": 221,
   "quotes_cards": 14,
   "office_feed": 24,
   "projects_cards": 13,
   "fb_posts_shelf": 6,
-  "as_of": "2026-11-01"
+  "as_of": "2026-11-02"
  },
  "pinterest": {
   "followers": 4957,
-  "monthly_views": 27473,
-  "pins": 7232,
+  "monthly_views": 27456,
+  "pins": 7245,
   "boards": 18,
-  "as_of": "2026-11-01"
+  "as_of": "2026-11-02"
  },
  "youtube": {
   "subscribers": 148,
-  "views": 104702,
+  "views": 104705,
   "videos": 85,
-  "as_of": "2026-11-01"
+  "as_of": "2026-11-02"
  },
  "pinterest_pack": {
-  "engine_pins_total": 20,
-  "image_posted": 28,
+  "engine_pins_total": 25,
+  "image_posted": 29,
   "image_total": 30,
-  "updated": "2026-10-31",
-  "video_posted": 2,
+  "updated": "2026-11-01",
+  "video_posted": 3,
   "video_total": 8
  },
  "bluesky": {
   "handle": "wethehumans.cool",
-  "followers": 0,
+  "followers": 1,
   "following": 11,
-  "posts": 11,
-  "as_of": "2026-11-01"
+  "posts": 14,
+  "as_of": "2026-11-02"
  },
  "ebay_sales": {
   "last_7d": {
-   "orders": 17,
-   "gross": 106.8
+   "orders": 13,
+   "gross": 78.96
   },
   "last_30d": {
-   "orders": 41,
-   "gross": 382.2
+   "orders": 43,
+   "gross": 401.19
   },
-  "as_of": "2026-11-01"
+  "as_of": "2026-11-02"
  },
  "inspiration_lines": 2243,
  "manual": {
