@@ -1,0 +1,77 @@
+{
+ "shows": [
+  {
+   "date_label": "Sat · Nov 28",
+   "iso": "2026-11-28",
+   "title": "Sports Cards & Pokémon Show — Cape Girardeau",
+   "venue": "Osage Center · 1625 N Kingshighway St, Cape Girardeau, MO",
+   "time": "9 AM – 3 PM",
+   "desc": "The hometown show. Sports cards + Pokémon, right here in Cape.",
+   "cost": "Free entry",
+   "url": "https://tcgshowsnearme.com/events/pillar/usa/missouri"
+  },
+  {
+   "date_label": "Sun · Nov 1",
+   "iso": "2026-11-01",
+   "title": "St. Louis Sports Collectors Show",
+   "venue": "Orlando's Banquet Center · 4200 Hoffmeister Ave, St. Louis, MO",
+   "time": "9 AM – 3 PM",
+   "desc": "140+ dealer tables, autograph guests, vintage to modern — plus Pokémon and Magic.",
+   "cost": "$3 · 16 & under free",
+   "url": "https://www.shops1000.com/US/St.-Louis/168358497051/St.-Louis-Sports-Collectors"
+  },
+  {
+   "date_label": "Sat · Nov 7",
+   "iso": "2026-11-07",
+   "title": "Collinsville Card Show",
+   "venue": "Collinsville, IL (St. Louis Metro East)",
+   "time": "9 AM – 3 PM",
+   "desc": "The biggest monthly show in the metro — 100 tables of sports, Pokémon, One Piece, and Magic. Runs the first Saturday most months (next after this: Sat Dec 5).",
+   "cost": "Free entry",
+   "url": "https://thecollinsvillecardshow.com/"
+  },
+  {
+   "date_label": "Sat · Nov 14",
+   "iso": "2026-11-14",
+   "title": "TCG-Kon — St. Louis",
+   "venue": "Radisson Hotel Downtown · 900 Convention Plaza, St. Louis, MO",
+   "time": "10 AM – 5 PM",
+   "desc": "A full TCG convention — vendors, voice actors, local artists. All card games, all day.",
+   "cost": "Ticketed",
+   "url": "https://www.eventbrite.com/e/tcg-kon-mega-card-convention-stlouis-missouri-tickets-1988042050289"
+  },
+  {
+   "date_label": "Sat · Nov 28",
+   "iso": "2026-11-28",
+   "title": "573 Trading Card Show — Poplar Bluff",
+   "venue": "2027 N Westwood Blvd, Poplar Bluff, MO",
+   "time": "9 AM – 3 PM",
+   "desc": "Same day as the Cape show — pick one, or hit Cape in the morning and Bluff after. Your call.",
+   "cost": "Free entry",
+   "url": "https://tcgshowsnearme.com/events/pillar/usa/missouri"
+  },
+  {
+   "date_label": "Sun · Dec 6",
+   "iso": "2026-12-06",
+   "title": "STL Sports Collectors Show & Signing",
+   "venue": "Orlando Gardens — South County, St. Louis, MO",
+   "time": "See listing",
+   "desc": "The December edition of the St. Louis collectors show, with autograph signings.",
+   "cost": "See listing",
+   "url": "https://cardatlas.app/blog/shows/"
+  }
+ ],
+ "shops": [
+  {
+   "name": "STG Cards and Collectables",
+   "addr": "289 S Broadview St, Cape Girardeau",
+   "desc": "The local card shop: singles, sealed, and game nights."
+  },
+  {
+   "name": "Off Meta Gaming",
+   "addr": "2104 William St, Cape Girardeau",
+   "desc": "TCG play space and events."
+  }
+ ],
+ "note": "Dates and details pulled from the shows' own listings on Oct 26, 2026. Shows move and cancel — confirm with the organizer before you drive."
+}

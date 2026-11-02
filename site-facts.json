@@ -1,0 +1,9 @@
+{
+ "sale": {
+  "active": false,
+  "percent": 0,
+  "label": "No storewide sale is currently running.",
+  "wall_note": "Prices are live eBay list prices. No storewide sale is running right now, so the wall price is the price — $2.96 is the floor they live at. Buy more, save more — the discount grows with your order, up to 33% off when you buy 4 or more cards."
+ },
+ "updated": "2026-11-02"
+}

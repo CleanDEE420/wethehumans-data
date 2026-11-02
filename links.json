@@ -1,0 +1,130 @@
+{
+ "links": [
+  {
+   "label": "🛒 Shop the eBay Store",
+   "desc": "8,000+ live listings — the $2.96 wall and everything above it · buy 4+, save up to 33%",
+   "url": "https://www.ebay.com/str/cleandeespokeshack?mkcid=1&mkrid=711-53200-19255-0&siteid=0&campid=5339234212&toolid=80005&mkevt=1&customid=linkshub",
+   "external": true
+  },
+  {
+   "label": "🎥 Whatnot — Live Shows & Shop",
+   "desc": "CleanDEE's PokéShack: $1 starts, spins, and the item shop",
+   "url": "https://whatnot.com/s/ae8yBj0i",
+   "external": true
+  },
+  {
+   "label": "🤝 Sell on Whatnot — My Invite",
+   "desc": "Want to sell live too? Start with my seller invite link",
+   "url": "https://whatnot.com/invite/seller/cleandee",
+   "external": true
+  },
+  {
+   "label": "🎁 New to Whatnot? Get Credit — My Invite",
+   "desc": "Join with my buyer invite and get credit toward your first order",
+   "url": "https://whatnot.com/invite/cleandee",
+   "external": true
+  },
+  {
+   "label": "✨ Grails — Pull Games",
+   "desc": "Where the bangers come from — vault pulls ride to 25, then ship for $5 flat",
+   "url": "https://grails.gg/?referralCode=GGEZUTVBK",
+   "external": true
+  },
+  {
+   "label": "👑 Card Price King",
+   "desc": "The scan / list / inventory tool behind the store",
+   "url": "https://cardpriceking.com/invite/676B5852",
+   "external": true
+  },
+  {
+   "label": "📘 Facebook Page",
+   "desc": "Drops, show announcements, Featured Cards",
+   "url": "https://www.facebook.com/profile.php?id=61595470396443",
+   "external": true
+  },
+  {
+   "label": "👤 Facebook — CleanDEE aka GumbyFPV",
+   "desc": "The person behind the shop: daily tips & pulls",
+   "url": "https://www.facebook.com/CleanDEEakaGumbyFPV",
+   "external": true
+  },
+  {
+   "label": "📸 Instagram",
+   "desc": "@wethehumans.cool — daily cards, quote cards & reels",
+   "url": "https://www.instagram.com/wethehumans.cool/",
+   "external": true
+  },
+  {
+   "label": "▶️ YouTube",
+   "desc": "FPV flights and card content",
+   "url": "https://www.youtube.com/@cleandee",
+   "external": true
+  },
+  {
+   "label": "🎵 TikTok",
+   "desc": "@thewonderingponderer",
+   "url": "https://www.tiktok.com/@thewonderingponderer",
+   "external": true
+  },
+  {
+   "label": "𝕏 X / Twitter",
+   "desc": "@CleanDEE420",
+   "url": "https://x.com/CleanDEE420",
+   "external": true
+  },
+  {
+   "label": "🦋 Bluesky",
+   "desc": "@wethehumans.cool — the human stuff, no algorithm games",
+   "url": "https://bsky.app/profile/wethehumans.cool",
+   "external": true
+  },
+  {
+   "label": "📌 Pinterest",
+   "desc": "wethehumanscool",
+   "url": "https://www.pinterest.com/wethehumanscool/",
+   "external": true
+  },
+  {
+   "label": "💬 Discord — the cleandee server",
+   "desc": "Gaming, brand & community in one server — #drops channel for CleanCards",
+   "url": "https://discord.gg/ZxS2GpPkVu",
+   "external": true
+  },
+  {
+   "label": "✈️ Telegram — CleanDEE's CleanCards",
+   "desc": "Drop alerts on Telegram: @CleanDEEsCleanCards",
+   "url": "https://t.me/CleanDEEsCleanCards",
+   "external": true
+  },
+  {
+   "label": "🧱 The $2.96 Wall",
+   "desc": "Every floor-price card on one wall — shuffle it, spin it, dig it",
+   "url": "/the-wall/",
+   "external": false
+  },
+  {
+   "label": "🎯 Want-List Checker",
+   "desc": "Your missing Pokédex species checked against 695 in stock",
+   "url": "/want-checker/",
+   "external": false
+  },
+  {
+   "label": "⭐ Review Wall",
+   "desc": "151 eBay reviews at 100% positive — 4.9★ and 879 sold on Whatnot",
+   "url": "/reviews/",
+   "external": false
+  },
+  {
+   "label": "🎴 The Pokédex Chase",
+   "desc": "975 of 1,025 — scroll the binder, see the WANTED pockets",
+   "url": "/pokedex/",
+   "external": false
+  },
+  {
+   "label": "🃏 Browse the Cards",
+   "desc": "Search and browse every live listing with photos",
+   "url": "/cards/",
+   "external": false
+  }
+ ]
+}
