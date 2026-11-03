@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-02T17:36:22",
+ "generated": "2026-11-03T12:02:59",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 103,
-   "visits7d": 56,
+   "pageviews7d": 112,
+   "visits7d": 64,
    "by_day": [
     {
      "date": "2026-10-29",
@@ -29,14 +29,19 @@
     },
     {
      "date": "2026-11-02",
-     "pageviews": 25,
-     "visits": 20
+     "pageviews": 27,
+     "visits": 22
+    },
+    {
+     "date": "2026-11-03",
+     "pageviews": 7,
+     "visits": 6
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 22
+     "pageviews": 25
     },
     {
      "path": "/artists/",
@@ -58,8 +63,8 @@
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 5,
-   "visits7d": 5,
+   "pageviews7d": 8,
+   "visits7d": 7,
    "by_day": [
     {
      "date": "2026-11-01",
@@ -70,19 +75,24 @@
      "date": "2026-11-02",
      "pageviews": 1,
      "visits": 1
+    },
+    {
+     "date": "2026-11-03",
+     "pageviews": 3,
+     "visits": 2
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 5
+     "pageviews": 8
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 100,
-   "visits7d": 57,
+   "pageviews7d": 156,
+   "visits7d": 105,
    "by_day": [
     {
      "date": "2026-10-31",
@@ -96,18 +106,23 @@
     },
     {
      "date": "2026-11-02",
-     "pageviews": 51,
-     "visits": 26
+     "pageviews": 88,
+     "visits": 61
+    },
+    {
+     "date": "2026-11-03",
+     "pageviews": 19,
+     "visits": 13
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 60
+     "pageviews": 105
     },
     {
      "path": "/",
-     "pageviews": 36
+     "pageviews": 47
     },
     {
      "path": "/privacy/",
