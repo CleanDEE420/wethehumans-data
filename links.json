@@ -7,6 +7,12 @@
    "external": true
   },
   {
+   "label": "🧢 ForeverHumans — the merch shop",
+   "desc": "Statement tees for actual humans — $17.69, printed when you order",
+   "url": "https://foreverhumans.com/",
+   "external": true
+  },
+  {
    "label": "🎥 Whatnot — Live Shows & Shop",
    "desc": "CleanDEE's PokéShack: $1 starts, spins, and the item shop",
    "url": "https://whatnot.com/s/ae8yBj0i",
@@ -64,6 +70,12 @@
    "label": "▶️ YouTube",
    "desc": "FPV flights and card content",
    "url": "https://www.youtube.com/@cleandee",
+   "external": true
+  },
+  {
+   "label": "📡 IRL Streaming Help — Banjoe",
+   "desc": "The guy who helped me get IRL streaming and drones figured out — free, cheap, honest guides: Belabox Cloud, Moblin, IRL Pro and mobile setups",
+   "url": "https://banjoe.org",
    "external": true
   },
   {
