@@ -8,10 +8,10 @@
     },
     {
       "icon": "🧰",
-      "text": "Coming soon: overlays and chat games for streamers, priced like a friend. This stop opens right after StoreFab is dialed in — the tools are already on the bench.",
+      "text": "Overlays, alerts, link pages, and chat fun for streamers, priced like a friend — in the workshop, being built right now.",
       "title": "The Toolbox — streamer tools",
       "url": "https://foreverhumans.com/#toolbox",
-      "comingSoon": true
+      "comingSoon": false
     },
     {
       "icon": "🎲",
