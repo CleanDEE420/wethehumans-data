@@ -1,1 +1,119 @@
-{"channels":[{"icon":"🛠️","text":"The seller tool built out of this circle's own store — it scans a shop and fixes what's broken, one verified fix at a time.","title":"StoreFab — fix your store","url":"https://storefabapp.com"},{"icon":"🎲","text":"Live card shows: $1 starts, surprise sets, and a back wall of bigger hits. Come hang out in chat — the circle, live.","title":"Whatnot — live shows","url":"https://whatnot.com/s/ae8yBj0i"},{"icon":"🏆","text":"Card pulls done right — hundreds of bangers in, zero issues. Pulls ride in the vault till it's full, then ship flat.","title":"Grails — card pulls","url":"https://grails.gg/?referralCode=GGEZUTVBK"},{"icon":"👑","text":"The scan-and-list tool I run the card shop with. My invite link, if you want to run yours the same way.","title":"Card Price King","url":"https://cardpriceking.com/invite/676B5852"},{"icon":"🔗","text":"Every shop, stream, and social in the circle — one page, no hunting.","title":"Every link in one place","url":"https://www.wethehumans.cool/links/"}],"disclosure":"The honest bit: some links on this page are referral or invite links. When you use one, I may earn a referral bonus or credit — it never costs you extra, and a couple of them hand you credit too. It's one of the ways a one-human brand keeps the lights on. No pressure, no tricks — the links are the same either way.","doors":[{"icon":"🃏","kicker":"Door One · The Card Shop","text":"Thousands of singles on the shelves, refreshed every morning. Browse the shop right here — each card takes you to its listing when you're ready.","title":"CleanDEE's CleanCards","url":"https://www.wethehumans.cool/cards/"},{"icon":"🧢","kicker":"Door Two · The Merch Shop","text":"You're standing in this one: statement tees with something to say — $17.69 each, printed when you order.","title":"ForeverHumans","url":"https://foreverhumans.com/"},{"icon":"🌐","kicker":"Door Three · The Hub","text":"The mothership: the quote gallery, the work bench, Seller School — where this whole family lives.","title":"We The Humans","url":"https://www.wethehumans.cool"}],"family":[{"icon":"🌐","text":"Where it all started: the card-shop shelves, the quote gallery, the Dad Hustle work bench, and every link in one place. If ForeverHumans is the loud little brother, this is the house it grew up in.","title":"We The Humans — the mothership","url":"https://www.wethehumans.cool"},{"icon":"🃏","text":"Thousands of Pokémon singles, live shows on Whatnot, and shipping so careful it has its own fan mail. The cards paid for the lessons this brand is built on.","title":"CleanDEE's CleanCards — the card shop","url":"https://www.wethehumans.cool/cards/"},{"icon":"🧢","text":"The merch and the toolbox: shirts with something to say, and streamer tools priced like a friend. The family's newest door — opened today.","title":"ForeverHumans — you're standing in it","url":null}],"socials":[{"label":"▶ YouTube","url":"https://www.youtube.com/@cleandee"},{"label":"🎵 TikTok","url":"https://www.tiktok.com/@thewonderingponderer"},{"label":"📸 Instagram","url":"https://www.instagram.com/wethehumans.cool"},{"label":"👍 Facebook Page","url":"https://www.facebook.com/61595470396443"},{"label":"🦋 Bluesky","url":"https://bsky.app/profile/wethehumans.cool"},{"label":"📌 Pinterest","url":"https://www.pinterest.com/wethehumanscool/"},{"label":"𝕏 @CleanDEE420","url":"https://x.com/CleanDEE420"},{"label":"🟢 Kick","url":"https://kick.com/cleandee1"}]}
+{
+  "channels": [
+    {
+      "icon": "🛠️",
+      "text": "The seller tool built out of this circle's own store — it scans a shop and fixes what's broken, one verified fix at a time.",
+      "title": "StoreFab — fix your store",
+      "url": "https://storefabapp.com"
+    },
+    {
+      "icon": "🧰",
+      "text": "Coming soon: overlays and chat games for streamers, priced like a friend. This stop opens right after StoreFab is dialed in — the tools are already on the bench.",
+      "title": "The Toolbox — streamer tools",
+      "url": "https://foreverhumans.com/#toolbox",
+      "comingSoon": true
+    },
+    {
+      "icon": "🎲",
+      "text": "Live card shows: $1 starts, surprise sets, and a back wall of bigger hits. Come hang out in chat — the circle, live.",
+      "title": "Whatnot — live shows",
+      "url": "https://whatnot.com/s/ae8yBj0i"
+    },
+    {
+      "icon": "🏆",
+      "text": "Card pulls done right — hundreds of bangers in, zero issues. Pulls ride in the vault till it's full, then ship flat.",
+      "title": "Grails — card pulls",
+      "url": "https://grails.gg/?referralCode=GGEZUTVBK"
+    },
+    {
+      "icon": "👑",
+      "text": "The scan-and-list tool I run the card shop with. My invite link, if you want to run yours the same way.",
+      "title": "Card Price King",
+      "url": "https://cardpriceking.com/invite/676B5852"
+    },
+    {
+      "icon": "🔗",
+      "text": "Every shop, stream, and social in the circle — one page, no hunting.",
+      "title": "Every link in one place",
+      "url": "https://www.wethehumans.cool/links/"
+    }
+  ],
+  "disclosure": "The honest bit: some links on this page are referral or invite links. When you use one, I may earn a referral bonus or credit — it never costs you extra, and a couple of them hand you credit too. It's one of the ways a one-human brand keeps the lights on. No pressure, no tricks — the links are the same either way.",
+  "doors": [
+    {
+      "icon": "🃏",
+      "kicker": "Door One · The Card Shop",
+      "text": "Thousands of singles on the shelves, refreshed every morning. Browse the shop right here — each card takes you to its listing when you're ready.",
+      "title": "CleanDEE's CleanCards",
+      "url": "https://www.wethehumans.cool/cards/"
+    },
+    {
+      "icon": "🧢",
+      "kicker": "Door Two · The Merch Shop",
+      "text": "You're standing in this one: statement tees with something to say — $17.69 each, printed when you order.",
+      "title": "ForeverHumans",
+      "url": "https://foreverhumans.com/"
+    },
+    {
+      "icon": "🌐",
+      "kicker": "Door Three · The Hub",
+      "text": "The mothership: the quote gallery, the work bench, Seller School — where this whole family lives.",
+      "title": "We The Humans",
+      "url": "https://www.wethehumans.cool"
+    }
+  ],
+  "family": [
+    {
+      "icon": "🌐",
+      "text": "Where it all started: the card-shop shelves, the quote gallery, the Dad Hustle work bench, and every link in one place. If ForeverHumans is the loud little brother, this is the house it grew up in.",
+      "title": "We The Humans — the mothership",
+      "url": "https://www.wethehumans.cool"
+    },
+    {
+      "icon": "🃏",
+      "text": "Thousands of Pokémon singles, live shows on Whatnot, and shipping so careful it has its own fan mail. The cards paid for the lessons this brand is built on.",
+      "title": "CleanDEE's CleanCards — the card shop",
+      "url": "https://www.wethehumans.cool/cards/"
+    },
+    {
+      "icon": "🧢",
+      "text": "The merch and the toolbox: shirts with something to say, and streamer tools priced like a friend. The family's newest door — opened today.",
+      "title": "ForeverHumans — you're standing in it",
+      "url": null
+    }
+  ],
+  "socials": [
+    {
+      "label": "▶ YouTube",
+      "url": "https://www.youtube.com/@cleandee"
+    },
+    {
+      "label": "🎵 TikTok",
+      "url": "https://www.tiktok.com/@thewonderingponderer"
+    },
+    {
+      "label": "📸 Instagram",
+      "url": "https://www.instagram.com/wethehumans.cool"
+    },
+    {
+      "label": "👍 Facebook Page",
+      "url": "https://www.facebook.com/61595470396443"
+    },
+    {
+      "label": "🦋 Bluesky",
+      "url": "https://bsky.app/profile/wethehumans.cool"
+    },
+    {
+      "label": "📌 Pinterest",
+      "url": "https://www.pinterest.com/wethehumanscool/"
+    },
+    {
+      "label": "𝕏 @CleanDEE420",
+      "url": "https://x.com/CleanDEE420"
+    },
+    {
+      "label": "🟢 Kick",
+      "url": "https://kick.com/cleandee1"
+    }
+  ]
+}
