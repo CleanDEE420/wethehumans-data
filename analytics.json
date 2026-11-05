@@ -1,75 +1,34 @@
 {
- "generated": "2026-11-04T11:59:25",
+ "generated": "2026-11-05T12:05:40",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 118,
-   "visits7d": 69,
+   "pageviews7d": 50,
+   "visits7d": 30,
    "by_day": [
     {
-     "date": "2026-10-29",
-     "pageviews": 33,
-     "visits": 11
-    },
-    {
-     "date": "2026-10-30",
-     "pageviews": 6,
-     "visits": 6
-    },
-    {
-     "date": "2026-10-31",
-     "pageviews": 9,
-     "visits": 9
-    },
-    {
      "date": "2026-11-01",
-     "pageviews": 30,
-     "visits": 10
+     "pageviews": 20,
+     "visits": 0
     },
     {
      "date": "2026-11-02",
-     "pageviews": 27,
-     "visits": 22
+     "pageviews": 20,
+     "visits": 20
     },
     {
      "date": "2026-11-03",
      "pageviews": 10,
-     "visits": 9
-    },
-    {
-     "date": "2026-11-04",
-     "pageviews": 3,
-     "visits": 2
+     "visits": 10
     }
    ],
-   "top_pages": [
-    {
-     "path": "/",
-     "pageviews": 27
-    },
-    {
-     "path": "/artists/",
-     "pageviews": 22
-    },
-    {
-     "path": "/links/",
-     "pageviews": 7
-    },
-    {
-     "path": "/dad-hustle/",
-     "pageviews": 7
-    },
-    {
-     "path": "/cards/",
-     "pageviews": 5
-    }
-   ]
+   "top_pages": []
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 13,
-   "visits7d": 10,
+   "pageviews7d": 18,
+   "visits7d": 15,
    "by_day": [
     {
      "date": "2026-11-01",
@@ -88,21 +47,21 @@
     },
     {
      "date": "2026-11-04",
-     "pageviews": 5,
-     "visits": 3
+     "pageviews": 10,
+     "visits": 8
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 13
+     "pageviews": 18
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 183,
-   "visits7d": 131,
+   "pageviews7d": 189,
+   "visits7d": 137,
    "by_day": [
     {
      "date": "2026-10-31",
@@ -126,18 +85,23 @@
     },
     {
      "date": "2026-11-04",
-     "pageviews": 5,
-     "visits": 5
+     "pageviews": 10,
+     "visits": 10
+    },
+    {
+     "date": "2026-11-05",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 126
+     "pageviews": 129
     },
     {
      "path": "/",
-     "pageviews": 53
+     "pageviews": 56
     },
     {
      "path": "/privacy/",
