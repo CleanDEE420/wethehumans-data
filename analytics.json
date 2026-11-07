@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-06T12:05:07",
+ "generated": "2026-11-07T12:34:36",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 126,
-   "visits7d": 81,
+   "pageviews7d": 125,
+   "visits7d": 77,
    "by_day": [
-    {
-     "date": "2026-10-31",
-     "pageviews": 9,
-     "visits": 9
-    },
     {
      "date": "2026-11-01",
      "pageviews": 30,
@@ -39,14 +34,14 @@
     },
     {
      "date": "2026-11-06",
-     "pageviews": 10,
-     "visits": 9
+     "pageviews": 18,
+     "visits": 14
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 27
+     "pageviews": 25
     },
     {
      "path": "/artists/",
@@ -58,18 +53,18 @@
     },
     {
      "path": "/the-wall/",
-     "pageviews": 5
+     "pageviews": 6
     },
     {
-     "path": "/how-tos/",
-     "pageviews": 4
+     "path": "/cards/",
+     "pageviews": 5
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 20,
-   "visits7d": 17,
+   "pageviews7d": 27,
+   "visits7d": 22,
    "by_day": [
     {
      "date": "2026-11-01",
@@ -98,27 +93,22 @@
     },
     {
      "date": "2026-11-06",
-     "pageviews": 1,
-     "visits": 1
+     "pageviews": 8,
+     "visits": 6
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 20
+     "pageviews": 27
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 218,
-   "visits7d": 163,
+   "pageviews7d": 223,
+   "visits7d": 166,
    "by_day": [
-    {
-     "date": "2026-10-31",
-     "pageviews": 1,
-     "visits": 1
-    },
     {
      "date": "2026-11-01",
      "pageviews": 48,
@@ -146,8 +136,13 @@
     },
     {
      "date": "2026-11-06",
-     "pageviews": 10,
-     "visits": 7
+     "pageviews": 14,
+     "visits": 9
+    },
+    {
+     "date": "2026-11-07",
+     "pageviews": 2,
+     "visits": 2
     }
    ],
    "top_pages": [
@@ -157,7 +152,7 @@
     },
     {
      "path": "/",
-     "pageviews": 61
+     "pageviews": 66
     },
     {
      "path": "/privacy/",
