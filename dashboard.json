@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-07 06:34 CST",
- "generated_date": "2026-11-07",
+ "generated_at": "2026-11-08 05:59 CST",
+ "generated_date": "2026-11-08",
  "ebay": {
-  "listings_live": 8299,
-  "store_dex_species": 732,
-  "as_of": "2026-11-07"
+  "listings_live": 8294,
+  "store_dex_species": 728,
+  "as_of": "2026-11-08"
  },
  "site": {
   "pages": 230,
@@ -12,53 +12,54 @@
   "office_feed": 24,
   "projects_cards": 15,
   "fb_posts_shelf": 6,
-  "as_of": "2026-11-07"
+  "as_of": "2026-11-08"
  },
  "pinterest": {
   "followers": 4957,
-  "monthly_views": 27504,
-  "pins": 7325,
+  "monthly_views": 27574,
+  "pins": 7347,
   "boards": 20,
-  "as_of": "2026-11-07"
+  "as_of": "2026-11-08"
  },
  "youtube": {
   "subscribers": 148,
-  "views": 104714,
+  "views": 104715,
   "videos": 85,
-  "as_of": "2026-11-07"
+  "as_of": "2026-11-08"
  },
  "pinterest_pack": {
-  "engine_pins_total": 68,
+  "engine_pins_total": 84,
   "image_posted": 30,
   "image_total": 30,
-  "updated": "2026-11-06",
-  "video_posted": 5,
+  "updated": "2026-11-07",
+  "video_posted": 6,
   "video_total": 8
  },
  "bluesky": {
   "handle": "wethehumans.cool",
-  "followers": 3,
+  "followers": 4,
   "following": 12,
-  "posts": 35,
-  "as_of": "2026-11-05"
+  "posts": 66,
+  "as_of": "2026-11-08"
  },
  "ebay_sales": {
   "last_7d": {
-   "orders": 6,
-   "gross": 45.78
+   "orders": 4,
+   "gross": 30.25
   },
   "last_30d": {
    "orders": 45,
    "gross": 412.45
   },
-  "as_of": "2026-11-07"
+  "as_of": "2026-11-08"
  },
  "inspiration_lines": 2243,
  "manual": {
   "credit": {
    "as_of": "2026-10-04",
    "current": 621,
-   "target": 640
+   "target": 640,
+   "note": "CK Nov 2: TU 645 · EQ 632 — VantageScores, not mortgage FICO; the 640 gate is a lender's middle score"
   },
   "decisions": [
    {
@@ -86,15 +87,15 @@
     "unlocks": "Rollout call: Featured Card → Pinterest pins → shelf links → /links/ button"
    }
   ],
-  "decisions_open": 4,
+  "decisions_open": 1,
   "foreverhumans": {
-   "as_of": "2026-10-29",
+   "as_of": "2026-11-07",
    "domain_status": "foreverhumans.com live on Netlify (HTTPS verified Oct 29)",
    "held": "FH-008",
    "payout_status": "banking set up Oct 29",
-   "price": 25,
-   "products_live": 9,
-   "sample_status": "FH-001 'It's Only Metal' ordered Oct 29 (awaiting delivery + payout landing)",
+   "price": 17.69,
+   "products_live": 24,
+   "sample_status": "FH-001 'It's Only Metal' arrived Nov 3, print check passed ('looks good')",
    "shop_url": "https://foreverhumans-shop.fourthwall.com/",
    "site_status": "site-v2 LIVE at foreverhumans.com (deployed + domain verified Oct 29)"
   },
@@ -107,13 +108,13 @@
    "jobs_label": "17 jobs · 1 watcher hook",
    "runs_per_day": "~12"
   },
-  "manual_as_of": "2026-10-29",
+  "manual_as_of": "2026-11-07",
   "personal_dex": {
-   "as_of": "2026-10-24",
-   "have": 975,
+   "as_of": "2026-11-07",
+   "have": 980,
    "total": 1025
   },
-  "projects_active": 16,
+  "projects_active": 15,
   "tax": {
    "as_of": "2026-10-20",
    "documented_costs": 5035.31,
@@ -121,17 +122,15 @@
   }
  },
  "foreverhumans": {
-  "as_of": "2026-10-29",
+  "as_of": "2026-11-07",
   "domain_status": "foreverhumans.com live on Netlify (HTTPS verified Oct 29)",
   "held": "FH-008",
   "payout_status": "banking set up Oct 29",
-  "price": 25,
-  "products_live": 9,
-  "sample_status": "FH-001 'It's Only Metal' ordered Oct 29 (awaiting delivery + payout landing)",
+  "price": 17.69,
+  "products_live": 24,
+  "sample_status": "FH-001 'It's Only Metal' arrived Nov 3, print check passed ('looks good')",
   "shop_url": "https://foreverhumans-shop.fourthwall.com/",
   "site_status": "site-v2 LIVE at foreverhumans.com (deployed + domain verified Oct 29)"
  },
- "warnings": [
-  "bluesky read failed — carried last known"
- ]
+ "warnings": []
 }
