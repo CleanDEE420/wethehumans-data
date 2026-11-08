@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-07T12:34:36",
+ "generated": "2026-11-08T11:59:02",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 125,
-   "visits7d": 77,
+   "pageviews7d": 111,
+   "visits7d": 76,
    "by_day": [
-    {
-     "date": "2026-11-01",
-     "pageviews": 30,
-     "visits": 10
-    },
     {
      "date": "2026-11-02",
      "pageviews": 27,
@@ -36,24 +31,34 @@
      "date": "2026-11-06",
      "pageviews": 18,
      "visits": 14
+    },
+    {
+     "date": "2026-11-07",
+     "pageviews": 13,
+     "visits": 6
+    },
+    {
+     "date": "2026-11-08",
+     "pageviews": 3,
+     "visits": 3
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 25
+     "pageviews": 22
     },
     {
      "path": "/artists/",
-     "pageviews": 21
+     "pageviews": 14
     },
     {
-     "path": "/seller-school/",
-     "pageviews": 9
+     "path": "/pokedex/",
+     "pageviews": 10
     },
     {
      "path": "/the-wall/",
-     "pageviews": 6
+     "pageviews": 7
     },
     {
      "path": "/cards/",
@@ -63,14 +68,9 @@
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 27,
+   "pageviews7d": 28,
    "visits7d": 22,
    "by_day": [
-    {
-     "date": "2026-11-01",
-     "pageviews": 4,
-     "visits": 4
-    },
     {
      "date": "2026-11-02",
      "pageviews": 1,
@@ -95,25 +95,30 @@
      "date": "2026-11-06",
      "pageviews": 8,
      "visits": 6
+    },
+    {
+     "date": "2026-11-07",
+     "pageviews": 4,
+     "visits": 3
+    },
+    {
+     "date": "2026-11-08",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 27
+     "pageviews": 28
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 223,
-   "visits7d": 166,
+   "pageviews7d": 185,
+   "visits7d": 146,
    "by_day": [
-    {
-     "date": "2026-11-01",
-     "pageviews": 48,
-     "visits": 30
-    },
     {
      "date": "2026-11-02",
      "pageviews": 88,
@@ -141,6 +146,11 @@
     },
     {
      "date": "2026-11-07",
+     "pageviews": 10,
+     "visits": 10
+    },
+    {
+     "date": "2026-11-08",
      "pageviews": 2,
      "visits": 2
     }
@@ -148,11 +158,11 @@
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 151
+     "pageviews": 123
     },
     {
      "path": "/",
-     "pageviews": 66
+     "pageviews": 56
     },
     {
      "path": "/privacy/",
