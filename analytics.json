@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-08T22:55:07",
+ "generated": "2026-11-09T12:02:00",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 119,
-   "visits7d": 84,
+   "pageviews7d": 98,
+   "visits7d": 68,
    "by_day": [
-    {
-     "date": "2026-11-02",
-     "pageviews": 27,
-     "visits": 22
-    },
     {
      "date": "2026-11-03",
      "pageviews": 10,
@@ -41,16 +36,17 @@
      "date": "2026-11-08",
      "pageviews": 11,
      "visits": 11
+    },
+    {
+     "date": "2026-11-09",
+     "pageviews": 6,
+     "visits": 6
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 28
-    },
-    {
-     "path": "/artists/",
-     "pageviews": 14
+     "pageviews": 24
     },
     {
      "path": "/pokedex/",
@@ -63,67 +59,51 @@
     {
      "path": "/cards/",
      "pageviews": 5
+    },
+    {
+     "path": "/seller-school/",
+     "pageviews": 4
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 33,
-   "visits7d": 27,
+   "pageviews7d": 50,
+   "visits7d": 40,
    "by_day": [
     {
-     "date": "2026-11-02",
-     "pageviews": 1,
-     "visits": 1
-    },
-    {
-     "date": "2026-11-03",
-     "pageviews": 3,
-     "visits": 2
-    },
-    {
      "date": "2026-11-04",
-     "pageviews": 10,
-     "visits": 8
-    },
-    {
-     "date": "2026-11-05",
-     "pageviews": 1,
-     "visits": 1
+     "pageviews": 20,
+     "visits": 20
     },
     {
      "date": "2026-11-06",
-     "pageviews": 8,
-     "visits": 6
+     "pageviews": 10,
+     "visits": 10
     },
     {
      "date": "2026-11-07",
-     "pageviews": 4,
-     "visits": 3
+     "pageviews": 10,
+     "visits": 0
     },
     {
      "date": "2026-11-08",
-     "pageviews": 6,
-     "visits": 6
+     "pageviews": 10,
+     "visits": 10
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 33
+     "pageviews": 32
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 194,
-   "visits7d": 154,
+   "pageviews7d": 108,
+   "visits7d": 95,
    "by_day": [
-    {
-     "date": "2026-11-02",
-     "pageviews": 88,
-     "visits": 61
-    },
     {
      "date": "2026-11-03",
      "pageviews": 41,
@@ -153,24 +133,25 @@
      "date": "2026-11-08",
      "pageviews": 11,
      "visits": 10
+    },
+    {
+     "date": "2026-11-09",
+     "pageviews": 2,
+     "visits": 2
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 126
+     "pageviews": 67
     },
     {
      "path": "/",
-     "pageviews": 62
+     "pageviews": 39
     },
     {
      "path": "/privacy/",
-     "pageviews": 5
-    },
-    {
-     "path": "/grading/",
-     "pageviews": 1
+     "pageviews": 2
     }
    ]
   }
