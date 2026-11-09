@@ -1,12 +1,17 @@
 {
- "generated": "2026-11-09T04:10:35",
+ "generated": "2026-11-08T22:55:07",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 94,
-   "visits7d": 64,
+   "pageviews7d": 119,
+   "visits7d": 84,
    "by_day": [
+    {
+     "date": "2026-11-02",
+     "pageviews": 27,
+     "visits": 22
+    },
     {
      "date": "2026-11-03",
      "pageviews": 10,
@@ -36,17 +41,16 @@
      "date": "2026-11-08",
      "pageviews": 11,
      "visits": 11
-    },
-    {
-     "date": "2026-11-09",
-     "pageviews": 2,
-     "visits": 2
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 22
+     "pageviews": 28
+    },
+    {
+     "path": "/artists/",
+     "pageviews": 14
     },
     {
      "path": "/pokedex/",
@@ -59,18 +63,19 @@
     {
      "path": "/cards/",
      "pageviews": 5
-    },
-    {
-     "path": "/seller-school/",
-     "pageviews": 4
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 32,
-   "visits7d": 26,
+   "pageviews7d": 33,
+   "visits7d": 27,
    "by_day": [
+    {
+     "date": "2026-11-02",
+     "pageviews": 1,
+     "visits": 1
+    },
     {
      "date": "2026-11-03",
      "pageviews": 3,
@@ -105,15 +110,20 @@
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 32
+     "pageviews": 33
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 107,
-   "visits7d": 94,
+   "pageviews7d": 194,
+   "visits7d": 154,
    "by_day": [
+    {
+     "date": "2026-11-02",
+     "pageviews": 88,
+     "visits": 61
+    },
     {
      "date": "2026-11-03",
      "pageviews": 41,
@@ -143,25 +153,24 @@
      "date": "2026-11-08",
      "pageviews": 11,
      "visits": 10
-    },
-    {
-     "date": "2026-11-09",
-     "pageviews": 1,
-     "visits": 1
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 67
+     "pageviews": 126
     },
     {
      "path": "/",
-     "pageviews": 38
+     "pageviews": 62
     },
     {
      "path": "/privacy/",
-     "pageviews": 2
+     "pageviews": 5
+    },
+    {
+     "path": "/grading/",
+     "pageviews": 1
     }
    ]
   }
