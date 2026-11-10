@@ -1,70 +1,13 @@
 {
- "generated": "2026-11-09T12:02:00",
+ "generated": "2026-11-10T12:01:16",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
-   "status": "live",
-   "pageviews7d": 98,
-   "visits7d": 68,
-   "by_day": [
-    {
-     "date": "2026-11-03",
-     "pageviews": 10,
-     "visits": 9
-    },
-    {
-     "date": "2026-11-04",
-     "pageviews": 8,
-     "visits": 7
-    },
-    {
-     "date": "2026-11-05",
-     "pageviews": 32,
-     "visits": 15
-    },
-    {
-     "date": "2026-11-06",
-     "pageviews": 18,
-     "visits": 14
-    },
-    {
-     "date": "2026-11-07",
-     "pageviews": 13,
-     "visits": 6
-    },
-    {
-     "date": "2026-11-08",
-     "pageviews": 11,
-     "visits": 11
-    },
-    {
-     "date": "2026-11-09",
-     "pageviews": 6,
-     "visits": 6
-    }
-   ],
-   "top_pages": [
-    {
-     "path": "/",
-     "pageviews": 24
-    },
-    {
-     "path": "/pokedex/",
-     "pageviews": 10
-    },
-    {
-     "path": "/the-wall/",
-     "pageviews": 8
-    },
-    {
-     "path": "/cards/",
-     "pageviews": 5
-    },
-    {
-     "path": "/seller-school/",
-     "pageviews": 4
-    }
-   ]
+   "status": "pending",
+   "pageviews7d": 0,
+   "visits7d": 0,
+   "by_day": [],
+   "top_pages": []
   },
   "foreverhumans.com": {
    "status": "live",
@@ -95,59 +38,23 @@
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 32
+     "pageviews": 31
     }
    ]
   },
   "storefabapp.com": {
-   "status": "live",
-   "pageviews7d": 108,
-   "visits7d": 95,
-   "by_day": [
-    {
-     "date": "2026-11-03",
-     "pageviews": 41,
-     "visits": 34
-    },
-    {
-     "date": "2026-11-04",
-     "pageviews": 10,
-     "visits": 10
-    },
-    {
-     "date": "2026-11-05",
-     "pageviews": 20,
-     "visits": 20
-    },
-    {
-     "date": "2026-11-06",
-     "pageviews": 14,
-     "visits": 9
-    },
-    {
-     "date": "2026-11-07",
-     "pageviews": 10,
-     "visits": 10
-    },
-    {
-     "date": "2026-11-08",
-     "pageviews": 11,
-     "visits": 10
-    },
-    {
-     "date": "2026-11-09",
-     "pageviews": 2,
-     "visits": 2
-    }
-   ],
+   "status": "pending",
+   "pageviews7d": 0,
+   "visits7d": 0,
+   "by_day": [],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 67
+     "pageviews": 40
     },
     {
      "path": "/",
-     "pageviews": 39
+     "pageviews": 34
     },
     {
      "path": "/privacy/",
