@@ -1,44 +1,96 @@
 {
- "generated": "2026-11-10T12:01:16",
+ "generated": "2026-11-11T12:07:07",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
-   "status": "pending",
-   "pageviews7d": 0,
-   "visits7d": 0,
-   "by_day": [],
-   "top_pages": []
-  },
-  "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 50,
-   "visits7d": 40,
+   "pageviews7d": 100,
+   "visits7d": 60,
    "by_day": [
     {
-     "date": "2026-11-04",
-     "pageviews": 20,
-     "visits": 20
+     "date": "2026-11-05",
+     "pageviews": 30,
+     "visits": 0
     },
     {
      "date": "2026-11-06",
+     "pageviews": 30,
+     "visits": 30
+    },
+    {
+     "date": "2026-11-07",
+     "pageviews": 20,
+     "visits": 10
+    },
+    {
+     "date": "2026-11-08",
      "pageviews": 10,
      "visits": 10
     },
     {
-     "date": "2026-11-07",
-     "pageviews": 10,
-     "visits": 0
-    },
-    {
-     "date": "2026-11-08",
+     "date": "2026-11-11",
      "pageviews": 10,
      "visits": 10
     }
    ],
    "top_pages": [
     {
+     "path": "/artists/",
+     "pageviews": 10
+    },
+    {
+     "path": "/home/",
+     "pageviews": 10
+    },
+    {
+     "path": "/contact-us/",
+     "pageviews": 10
+    },
+    {
+     "path": "/store-pokedex/",
+     "pageviews": 10
+    },
+    {
+     "path": "/the-wall/",
+     "pageviews": 10
+    }
+   ]
+  },
+  "foreverhumans.com": {
+   "status": "live",
+   "pageviews7d": 21,
+   "visits7d": 18,
+   "by_day": [
+    {
+     "date": "2026-11-05",
+     "pageviews": 1,
+     "visits": 1
+    },
+    {
+     "date": "2026-11-06",
+     "pageviews": 8,
+     "visits": 6
+    },
+    {
+     "date": "2026-11-07",
+     "pageviews": 4,
+     "visits": 3
+    },
+    {
+     "date": "2026-11-08",
+     "pageviews": 6,
+     "visits": 6
+    },
+    {
+     "date": "2026-11-10",
+     "pageviews": 2,
+     "visits": 2
+    }
+   ],
+   "top_pages": [
+    {
      "path": "/",
-     "pageviews": 31
+     "pageviews": 21
     }
    ]
   },
@@ -49,16 +101,12 @@
    "by_day": [],
    "top_pages": [
     {
-     "path": "/app/",
-     "pageviews": 40
-    },
-    {
      "path": "/",
-     "pageviews": 34
+     "pageviews": 20
     },
     {
-     "path": "/privacy/",
-     "pageviews": 2
+     "path": "/app/",
+     "pageviews": 10
     }
    ]
   }
