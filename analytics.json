@@ -1,58 +1,68 @@
 {
- "generated": "2026-11-11T12:07:07",
+ "generated": "2026-11-12T12:05:31",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 100,
-   "visits7d": 60,
+   "pageviews7d": 86,
+   "visits7d": 70,
    "by_day": [
     {
-     "date": "2026-11-05",
-     "pageviews": 30,
-     "visits": 0
-    },
-    {
      "date": "2026-11-06",
-     "pageviews": 30,
-     "visits": 30
+     "pageviews": 18,
+     "visits": 14
     },
     {
      "date": "2026-11-07",
-     "pageviews": 20,
-     "visits": 10
+     "pageviews": 13,
+     "visits": 6
     },
     {
      "date": "2026-11-08",
-     "pageviews": 10,
-     "visits": 10
+     "pageviews": 11,
+     "visits": 11
+    },
+    {
+     "date": "2026-11-09",
+     "pageviews": 7,
+     "visits": 7
+    },
+    {
+     "date": "2026-11-10",
+     "pageviews": 11,
+     "visits": 11
     },
     {
      "date": "2026-11-11",
-     "pageviews": 10,
-     "visits": 10
+     "pageviews": 17,
+     "visits": 13
+    },
+    {
+     "date": "2026-11-12",
+     "pageviews": 9,
+     "visits": 8
     }
    ],
    "top_pages": [
     {
-     "path": "/artists/",
+     "path": "/",
+     "pageviews": 23
+    },
+    {
+     "path": "/pokedex/",
      "pageviews": 10
     },
     {
-     "path": "/home/",
-     "pageviews": 10
-    },
-    {
-     "path": "/contact-us/",
-     "pageviews": 10
-    },
-    {
-     "path": "/store-pokedex/",
-     "pageviews": 10
+     "path": "/links/",
+     "pageviews": 6
     },
     {
      "path": "/the-wall/",
-     "pageviews": 10
+     "pageviews": 5
+    },
+    {
+     "path": "/contact-us/",
+     "pageviews": 4
     }
    ]
   },
@@ -61,11 +71,6 @@
    "pageviews7d": 21,
    "visits7d": 18,
    "by_day": [
-    {
-     "date": "2026-11-05",
-     "pageviews": 1,
-     "visits": 1
-    },
     {
      "date": "2026-11-06",
      "pageviews": 8,
@@ -85,6 +90,11 @@
      "date": "2026-11-10",
      "pageviews": 2,
      "visits": 2
+    },
+    {
+     "date": "2026-11-12",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
@@ -95,18 +105,62 @@
    ]
   },
   "storefabapp.com": {
-   "status": "pending",
-   "pageviews7d": 0,
-   "visits7d": 0,
-   "by_day": [],
+   "status": "live",
+   "pageviews7d": 68,
+   "visits7d": 59,
+   "by_day": [
+    {
+     "date": "2026-11-06",
+     "pageviews": 14,
+     "visits": 9
+    },
+    {
+     "date": "2026-11-07",
+     "pageviews": 10,
+     "visits": 10
+    },
+    {
+     "date": "2026-11-08",
+     "pageviews": 11,
+     "visits": 10
+    },
+    {
+     "date": "2026-11-09",
+     "pageviews": 8,
+     "visits": 6
+    },
+    {
+     "date": "2026-11-10",
+     "pageviews": 6,
+     "visits": 6
+    },
+    {
+     "date": "2026-11-11",
+     "pageviews": 4,
+     "visits": 3
+    },
+    {
+     "date": "2026-11-12",
+     "pageviews": 15,
+     "visits": 15
+    }
+   ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 20
+     "pageviews": 40
     },
     {
      "path": "/app/",
-     "pageviews": 10
+     "pageviews": 24
+    },
+    {
+     "path": "/privacy/",
+     "pageviews": 3
+    },
+    {
+     "path": "/grading/",
+     "pageviews": 1
     }
    ]
   }
