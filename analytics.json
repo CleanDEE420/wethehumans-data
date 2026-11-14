@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-13T12:42:47",
+ "generated": "2026-11-14T12:09:39",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 75,
-   "visits7d": 63,
+   "pageviews7d": 74,
+   "visits7d": 67,
    "by_day": [
-    {
-     "date": "2026-11-07",
-     "pageviews": 13,
-     "visits": 6
-    },
     {
      "date": "2026-11-08",
      "pageviews": 11,
@@ -39,8 +34,13 @@
     },
     {
      "date": "2026-11-13",
-     "pageviews": 3,
-     "visits": 3
+     "pageviews": 10,
+     "visits": 8
+    },
+    {
+     "date": "2026-11-14",
+     "pageviews": 5,
+     "visits": 5
     }
    ],
    "top_pages": [
@@ -49,33 +49,28 @@
      "pageviews": 21
     },
     {
-     "path": "/pokedex/",
-     "pageviews": 9
-    },
-    {
      "path": "/links/",
      "pageviews": 8
     },
     {
      "path": "/contact-us/",
-     "pageviews": 5
+     "pageviews": 6
     },
     {
      "path": "/the-wall/",
-     "pageviews": 3
+     "pageviews": 2
+    },
+    {
+     "path": "/home-2/2016/1/7/sit-on-a-zubaton-ecdae/",
+     "pageviews": 2
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 13,
-   "visits7d": 12,
+   "pageviews7d": 10,
+   "visits7d": 10,
    "by_day": [
-    {
-     "date": "2026-11-07",
-     "pageviews": 4,
-     "visits": 3
-    },
     {
      "date": "2026-11-08",
      "pageviews": 6,
@@ -90,25 +85,25 @@
      "date": "2026-11-12",
      "pageviews": 1,
      "visits": 1
+    },
+    {
+     "date": "2026-11-14",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 13
+     "pageviews": 10
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 56,
-   "visits7d": 51,
+   "pageviews7d": 51,
+   "visits7d": 46,
    "by_day": [
-    {
-     "date": "2026-11-07",
-     "pageviews": 10,
-     "visits": 10
-    },
     {
      "date": "2026-11-08",
      "pageviews": 11,
@@ -133,16 +128,26 @@
      "date": "2026-11-12",
      "pageviews": 17,
      "visits": 16
+    },
+    {
+     "date": "2026-11-13",
+     "pageviews": 3,
+     "visits": 3
+    },
+    {
+     "date": "2026-11-14",
+     "pageviews": 2,
+     "visits": 2
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 33
+     "pageviews": 34
     },
     {
      "path": "/app/",
-     "pageviews": 21
+     "pageviews": 15
     },
     {
      "path": "/privacy/",
