@@ -1,46 +1,46 @@
 {
- "generated_at": "2026-11-13 06:10 CST",
- "generated_date": "2026-11-13",
+ "generated_at": "2026-11-14 06:10 CST",
+ "generated_date": "2026-11-14",
  "ebay": {
   "listings_live": 8338,
   "store_dex_species": 733,
-  "as_of": "2026-11-13"
+  "as_of": "2026-11-14"
  },
  "site": {
   "pages": 230,
-  "quotes_cards": 28,
+  "quotes_cards": 56,
   "office_feed": 24,
   "projects_cards": 15,
   "fb_posts_shelf": 6,
-  "as_of": "2026-11-13"
+  "as_of": "2026-11-14"
  },
  "pinterest": {
   "followers": 4957,
-  "monthly_views": 27706,
-  "pins": 7451,
+  "monthly_views": 27782,
+  "pins": 7471,
   "boards": 21,
-  "as_of": "2026-11-13"
+  "as_of": "2026-11-14"
  },
  "youtube": {
   "subscribers": 148,
-  "views": 104720,
+  "views": 104727,
   "videos": 85,
-  "as_of": "2026-11-13"
+  "as_of": "2026-11-14"
  },
  "pinterest_pack": {
-  "engine_pins_total": 164,
+  "engine_pins_total": 181,
   "image_posted": 30,
   "image_total": 30,
-  "updated": "2026-11-12",
-  "video_posted": 8,
+  "updated": "2026-11-13",
+  "video_posted": 9,
   "video_total": 12
  },
  "bluesky": {
   "handle": "wethehumans.cool",
   "followers": 6,
   "following": 12,
-  "posts": 110,
-  "as_of": "2026-11-12"
+  "posts": 129,
+  "as_of": "2026-11-14"
  },
  "ebay_sales": {
   "last_7d": {
@@ -51,7 +51,7 @@
    "orders": 44,
    "gross": 340.74
   },
-  "as_of": "2026-11-13"
+  "as_of": "2026-11-14"
  },
  "inspiration_lines": 2243,
  "manual": {
@@ -132,7 +132,5 @@
   "shop_url": "https://foreverhumans-shop.fourthwall.com/",
   "site_status": "site-v2 LIVE at foreverhumans.com (deployed + domain verified Oct 29)"
  },
- "warnings": [
-  "bluesky read failed — carried last known"
- ]
+ "warnings": []
 }
