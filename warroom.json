@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T16:07:49-06:00",
+ "generated_at": "2026-11-15T16:12:48-06:00",
  "season": {
   "fleet_pnl": -390.37,
   "closed_total": 60,
@@ -117,14 +117,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 118 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 119 fresh Solana launches.",
    "stats": {
     "Closed": 60,
     "Road to 100": "60/100",
     "Record": "17W\u201343L",
     "Win rate": "28%",
     "PnL": "$-390.37",
-    "Watching": 118,
+    "Watching": 119,
     "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 65,
@@ -143,7 +143,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
    "stats": {
-    "Reviews done": "46/50",
+    "Reviews done": "46/52",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -212,7 +212,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 2,741 rows logged \u00b7 1,578 verified \u00b7 975 held for the specifics sitting"
+   "value": "Running \u2014 2,745 rows logged \u00b7 1,578 verified \u00b7 975 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
