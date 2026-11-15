@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T11:03:49-06:00",
+ "generated_at": "2026-11-15T11:04:15-06:00",
  "season": {
   "fleet_pnl": -251.21,
   "closed_total": 40,
@@ -160,7 +160,8 @@
    "stats": {
     "Last run": "2026-11-14 22:37 CT (run 8, nightly stacker)",
     "Pieces last run": 18,
-    "Lanes": "ComfyUI local + Cloudflare + draft"
+    "Lanes": "ComfyUI local + Cloudflare + draft",
+    "Master index files": "12293"
    },
    "demerits": []
   },
@@ -343,11 +344,6 @@
    "link": null
   },
   {
-   "title": "Social + subscriptions side \u2014 LATER phase (design after beta proof)",
-   "detail": "NEW overnight \u2014 the monitor + auto-fix SUBSCRIPTION tier is ruled: StoreFab watches a store from the buyer's seat and re-applies verified fixes the seller's own software reverts; a re-fix of a verified fix is CHARGEABLE,\u2026",
-   "link": null
-  },
-  {
    "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
    "detail": "Item #6 (built-in profile set \u2014 picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT, deploy 6af72ce1). Assets staged (avatar face.jpg + header 1500x50\u2026",
    "link": null
@@ -360,6 +356,11 @@
   {
    "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
+  },
+  {
+   "title": "Make the drip wake itself \u2014 no Gumby in the loop",
+   "detail": "overnight 6 straight 504s, 00:13-05:13 CT - all ~31s Inactivity Timeout, consecutive_failures 6 (hook state + jsonl). The 22:13/23:13 wakes ran CLEAN, all 4 legs pace_reached. This is the KNOWN overnight window per the N\u2026",
    "link": null
   }
  ]
