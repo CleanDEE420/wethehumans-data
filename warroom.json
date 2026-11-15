@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T12:37:46-06:00",
+ "generated_at": "2026-11-15T12:43:16-06:00",
  "season": {
-  "fleet_pnl": -329.61,
-  "closed_total": 44,
+  "fleet_pnl": -326.69,
+  "closed_total": 45,
   "open_total": 1,
   "milestones": [
    {
@@ -50,8 +50,8 @@
    "id": "vector",
    "name": "VECTOR",
    "role": "Trend follower",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -68,8 +68,8 @@
    "id": "recoil",
    "name": "RECOIL",
    "role": "Dip buyer",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -84,8 +84,8 @@
    "id": "governor",
    "name": "GOVERNOR",
    "role": "Regime switcher",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -100,8 +100,8 @@
    "id": "amp",
    "name": "AMP",
    "role": "Chatter trader",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -119,18 +119,18 @@
    "alive": true,
    "doing": "Holding 1 snipe and tracking 99 fresh Solana launches.",
    "stats": {
-    "Closed": 44,
-    "Road to 100": "44/100",
-    "Record": "9W\u201335L",
-    "Win rate": "20%",
-    "PnL": "$-329.61",
+    "Closed": 45,
+    "Road to 100": "45/100",
+    "Record": "10W\u201335L",
+    "Win rate": "22%",
+    "PnL": "$-326.69",
     "Watching": 99,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 45,
-    "Avg win": "$+34.31",
+    "Entries (24h)": 46,
+    "Avg win": "$+31.17",
     "Avg loss": "$-18.24",
-    "Profit factor": "0.48"
+    "Profit factor": "0.49"
    },
    "demerits": [
     "Bag Holder \u00d727"
