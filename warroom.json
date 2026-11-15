@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T11:17:47-06:00",
+ "generated_at": "2026-11-15T11:22:47-06:00",
  "season": {
   "fleet_pnl": -251.21,
   "closed_total": 40,
@@ -50,8 +50,8 @@
    "id": "vector",
    "name": "VECTOR",
    "role": "Trend follower",
-   "alive": true,
-   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "alive": false,
+   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -68,8 +68,8 @@
    "id": "recoil",
    "name": "RECOIL",
    "role": "Dip buyer",
-   "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "alive": false,
+   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -84,8 +84,8 @@
    "id": "governor",
    "name": "GOVERNOR",
    "role": "Regime switcher",
-   "alive": true,
-   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
+   "alive": false,
+   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -100,8 +100,8 @@
    "id": "amp",
    "name": "AMP",
    "role": "Chatter trader",
-   "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "alive": false,
+   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
