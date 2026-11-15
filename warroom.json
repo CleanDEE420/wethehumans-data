@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T16:27:52-06:00",
+ "generated_at": "2026-11-15T16:32:47-06:00",
  "season": {
   "fleet_pnl": -366.94,
   "closed_total": 62,
@@ -140,10 +140,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-15-neuron-migration right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
    "stats": {
-    "Reviews done": "47/52",
+    "Reviews done": "48/52",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
