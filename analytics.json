@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-15T12:14:47",
+ "generated": "2026-11-15T14:41:59",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 77,
-   "visits7d": 70,
+   "pageviews7d": 80,
+   "visits7d": 72,
    "by_day": [
     {
      "date": "2026-11-09",
@@ -39,14 +39,14 @@
     },
     {
      "date": "2026-11-15",
-     "pageviews": 5,
-     "visits": 5
+     "pageviews": 8,
+     "visits": 7
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 17
+     "pageviews": 18
     },
     {
      "path": "/links/",
@@ -57,11 +57,11 @@
      "pageviews": 6
     },
     {
-     "path": "/home-2/",
+     "path": "/home-2/category/food+break/",
      "pageviews": 3
     },
     {
-     "path": "/home-2/category/food+break/",
+     "path": "/home-2/",
      "pageviews": 3
     }
    ]
