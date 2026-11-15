@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T13:52:47-06:00",
+ "generated_at": "2026-11-15T13:57:50-06:00",
  "season": {
   "fleet_pnl": -341.84,
   "closed_total": 49,
@@ -133,7 +133,7 @@
     "Profit factor": "0.50"
    },
    "demerits": [
-    "Bag Holder \u00d729"
+    "Bag Holder \u00d730"
    ]
   },
   {
@@ -141,9 +141,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Reviewing 2026-11-15-d82-drip-blobs right now.",
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
    "stats": {
-    "Reviews done": "44/50",
+    "Reviews done": "46/50",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
