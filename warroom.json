@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T13:47:48-06:00",
+ "generated_at": "2026-11-15T13:52:47-06:00",
  "season": {
-  "fleet_pnl": -324.18,
-  "closed_total": 48,
+  "fleet_pnl": -341.84,
+  "closed_total": 49,
   "open_total": 5,
   "milestones": [
    {
@@ -119,21 +119,21 @@
    "alive": true,
    "doing": "Holding 4 snipes and tracking 109 fresh Solana launches.",
    "stats": {
-    "Closed": 48,
-    "Road to 100": "48/100",
-    "Record": "12W\u201336L",
-    "Win rate": "25%",
-    "PnL": "$-324.18",
+    "Closed": 49,
+    "Road to 100": "49/100",
+    "Record": "12W\u201337L",
+    "Win rate": "24%",
+    "PnL": "$-341.84",
     "Watching": 109,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 52,
+    "Entries (24h)": 53,
     "Avg win": "$+28.27",
-    "Avg loss": "$-18.43",
-    "Profit factor": "0.51"
+    "Avg loss": "$-18.41",
+    "Profit factor": "0.50"
    },
    "demerits": [
-    "Bag Holder \u00d728"
+    "Bag Holder \u00d729"
    ]
   },
   {
