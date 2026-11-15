@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T13:37:48-06:00",
+ "generated_at": "2026-11-15T13:42:49-06:00",
  "season": {
   "fleet_pnl": -299.18,
   "closed_total": 47,
-  "open_total": 4,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,17 +117,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 108 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 109 fresh Solana launches.",
    "stats": {
     "Closed": 47,
     "Road to 100": "47/100",
     "Record": "12W\u201335L",
     "Win rate": "26%",
     "PnL": "$-299.18",
-    "Watching": 108,
-    "Open": 3,
+    "Watching": 109,
+    "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 50,
+    "Entries (24h)": 52,
     "Avg win": "$+28.27",
     "Avg loss": "$-18.24",
     "Profit factor": "0.53"
@@ -141,7 +141,7 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
+   "doing": "Reviewing 2026-11-15-d82-drip-blobs right now.",
    "stats": {
     "Reviews done": "44/50",
     "Reviews filed": 59,
