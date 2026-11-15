@@ -1,1 +1,52 @@
-{"first_tools":[{"icon":"🧰","name":"The Toolkit — one workspace","text":"Every tool in one place: link pages, scene kits, panels, overlays + alerts, and the Whatnot seller line — open the workspace and build your whole setup in one view.","url":"https://live.foreverhumans.com/"}],"note":"Priced like a friend on purpose: a generous free tier, and Crew at $3.69 a month — the tools are how streamers find us; the merch is the business. Built by one human and his AI superpower — the ideas are human, the execution is amplified.","status":"live","statusLine":"Live now — the first tools are up at live.foreverhumans.com.","titleLine":"The Toolbox — live now"}
+{
+  "first_tools": [
+    {
+      "icon": "🧰",
+      "name": "The Toolkit — one workspace",
+      "text": "Every tool in one place: link pages, scene kits, panels, overlays + alerts, and the Whatnot seller line — open the workspace and build your whole setup in one view.",
+      "url": "https://live.foreverhumans.com/"
+    }
+  ],
+  "note": "Priced like a friend on purpose: a generous free tier, and Crew at $3.69 a month — the tools are how streamers find us; the merch is the business. Built by one human and his AI superpower — the ideas are human, the execution is amplified.",
+  "status": "live",
+  "statusLine": "Live now — the first tools are up at live.foreverhumans.com.",
+  "titleLine": "The Toolbox — live now",
+  "anim": {
+    "sounds": {
+      "follow": "assets/sounds/snd-follow.mp3",
+      "subscription": "assets/sounds/snd-sub.mp3",
+      "tip_reaction": "assets/sounds/snd-tip.mp3",
+      "raid": "assets/sounds/snd-raid.mp3",
+      "cheer": "assets/sounds/snd-cheer.mp3",
+      "song": "assets/sounds/snd-song.mp3",
+      "flip": "assets/sounds/whoosh.wav",
+      "fanfare": "assets/sounds/fanfare.wav"
+    },
+    "treatments": {
+      "follow": {
+        "animation": "drop"
+      },
+      "subscription": {
+        "animation": "flip"
+      },
+      "tip_reaction": {
+        "animation": "pop"
+      },
+      "raid": {
+        "animation": "flip"
+      },
+      "cheer": {
+        "animation": "pop"
+      }
+    },
+    "knobs": {
+      "halo": "2.8s",
+      "shine": "4.4s",
+      "drop": "0.62s",
+      "flip": "0.78s",
+      "pop": "0.58s",
+      "board-drift": "24s",
+      "panel-scroll": "7s"
+    }
+  }
+}
