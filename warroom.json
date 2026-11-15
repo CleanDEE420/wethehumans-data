@@ -1,0 +1,206 @@
+{
+ "generated_at": "2026-11-15T10:52:04-06:00",
+ "season": {
+  "fleet_pnl": -251.21,
+  "closed_total": 40,
+  "open_total": 0,
+  "milestones": [
+   {
+    "name": "First Blood",
+    "holder": "ORBIT"
+   },
+   {
+    "name": "First Green",
+    "holder": "ORBIT"
+   },
+   {
+    "name": "Ten Up",
+    "holder": null
+   },
+   {
+    "name": "Hot Hand",
+    "holder": null
+   },
+   {
+    "name": "Survivor",
+    "holder": "ORBIT"
+   },
+   {
+    "name": "Century",
+    "holder": null
+   },
+   {
+    "name": "The Edge",
+    "holder": null
+   },
+   {
+    "name": "Moonshot",
+    "holder": null
+   }
+  ]
+ },
+ "market": {
+  "regime": "trend-down",
+  "btc_price": 65461.84,
+  "fear_greed": 10,
+  "as_of": "2026-11-15 05:37 CST"
+ },
+ "crew": [
+  {
+   "id": "vector",
+   "name": "VECTOR",
+   "role": "Trend follower",
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "stats": {
+    "Closed": 0,
+    "Record": "0W\u20130L",
+    "Win rate": "\u2014",
+    "PnL": "$+0.00",
+    "Open": 0
+   },
+   "demerits": [
+    "Dead Air"
+   ]
+  },
+  {
+   "id": "recoil",
+   "name": "RECOIL",
+   "role": "Dip buyer",
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "stats": {
+    "Closed": 0,
+    "Record": "0W\u20130L",
+    "Win rate": "\u2014",
+    "PnL": "$+0.00",
+    "Open": 0
+   },
+   "demerits": []
+  },
+  {
+   "id": "governor",
+   "name": "GOVERNOR",
+   "role": "Regime switcher",
+   "alive": true,
+   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
+   "stats": {
+    "Closed": 0,
+    "Record": "0W\u20130L",
+    "Win rate": "\u2014",
+    "PnL": "$+0.00",
+    "Open": 0
+   },
+   "demerits": []
+  },
+  {
+   "id": "amp",
+   "name": "AMP",
+   "role": "Chatter trader",
+   "alive": true,
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "stats": {
+    "Closed": 0,
+    "Record": "0W\u20130L",
+    "Win rate": "\u2014",
+    "PnL": "$+0.00",
+    "Open": 0
+   },
+   "demerits": []
+  },
+  {
+   "id": "orbit",
+   "name": "ORBIT",
+   "role": "Moonshot sniper",
+   "alive": true,
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 90, no open snipes right now.",
+   "stats": {
+    "Closed": 40,
+    "Record": "9W\u201331L",
+    "PnL": "$-251.21",
+    "Watching": 90,
+    "Open": 0,
+    "Best trade": "BUTTHOLE +$116.35"
+   },
+   "demerits": []
+  },
+  {
+   "id": "krypton",
+   "name": "KRYPTON",
+   "role": "Code reviewer",
+   "alive": null,
+   "doing": "Reviewing 2026-11-08-deadchat right now.",
+   "stats": {
+    "Reviews done": "44/48",
+    "Latest report": "2026-11-15-batch_full.md",
+    "Brain": "qwen3.5-9b (fast)"
+   },
+   "demerits": []
+  },
+  {
+   "id": "forge",
+   "name": "FORGE",
+   "role": "Image maker",
+   "alive": null,
+   "doing": "Nightly stacker \u2014 last run 2026-11-14 22:37 CT (run 8, nightly stacker):: 18 pieces made. Next run tonight.",
+   "stats": {
+    "Last run": "2026-11-14 22:37 CT (run 8, nightly stacker):",
+    "Pieces last run": 18,
+    "Lanes": "ComfyUI local + Cloudflare + draft"
+   },
+   "demerits": []
+  },
+  {
+   "id": "dragnet",
+   "name": "DRAGNET",
+   "role": "Lead hunter",
+   "alive": null,
+   "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
+   "stats": {
+    "Shops banked": 2699,
+    "Emails": 486,
+    "Streamers": 96
+   },
+   "demerits": []
+  },
+  {
+   "id": "council",
+   "name": "THE COUNCIL",
+   "role": "Advisory jury",
+   "alive": null,
+   "doing": "All 7 seats answered the trader-training brief; synthesis #2 is written. One parity answer is still pending in the board lane.",
+   "stats": {
+    "Seats answered": 7,
+    "Syntheses filed": 2,
+    "Answers pending": 1
+   },
+   "demerits": []
+  },
+  {
+   "id": "gumby",
+   "name": "GUMBY",
+   "role": "Pit boss",
+   "alive": true,
+   "doing": "On watch over the machine.",
+   "stats": {
+    "Jobs tracked on the board": 145,
+    "Crew reporting in": "5 racers"
+   },
+   "demerits": []
+  }
+ ],
+ "machine": [
+  {
+   "label": "Big Fix \u2014 description rebrand (Wave B)",
+   "value": "Paused \u2014 2,740 rows logged \u00b7 1,578 verified \u00b7 975 held for the specifics sitting"
+  },
+  {
+   "label": "StoreFab drip wake",
+   "value": "Hourly wake returning 504 \u2014 11 in a row (last 10:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+  },
+  {
+   "label": "Netlify credits",
+   "value": "~146 left (range 115\u2013178) \u00b7 121 deploys this cycle \u00b7 pool resets Nov 27"
+  }
+ ]
+}
