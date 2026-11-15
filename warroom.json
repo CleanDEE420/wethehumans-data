@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T16:17:34-06:00",
+ "generated_at": "2026-11-15T16:22:51-06:00",
  "season": {
-  "fleet_pnl": -395.78,
-  "closed_total": 61,
+  "fleet_pnl": -366.94,
+  "closed_total": 62,
   "open_total": 7,
   "milestones": [
    {
@@ -117,20 +117,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 120 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 119 fresh Solana launches.",
    "stats": {
-    "Closed": 61,
-    "Road to 100": "61/100",
-    "Record": "17W\u201344L",
-    "Win rate": "28%",
-    "PnL": "$-395.78",
-    "Watching": 120,
+    "Closed": 62,
+    "Road to 100": "62/100",
+    "Record": "18W\u201344L",
+    "Win rate": "29%",
+    "PnL": "$-366.94",
+    "Watching": 119,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 65,
-    "Avg win": "$+22.07",
+    "Entries (24h)": 66,
+    "Avg win": "$+22.45",
     "Avg loss": "$-17.52",
-    "Profit factor": "0.49"
+    "Profit factor": "0.52"
    },
    "demerits": [
     "Bag Holder \u00d733"
@@ -141,9 +141,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-15-desc-ok-rebuild right now.",
+   "doing": "Reviewing 2026-11-15-neuron-migration right now.",
    "stats": {
-    "Reviews done": "46/52",
+    "Reviews done": "47/52",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -212,7 +212,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 2,749 rows logged \u00b7 1,578 verified \u00b7 975 held for the specifics sitting"
+   "value": "Running \u2014 2,752 rows logged \u00b7 1,578 verified \u00b7 975 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
