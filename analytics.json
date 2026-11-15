@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-14T12:09:39",
+ "generated": "2026-11-15T12:14:47",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 74,
-   "visits7d": 67,
+   "pageviews7d": 77,
+   "visits7d": 70,
    "by_day": [
-    {
-     "date": "2026-11-08",
-     "pageviews": 11,
-     "visits": 11
-    },
     {
      "date": "2026-11-09",
      "pageviews": 7,
@@ -39,6 +34,11 @@
     },
     {
      "date": "2026-11-14",
+     "pageviews": 14,
+     "visits": 14
+    },
+    {
+     "date": "2026-11-15",
      "pageviews": 5,
      "visits": 5
     }
@@ -46,7 +46,7 @@
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 21
+     "pageviews": 17
     },
     {
      "path": "/links/",
@@ -57,25 +57,20 @@
      "pageviews": 6
     },
     {
-     "path": "/the-wall/",
-     "pageviews": 2
+     "path": "/home-2/",
+     "pageviews": 3
     },
     {
-     "path": "/home-2/2016/1/7/sit-on-a-zubaton-ecdae/",
-     "pageviews": 2
+     "path": "/home-2/category/food+break/",
+     "pageviews": 3
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 10,
-   "visits7d": 10,
+   "pageviews7d": 4,
+   "visits7d": 4,
    "by_day": [
-    {
-     "date": "2026-11-08",
-     "pageviews": 6,
-     "visits": 6
-    },
     {
      "date": "2026-11-10",
      "pageviews": 2,
@@ -95,20 +90,15 @@
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 10
+     "pageviews": 4
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 51,
-   "visits7d": 46,
+   "pageviews7d": 47,
+   "visits7d": 42,
    "by_day": [
-    {
-     "date": "2026-11-08",
-     "pageviews": 11,
-     "visits": 10
-    },
     {
      "date": "2026-11-09",
      "pageviews": 8,
@@ -136,18 +126,23 @@
     },
     {
      "date": "2026-11-14",
-     "pageviews": 2,
-     "visits": 2
+     "pageviews": 4,
+     "visits": 3
+    },
+    {
+     "date": "2026-11-15",
+     "pageviews": 5,
+     "visits": 5
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 34
+     "pageviews": 32
     },
     {
      "path": "/app/",
-     "pageviews": 15
+     "pageviews": 13
     },
     {
      "path": "/privacy/",
