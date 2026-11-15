@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T16:42:52-06:00",
+ "generated_at": "2026-11-15T16:47:51-06:00",
  "season": {
   "fleet_pnl": -363.41,
   "closed_total": 63,
-  "open_total": 7,
+  "open_total": 8,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,17 +117,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 120 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 121 fresh Solana launches.",
    "stats": {
     "Closed": 63,
     "Road to 100": "63/100",
     "Record": "19W\u201344L",
     "Win rate": "30%",
     "PnL": "$-363.41",
-    "Watching": 120,
-    "Open": 4,
+    "Watching": 121,
+    "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 68,
     "Avg win": "$+21.45",
     "Avg loss": "$-17.52",
     "Profit factor": "0.53"
@@ -140,10 +140,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-15-waveb-nobind-hold right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
    "stats": {
-    "Reviews done": "48/53",
+    "Reviews done": "49/53",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
