@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:37:50-06:00",
+ "generated_at": "2026-11-15T20:41:01-06:00",
  "season": {
   "fleet_pnl": -438.89,
   "closed_total": 83,
@@ -116,9 +116,16 @@
    "id": "stacker",
    "name": "STACKER",
    "role": "Quick-wins stacker",
-   "alive": null,
-   "doing": "Quiet right now \u2014 no fresh word from his corner of the machine.",
-   "stats": {},
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "stats": {
+    "Closed": 0,
+    "Road to 100": "0/100",
+    "Record": "0W\u20130L",
+    "Win rate": "\u2014",
+    "PnL": "$+0.00",
+    "Open": 0
+   },
    "demerits": []
   },
   {
@@ -126,14 +133,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 128 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 130 fresh Solana launches.",
    "stats": {
     "Closed": 80,
     "Road to 100": "80/100",
     "Record": "25W\u201355L",
     "Win rate": "31%",
     "PnL": "$-436.28",
-    "Watching": 128,
+    "Watching": 130,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 67,
@@ -164,7 +171,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": null,
+   "alive": true,
    "doing": "Nightly stacker \u2014 last run 2026-11-14 22:37 CT (run 8, nightly stacker): 18 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-14 22:37 CT (run 8, nightly stacker)",
@@ -221,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,722 rows logged \u00b7 2,407 verified \u00b7 1,071 held for the specifics sitting"
+   "value": "Running \u2014 3,728 rows logged \u00b7 2,413 verified \u00b7 1,071 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
