@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T04:42:47-06:00",
+ "generated_at": "2026-11-16T04:47:47-06:00",
  "season": {
   "fleet_pnl": -514.22,
   "closed_total": 103,
@@ -188,8 +188,8 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 2699,
-    "Emails": 486,
+    "Shops banked": 2721,
+    "Emails": 490,
     "Streamers": 103,
     "States in the bank": 9
    },
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,349 rows logged \u00b7 3,562 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,388 rows logged \u00b7 3,597 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
