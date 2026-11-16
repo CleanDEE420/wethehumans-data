@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-16T12:10:35",
+ "generated": "2026-11-16T11:19:54",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 83,
-   "visits7d": 75,
+   "pageviews7d": 85,
+   "visits7d": 77,
    "by_day": [
     {
      "date": "2026-11-10",
@@ -39,8 +39,8 @@
     },
     {
      "date": "2026-11-16",
-     "pageviews": 6,
-     "visits": 6
+     "pageviews": 8,
+     "visits": 8
     }
    ],
    "top_pages": [
@@ -61,7 +61,7 @@
      "pageviews": 4
     },
     {
-     "path": "/home-2/category/interviews/",
+     "path": "/home-2/",
      "pageviews": 3
     }
    ]
@@ -106,8 +106,8 @@
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 45,
-   "visits7d": 42,
+   "pageviews7d": 48,
+   "visits7d": 44,
    "by_day": [
     {
      "date": "2026-11-10",
@@ -141,18 +141,18 @@
     },
     {
      "date": "2026-11-16",
-     "pageviews": 1,
-     "visits": 1
+     "pageviews": 4,
+     "visits": 3
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 33
+     "pageviews": 35
     },
     {
      "path": "/app/",
-     "pageviews": 10
+     "pageviews": 11
     },
     {
      "path": "/privacy/",
