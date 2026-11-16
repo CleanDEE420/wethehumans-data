@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:07:47-06:00",
+ "generated_at": "2026-11-16T06:12:46-06:00",
  "season": {
   "fleet_pnl": -530.65,
   "closed_total": 106,
@@ -133,14 +133,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 156 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 157 fresh Solana launches.",
    "stats": {
     "Closed": 97,
     "Road to 100": "97/100",
     "Record": "31W\u201366L",
     "Win rate": "32%",
     "PnL": "$-523.10",
-    "Watching": 156,
+    "Watching": 157,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
@@ -214,9 +214,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Drafting today's batches \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 153,
+    "Jobs tracked on the board": 154,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 1,
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,501 rows logged \u00b7 3,664 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,504 rows logged \u00b7 3,664 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
