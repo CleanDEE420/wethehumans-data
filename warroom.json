@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T19:02:52-06:00",
+ "generated_at": "2026-11-15T19:07:57-06:00",
  "season": {
   "fleet_pnl": -410.22,
   "closed_total": 74,
-  "open_total": 7,
+  "open_total": 8,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,7 +117,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 126 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 126 fresh Solana launches.",
    "stats": {
     "Closed": 74,
     "Road to 100": "74/100",
@@ -125,7 +125,7 @@
     "Win rate": "31%",
     "PnL": "$-410.22",
     "Watching": 126,
-    "Open": 4,
+    "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 72,
     "Avg win": "$+19.56",
@@ -133,7 +133,7 @@
     "Profit factor": "0.52"
    },
    "demerits": [
-    "Bag Holder \u00d735"
+    "Bag Holder \u00d736"
    ]
   },
   {
@@ -143,7 +143,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-15-report-card right now.",
    "stats": {
-    "Reviews done": "51/59",
+    "Reviews done": "51/60",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -155,7 +155,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": null,
+   "alive": true,
    "doing": "Nightly stacker \u2014 last run 2026-11-14 22:37 CT (run 8, nightly stacker): 18 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-14 22:37 CT (run 8, nightly stacker)",
@@ -212,7 +212,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,294 rows logged \u00b7 2,048 verified \u00b7 1,034 held for the specifics sitting"
+   "value": "Running \u2014 3,321 rows logged \u00b7 2,074 verified \u00b7 1,035 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -321,7 +321,7 @@
    "next_gate": "You - one ruling owed: the kill-switch % for any future live run (only matters at real-money time). Paper window RULED 00:28 CT (100 closed trades per racer)."
   }
  ],
- "projects_as_of": "2026-11-15 08:36 AM CT",
+ "projects_as_of": "2026-11-15 07:01 PM CT",
  "waiting": [
   {
    "title": "Stay Curious: derive the held-card exclusion from the bank files, then wire regen into the nightly batch job?",
