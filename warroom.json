@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T08:20:00-06:00",
+ "generated_at": "2026-11-16T08:25:00-06:00",
  "season": {
   "fleet_pnl": -521.46,
   "closed_total": 112,
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,941 rows logged \u00b7 4,009 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,958 rows logged \u00b7 4,024 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
