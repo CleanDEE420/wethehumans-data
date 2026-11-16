@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T21:07:49-06:00",
+ "generated_at": "2026-11-15T21:12:51-06:00",
  "season": {
   "fleet_pnl": -487.44,
   "closed_total": 85,
-  "open_total": 2,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -133,7 +133,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 132, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 132 fresh Solana launches.",
    "stats": {
     "Closed": 82,
     "Road to 100": "82/100",
@@ -141,15 +141,15 @@
     "Win rate": "30%",
     "PnL": "$-484.83",
     "Watching": 132,
-    "Open": 0,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 68,
+    "Entries (24h)": 69,
     "Avg win": "$+18.28",
     "Avg loss": "$-16.52",
     "Profit factor": "0.49"
    },
    "demerits": [
-    "Bag Holder \u00d737"
+    "Bag Holder \u00d738"
    ]
   },
   {
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,891 rows logged \u00b7 2,560 verified \u00b7 1,087 held for the specifics sitting"
+   "value": "Running \u2014 3,915 rows logged \u00b7 2,580 verified \u00b7 1,090 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -337,7 +337,7 @@
    "next_gate": "Machine \u2014 the fleet runs itself on the PC; Gumby watches the tape. One ruling still owed from you, parked by design: the kill-switch % for any future LIVE run (only matters at real-money time \u2014 nothing goes live before the paper verdicts).\u2026"
   }
  ],
- "projects_as_of": "2026-11-15 09:05 PM CT",
+ "projects_as_of": "2026-11-15 09:06 PM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
