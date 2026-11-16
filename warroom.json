@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T21:12:51-06:00",
+ "generated_at": "2026-11-15T21:17:51-06:00",
  "season": {
   "fleet_pnl": -487.44,
   "closed_total": 85,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 3 open trades and watching the market.",
    "stats": {
     "Closed": 3,
     "Road to 100": "3/100",
     "Record": "0W\u20133L",
     "Win rate": "0%",
     "PnL": "$-2.61",
-    "Open": 2
+    "Open": 3
    },
    "demerits": []
   },
@@ -228,11 +228,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,915 rows logged \u00b7 2,580 verified \u00b7 1,090 held for the specifics sitting"
+   "value": "Running \u2014 3,941 rows logged \u00b7 2,599 verified \u00b7 1,096 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 502 \u2014 2 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 502 \u2014 3 in a row (last 09:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
