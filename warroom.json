@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T11:50:00-06:00",
+ "generated_at": "2026-11-16T11:55:00-06:00",
  "season": {
   "fleet_pnl": -525.29,
   "closed_total": 120,
@@ -160,7 +160,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly review \u2014 2026-11-16.",
    "stats": {
-    "Reviews done": "63/67",
+    "Reviews done": "63/68",
     "Reviews filed": 60,
     "Held in queue": 4,
     "Latest report": "2026-11-16-api.js.md",
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,165 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,167 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
