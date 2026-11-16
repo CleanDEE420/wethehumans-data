@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T07:42:54-06:00",
+ "generated_at": "2026-11-16T07:47:52-06:00",
  "season": {
-  "fleet_pnl": -499.87,
-  "closed_total": 110,
-  "open_total": 3,
+  "fleet_pnl": -499.1,
+  "closed_total": 111,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -67,18 +67,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 0,
-    "Road to 100": "0/100",
-    "Record": "0W\u20130L",
-    "Win rate": "\u2014",
-    "PnL": "$+0.00",
-    "Open": 2
+    "Closed": 1,
+    "Road to 100": "1/100",
+    "Record": "1W\u20130L",
+    "Win rate": "100%",
+    "PnL": "$+0.76",
+    "Open": 1
    },
-   "demerits": [
-    "Dead Air"
-   ]
+   "demerits": []
   },
   {
    "id": "governor",
@@ -94,7 +92,9 @@
     "PnL": "$+0.00",
     "Open": 0
    },
-   "demerits": []
+   "demerits": [
+    "Dead Air"
+   ]
   },
   {
    "id": "amp",
@@ -133,14 +133,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 160 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 161 fresh Solana launches.",
    "stats": {
     "Closed": 100,
     "Road to 100": "100/100",
     "Record": "33W\u201367L",
     "Win rate": "33%",
     "PnL": "$-491.05",
-    "Watching": 160,
+    "Watching": 161,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 70,
@@ -214,7 +214,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning quotes \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 157,
     "Crew reporting in": "5 racers",
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,741 rows logged \u00b7 3,845 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,765 rows logged \u00b7 3,856 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -248,7 +248,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "30 posted of 70 cards \u2014 40 fresh on the bench"
+   "value": "31 posted of 70 cards \u2014 39 fresh on the bench"
   }
  ],
  "projects": [
