@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T13:05:00-06:00",
+ "generated_at": "2026-11-16T13:10:00-06:00",
  "season": {
-  "fleet_pnl": -672.07,
-  "closed_total": 130,
+  "fleet_pnl": -692.74,
+  "closed_total": 131,
   "open_total": 8,
   "milestones": [
    {
@@ -136,21 +136,21 @@
    "alive": true,
    "doing": "Holding 2 snipes and tracking 186 fresh Solana launches.",
    "stats": {
-    "Closed": 113,
-    "Road to 100": "113/100",
-    "Record": "35W\u201378L",
+    "Closed": 114,
+    "Road to 100": "114/100",
+    "Record": "35W\u201379L",
     "Win rate": "31%",
-    "PnL": "$-660.42",
+    "PnL": "$-681.09",
     "Watching": 186,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 66,
+    "Entries (24h)": 67,
     "Avg win": "$+19.08",
-    "Avg loss": "$-17.03",
+    "Avg loss": "$-17.08",
     "Profit factor": "0.50"
    },
    "demerits": [
-    "Bag Holder \u00d755"
+    "Bag Holder \u00d756"
    ]
   },
   {
@@ -158,12 +158,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 2026-11-16.",
+   "doing": "Last review filed: KRYPTON tape review \u2014 ORBIT block 1 (2026-11-16).",
    "stats": {
     "Reviews done": "64/68",
-    "Reviews filed": 60,
+    "Reviews filed": 61,
     "Held in queue": 4,
-    "Latest report": "2026-11-16-api.js.md",
+    "Latest report": "2026-11-16-orbit-tape-block1.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,175 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,177 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
