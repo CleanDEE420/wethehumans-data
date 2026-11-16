@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T22:57:50-06:00",
+ "generated_at": "2026-11-15T23:02:46-06:00",
  "season": {
   "fleet_pnl": -447.59,
   "closed_total": 92,
@@ -219,7 +219,7 @@
     "Jobs tracked on the board": 153,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
-    "Open decisions": 0,
+    "Open decisions": 17,
     "Projects": 16
    },
    "demerits": []
@@ -337,46 +337,46 @@
    "next_gate": "Machine \u2014 the fleet runs itself on the PC; Gumby watches the tape. One ruling still owed from you, parked by design: the kill-switch % for any future LIVE run (only matters at real-money time \u2014 nothing goes live before the paper verdicts).\u2026"
   }
  ],
- "projects_as_of": "2026-11-15 10:43 PM CT",
+ "projects_as_of": "2026-11-15 11:00 PM CT",
  "waiting": [
   {
-   "title": "Mail the DC Mechanical winding-up envelope",
-   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
+   "title": "Council walk #1 \u2014 FIRST MOVE: an outside dead-man's switch that pages you",
+   "detail": "THE ITEM: every critical job (nightly production, the supervisor, the image lane, trading heartbeats, the drip wake, campaign steppers) checks in with a service that lives OUTSIDE this machine. A missed check-in \u2014 or a c\u2026",
    "link": null
   },
   {
-   "title": "Update the card on GitHub billing (Belabox)",
-   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
-   "link": "https://github.com/settings/billing/payment_information"
-  },
-  {
-   "title": "Neuron book migration \u2014 one ledger for the whole Cloudflare pool (gated on KRYPTON review)",
-   "detail": "RULE ADOPTED (walk item 1, 19:26 CT) - 'no unbooked spend': every caller debits the one ledger; failed debit stops the spend; ledger never overstates. KRYPTON review VETTED: plan CANNOT proceed as written - 4 amendments\u2026",
+   "title": "Council walk #2 \u2014 F-03: release the drip deploy? (half-2 + hardening, fix only)",
+   "detail": "THE ITEM: the drip crashes intermittently (a stranded storage operation kills the wake) and its health summary calls connected channels 'not connected.' The repair is BUILT, suite-green (716/716), and KRYPTON-reviewed: h\u2026",
    "link": null
   },
   {
-   "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
-   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
+   "title": "Council walk #3 \u2014 F-06: a records-sync sweep after every big finish",
+   "detail": "THE ITEM: when a big job finishes \u2014 a review round, a deploy, a campaign wave \u2014 a short sweep updates the working records (checklists, registry notes, goal files) in the same sitting, instead of hours later. Tonight's pr\u2026",
    "link": null
   },
   {
-   "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
-   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
+   "title": "Council walk #4 \u2014 F-12: fix the Pinterest ledger write (single-writer lock)",
+   "detail": "THE ITEM: the pin engine's ledger (pins.json) is written back without a locked read first, so overlapping runs clobber each other \u2014 it has eaten itself twice in two days, rebuilt by hand both times. The fix makes the who\u2026",
    "link": null
   },
   {
-   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
-   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
-   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
-  },
-  {
-   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
-   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "title": "Council walk #5 \u2014 F-09: image-lane liveness (diagnosis CLOSED tonight \u2014 lane restored)",
+   "detail": "DIAGNOSIS CLOSED 22:59 CT \u2014 THE LANE IS BACK. Your PC-local check proved the app was never down: the ComfyUI update (0.44.2 \u2192 0.45.4) added an origin-check middleware that drops requests arriving through the old Windows\u2026",
    "link": null
   },
   {
-   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
-   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
+   "title": "Council walk #6 \u2014 F-15: make the nightly job fail LOUD, by mechanism",
+   "detail": "THE ITEM: Stay Curious nightly production must bank a known set of cards. Today 'a failed batch must be loud' is a sentence in the job's prompt \u2014 and a mid-run kill (it already happened Nov 14) fails silently until a mor\u2026",
+   "link": null
+  },
+  {
+   "title": "Council walk #7 \u2014 F-07: charging is THE product track; table before build",
+   "detail": "THE ITEM: StoreFab's first dollar sits behind five unbuilt prerequisites (P1\u2013P5) and ten acceptance gaps (G1\u2013G10). The acceptance package is defined and the build order is adopted (governor \u2192 order history \u2192 executor) \u2014\u2026",
+   "link": null
+  },
+  {
+   "title": "Council walk #8 \u2014 F-05 + F-14: fold the leftovers into the game-run relaunch",
+   "detail": "THE ITEM: the storewide Game-aspect run died at 295 and its relaunch is in flight. Two loose ends fold into it instead of standing up new work: F-05 \u2014 134 listings written but never buyer-verified (Browse 429s), plus Pho\u2026",
    "link": null
   }
  ]
