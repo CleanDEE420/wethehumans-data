@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T19:37:48-06:00",
+ "generated_at": "2026-11-15T19:42:53-06:00",
  "season": {
-  "fleet_pnl": -408.73,
-  "closed_total": 78,
-  "open_total": 5,
+  "fleet_pnl": -416.3,
+  "closed_total": 79,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,20 +117,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 128 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 127 fresh Solana launches.",
    "stats": {
-    "Closed": 76,
-    "Road to 100": "76/100",
-    "Record": "24W\u201352L",
-    "Win rate": "32%",
-    "PnL": "$-407.28",
-    "Watching": 128,
-    "Open": 4,
+    "Closed": 77,
+    "Road to 100": "77/100",
+    "Record": "24W\u201353L",
+    "Win rate": "31%",
+    "PnL": "$-414.85",
+    "Watching": 127,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 70,
     "Avg win": "$+18.98",
-    "Avg loss": "$-16.59",
-    "Profit factor": "0.53"
+    "Avg loss": "$-16.42",
+    "Profit factor": "0.52"
    },
    "demerits": [
     "Bag Holder \u00d736"
@@ -141,9 +141,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-15-d82-ui right now.",
+   "doing": "Reviewing 2026-11-15-neuron-migration-flip right now.",
    "stats": {
-    "Reviews done": "55/61",
+    "Reviews done": "56/62",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -169,12 +169,12 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 2699,
     "Emails": 486,
-    "Streamers": 96,
+    "Streamers": 103,
     "States in the bank": 9
    },
    "demerits": []
@@ -198,9 +198,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the evening quotes \u2014 ",
+   "doing": "Posting the evening pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 151,
+    "Jobs tracked on the board": 152,
     "Crew reporting in": "5 racers",
     "Open tasks": 31,
     "Open decisions": 1,
@@ -212,7 +212,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,460 rows logged \u00b7 2,180 verified \u00b7 1,049 held for the specifics sitting"
+   "value": "Running \u2014 3,491 rows logged \u00b7 2,205 verified \u00b7 1,055 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -236,7 +236,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "29 posted of 70 cards \u2014 41 fresh on the bench"
+   "value": "30 posted of 70 cards \u2014 40 fresh on the bench"
   }
  ],
  "projects": [
