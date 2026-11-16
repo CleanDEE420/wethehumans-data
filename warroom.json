@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T17:57:47-06:00",
+ "generated_at": "2026-11-15T18:02:47-06:00",
  "season": {
   "fleet_pnl": -382.39,
   "closed_total": 70,
@@ -133,7 +133,7 @@
     "Profit factor": "0.54"
    },
    "demerits": [
-    "Bag Holder \u00d734"
+    "Bag Holder \u00d735"
    ]
   },
   {
@@ -212,7 +212,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 2,864 rows logged \u00b7 1,671 verified \u00b7 988 held for the specifics sitting"
+   "value": "Running \u2014 2,897 rows logged \u00b7 1,702 verified \u00b7 990 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
