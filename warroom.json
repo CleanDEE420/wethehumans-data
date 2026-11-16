@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T23:57:51-06:00",
+ "generated_at": "2026-11-16T00:02:46-06:00",
  "season": {
-  "fleet_pnl": -514.42,
-  "closed_total": 96,
-  "open_total": 3,
+  "fleet_pnl": -533.23,
+  "closed_total": 97,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -133,23 +133,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 143 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 142 fresh Solana launches.",
    "stats": {
-    "Closed": 87,
-    "Road to 100": "87/100",
-    "Record": "26W\u201361L",
+    "Closed": 88,
+    "Road to 100": "88/100",
+    "Record": "26W\u201362L",
     "Win rate": "30%",
-    "PnL": "$-506.87",
-    "Watching": 143,
-    "Open": 3,
+    "PnL": "$-525.68",
+    "Watching": 142,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 72,
+    "Entries (24h)": 71,
     "Avg win": "$+19.92",
-    "Avg loss": "$-16.80",
-    "Profit factor": "0.51"
+    "Avg loss": "$-16.83",
+    "Profit factor": "0.50"
    },
    "demerits": [
-    "Bag Holder \u00d741"
+    "Bag Holder \u00d742"
    ]
   },
   {
@@ -219,7 +219,7 @@
     "Jobs tracked on the board": 153,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
-    "Open decisions": 0,
+    "Open decisions": 1,
     "Projects": 16
    },
    "demerits": []
@@ -337,8 +337,13 @@
    "next_gate": "Machine \u2014 the fleet runs itself on the PC; Gumby watches the tape. One ruling still owed from you, parked by design: the kill-switch % for any future LIVE run (only matters at real-money time \u2014 nothing goes live before the paper verdicts).\u2026"
   }
  ],
- "projects_as_of": "2026-11-15 11:14 PM CT",
+ "projects_as_of": "2026-11-15 11:57 PM CT",
  "waiting": [
+  {
+   "title": "Nightly sweep \u2014 GitHub drip wake failed all day: re-arm Gumby's backup wake + watch the wake?",
+   "detail": "THE FINDING (nightly sweep, browser-verified 23:45 CT): the GitHub Actions drip wake \u2014 the production waker since Nov 7 \u2014 went 4/4 RED today (02:54, 10:12, 15:29, 19:37 CT). Every run got an HTML 'Inactivity Timeout' pag\u2026",
+   "link": null
+  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -372,11 +377,6 @@
   {
    "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
-   "link": null
-  },
-  {
-   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
-   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
