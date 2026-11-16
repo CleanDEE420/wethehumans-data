@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T09:25:00-06:00",
+ "generated_at": "2026-11-16T09:40:00-06:00",
  "season": {
-  "fleet_pnl": -512.16,
-  "closed_total": 114,
-  "open_total": 6,
+  "fleet_pnl": -515.27,
+  "closed_total": 115,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 7,
-    "Road to 100": "7/100",
-    "Record": "0W\u20137L",
+    "Closed": 8,
+    "Road to 100": "8/100",
+    "Record": "0W\u20138L",
     "Win rate": "0%",
-    "PnL": "$-7.11",
-    "Open": 3
+    "PnL": "$-10.23",
+    "Open": 2
    },
    "demerits": []
   },
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,147 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,149 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
