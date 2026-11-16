@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T19:12:53-06:00",
+ "generated_at": "2026-11-15T19:17:48-06:00",
  "season": {
-  "fleet_pnl": -404.51,
-  "closed_total": 75,
-  "open_total": 7,
+  "fleet_pnl": -408.14,
+  "closed_total": 77,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 0,
-    "Road to 100": "0/100",
-    "Record": "0W\u20130L",
-    "Win rate": "\u2014",
-    "PnL": "$+0.00",
-    "Open": 3
+    "Closed": 1,
+    "Road to 100": "1/100",
+    "Record": "0W\u20131L",
+    "Win rate": "0%",
+    "PnL": "$-0.86",
+    "Open": 2
    },
    "demerits": [
     "Dead Air"
@@ -117,19 +117,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 126 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 125 fresh Solana launches.",
    "stats": {
-    "Closed": 75,
-    "Road to 100": "75/100",
-    "Record": "24W\u201351L",
+    "Closed": 76,
+    "Road to 100": "76/100",
+    "Record": "24W\u201352L",
     "Win rate": "32%",
-    "PnL": "$-404.51",
-    "Watching": 126,
-    "Open": 4,
+    "PnL": "$-407.28",
+    "Watching": 125,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 72,
     "Avg win": "$+18.98",
-    "Avg loss": "$-16.86",
+    "Avg loss": "$-16.59",
     "Profit factor": "0.53"
    },
    "demerits": [
@@ -141,9 +141,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-15-readledger right now.",
+   "doing": "Reviewing 2026-11-15-council-parity right now.",
    "stats": {
-    "Reviews done": "52/60",
+    "Reviews done": "53/60",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -212,11 +212,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,335 rows logged \u00b7 2,086 verified \u00b7 1,035 held for the specifics sitting"
+   "value": "Running \u2014 3,349 rows logged \u00b7 2,098 verified \u00b7 1,035 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 502 \u2014 1 in a row (last 07:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
@@ -321,7 +321,7 @@
    "next_gate": "You - one ruling owed: the kill-switch % for any future live run (only matters at real-money time). Paper window RULED 00:28 CT (100 closed trades per racer)."
   }
  ],
- "projects_as_of": "2026-11-15 07:01 PM CT",
+ "projects_as_of": "2026-11-15 07:09 PM CT",
  "waiting": [
   {
    "title": "Stay Curious: derive the held-card exclusion from the bank files, then wire regen into the nightly batch job?",
