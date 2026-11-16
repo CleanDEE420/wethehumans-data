@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T03:12:47-06:00",
+ "generated_at": "2026-11-16T03:17:48-06:00",
  "season": {
   "fleet_pnl": -518.43,
   "closed_total": 101,
@@ -228,11 +228,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 4,872 rows logged \u00b7 3,136 verified \u00b7 1,416 held for the specifics sitting"
+   "value": "Running \u2014 4,893 rows logged \u00b7 3,156 verified \u00b7 1,416 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 502 \u2014 4 in a row (last 02:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 03:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
