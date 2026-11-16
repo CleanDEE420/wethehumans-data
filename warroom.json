@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T16:20:00-06:00",
+ "generated_at": "2026-11-16T16:25:00-06:00",
  "season": {
-  "fleet_pnl": -657.5,
-  "closed_total": 147,
-  "open_total": 10,
+  "fleet_pnl": -657.33,
+  "closed_total": 148,
+  "open_total": 9,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,15 +117,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 9,
-    "Road to 100": "9/100",
-    "Record": "2W\u20137L",
-    "Win rate": "22%",
-    "PnL": "$-1.60",
-    "Open": 1,
-    "Profit factor": "0.44"
+    "Closed": 10,
+    "Road to 100": "10/100",
+    "Record": "3W\u20137L",
+    "Win rate": "30%",
+    "PnL": "$-1.43",
+    "Open": 0,
+    "Profit factor": "0.50"
    },
    "demerits": []
   },
@@ -134,17 +134,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 220 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 221 fresh Solana launches.",
    "stats": {
     "Closed": 127,
     "Road to 100": "127/100",
     "Record": "40W\u201387L",
     "Win rate": "31%",
     "PnL": "$-645.17",
-    "Watching": 220,
+    "Watching": 221,
     "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 66,
     "Avg win": "$+19.41",
     "Avg loss": "$-16.34",
     "Profit factor": "0.55"
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,201 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,203 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
