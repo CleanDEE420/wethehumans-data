@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T06:47:47-06:00",
+ "generated_at": "2026-11-16T06:52:49-06:00",
  "season": {
-  "fleet_pnl": -531.92,
-  "closed_total": 107,
-  "open_total": 4,
+  "fleet_pnl": -518.23,
+  "closed_total": 108,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -133,20 +133,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 158 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 158 fresh Solana launches.",
    "stats": {
-    "Closed": 97,
-    "Road to 100": "97/100",
-    "Record": "31W\u201366L",
-    "Win rate": "32%",
-    "PnL": "$-523.10",
+    "Closed": 98,
+    "Road to 100": "98/100",
+    "Record": "32W\u201366L",
+    "Win rate": "33%",
+    "PnL": "$-509.41",
     "Watching": 158,
-    "Open": 2,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 69,
-    "Avg win": "$+19.34",
+    "Avg win": "$+19.16",
     "Avg loss": "$-17.01",
-    "Profit factor": "0.53"
+    "Profit factor": "0.55"
    },
    "demerits": [
     "Bag Holder \u00d747"
@@ -219,7 +219,7 @@
     "Jobs tracked on the board": 155,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
-    "Open decisions": 1,
+    "Open decisions": 0,
     "Projects": 16
    },
    "demerits": []
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,540 rows logged \u00b7 3,678 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,554 rows logged \u00b7 3,690 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -337,13 +337,8 @@
    "next_gate": "ORBIT closes 100 -> block-1 report card -> council review -> his ruling on the one change; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken recor\u2026"
   }
  ],
- "projects_as_of": "2026-11-16 06:21 AM CT",
+ "projects_as_of": "2026-11-16 06:47 AM CT",
  "waiting": [
-  {
-   "title": "Nightly sweep \u2014 GitHub drip wake failed all day: re-arm Gumby's backup wake + watch the wake?",
-   "detail": "THE FINDING (nightly sweep, browser-verified 23:45 CT): the GitHub Actions drip wake \u2014 the production waker since Nov 7 \u2014 went 4/4 RED today (02:54, 10:12, 15:29, 19:37 CT). Every run got an HTML 'Inactivity Timeout' pag\u2026",
-   "link": null
-  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -377,6 +372,11 @@
   {
    "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
+  },
+  {
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
