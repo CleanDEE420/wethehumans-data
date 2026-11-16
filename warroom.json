@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T19:27:50-06:00",
+ "generated_at": "2026-11-15T19:32:46-06:00",
  "season": {
-  "fleet_pnl": -408.14,
-  "closed_total": 77,
-  "open_total": 6,
+  "fleet_pnl": -408.73,
+  "closed_total": 78,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 1,
-    "Road to 100": "1/100",
-    "Record": "0W\u20131L",
+    "Closed": 2,
+    "Road to 100": "2/100",
+    "Record": "0W\u20132L",
     "Win rate": "0%",
-    "PnL": "$-0.86",
-    "Open": 2
+    "PnL": "$-1.45",
+    "Open": 1
    },
    "demerits": []
   },
@@ -141,9 +141,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-15-council-fabshop right now.",
+   "doing": "Reviewing 2026-11-15-d82-ui right now.",
    "stats": {
-    "Reviews done": "54/60",
+    "Reviews done": "55/60",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -212,7 +212,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,413 rows logged \u00b7 2,143 verified \u00b7 1,042 held for the specifics sitting"
+   "value": "Running \u2014 3,444 rows logged \u00b7 2,166 verified \u00b7 1,049 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
