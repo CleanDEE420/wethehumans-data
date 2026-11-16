@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T23:42:51-06:00",
+ "generated_at": "2026-11-15T23:47:47-06:00",
  "season": {
   "fleet_pnl": -497.59,
   "closed_total": 95,
@@ -133,14 +133,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 141 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 142 fresh Solana launches.",
    "stats": {
     "Closed": 86,
     "Road to 100": "86/100",
     "Record": "26W\u201360L",
     "Win rate": "30%",
     "PnL": "$-490.04",
-    "Watching": 141,
+    "Watching": 142,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 70,
@@ -156,10 +156,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-15-deadman-switch right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
    "stats": {
-    "Reviews done": "62/67",
+    "Reviews done": "63/67",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
