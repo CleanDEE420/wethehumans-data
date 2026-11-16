@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T15:09:59-06:00",
+ "generated_at": "2026-11-16T15:15:00-06:00",
  "season": {
-  "fleet_pnl": -666.48,
-  "closed_total": 139,
-  "open_total": 10,
+  "fleet_pnl": -676.62,
+  "closed_total": 142,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -101,14 +101,14 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
-    "Closed": 0,
-    "Road to 100": "0/100",
-    "Record": "0W\u20130L",
-    "Win rate": "\u2014",
-    "PnL": "$+0.00",
-    "Open": 1
+    "Closed": 1,
+    "Road to 100": "1/100",
+    "Record": "1W\u20130L",
+    "Win rate": "100%",
+    "PnL": "$+0.36",
+    "Open": 0
    },
    "demerits": []
   },
@@ -134,19 +134,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 211 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 211 fresh Solana launches.",
    "stats": {
-    "Closed": 120,
-    "Road to 100": "120/100",
-    "Record": "38W\u201382L",
+    "Closed": 122,
+    "Road to 100": "122/100",
+    "Record": "39W\u201383L",
     "Win rate": "32%",
-    "PnL": "$-653.79",
+    "PnL": "$-664.29",
     "Watching": 211,
-    "Open": 5,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
-    "Avg win": "$+18.69",
-    "Avg loss": "$-16.63",
+    "Entries (24h)": 65,
+    "Avg win": "$+18.58",
+    "Avg loss": "$-16.73",
     "Profit factor": "0.52"
    },
    "demerits": [
@@ -233,7 +233,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 502 \u2014 1 in a row (last 02:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 502 \u2014 2 in a row (last 03:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
