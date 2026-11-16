@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T09:05:00-06:00",
+ "generated_at": "2026-11-16T09:10:00-06:00",
  "season": {
   "fleet_pnl": -512.16,
   "closed_total": 114,
-  "open_total": 4,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -101,14 +101,14 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
     "Record": "0W\u20130L",
     "Win rate": "\u2014",
     "PnL": "$+0.00",
-    "Open": 0
+    "Open": 1
    },
    "demerits": []
   },
@@ -144,7 +144,7 @@
     "Watching": 167,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 66,
     "Avg win": "$+19.55",
     "Avg loss": "$-17.21",
     "Profit factor": "0.57"
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,140 rows logged \u00b7 4,184 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,145 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
