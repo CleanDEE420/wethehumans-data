@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:52:48-06:00",
+ "generated_at": "2026-11-15T20:57:52-06:00",
  "season": {
   "fleet_pnl": -463.89,
   "closed_total": 84,
@@ -156,8 +156,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-15-failure-harness right now.",
    "stats": {
     "Reviews done": "60/65",
     "Reviews filed": 59,
@@ -216,7 +216,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 152,
+    "Jobs tracked on the board": 153,
     "Crew reporting in": "5 racers",
     "Open tasks": 31,
     "Open decisions": 1,
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,775 rows logged \u00b7 2,455 verified \u00b7 1,076 held for the specifics sitting"
+   "value": "Running \u2014 3,814 rows logged \u00b7 2,492 verified \u00b7 1,078 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
