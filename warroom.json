@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T23:07:46-06:00",
+ "generated_at": "2026-11-15T23:14:05-06:00",
  "season": {
-  "fleet_pnl": -447.59,
-  "closed_total": 92,
-  "open_total": 2,
+  "fleet_pnl": -472.59,
+  "closed_total": 93,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -133,20 +133,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 136 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 135, no open snipes right now.",
    "stats": {
-    "Closed": 84,
-    "Road to 100": "84/100",
-    "Record": "26W\u201358L",
+    "Closed": 85,
+    "Road to 100": "85/100",
+    "Record": "26W\u201359L",
     "Win rate": "31%",
-    "PnL": "$-440.94",
-    "Watching": 136,
-    "Open": 1,
+    "PnL": "$-465.94",
+    "Watching": 135,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
     "Avg win": "$+19.92",
-    "Avg loss": "$-16.53",
-    "Profit factor": "0.54"
+    "Avg loss": "$-16.68",
+    "Profit factor": "0.53"
    },
    "demerits": [
     "Bag Holder \u00d739"
@@ -219,7 +219,7 @@
     "Jobs tracked on the board": 153,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
-    "Open decisions": 17,
+    "Open decisions": 4,
     "Projects": 16
    },
    "demerits": []
@@ -232,7 +232,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 502 \u2014 1 in a row (last 11:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
@@ -337,46 +337,46 @@
    "next_gate": "Machine \u2014 the fleet runs itself on the PC; Gumby watches the tape. One ruling still owed from you, parked by design: the kill-switch % for any future LIVE run (only matters at real-money time \u2014 nothing goes live before the paper verdicts).\u2026"
   }
  ],
- "projects_as_of": "2026-11-15 11:00 PM CT",
+ "projects_as_of": "2026-11-15 11:13 PM CT",
  "waiting": [
   {
-   "title": "Council walk #1 \u2014 FIRST MOVE: an outside dead-man's switch that pages you",
-   "detail": "THE ITEM: every critical job (nightly production, the supervisor, the image lane, trading heartbeats, the drip wake, campaign steppers) checks in with a service that lives OUTSIDE this machine. A missed check-in \u2014 or a c\u2026",
+   "title": "Council walk #14 \u2014 measure KRYPTON's catch rate (seed a defect, see if the gate bites)",
+   "detail": "THE ITEM: 30 of 30 KRYPTON reviews complete measures THROUGHPUT, not whether the gate catches anything. A reviewer that has never rejected anything may not be a gate. THE CHEAP VERSION: seed a known defect into a review\u2026",
    "link": null
   },
   {
-   "title": "Council walk #2 \u2014 F-03: release the drip deploy? (half-2 + hardening, fix only)",
-   "detail": "THE ITEM: the drip crashes intermittently (a stranded storage operation kills the wake) and its health summary calls connected channels 'not connected.' The repair is BUILT, suite-green (716/716), and KRYPTON-reviewed: h\u2026",
+   "title": "Council walk #15 \u2014 small watches riding the switch (tokens, disk, cost spikes)",
+   "detail": "THE ITEM: a bundle of cheap checks sharing Item 1's plumbing instead of five separate projects: expiring API tokens/OAuth grants BEFORE they fail in production (Gemini, ChatGPT); disk space + log bloat on the VM and the\u2026",
    "link": null
   },
   {
-   "title": "Council walk #3 \u2014 F-06: a records-sync sweep after every big finish",
-   "detail": "THE ITEM: when a big job finishes \u2014 a review round, a deploy, a campaign wave \u2014 a short sweep updates the working records (checklists, registry notes, goal files) in the same sitting, instead of hours later. Tonight's pr\u2026",
+   "title": "Council walk #16 \u2014 one status vocabulary: PLANNED \u2192 RUNNING \u2192 EXECUTED \u2192 VERIFIED \u2192 LANDED",
+   "detail": "THE ITEM: five words, one meaning each, everywhere \u2014 board cards, campaign ledgers, reports. A status step needs evidence: a worker's self-report is EXECUTED, never VERIFIED; LANDED keeps its adopted meaning (failure pat\u2026",
    "link": null
   },
   {
-   "title": "Council walk #4 \u2014 F-12: fix the Pinterest ledger write (single-writer lock)",
-   "detail": "THE ITEM: the pin engine's ledger (pins.json) is written back without a locked read first, so overlapping runs clobber each other \u2014 it has eaten itself twice in two days, rebuilt by hand both times. The fix makes the who\u2026",
+   "title": "Council walk #17 \u2014 a written gate before first outreach to the lead bank",
+   "detail": "THE ITEM: DRAGNET's bank stands at 2,699 shops, never contacted \u2014 the right default, and the outreach hold stands until StoreFab is stable and solid. But no WRITTEN gate exists for what must be true before the first send\u2026",
    "link": null
   },
   {
-   "title": "Council walk #5 \u2014 F-09: image-lane liveness (diagnosis CLOSED tonight \u2014 lane restored)",
-   "detail": "DIAGNOSIS CLOSED 22:59 CT \u2014 THE LANE IS BACK. Your PC-local check proved the app was never down: the ComfyUI update (0.44.2 \u2192 0.45.4) added an origin-check middleware that drops requests arriving through the old Windows\u2026",
+   "title": "Mail the DC Mechanical winding-up envelope",
+   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
    "link": null
   },
   {
-   "title": "Council walk #6 \u2014 F-15: make the nightly job fail LOUD, by mechanism",
-   "detail": "THE ITEM: Stay Curious nightly production must bank a known set of cards. Today 'a failed batch must be loud' is a sentence in the job's prompt \u2014 and a mid-run kill (it already happened Nov 14) fails silently until a mor\u2026",
+   "title": "Update the card on GitHub billing (Belabox)",
+   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
+   "link": "https://github.com/settings/billing/payment_information"
+  },
+  {
+   "title": "Neuron book migration \u2014 one ledger for the whole Cloudflare pool (gated on KRYPTON review)",
+   "detail": "RULE ADOPTED (walk item 1, 19:26 CT) - 'no unbooked spend': every caller debits the one ledger; failed debit stops the spend; ledger never overstates. KRYPTON review VETTED: plan CANNOT proceed as written - 4 amendments\u2026",
    "link": null
   },
   {
-   "title": "Council walk #7 \u2014 F-07: charging is THE product track; table before build",
-   "detail": "THE ITEM: StoreFab's first dollar sits behind five unbuilt prerequisites (P1\u2013P5) and ten acceptance gaps (G1\u2013G10). The acceptance package is defined and the build order is adopted (governor \u2192 order history \u2192 executor) \u2014\u2026",
-   "link": null
-  },
-  {
-   "title": "Council walk #8 \u2014 F-05 + F-14: fold the leftovers into the game-run relaunch",
-   "detail": "THE ITEM: the storewide Game-aspect run died at 295 and its relaunch is in flight. Two loose ends fold into it instead of standing up new work: F-05 \u2014 134 listings written but never buyer-verified (Browse 429s), plus Pho\u2026",
+   "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
    "link": null
   }
  ]
