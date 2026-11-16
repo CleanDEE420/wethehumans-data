@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T05:42:46-06:00",
+ "generated_at": "2026-11-16T05:47:46-06:00",
  "season": {
-  "fleet_pnl": -534.03,
-  "closed_total": 104,
+  "fleet_pnl": -512.52,
+  "closed_total": 105,
   "open_total": 1,
   "milestones": [
    {
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 6,
     "Road to 100": "6/100",
     "Record": "0W\u20136L",
     "Win rate": "0%",
     "PnL": "$-5.85",
-    "Open": 0
+    "Open": 1
    },
    "demerits": []
   },
@@ -133,20 +133,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 156 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 155, no open snipes right now.",
    "stats": {
-    "Closed": 95,
-    "Road to 100": "95/100",
-    "Record": "30W\u201365L",
+    "Closed": 96,
+    "Road to 100": "96/100",
+    "Record": "31W\u201365L",
     "Win rate": "32%",
-    "PnL": "$-526.48",
-    "Watching": 156,
-    "Open": 1,
+    "PnL": "$-504.97",
+    "Watching": 155,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 68,
-    "Avg win": "$+19.27",
+    "Entries (24h)": 67,
+    "Avg win": "$+19.34",
     "Avg loss": "$-16.99",
-    "Profit factor": "0.52"
+    "Profit factor": "0.54"
    },
    "demerits": [
     "Bag Holder \u00d746"
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,483 rows logged \u00b7 3,664 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,486 rows logged \u00b7 3,664 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -337,7 +337,7 @@
    "next_gate": "ORBIT closes 100 -> block-1 report card -> council review -> his ruling on the one change; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken recor\u2026"
   }
  ],
- "projects_as_of": "2026-11-16 05:41 AM CT",
+ "projects_as_of": "2026-11-16 05:42 AM CT",
  "waiting": [
   {
    "title": "Nightly sweep \u2014 GitHub drip wake failed all day: re-arm Gumby's backup wake + watch the wake?",
