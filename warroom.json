@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T03:47:49-06:00",
+ "generated_at": "2026-11-16T03:52:48-06:00",
  "season": {
   "fleet_pnl": -537.58,
   "closed_total": 102,
@@ -143,7 +143,7 @@
     "Watching": 148,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 66,
+    "Entries (24h)": 65,
     "Avg win": "$+19.13",
     "Avg loss": "$-16.95",
     "Profit factor": "0.51"
@@ -218,7 +218,7 @@
    "stats": {
     "Jobs tracked on the board": 153,
     "Crew reporting in": "5 racers",
-    "Open tasks": 36,
+    "Open tasks": 35,
     "Open decisions": 1,
     "Projects": 16
    },
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,029 rows logged \u00b7 3,276 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,050 rows logged \u00b7 3,294 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -337,7 +337,7 @@
    "next_gate": "Machine \u2014 the fleet runs itself on the PC; Gumby watches the tape. One ruling still owed from you, parked by design: the kill-switch % for any future LIVE run (only matters at real-money time \u2014 nothing goes live before the paper verdicts).\u2026"
   }
  ],
- "projects_as_of": "2026-11-15 11:57 PM CT",
+ "projects_as_of": "2026-11-16 03:48 AM CT",
  "waiting": [
   {
    "title": "Nightly sweep \u2014 GitHub drip wake failed all day: re-arm Gumby's backup wake + watch the wake?",
