@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T12:00:00-06:00",
+ "generated_at": "2026-11-16T12:05:00-06:00",
  "season": {
   "fleet_pnl": -525.4,
   "closed_total": 121,
@@ -134,14 +134,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 183 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 184 fresh Solana launches.",
    "stats": {
     "Closed": 104,
     "Road to 100": "104/100",
     "Record": "35W\u201369L",
     "Win rate": "34%",
     "PnL": "$-513.75",
-    "Watching": 183,
+    "Watching": 184,
     "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 65,
@@ -157,10 +157,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-16-orbit-tape-block1 right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 2026-11-16.",
    "stats": {
-    "Reviews done": "63/68",
+    "Reviews done": "64/68",
     "Reviews filed": 60,
     "Held in queue": 4,
     "Latest report": "2026-11-16-api.js.md",
