@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T17:35:00-06:00",
+ "generated_at": "2026-11-16T17:40:00-06:00",
  "season": {
-  "fleet_pnl": -713.64,
-  "closed_total": 155,
+  "fleet_pnl": -716.43,
+  "closed_total": 156,
   "open_total": 9,
   "milestones": [
    {
@@ -134,23 +134,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 231 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 230 fresh Solana launches.",
    "stats": {
-    "Closed": 134,
-    "Road to 100": "134/100",
-    "Record": "41W\u201393L",
-    "Win rate": "31%",
-    "PnL": "$-701.48",
-    "Watching": 231,
+    "Closed": 135,
+    "Road to 100": "135/100",
+    "Record": "41W\u201394L",
+    "Win rate": "30%",
+    "PnL": "$-704.27",
+    "Watching": 230,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 68,
     "Avg win": "$+19.04",
-    "Avg loss": "$-15.94",
+    "Avg loss": "$-15.80",
     "Profit factor": "0.53"
    },
    "demerits": [
-    "Bag Holder \u00d759"
+    "Bag Holder \u00d760"
    ]
   },
   {
