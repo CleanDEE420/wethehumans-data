@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T11:30:00-06:00",
+ "generated_at": "2026-11-16T11:34:59-06:00",
  "season": {
-  "fleet_pnl": -513.64,
-  "closed_total": 119,
+  "fleet_pnl": -525.29,
+  "closed_total": 120,
   "open_total": 7,
   "milestones": [
    {
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 3 open trades and watching the market.",
    "stats": {
     "Closed": 9,
     "Road to 100": "9/100",
     "Record": "0W\u20139L",
     "Win rate": "0%",
     "PnL": "$-11.85",
-    "Open": 2
+    "Open": 3
    },
    "demerits": []
   },
@@ -134,19 +134,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 178 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 177 fresh Solana launches.",
    "stats": {
-    "Closed": 103,
-    "Road to 100": "103/100",
-    "Record": "35W\u201368L",
+    "Closed": 104,
+    "Road to 100": "104/100",
+    "Record": "35W\u201369L",
     "Win rate": "34%",
-    "PnL": "$-502.10",
-    "Watching": 178,
-    "Open": 2,
+    "PnL": "$-513.75",
+    "Watching": 177,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 63,
     "Avg win": "$+19.08",
-    "Avg loss": "$-17.21",
+    "Avg loss": "$-17.13",
     "Profit factor": "0.57"
    },
    "demerits": [
