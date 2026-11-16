@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T09:00:01-06:00",
+ "generated_at": "2026-11-16T09:05:00-06:00",
  "season": {
   "fleet_pnl": -512.16,
   "closed_total": 114,
@@ -144,7 +144,7 @@
     "Watching": 167,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 69,
+    "Entries (24h)": 67,
     "Avg win": "$+19.55",
     "Avg loss": "$-17.21",
     "Profit factor": "0.57"
@@ -172,7 +172,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": null,
+   "alive": true,
    "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
@@ -217,7 +217,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 157,
+    "Jobs tracked on the board": 158,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 0,
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,106 rows logged \u00b7 4,161 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,140 rows logged \u00b7 4,184 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
