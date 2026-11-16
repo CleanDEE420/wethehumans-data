@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T06:12:46-06:00",
+ "generated_at": "2026-11-16T06:17:47-06:00",
  "season": {
-  "fleet_pnl": -530.65,
-  "closed_total": 106,
-  "open_total": 2,
+  "fleet_pnl": -531.92,
+  "closed_total": 107,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
    "stats": {
-    "Closed": 6,
-    "Road to 100": "6/100",
-    "Record": "0W\u20136L",
+    "Closed": 7,
+    "Road to 100": "7/100",
+    "Record": "0W\u20137L",
     "Win rate": "0%",
-    "PnL": "$-5.85",
-    "Open": 1
+    "PnL": "$-7.11",
+    "Open": 0
    },
    "demerits": []
   },
@@ -228,11 +228,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,504 rows logged \u00b7 3,664 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,507 rows logged \u00b7 3,664 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 502 \u2014 2 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
