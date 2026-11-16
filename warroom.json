@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T13:00:00-06:00",
+ "generated_at": "2026-11-16T13:05:00-06:00",
  "season": {
-  "fleet_pnl": -651.39,
-  "closed_total": 129,
+  "fleet_pnl": -672.07,
+  "closed_total": 130,
   "open_total": 8,
   "milestones": [
    {
@@ -117,14 +117,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 7,
     "Road to 100": "7/100",
     "Record": "2W\u20135L",
     "Win rate": "29%",
     "PnL": "$-0.57",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.69"
    },
    "demerits": []
@@ -134,23 +134,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 187 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 186 fresh Solana launches.",
    "stats": {
-    "Closed": 112,
-    "Road to 100": "112/100",
-    "Record": "35W\u201377L",
+    "Closed": 113,
+    "Road to 100": "113/100",
+    "Record": "35W\u201378L",
     "Win rate": "31%",
-    "PnL": "$-639.74",
-    "Watching": 187,
-    "Open": 3,
+    "PnL": "$-660.42",
+    "Watching": 186,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 66,
     "Avg win": "$+19.08",
-    "Avg loss": "$-16.98",
-    "Profit factor": "0.51"
+    "Avg loss": "$-17.03",
+    "Profit factor": "0.50"
    },
    "demerits": [
-    "Bag Holder \u00d754"
+    "Bag Holder \u00d755"
    ]
   },
   {
@@ -215,7 +215,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the 1:00 PM profile post \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 165,
     "Crew reporting in": "5 racers",
