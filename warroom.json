@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T04:47:47-06:00",
+ "generated_at": "2026-11-16T04:52:46-06:00",
  "season": {
   "fleet_pnl": -514.22,
   "closed_total": 103,
@@ -133,14 +133,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 154 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 155 fresh Solana launches.",
    "stats": {
     "Closed": 94,
     "Road to 100": "94/100",
     "Record": "30W\u201364L",
     "Win rate": "32%",
     "PnL": "$-506.67",
-    "Watching": 154,
+    "Watching": 155,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 67,
@@ -188,8 +188,8 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 2721,
-    "Emails": 490,
+    "Shops banked": 2766,
+    "Emails": 511,
     "Streamers": 103,
     "States in the bank": 9
    },
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,388 rows logged \u00b7 3,597 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,398 rows logged \u00b7 3,604 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
