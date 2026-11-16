@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:54:50-06:00",
+ "generated_at": "2026-11-16T08:00:01-06:00",
  "season": {
   "fleet_pnl": -499.1,
   "closed_total": 111,
@@ -171,7 +171,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,810 rows logged \u00b7 3,884 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,841 rows logged \u00b7 3,913 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
