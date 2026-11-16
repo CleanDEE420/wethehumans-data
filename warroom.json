@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T14:40:00-06:00",
+ "generated_at": "2026-11-16T14:45:00-06:00",
  "season": {
   "fleet_pnl": -663.18,
   "closed_total": 137,
-  "open_total": 9,
+  "open_total": 10,
   "milestones": [
    {
     "name": "First Blood",
@@ -134,17 +134,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 204 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 209 fresh Solana launches.",
    "stats": {
     "Closed": 119,
     "Road to 100": "119/100",
     "Record": "38W\u201381L",
     "Win rate": "32%",
     "PnL": "$-650.84",
-    "Watching": 204,
-    "Open": 3,
+    "Watching": 209,
+    "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 66,
     "Avg win": "$+18.69",
     "Avg loss": "$-16.80",
     "Profit factor": "0.52"
@@ -158,12 +158,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON tape review \u2014 ORBIT block 1 (2026-11-16).",
+   "doing": "Last review filed: Gumby vetting \u2014 KRYPTON api.js review (2026-11-16).",
    "stats": {
     "Reviews done": "64/68",
-    "Reviews filed": 61,
+    "Reviews filed": 62,
     "Held in queue": 4,
-    "Latest report": "2026-11-16-orbit-tape-block1.md",
+    "Latest report": "2026-11-16-api.js-VETTED.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
