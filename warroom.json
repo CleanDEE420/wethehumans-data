@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T13:50:00-06:00",
+ "generated_at": "2026-11-16T13:55:00-06:00",
  "season": {
-  "fleet_pnl": -692.74,
-  "closed_total": 131,
-  "open_total": 11,
+  "fleet_pnl": -680.36,
+  "closed_total": 133,
+  "open_total": 9,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,15 +117,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 7,
-    "Road to 100": "7/100",
-    "Record": "2W\u20135L",
-    "Win rate": "29%",
-    "PnL": "$-0.57",
-    "Open": 1,
-    "Profit factor": "0.69"
+    "Closed": 8,
+    "Road to 100": "8/100",
+    "Record": "2W\u20136L",
+    "Win rate": "25%",
+    "PnL": "$-1.26",
+    "Open": 0,
+    "Profit factor": "0.50"
    },
    "demerits": []
   },
@@ -134,18 +134,18 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 196 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 195 fresh Solana launches.",
    "stats": {
-    "Closed": 114,
-    "Road to 100": "114/100",
-    "Record": "35W\u201379L",
+    "Closed": 115,
+    "Road to 100": "115/100",
+    "Record": "36W\u201379L",
     "Win rate": "31%",
-    "PnL": "$-681.09",
-    "Watching": 196,
-    "Open": 5,
+    "PnL": "$-668.02",
+    "Watching": 195,
+    "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
-    "Avg win": "$+19.08",
+    "Entries (24h)": 66,
+    "Avg win": "$+18.92",
     "Avg loss": "$-17.08",
     "Profit factor": "0.50"
    },
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,181 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,183 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
