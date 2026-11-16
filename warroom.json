@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T16:05:00-06:00",
+ "generated_at": "2026-11-16T16:10:00-06:00",
  "season": {
   "fleet_pnl": -654.54,
   "closed_total": 146,
@@ -134,17 +134,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 216 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 217 fresh Solana launches.",
    "stats": {
     "Closed": 126,
     "Road to 100": "126/100",
     "Record": "40W\u201386L",
     "Win rate": "32%",
     "PnL": "$-642.21",
-    "Watching": 216,
+    "Watching": 217,
     "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 66,
     "Avg win": "$+19.41",
     "Avg loss": "$-16.50",
     "Profit factor": "0.55"
@@ -157,10 +157,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: Gumby vetting \u2014 KRYPTON api.js review (2026-11-16).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-16-kick-pipe right now.",
    "stats": {
-    "Reviews done": "64/68",
+    "Reviews done": "64/69",
     "Reviews filed": 62,
     "Held in queue": 4,
     "Latest report": "2026-11-16-api.js-VETTED.md",
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,199 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,201 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
