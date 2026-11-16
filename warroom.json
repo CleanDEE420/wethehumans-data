@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T20:27:47-06:00",
+ "generated_at": "2026-11-15T20:34:32-06:00",
  "season": {
   "fleet_pnl": -438.89,
   "closed_total": 83,
-  "open_total": 1,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 3,
     "Road to 100": "3/100",
     "Record": "0W\u20133L",
     "Win rate": "0%",
     "PnL": "$-2.61",
-    "Open": 0
+    "Open": 1
    },
    "demerits": []
   },
@@ -113,18 +113,34 @@
    "demerits": []
   },
   {
+   "id": "stacker",
+   "name": "STACKER",
+   "role": "Quick-wins stacker",
+   "alive": false,
+   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "stats": {
+    "Closed": 0,
+    "Road to 100": "0/100",
+    "Record": "0W\u20130L",
+    "Win rate": "\u2014",
+    "PnL": "$+0.00",
+    "Open": 0
+   },
+   "demerits": []
+  },
+  {
    "id": "orbit",
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 127 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 128 fresh Solana launches.",
    "stats": {
     "Closed": 80,
     "Road to 100": "80/100",
     "Record": "25W\u201355L",
     "Win rate": "31%",
     "PnL": "$-436.28",
-    "Watching": 127,
+    "Watching": 128,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 67,
@@ -212,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,706 rows logged \u00b7 2,392 verified \u00b7 1,070 held for the specifics sitting"
+   "value": "Running \u2014 3,716 rows logged \u00b7 2,402 verified \u00b7 1,070 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
