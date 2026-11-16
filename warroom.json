@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T05:12:48-06:00",
+ "generated_at": "2026-11-16T05:17:46-06:00",
  "season": {
   "fleet_pnl": -534.03,
   "closed_total": 104,
@@ -133,14 +133,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 154 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 155 fresh Solana launches.",
    "stats": {
     "Closed": 95,
     "Road to 100": "95/100",
     "Record": "30W\u201365L",
     "Win rate": "32%",
     "PnL": "$-526.48",
-    "Watching": 154,
+    "Watching": 155,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
@@ -228,11 +228,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,459 rows logged \u00b7 3,657 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,463 rows logged \u00b7 3,659 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 502 \u2014 1 in a row (last 04:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 502 \u2014 2 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
