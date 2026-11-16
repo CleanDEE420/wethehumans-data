@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-15T22:42:47-06:00",
+ "generated_at": "2026-11-15T22:47:46-06:00",
  "season": {
-  "fleet_pnl": -505.14,
-  "closed_total": 87,
+  "fleet_pnl": -506.76,
+  "closed_total": 88,
   "open_total": 6,
   "milestones": [
    {
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 3,
-    "Road to 100": "3/100",
-    "Record": "0W\u20133L",
+    "Closed": 4,
+    "Road to 100": "4/100",
+    "Record": "0W\u20134L",
     "Win rate": "0%",
-    "PnL": "$-2.61",
-    "Open": 3
+    "PnL": "$-4.23",
+    "Open": 2
    },
    "demerits": []
   },
@@ -133,17 +133,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 136 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 137 fresh Solana launches.",
    "stats": {
     "Closed": 83,
     "Road to 100": "83/100",
     "Record": "25W\u201358L",
     "Win rate": "30%",
     "PnL": "$-501.91",
-    "Watching": 136,
-    "Open": 1,
+    "Watching": 137,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 68,
     "Avg win": "$+18.28",
     "Avg loss": "$-16.53",
     "Profit factor": "0.48"
@@ -156,10 +156,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-15-council-machine right now.",
    "stats": {
-    "Reviews done": "61/65",
+    "Reviews done": "61/66",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -172,10 +172,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": null,
-   "doing": "Nightly stacker \u2014 last run 2026-11-14 22:37 CT (run 8, nightly stacker): 18 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-14 22:37 CT (run 8, nightly stacker)",
-    "Pieces last run": 18,
+    "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
+    "Pieces last run": 9,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
@@ -219,7 +219,7 @@
     "Jobs tracked on the board": 153,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
-    "Open decisions": 2,
+    "Open decisions": 0,
     "Projects": 16
    },
    "demerits": []
@@ -337,18 +337,8 @@
    "next_gate": "Machine \u2014 the fleet runs itself on the PC; Gumby watches the tape. One ruling still owed from you, parked by design: the kill-switch % for any future LIVE run (only matters at real-money time \u2014 nothing goes live before the paper verdicts).\u2026"
   }
  ],
- "projects_as_of": "2026-11-15 10:39 PM CT",
+ "projects_as_of": "2026-11-15 10:43 PM CT",
  "waiting": [
-  {
-   "title": "Character shorts \u2014 make the other ten?",
-   "detail": "Test short #1 is BANKED and you \u2764\ufe0f'd it tonight: STACKER's intro \u2014 10 seconds, vertical, animated from his canon portrait (coin onto the pile, chest gauge ticks, QA pass: no text, no watermark, still himself). The recipe\u2026",
-   "link": null
-  },
-  {
-   "title": "Drive Pack #1 \u2014 is this THE voice?",
-   "detail": "Drive Pack #1 is BANKED: 20 Stay Curious cards, 11.5 minutes, QA-passed (back-transcribed word-for-word; every year and number speaks in full spoken form \u2014 no digit-strings). One fact shapes the choice: the card-video vo\u2026",
-   "link": null
-  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -378,6 +368,16 @@
    "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
    "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
    "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
+  },
+  {
+   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
+  },
+  {
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
+   "link": null
   }
  ]
 }
