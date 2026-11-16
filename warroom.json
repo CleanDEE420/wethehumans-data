@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T23:14:05-06:00",
+ "generated_at": "2026-11-15T23:17:49-06:00",
  "season": {
-  "fleet_pnl": -472.59,
-  "closed_total": 93,
-  "open_total": 1,
+  "fleet_pnl": -473.49,
+  "closed_total": 94,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
    "stats": {
-    "Closed": 5,
-    "Road to 100": "5/100",
-    "Record": "0W\u20135L",
+    "Closed": 6,
+    "Road to 100": "6/100",
+    "Record": "0W\u20136L",
     "Win rate": "0%",
-    "PnL": "$-4.95",
-    "Open": 1
+    "PnL": "$-5.85",
+    "Open": 0
    },
    "demerits": []
   },
@@ -149,7 +149,7 @@
     "Profit factor": "0.53"
    },
    "demerits": [
-    "Bag Holder \u00d739"
+    "Bag Holder \u00d740"
    ]
   },
   {
