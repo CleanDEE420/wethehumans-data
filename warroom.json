@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T07:37:57-06:00",
+ "generated_at": "2026-11-16T07:42:54-06:00",
  "season": {
   "fleet_pnl": -499.87,
   "closed_total": 110,
@@ -214,9 +214,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the morning quotes \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 156,
+    "Jobs tracked on the board": 157,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 0,
@@ -228,15 +228,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,722 rows logged \u00b7 3,827 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,741 rows logged \u00b7 3,845 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
    "value": "Hourly wake returning 502 \u2014 1 in a row (last 07:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
-  },
-  {
-   "label": "Netlify credits",
-   "value": "~146 left (range 115\u2013178) \u00b7 121 deploys this cycle \u00b7 pool resets Nov 27"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
