@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T12:55:00-06:00",
+ "generated_at": "2026-11-16T13:00:00-06:00",
  "season": {
-  "fleet_pnl": -626.39,
-  "closed_total": 128,
-  "open_total": 9,
+  "fleet_pnl": -651.39,
+  "closed_total": 129,
+  "open_total": 8,
   "milestones": [
    {
     "name": "First Blood",
@@ -134,23 +134,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 188 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 187 fresh Solana launches.",
    "stats": {
-    "Closed": 111,
-    "Road to 100": "111/100",
-    "Record": "35W\u201376L",
-    "Win rate": "32%",
-    "PnL": "$-614.74",
-    "Watching": 188,
-    "Open": 4,
+    "Closed": 112,
+    "Road to 100": "112/100",
+    "Record": "35W\u201377L",
+    "Win rate": "31%",
+    "PnL": "$-639.74",
+    "Watching": 187,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 68,
+    "Entries (24h)": 67,
     "Avg win": "$+19.08",
-    "Avg loss": "$-16.88",
-    "Profit factor": "0.52"
+    "Avg loss": "$-16.98",
+    "Profit factor": "0.51"
    },
    "demerits": [
-    "Bag Holder \u00d753"
+    "Bag Holder \u00d754"
    ]
   },
   {
@@ -215,9 +215,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the 1:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 163,
+    "Jobs tracked on the board": 165,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 0,
