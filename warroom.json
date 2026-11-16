@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T08:55:00-06:00",
+ "generated_at": "2026-11-16T09:00:01-06:00",
  "season": {
   "fleet_pnl": -512.16,
   "closed_total": 114,
@@ -134,14 +134,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 165, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 167, no open snipes right now.",
    "stats": {
     "Closed": 102,
     "Road to 100": "102/100",
     "Record": "34W\u201368L",
     "Win rate": "33%",
     "PnL": "$-505.26",
-    "Watching": 165,
+    "Watching": 167,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 69,
@@ -172,7 +172,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,076 rows logged \u00b7 4,132 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,106 rows logged \u00b7 4,161 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
