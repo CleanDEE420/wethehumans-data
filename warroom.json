@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T11:55:00-06:00",
+ "generated_at": "2026-11-16T12:00:00-06:00",
  "season": {
-  "fleet_pnl": -525.29,
-  "closed_total": 120,
-  "open_total": 9,
+  "fleet_pnl": -525.4,
+  "closed_total": 121,
+  "open_total": 10,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,15 +117,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 6,
-    "Road to 100": "6/100",
-    "Record": "2W\u20134L",
-    "Win rate": "33%",
-    "PnL": "$-0.45",
-    "Open": 1,
-    "Profit factor": "0.74"
+    "Closed": 7,
+    "Road to 100": "7/100",
+    "Record": "2W\u20135L",
+    "Win rate": "29%",
+    "PnL": "$-0.57",
+    "Open": 0,
+    "Profit factor": "0.69"
    },
    "demerits": []
   },
@@ -134,17 +134,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 181 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 183 fresh Solana launches.",
    "stats": {
     "Closed": 104,
     "Road to 100": "104/100",
     "Record": "35W\u201369L",
     "Win rate": "34%",
     "PnL": "$-513.75",
-    "Watching": 181,
-    "Open": 3,
+    "Watching": 183,
+    "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 63,
+    "Entries (24h)": 65,
     "Avg win": "$+19.08",
     "Avg loss": "$-17.13",
     "Profit factor": "0.57"
@@ -157,8 +157,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 2026-11-16.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-16-orbit-tape-block1 right now.",
    "stats": {
     "Reviews done": "63/68",
     "Reviews filed": 60,
@@ -215,9 +215,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning pins \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 162,
+    "Jobs tracked on the board": 163,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 0,
