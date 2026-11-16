@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T06:17:47-06:00",
+ "generated_at": "2026-11-16T06:22:46-06:00",
  "season": {
   "fleet_pnl": -531.92,
   "closed_total": 107,
@@ -216,7 +216,7 @@
    "alive": true,
    "doing": "Drafting today's batches \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 154,
+    "Jobs tracked on the board": 155,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 1,
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,507 rows logged \u00b7 3,664 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 5,510 rows logged \u00b7 3,664 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -337,7 +337,7 @@
    "next_gate": "ORBIT closes 100 -> block-1 report card -> council review -> his ruling on the one change; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken recor\u2026"
   }
  ],
- "projects_as_of": "2026-11-16 05:42 AM CT",
+ "projects_as_of": "2026-11-16 06:21 AM CT",
  "waiting": [
   {
    "title": "Nightly sweep \u2014 GitHub drip wake failed all day: re-arm Gumby's backup wake + watch the wake?",
