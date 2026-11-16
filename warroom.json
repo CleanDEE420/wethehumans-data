@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T20:57:52-06:00",
+ "generated_at": "2026-11-15T21:02:46-06:00",
  "season": {
   "fleet_pnl": -463.89,
   "closed_total": 84,
-  "open_total": 1,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Closed": 3,
     "Road to 100": "3/100",
     "Record": "0W\u20133L",
     "Win rate": "0%",
     "PnL": "$-2.61",
-    "Open": 1
+    "Open": 2
    },
    "demerits": []
   },
@@ -133,7 +133,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 131, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 131 fresh Solana launches.",
    "stats": {
     "Closed": 81,
     "Road to 100": "81/100",
@@ -141,9 +141,9 @@
     "Win rate": "31%",
     "PnL": "$-461.28",
     "Watching": 131,
-    "Open": 0,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 68,
     "Avg win": "$+18.28",
     "Avg loss": "$-16.40",
     "Profit factor": "0.50"
@@ -219,7 +219,7 @@
     "Jobs tracked on the board": 153,
     "Crew reporting in": "5 racers",
     "Open tasks": 31,
-    "Open decisions": 1,
+    "Open decisions": 0,
     "Projects": 16
    },
    "demerits": []
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,814 rows logged \u00b7 2,492 verified \u00b7 1,078 held for the specifics sitting"
+   "value": "Running \u2014 3,853 rows logged \u00b7 2,527 verified \u00b7 1,082 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -259,7 +259,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "DEPLOYED 2026-11-13 09:31 CT (6af72ce1, suite 693/693, charging OFF, Blobs proof passed). Certificate Wall still held back (its own review + deploy word). Application spec amended A1-A6 (drift watchdog core, field-ownership, monitor+auto-fi\u2026"
+   "next_gate": "DEPLOYED 2026-11-13 (6af72ce1, suite 693/693, charging OFF). Stable checklist WRITTEN 2026-11-15 \u2014 26 items: 4 PROVEN / 13 PARTIAL / 9 NOT YET PROVEN; it is the 'stable and solid' measuring stick, and outreach stays held until it reads prov\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -274,7 +274,7 @@
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "FOUNDER RULINGS 2026-11-13: rarity plan DONE 19:59 CT (602 wrong-rarity flags - titles, not prices); prices FROZEN (20:12 CT) - Dec 16 price batch DEAD. Diagnostic PROVED the bind 20:38 CT (sale NOT a lock). Buyer-seat audit COMPLETE (descr\u2026"
+   "next_gate": "Big Fix campaign running: Phase 1 + Wave A (468 titles) complete; Wave B (branded descriptions) RUNNING \u2014 3,561 of ~7,843 processed at last count, 2,160 buyer-verified; Waves C (4,321 Best Offer) + D (218 drifted titles) queue behind it; CP\u2026"
   },
   {
    "name": "wethehumans.cool",
@@ -324,7 +324,7 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "DEPLOY HELD by CleanDEE's word 2026-11-13 \u2014 no deploy until a fresh word from him. Staging now carries 231 cards with per-card pages + sitemap; regen is one command (regen.sh) so nightly bank growth flows in with zero hand work; deploy stil\u2026"
+   "next_gate": "Machine \u2014 nightly batches keep banking and staging follows the bank on its own. One wrinkle left: the site's HTTPS certificate is still provisioning on Netlify's side (auto-retry Mon 2026-11-16 ~09:37 CT). Nothing needs you."
   },
   {
    "name": "The Line",
@@ -334,16 +334,11 @@
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "You - one ruling owed: the kill-switch % for any future live run (only matters at real-money time). Paper window RULED 00:28 CT (100 closed trades per racer)."
+   "next_gate": "Machine \u2014 the fleet runs itself on the PC; Gumby watches the tape. One ruling still owed from you, parked by design: the kill-switch % for any future LIVE run (only matters at real-money time \u2014 nothing goes live before the paper verdicts).\u2026"
   }
  ],
- "projects_as_of": "2026-11-15 07:09 PM CT",
+ "projects_as_of": "2026-11-15 08:59 PM CT",
  "waiting": [
-  {
-   "title": "Stay Curious: derive the held-card exclusion from the bank files, then wire regen into the nightly batch job?",
-   "detail": "THE FINDING: batch 14 banked + rendered 2026-11-14, but the staged site still carried 215 cards until tonight's manual regen (now 231). Worse, the held-card exclusion in tools/build_shelf.py is a HAND-MAINTAINED dict (CA\u2026",
-   "link": null
-  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -375,8 +370,13 @@
    "link": null
   },
   {
-   "title": "Make the drip wake itself \u2014 no Gumby in the loop",
-   "detail": "overnight 6 straight 504s, 00:13-05:13 CT - all ~31s Inactivity Timeout, consecutive_failures 6 (hook state + jsonl). The 22:13/23:13 wakes ran CLEAN, all 4 legs pace_reached. This is the KNOWN overnight window per the N\u2026",
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
+   "link": null
+  },
+  {
+   "title": "Paper bot running \u2014 council rulings owed (kill % + paper verdict window)",
+   "detail": "TRUE STATE (ride-along 2026-11-15 evening): verdict bars RULED 2026-11-15 09:04 CT (profit factor \u22651.25 after costs \u00b7 max drawdown <10% \u00b7 beats buy-and-hold \u00b7 \u22654 weeks; any miss = inconclusive, keep testing) \u2014 the paper-\u2026",
    "link": null
   }
  ]
