@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T20:34:32-06:00",
+ "generated_at": "2026-11-15T20:37:50-06:00",
  "season": {
   "fleet_pnl": -438.89,
   "closed_total": 83,
@@ -116,16 +116,9 @@
    "id": "stacker",
    "name": "STACKER",
    "role": "Quick-wins stacker",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
-   "stats": {
-    "Closed": 0,
-    "Road to 100": "0/100",
-    "Record": "0W\u20130L",
-    "Win rate": "\u2014",
-    "PnL": "$+0.00",
-    "Open": 0
-   },
+   "alive": null,
+   "doing": "Quiet right now \u2014 no fresh word from his corner of the machine.",
+   "stats": {},
    "demerits": []
   },
   {
@@ -157,9 +150,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-15-parity-rerun-391-398 right now.",
+   "doing": "Reviewing 2026-11-15-d82-blobtimeout-delta right now.",
    "stats": {
-    "Reviews done": "57/65",
+    "Reviews done": "58/65",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -228,7 +221,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,716 rows logged \u00b7 2,402 verified \u00b7 1,070 held for the specifics sitting"
+   "value": "Running \u2014 3,722 rows logged \u00b7 2,407 verified \u00b7 1,071 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
