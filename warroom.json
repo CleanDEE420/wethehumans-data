@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T11:15:00-06:00",
+ "generated_at": "2026-11-16T11:25:00-06:00",
  "season": {
-  "fleet_pnl": -513.76,
-  "closed_total": 118,
-  "open_total": 8,
+  "fleet_pnl": -513.64,
+  "closed_total": 119,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,15 +117,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 5,
-    "Road to 100": "5/100",
-    "Record": "1W\u20134L",
-    "Win rate": "20%",
-    "PnL": "$-0.57",
-    "Open": 2,
-    "Profit factor": "0.67"
+    "Closed": 6,
+    "Road to 100": "6/100",
+    "Record": "2W\u20134L",
+    "Win rate": "33%",
+    "PnL": "$-0.45",
+    "Open": 1,
+    "Profit factor": "0.74"
    },
    "demerits": []
   },
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,161 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,163 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
