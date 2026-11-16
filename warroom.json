@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15T19:17:48-06:00",
+ "generated_at": "2026-11-15T19:22:59-06:00",
  "season": {
   "fleet_pnl": -408.14,
   "closed_total": 77,
@@ -60,9 +60,7 @@
     "PnL": "$-0.86",
     "Open": 2
    },
-   "demerits": [
-    "Dead Air"
-   ]
+   "demerits": []
   },
   {
    "id": "recoil",
@@ -78,7 +76,9 @@
     "PnL": "$+0.00",
     "Open": 0
    },
-   "demerits": []
+   "demerits": [
+    "Dead Air"
+   ]
   },
   {
    "id": "governor",
@@ -117,17 +117,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 125 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 126 fresh Solana launches.",
    "stats": {
     "Closed": 76,
     "Road to 100": "76/100",
     "Record": "24W\u201352L",
     "Win rate": "32%",
     "PnL": "$-407.28",
-    "Watching": 125,
+    "Watching": 126,
     "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 72,
+    "Entries (24h)": 71,
     "Avg win": "$+18.98",
     "Avg loss": "$-16.59",
     "Profit factor": "0.53"
@@ -141,9 +141,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-15-council-parity right now.",
+   "doing": "Reviewing 2026-11-15-council-fabshop right now.",
    "stats": {
-    "Reviews done": "53/60",
+    "Reviews done": "54/60",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -212,7 +212,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,349 rows logged \u00b7 2,098 verified \u00b7 1,035 held for the specifics sitting"
+   "value": "Running \u2014 3,392 rows logged \u00b7 2,127 verified \u00b7 1,038 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
