@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T16:50:00-06:00",
+ "generated_at": "2026-11-16T16:55:00-06:00",
  "season": {
   "fleet_pnl": -660.19,
   "closed_total": 149,
@@ -157,10 +157,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-16-kick-pipe right now.",
+   "alive": null,
+   "doing": "Last review filed: Gumby vetting \u2014 KRYPTON api.js review (2026-11-16).",
    "stats": {
-    "Reviews done": "64/69",
+    "Reviews done": "65/69",
     "Reviews filed": 62,
     "Held in queue": 4,
     "Latest report": "2026-11-16-api.js-VETTED.md",
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,205 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,207 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
