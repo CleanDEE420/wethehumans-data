@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T21:02:46-06:00",
+ "generated_at": "2026-11-15T21:07:49-06:00",
  "season": {
-  "fleet_pnl": -463.89,
-  "closed_total": 84,
-  "open_total": 3,
+  "fleet_pnl": -487.44,
+  "closed_total": 85,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -133,20 +133,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 131 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 132, no open snipes right now.",
    "stats": {
-    "Closed": 81,
-    "Road to 100": "81/100",
-    "Record": "25W\u201356L",
-    "Win rate": "31%",
-    "PnL": "$-461.28",
-    "Watching": 131,
-    "Open": 1,
+    "Closed": 82,
+    "Road to 100": "82/100",
+    "Record": "25W\u201357L",
+    "Win rate": "30%",
+    "PnL": "$-484.83",
+    "Watching": 132,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
     "Avg win": "$+18.28",
-    "Avg loss": "$-16.40",
-    "Profit factor": "0.50"
+    "Avg loss": "$-16.52",
+    "Profit factor": "0.49"
    },
    "demerits": [
     "Bag Holder \u00d737"
@@ -156,10 +156,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-15-failure-harness right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
    "stats": {
-    "Reviews done": "60/65",
+    "Reviews done": "61/65",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -218,7 +218,7 @@
    "stats": {
     "Jobs tracked on the board": 153,
     "Crew reporting in": "5 racers",
-    "Open tasks": 31,
+    "Open tasks": 32,
     "Open decisions": 0,
     "Projects": 16
    },
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,853 rows logged \u00b7 2,527 verified \u00b7 1,082 held for the specifics sitting"
+   "value": "Running \u2014 3,891 rows logged \u00b7 2,560 verified \u00b7 1,087 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -259,7 +259,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "DEPLOYED 2026-11-13 (6af72ce1, suite 693/693, charging OFF). Stable checklist WRITTEN 2026-11-15 \u2014 26 items: 4 PROVEN / 13 PARTIAL / 9 NOT YET PROVEN; it is the 'stable and solid' measuring stick, and outreach stays held until it reads prov\u2026"
+   "next_gate": "DEPLOYED 2026-11-13 (6af72ce1, suite 693/693, charging OFF). Stable checklist WRITTEN 2026-11-15 - 26 items: 4 PROVEN / 13 PARTIAL / 9 NOT YET PROVEN; it is the 'stable and solid' measuring stick, and outreach stays held until it reads prov\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -269,17 +269,17 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "waiting on: CleanDEE's deploy word for the staged WTH-feed section (native rebuild, staged 2026-11-06; feed refresh ran 2026-11-14 ~23:45 CT \u2014 shelf current Nov 10\u201314 (8 newest Page posts, 1 new card image b4-06); bundled fallback still the\u2026"
+   "next_gate": "Findability DEPLOYED 2026-11-15 (6afa0622, 13 files - llms.txt, structured data, IndexNow key; ping accepted 202). Waiting on: CleanDEE's deploy word for the staged WTH-feed section (native rebuild, staged 2026-11-06; feed refresh ran 2026-\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Big Fix campaign running: Phase 1 + Wave A (468 titles) complete; Wave B (branded descriptions) RUNNING \u2014 3,561 of ~7,843 processed at last count, 2,160 buyer-verified; Waves C (4,321 Best Offer) + D (218 drifted titles) queue behind it; CP\u2026"
+   "next_gate": "Big Fix campaign running: Phase 1 + Wave A (468 titles) complete; Wave B (branded descriptions) RUNNING - 3,728 rows, 2,413 buyer-verified at 20:41 CT; Waves C (4,321 Best Offer) + D (218 drifted titles) queue behind it; CPK Sync Inventory\u2026"
   },
   {
    "name": "wethehumans.cool",
    "status": "live",
-   "next_gate": "Staged for the next deploy (no word yet): Just Listed card-size fix (2026-11-01) + Dad Hustle \u2194 StoreFab cross-link (2026-11-01) + Seller School 12 lessons (11 DRAFT files + link-back shelf spec, staged 2026-11-14 \u2014 lessons go live before a\u2026"
+   "next_gate": "Findability DEPLOYED 2026-11-15 (6afa0533, 23 files - llms.txt, structured data, answer blocks, 12 Seller School lessons, IndexNow keys; IndexNow ping accepted 202). Just Listed card-size fix + Dad Hustle <-> StoreFab cross-link: LIVE since\u2026"
   },
   {
    "name": "Facebook + Reels machine",
@@ -314,7 +314,7 @@
   {
    "name": "DC Command \u2014 the board itself",
    "status": "active",
-   "next_gate": "DEPLOYED 2026-11-12 ~00:25 CT (6af55bd8862711913dabe64d, founder's standing word): stats scroll + answer-on-face + numbers-above-factory layout + Pulse Dot + NEW /dragnet.html page, all live-verified. Next up, still staged: usage shelf read\u2026"
+   "next_gate": "Factory Alive DEPLOYED 2026-11-15 (6afa04db - production already carried the factory+alive index from the Nov 12 trading deploy; the GO converted inference into deploy-record proof). War Room DEPLOYED 17:23-17:24 CT (6afa3eec89f165d8e67f92e\u2026"
   },
   {
    "name": "Household / admin",
@@ -329,7 +329,7 @@
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: parity council answer (fired 03:47 CT Nov 13, still pending ~50h); batch_full + rarity.js + bigfix-patches/survivalfix vets (Gumby); wave B resume - PAUSED 04:20 CT, needs eyes on the no_bind cluster; photo-60 Game authorization\u2026"
+   "next_gate": "waiting on: KRYPTON vets - batch_full, rarity.js, neuron-migration-flip, d82-ui, readledger, parity-rerun-391-398, council-parity + council-fabshop seats (all COMPLETE, synthesis owed); byte-gate + failure-harness reviews (registered, not s\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
@@ -337,7 +337,7 @@
    "next_gate": "Machine \u2014 the fleet runs itself on the PC; Gumby watches the tape. One ruling still owed from you, parked by design: the kill-switch % for any future LIVE run (only matters at real-money time \u2014 nothing goes live before the paper verdicts).\u2026"
   }
  ],
- "projects_as_of": "2026-11-15 08:59 PM CT",
+ "projects_as_of": "2026-11-15 09:05 PM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
@@ -350,13 +350,18 @@
    "link": "https://github.com/settings/billing/payment_information"
   },
   {
+   "title": "Neuron book migration \u2014 one ledger for the whole Cloudflare pool (gated on KRYPTON review)",
+   "detail": "RULE ADOPTED (walk item 1, 19:26 CT) - 'no unbooked spend': every caller debits the one ledger; failed debit stops the spend; ledger never overstates. KRYPTON review VETTED: plan CANNOT proceed as written - 4 amendments\u2026",
+   "link": null
+  },
+  {
    "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
    "link": null
   },
   {
    "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
-   "detail": "Item #6 (built-in profile set \u2014 picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT, deploy 6af72ce1). Assets staged (avatar face.jpg + header 1500x50\u2026",
+   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
    "link": null
   },
   {
@@ -372,11 +377,6 @@
   {
    "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
    "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
-   "link": null
-  },
-  {
-   "title": "Paper bot running \u2014 council rulings owed (kill % + paper verdict window)",
-   "detail": "TRUE STATE (ride-along 2026-11-15 evening): verdict bars RULED 2026-11-15 09:04 CT (profit factor \u22651.25 after costs \u00b7 max drawdown <10% \u00b7 beats buy-and-hold \u00b7 \u22654 weeks; any miss = inconclusive, keep testing) \u2014 the paper-\u2026",
    "link": null
   }
  ]
