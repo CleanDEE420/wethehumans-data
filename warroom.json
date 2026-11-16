@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T14:10:00-06:00",
+ "generated_at": "2026-11-16T14:15:00-06:00",
  "season": {
-  "fleet_pnl": -659.97,
-  "closed_total": 134,
+  "fleet_pnl": -663.92,
+  "closed_total": 135,
   "open_total": 10,
   "milestones": [
    {
@@ -134,19 +134,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 198 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 199 fresh Solana launches.",
    "stats": {
-    "Closed": 116,
-    "Road to 100": "116/100",
-    "Record": "37W\u201379L",
+    "Closed": 117,
+    "Road to 100": "117/100",
+    "Record": "37W\u201380L",
     "Win rate": "32%",
-    "PnL": "$-647.63",
-    "Watching": 198,
+    "PnL": "$-651.58",
+    "Watching": 199,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 66,
+    "Entries (24h)": 67,
     "Avg win": "$+18.96",
-    "Avg loss": "$-17.08",
+    "Avg loss": "$-16.91",
     "Profit factor": "0.52"
    },
    "demerits": [
@@ -233,7 +233,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 01:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 502 \u2014 1 in a row (last 02:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
