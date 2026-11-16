@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-16T08:30:00-06:00",
+ "generated_at": "2026-11-16T08:35:00-06:00",
  "season": {
-  "fleet_pnl": -521.46,
-  "closed_total": 112,
+  "fleet_pnl": -513.31,
+  "closed_total": 113,
   "open_total": 3,
   "milestones": [
    {
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 7,
     "Road to 100": "7/100",
     "Record": "0W\u20137L",
     "Win rate": "0%",
     "PnL": "$-7.11",
-    "Open": 0
+    "Open": 1
    },
    "demerits": []
   },
@@ -133,20 +133,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 164 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 163, no open snipes right now.",
    "stats": {
-    "Closed": 101,
-    "Road to 100": "101/100",
-    "Record": "33W\u201368L",
+    "Closed": 102,
+    "Road to 100": "102/100",
+    "Record": "34W\u201368L",
     "Win rate": "33%",
-    "PnL": "$-513.41",
-    "Watching": 164,
-    "Open": 1,
+    "PnL": "$-505.26",
+    "Watching": 163,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 70,
-    "Avg win": "$+19.90",
+    "Entries (24h)": 69,
+    "Avg win": "$+19.55",
     "Avg loss": "$-17.21",
-    "Profit factor": "0.56"
+    "Profit factor": "0.57"
    },
    "demerits": [
     "Bag Holder \u00d749"
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 5,975 rows logged \u00b7 4,039 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,001 rows logged \u00b7 4,064 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
