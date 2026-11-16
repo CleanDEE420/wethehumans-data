@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T22:52:46-06:00",
+ "generated_at": "2026-11-15T22:57:50-06:00",
  "season": {
-  "fleet_pnl": -507.26,
-  "closed_total": 89,
-  "open_total": 5,
+  "fleet_pnl": -447.59,
+  "closed_total": 92,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 4,
-    "Road to 100": "4/100",
-    "Record": "0W\u20134L",
+    "Closed": 5,
+    "Road to 100": "5/100",
+    "Record": "0W\u20135L",
     "Win rate": "0%",
-    "PnL": "$-4.23",
-    "Open": 2
+    "PnL": "$-4.95",
+    "Open": 1
    },
    "demerits": []
   },
@@ -117,14 +117,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 2,
-    "Road to 100": "2/100",
-    "Record": "0W\u20132L",
+    "Closed": 3,
+    "Road to 100": "3/100",
+    "Record": "0W\u20133L",
     "Win rate": "0%",
-    "PnL": "$-1.12",
-    "Open": 1
+    "PnL": "$-1.70",
+    "Open": 0
    },
    "demerits": []
   },
@@ -133,20 +133,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 137 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 136 fresh Solana launches.",
    "stats": {
-    "Closed": 83,
-    "Road to 100": "83/100",
-    "Record": "25W\u201358L",
-    "Win rate": "30%",
-    "PnL": "$-501.91",
-    "Watching": 137,
-    "Open": 2,
+    "Closed": 84,
+    "Road to 100": "84/100",
+    "Record": "26W\u201358L",
+    "Win rate": "31%",
+    "PnL": "$-440.94",
+    "Watching": 136,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
-    "Avg win": "$+18.28",
+    "Avg win": "$+19.92",
     "Avg loss": "$-16.53",
-    "Profit factor": "0.48"
+    "Profit factor": "0.54"
    },
    "demerits": [
     "Bag Holder \u00d739"
@@ -156,10 +156,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-15-council-machine right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-15.",
    "stats": {
-    "Reviews done": "61/66",
+    "Reviews done": "62/66",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
