@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T21:42:47-06:00",
+ "generated_at": "2026-11-15T21:47:47-06:00",
  "season": {
   "fleet_pnl": -504.52,
   "closed_total": 86,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,14 +117,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
     "Record": "0W\u20130L",
     "Win rate": "\u2014",
     "PnL": "$+0.00",
-    "Open": 0
+    "Open": 1
    },
    "demerits": []
   },
@@ -143,7 +143,7 @@
     "Watching": 132,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 68,
+    "Entries (24h)": 67,
     "Avg win": "$+18.28",
     "Avg loss": "$-16.53",
     "Profit factor": "0.48"
@@ -228,7 +228,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 4,102 rows logged \u00b7 2,714 verified \u00b7 1,139 held for the specifics sitting"
+   "value": "Running \u2014 4,171 rows logged \u00b7 2,714 verified \u00b7 1,205 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -248,7 +248,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "234 cards banked"
+   "value": "251 cards banked"
   },
   {
    "label": "Quote card pool",
