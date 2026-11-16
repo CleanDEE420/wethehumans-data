@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T11:45:00-06:00",
+ "generated_at": "2026-11-16T11:50:00-06:00",
  "season": {
   "fleet_pnl": -525.29,
   "closed_total": 120,
-  "open_total": 8,
+  "open_total": 9,
   "milestones": [
    {
     "name": "First Blood",
@@ -134,15 +134,15 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 180 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 181 fresh Solana launches.",
    "stats": {
     "Closed": 104,
     "Road to 100": "104/100",
     "Record": "35W\u201369L",
     "Win rate": "34%",
     "PnL": "$-513.75",
-    "Watching": 180,
-    "Open": 2,
+    "Watching": 181,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 63,
     "Avg win": "$+19.08",
