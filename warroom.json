@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-15T19:07:57-06:00",
+ "generated_at": "2026-11-15T19:12:53-06:00",
  "season": {
-  "fleet_pnl": -410.22,
-  "closed_total": 74,
-  "open_total": 8,
+  "fleet_pnl": -404.51,
+  "closed_total": 75,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,20 +117,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 126 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 126 fresh Solana launches.",
    "stats": {
-    "Closed": 74,
-    "Road to 100": "74/100",
-    "Record": "23W\u201351L",
-    "Win rate": "31%",
-    "PnL": "$-410.22",
+    "Closed": 75,
+    "Road to 100": "75/100",
+    "Record": "24W\u201351L",
+    "Win rate": "32%",
+    "PnL": "$-404.51",
     "Watching": 126,
-    "Open": 5,
+    "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 72,
-    "Avg win": "$+19.56",
+    "Avg win": "$+18.98",
     "Avg loss": "$-16.86",
-    "Profit factor": "0.52"
+    "Profit factor": "0.53"
    },
    "demerits": [
     "Bag Holder \u00d736"
@@ -141,9 +141,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-15-report-card right now.",
+   "doing": "Reviewing 2026-11-15-readledger right now.",
    "stats": {
-    "Reviews done": "51/60",
+    "Reviews done": "52/60",
     "Reviews filed": 59,
     "Held in queue": 4,
     "Latest report": "2026-11-15-batch_full.md",
@@ -155,7 +155,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-14 22:37 CT (run 8, nightly stacker): 18 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-14 22:37 CT (run 8, nightly stacker)",
@@ -212,7 +212,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 3,321 rows logged \u00b7 2,074 verified \u00b7 1,035 held for the specifics sitting"
+   "value": "Running \u2014 3,335 rows logged \u00b7 2,086 verified \u00b7 1,035 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
