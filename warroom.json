@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T21:00:01-06:00",
+ "generated_at": "2026-11-16T21:05:00-06:00",
  "season": {
   "fleet_pnl": -739.36,
   "closed_total": 172,
@@ -144,7 +144,7 @@
     "Watching": 241,
     "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 69,
+    "Entries (24h)": 68,
     "Avg win": "$+19.60",
     "Avg loss": "$-15.07",
     "Profit factor": "0.54"
@@ -172,7 +172,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": null,
+   "alive": true,
    "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
