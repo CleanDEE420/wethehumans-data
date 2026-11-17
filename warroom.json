@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:45:00-06:00",
+ "generated_at": "2026-11-17T17:50:00-06:00",
  "season": {
   "fleet_pnl": -1002.54,
   "closed_total": 246,
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-17-toolkit-games-integration right now.",
    "stats": {
     "Reviews done": "75/81",
     "Reviews filed": 64,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 205,
+    "Jobs tracked on the board": 223,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
