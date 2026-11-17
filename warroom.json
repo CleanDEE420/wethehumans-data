@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T08:20:00-06:00",
+ "generated_at": "2026-11-17T08:25:00-06:00",
  "season": {
   "fleet_pnl": -778.57,
   "closed_total": 202,
@@ -135,14 +135,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 296 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 297 fresh Solana launches.",
    "stats": {
     "Closed": 167,
     "Road to 100": "167/100",
     "Record": "45W\u2013122L",
     "Win rate": "27%",
     "PnL": "$-764.60",
-    "Watching": 296,
+    "Watching": 297,
     "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,108 rows logged \u00b7 5,906 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,135 rows logged \u00b7 5,932 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
