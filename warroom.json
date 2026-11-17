@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T03:05:00-06:00",
+ "generated_at": "2026-11-17T03:10:00-06:00",
  "season": {
-  "fleet_pnl": -750.86,
-  "closed_total": 192,
-  "open_total": 3,
+  "fleet_pnl": -751.65,
+  "closed_total": 193,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
    "stats": {
-    "Closed": 13,
-    "Road to 100": "13/100",
-    "Record": "1W\u201312L",
-    "Win rate": "8%",
-    "PnL": "$-11.89",
-    "Open": 1,
+    "Closed": 14,
+    "Road to 100": "14/100",
+    "Record": "1W\u201313L",
+    "Win rate": "7%",
+    "PnL": "$-12.68",
+    "Open": 0,
     "Profit factor": "0.14"
    },
    "demerits": []
@@ -145,7 +145,7 @@
     "Watching": 273,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 68,
+    "Entries (24h)": 67,
     "Avg win": "$+20.43",
     "Avg loss": "$-14.22",
     "Profit factor": "0.55"
@@ -218,7 +218,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 201,
+    "Jobs tracked on the board": 183,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,521 rows logged \u00b7 4,416 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,548 rows logged \u00b7 4,442 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
