@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T04:55:00-06:00",
+ "generated_at": "2026-11-17T05:00:00-06:00",
  "season": {
-  "fleet_pnl": -755.75,
-  "closed_total": 195,
-  "open_total": 3,
+  "fleet_pnl": -758.61,
+  "closed_total": 196,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -135,19 +135,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 277 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 276, no open snipes right now.",
    "stats": {
-    "Closed": 161,
-    "Road to 100": "161/100",
-    "Record": "44W\u2013117L",
+    "Closed": 162,
+    "Road to 100": "162/100",
+    "Record": "44W\u2013118L",
     "Win rate": "27%",
-    "PnL": "$-741.00",
-    "Watching": 277,
-    "Open": 1,
+    "PnL": "$-743.86",
+    "Watching": 276,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 66,
     "Avg win": "$+20.43",
-    "Avg loss": "$-14.02",
+    "Avg loss": "$-13.92",
     "Profit factor": "0.55"
    },
    "demerits": [
@@ -190,8 +190,8 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 2878,
-    "Emails": 552,
+    "Shops banked": 2882,
+    "Emails": 554,
     "Streamers": 133,
     "States in the bank": 10
    },
@@ -218,7 +218,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 184,
+    "Jobs tracked on the board": 185,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 7,164 rows logged \u00b7 5,037 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 7,190 rows logged \u00b7 5,062 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
