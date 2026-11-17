@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T03:10:00-06:00",
+ "generated_at": "2026-11-17T03:15:00-06:00",
  "season": {
   "fleet_pnl": -751.65,
   "closed_total": 193,
@@ -158,8 +158,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-16-toolkit-phase1-shell right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
     "Reviews done": "66/73",
     "Reviews filed": 64,
@@ -230,11 +230,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,548 rows logged \u00b7 4,442 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,560 rows logged \u00b7 4,452 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 504 \u2014 1 in a row (last 02:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 502 \u2014 2 in a row (last 03:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
