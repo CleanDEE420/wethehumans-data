@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T17:00:00-06:00",
+ "generated_at": "2026-11-17T17:05:00-06:00",
  "season": {
   "fleet_pnl": -974.17,
   "closed_total": 243,
@@ -147,7 +147,7 @@
     "Watching": 308,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 66,
+    "Entries (24h)": 64,
     "Avg win": "$+19.84",
     "Avg loss": "$-13.52",
     "Profit factor": "0.52"
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-12-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 221,
+    "Jobs tracked on the board": 205,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
