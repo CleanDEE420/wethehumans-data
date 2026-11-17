@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T05:10:00-06:00",
+ "generated_at": "2026-11-17T05:15:00-06:00",
  "season": {
   "fleet_pnl": -758.61,
   "closed_total": 196,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -102,14 +102,14 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 1,
     "Road to 100": "1/100",
     "Record": "1W\u20130L",
     "Win rate": "100%",
     "PnL": "$+0.36",
-    "Open": 0
+    "Open": 1
    },
    "demerits": []
   },
@@ -135,14 +135,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 277 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 278 fresh Solana launches.",
    "stats": {
     "Closed": 162,
     "Road to 100": "162/100",
     "Record": "44W\u2013118L",
     "Win rate": "27%",
     "PnL": "$-743.86",
-    "Watching": 277,
+    "Watching": 278,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 67,
@@ -187,7 +187,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 2882,
@@ -230,11 +230,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 7,238 rows logged \u00b7 5,108 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 7,250 rows logged \u00b7 5,119 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 04:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 504 \u2014 1 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
