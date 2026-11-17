@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T07:35:00-06:00",
+ "generated_at": "2026-11-17T07:40:00-06:00",
  "season": {
-  "fleet_pnl": -772.43,
-  "closed_total": 200,
-  "open_total": 8,
+  "fleet_pnl": -775.29,
+  "closed_total": 201,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -135,19 +135,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 287 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 288 fresh Solana launches.",
    "stats": {
-    "Closed": 165,
-    "Road to 100": "165/100",
-    "Record": "45W\u2013120L",
+    "Closed": 166,
+    "Road to 100": "166/100",
+    "Record": "45W\u2013121L",
     "Win rate": "27%",
-    "PnL": "$-758.46",
-    "Watching": 287,
-    "Open": 3,
+    "PnL": "$-761.32",
+    "Watching": 288,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 67,
     "Avg win": "$+20.53",
-    "Avg loss": "$-14.02",
+    "Avg loss": "$-13.93",
     "Profit factor": "0.55"
    },
    "demerits": [
@@ -216,9 +216,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the morning quotes \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 189,
+    "Jobs tracked on the board": 190,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 7,849 rows logged \u00b7 5,672 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 7,880 rows logged \u00b7 5,703 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
