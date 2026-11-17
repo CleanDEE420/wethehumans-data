@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T22:40:00-06:00",
+ "generated_at": "2026-11-16T22:45:00-06:00",
  "season": {
   "fleet_pnl": -718.49,
   "closed_total": 179,
@@ -173,10 +173,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": true,
-   "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-16 22:37 CT (run 10, nightly stacker): 14 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
-    "Pieces last run": 9,
+    "Last run": "2026-11-16 22:37 CT (run 10, nightly stacker)",
+    "Pieces last run": 14,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
@@ -215,9 +215,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-1-done",
    "stats": {
-    "Jobs tracked on the board": 179,
+    "Jobs tracked on the board": 209,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
     "Open decisions": 0,
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,251 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,253 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
