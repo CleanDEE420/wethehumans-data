@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T15:05:00-06:00",
+ "generated_at": "2026-11-17T15:10:00-06:00",
  "season": {
   "fleet_pnl": -930.49,
   "closed_total": 236,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 17,
     "Road to 100": "17/100",
     "Record": "1W\u201316L",
     "Win rate": "6%",
     "PnL": "$-15.83",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.11"
    },
    "demerits": []
