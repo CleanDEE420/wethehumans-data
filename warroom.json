@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:05:00-06:00",
+ "generated_at": "2026-11-17T12:10:00-06:00",
  "season": {
   "fleet_pnl": -845.2,
   "closed_total": 220,
@@ -159,8 +159,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-17-wavec-proven-recipe right now.",
    "stats": {
     "Reviews done": "68/74",
     "Reviews filed": 64,
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 197,
+    "Jobs tracked on the board": 214,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
