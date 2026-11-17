@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:20:01-06:00",
+ "generated_at": "2026-11-16T20:30:03-06:00",
  "season": {
   "fleet_pnl": -738.82,
   "closed_total": 171,
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,233 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,235 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -334,7 +334,7 @@
    "next_gate": "ORBIT closes 100 -> block-1 report card -> council review -> his ruling on the one change; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken recor\u2026"
   }
  ],
- "projects_as_of": "2026-11-16 06:47 AM CT",
+ "projects_as_of": "2026-11-16 07:44 AM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
