@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T08:30:00-06:00",
+ "generated_at": "2026-11-17T08:35:00-06:00",
  "season": {
-  "fleet_pnl": -774.5,
-  "closed_total": 203,
-  "open_total": 7,
+  "fleet_pnl": -777.41,
+  "closed_total": 204,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -135,19 +135,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 298 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 296 fresh Solana launches.",
    "stats": {
-    "Closed": 168,
-    "Road to 100": "168/100",
-    "Record": "46W\u2013122L",
+    "Closed": 169,
+    "Road to 100": "169/100",
+    "Record": "46W\u2013123L",
     "Win rate": "27%",
-    "PnL": "$-760.53",
-    "Watching": 298,
-    "Open": 2,
+    "PnL": "$-763.44",
+    "Watching": 296,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
     "Avg win": "$+20.18",
-    "Avg loss": "$-13.84",
+    "Avg loss": "$-13.75",
     "Profit factor": "0.55"
    },
    "demerits": [
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,172 rows logged \u00b7 5,969 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,202 rows logged \u00b7 5,999 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
