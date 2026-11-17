@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:10:00-06:00",
+ "generated_at": "2026-11-17T13:15:00-06:00",
  "season": {
   "fleet_pnl": -832.5,
   "closed_total": 223,
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 313 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 311 fresh Solana launches.",
    "stats": {
     "Closed": 182,
     "Road to 100": "182/100",
     "Record": "50W\u2013132L",
     "Win rate": "27%",
     "PnL": "$-814.06",
-    "Watching": 313,
+    "Watching": 311,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 69,
+    "Entries (24h)": 68,
     "Avg win": "$+19.80",
     "Avg loss": "$-13.67",
     "Profit factor": "0.55"
@@ -159,8 +159,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-wavec-guard-convergence right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
     "Reviews done": "71/77",
     "Reviews filed": 64,
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 6 in a row (last 12:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 504 \u2014 7 in a row (last 01:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
