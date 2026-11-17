@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T12:00:00-06:00",
+ "generated_at": "2026-11-17T12:05:00-06:00",
  "season": {
-  "fleet_pnl": -862.07,
-  "closed_total": 219,
-  "open_total": 5,
+  "fleet_pnl": -845.2,
+  "closed_total": 220,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 306 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 307 fresh Solana launches.",
    "stats": {
-    "Closed": 179,
-    "Road to 100": "179/100",
-    "Record": "48W\u2013131L",
+    "Closed": 180,
+    "Road to 100": "180/100",
+    "Record": "49W\u2013131L",
     "Win rate": "27%",
-    "PnL": "$-842.79",
-    "Watching": 306,
-    "Open": 2,
+    "PnL": "$-825.92",
+    "Watching": 307,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 72,
-    "Avg win": "$+19.97",
+    "Avg win": "$+19.91",
     "Avg loss": "$-13.75",
-    "Profit factor": "0.53"
+    "Profit factor": "0.54"
    },
    "demerits": [
     "Bag Holder \u00d772"
@@ -162,7 +162,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
-    "Reviews done": "68/73",
+    "Reviews done": "68/74",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
