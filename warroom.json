@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T14:35:00-06:00",
+ "generated_at": "2026-11-17T14:40:00-06:00",
  "season": {
-  "fleet_pnl": -889.11,
-  "closed_total": 230,
-  "open_total": 7,
+  "fleet_pnl": -906.85,
+  "closed_total": 233,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -68,14 +68,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
-    "Closed": 3,
-    "Road to 100": "3/100",
-    "Record": "3W\u20130L",
-    "Win rate": "100%",
-    "PnL": "$+2.38",
-    "Open": 1
+    "Closed": 4,
+    "Road to 100": "4/100",
+    "Record": "3W\u20131L",
+    "Win rate": "75%",
+    "PnL": "$+2.25",
+    "Open": 0,
+    "Profit factor": "19.41"
    },
    "demerits": []
   },
@@ -119,15 +120,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 19,
-    "Road to 100": "19/100",
-    "Record": "5W\u201314L",
-    "Win rate": "26%",
-    "PnL": "$-4.20",
-    "Open": 1,
-    "Profit factor": "0.37"
+    "Closed": 20,
+    "Road to 100": "20/100",
+    "Record": "6W\u201314L",
+    "Win rate": "30%",
+    "PnL": "$-4.09",
+    "Open": 0,
+    "Profit factor": "0.39"
    },
    "demerits": []
   },
@@ -136,31 +137,31 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 310 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 310 fresh Solana launches.",
    "stats": {
-    "Closed": 189,
-    "Road to 100": "189/100",
-    "Record": "52W\u2013137L",
-    "Win rate": "28%",
-    "PnL": "$-870.67",
+    "Closed": 190,
+    "Road to 100": "190/100",
+    "Record": "52W\u2013138L",
+    "Win rate": "27%",
+    "PnL": "$-888.40",
     "Watching": 310,
-    "Open": 4,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 71,
+    "Entries (24h)": 70,
     "Avg win": "$+19.84",
-    "Avg loss": "$-13.89",
+    "Avg loss": "$-13.91",
     "Profit factor": "0.54"
    },
    "demerits": [
-    "Bag Holder \u00d776"
+    "Bag Holder \u00d777"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-17-wavec-condition-hold right now.",
    "stats": {
     "Reviews done": "73/79",
     "Reviews filed": 64,
@@ -217,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-26-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 212,
+    "Jobs tracked on the board": 200,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
