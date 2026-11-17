@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T22:25:00-06:00",
+ "generated_at": "2026-11-16T22:30:00-06:00",
  "season": {
-  "fleet_pnl": -712.95,
-  "closed_total": 177,
-  "open_total": 8,
+  "fleet_pnl": -715.63,
+  "closed_total": 178,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -134,19 +134,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 252 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 251 fresh Solana launches.",
    "stats": {
-    "Closed": 150,
-    "Road to 100": "150/100",
-    "Record": "44W\u2013106L",
+    "Closed": 151,
+    "Road to 100": "151/100",
+    "Record": "44W\u2013107L",
     "Win rate": "29%",
-    "PnL": "$-697.75",
-    "Watching": 252,
-    "Open": 4,
+    "PnL": "$-700.43",
+    "Watching": 251,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 70,
     "Avg win": "$+20.43",
-    "Avg loss": "$-15.06",
+    "Avg loss": "$-14.95",
     "Profit factor": "0.56"
    },
    "demerits": [
@@ -157,8 +157,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-16-clip-miner right now.",
+   "alive": null,
+   "doing": "Last review filed: Kick chat pipe \u2014 KRYPTON review, VETTED (2026-11-16).",
    "stats": {
     "Reviews done": "65/70",
     "Reviews filed": 63,
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,249 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,251 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
