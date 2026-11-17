@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T20:45:00-06:00",
+ "generated_at": "2026-11-16T20:55:00-06:00",
  "season": {
   "fleet_pnl": -739.36,
   "closed_total": 172,
@@ -219,7 +219,7 @@
    "stats": {
     "Jobs tracked on the board": 176,
     "Crew reporting in": "5 racers",
-    "Open tasks": 35,
+    "Open tasks": 36,
     "Open decisions": 0,
     "Projects": 16
    },
@@ -321,20 +321,20 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Audio backfill (251 cards, house voice) - production lane, unblocked by the voice ruling; 'The Night Shift' narration in the house voice as the audiobook proof before any per-chapter habit; SC decision part 2 (regen.sh wiring - scope to con\u2026"
+   "next_gate": "Audio backfill renders DONE \u2014 index rebuild + deploy on his word (ship the 16 now vs full-bank deploy still open \u2014 Gumby's call: ship the 16 now); 'The Night Shift' narration in the house voice as the audiobook proof before any per-chapter\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: KRYPTON vets (21 owed - see statusNote, incl. council-parity/fabshop synthesis + 2026-11-16-api); no-bind batch Mon 07:37 CT (runs as written, job self-checks the sale badge); D82 half-2 rides the next worthy deploy (batching ho\u2026"
+   "next_gate": "waiting on: KRYPTON vets (19 owed \u2014 see statusNote); clip-miner review (running); kick-pipe fix 2.1 in staging, then his deploy word; D82 half-2 rides the combined post-campaign deploy; dead-man's switch activation: his ~5 min hands (Health\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "ORBIT closes 100 -> block-1 report card -> council review -> his ruling on the one change; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken recor\u2026"
+   "next_gate": "Block-2 running under the K entry rule; block-3 candidate = his trailing-stop-from-entry design; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken\u2026"
   }
  ],
- "projects_as_of": "2026-11-16 07:44 AM CT",
+ "projects_as_of": "2026-11-16 08:53 PM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
