@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:30:01-06:00",
+ "generated_at": "2026-11-16T19:40:00-06:00",
  "season": {
   "fleet_pnl": -743.31,
   "closed_total": 169,
@@ -157,10 +157,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: Gumby vetting \u2014 KRYPTON api.js review (2026-11-16).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-16-clip-miner right now.",
    "stats": {
-    "Reviews done": "65/69",
+    "Reviews done": "65/70",
     "Reviews filed": 62,
     "Held in queue": 4,
     "Latest report": "2026-11-16-api.js-VETTED.md",
@@ -215,9 +215,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the evening pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 173,
+    "Jobs tracked on the board": 175,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 0,
@@ -249,7 +249,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "31 posted of 70 cards \u2014 39 fresh on the bench"
+   "value": "32 posted of 70 cards \u2014 38 fresh on the bench"
   }
  ],
  "projects": [
