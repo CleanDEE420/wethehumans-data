@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T17:05:00-06:00",
+ "generated_at": "2026-11-17T17:10:00-06:00",
  "season": {
-  "fleet_pnl": -974.17,
-  "closed_total": 243,
+  "fleet_pnl": -979.57,
+  "closed_total": 244,
   "open_total": 4,
   "milestones": [
    {
@@ -139,17 +139,17 @@
    "alive": true,
    "doing": "Holding 1 snipe and tracking 308 fresh Solana launches.",
    "stats": {
-    "Closed": 199,
-    "Road to 100": "199/100",
-    "Record": "52W\u2013147L",
+    "Closed": 200,
+    "Road to 100": "200/100",
+    "Record": "52W\u2013148L",
     "Win rate": "26%",
-    "PnL": "$-956.28",
+    "PnL": "$-961.68",
     "Watching": 308,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 64,
     "Avg win": "$+19.84",
-    "Avg loss": "$-13.52",
+    "Avg loss": "$-13.47",
     "Profit factor": "0.52"
    },
    "demerits": [
