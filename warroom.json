@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T11:45:00-06:00",
+ "generated_at": "2026-11-17T11:55:00-06:00",
  "season": {
   "fleet_pnl": -862.07,
   "closed_total": 219,
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 305 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 306 fresh Solana launches.",
    "stats": {
     "Closed": 179,
     "Road to 100": "179/100",
     "Record": "48W\u2013131L",
     "Win rate": "27%",
     "PnL": "$-842.79",
-    "Watching": 305,
+    "Watching": 306,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 74,
+    "Entries (24h)": 72,
     "Avg win": "$+19.97",
     "Avg loss": "$-13.75",
     "Profit factor": "0.53"
@@ -217,7 +217,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning pins \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 196,
     "Crew reporting in": "5 racers",
