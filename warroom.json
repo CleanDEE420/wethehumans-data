@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T01:40:00-06:00",
+ "generated_at": "2026-11-17T01:44:59-06:00",
  "season": {
   "fleet_pnl": -741.86,
   "closed_total": 187,
@@ -161,10 +161,10 @@
    "alive": true,
    "doing": "Reviewing 2026-11-16-toolkit-phase1-shell right now.",
    "stats": {
-    "Reviews done": "66/72",
-    "Reviews filed": 63,
+    "Reviews done": "66/73",
+    "Reviews filed": 64,
     "Held in queue": 4,
-    "Latest report": "2026-11-16-kick-pipe-VETTED.md",
+    "Latest report": "2026-11-17-bluesky_api.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,275 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,277 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
