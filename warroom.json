@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T01:15:00-06:00",
+ "generated_at": "2026-11-17T01:20:00-06:00",
  "season": {
-  "fleet_pnl": -721.4,
-  "closed_total": 184,
-  "open_total": 4,
+  "fleet_pnl": -725.06,
+  "closed_total": 186,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -50,16 +50,16 @@
    "id": "vector",
    "name": "VECTOR",
    "role": "Trend follower",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 12,
-    "Road to 100": "12/100",
-    "Record": "1W\u201311L",
+    "Closed": 13,
+    "Road to 100": "13/100",
+    "Record": "1W\u201312L",
     "Win rate": "8%",
-    "PnL": "$-11.10",
-    "Open": 2,
-    "Profit factor": "0.15"
+    "PnL": "$-11.89",
+    "Open": 1,
+    "Profit factor": "0.14"
    },
    "demerits": []
   },
@@ -67,8 +67,8 @@
    "id": "recoil",
    "name": "RECOIL",
    "role": "Dip buyer",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 1,
     "Road to 100": "1/100",
@@ -83,8 +83,8 @@
    "id": "governor",
    "name": "GOVERNOR",
    "role": "Regime switcher",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -101,8 +101,8 @@
    "id": "amp",
    "name": "AMP",
    "role": "Chatter trader",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
     "Closed": 1,
     "Road to 100": "1/100",
@@ -117,15 +117,15 @@
    "id": "stacker",
    "name": "STACKER",
    "role": "Quick-wins stacker",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 16,
     "Road to 100": "16/100",
     "Record": "4W\u201312L",
     "Win rate": "25%",
     "PnL": "$-2.80",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.47"
    },
    "demerits": []
@@ -134,20 +134,20 @@
    "id": "orbit",
    "name": "ORBIT",
    "role": "Moonshot sniper",
-   "alive": false,
-   "doing": "Holding 1 snipe and tracking 259 fresh Solana launches.",
+   "alive": true,
+   "doing": "Holding 2 snipes and tracking 267 fresh Solana launches.",
    "stats": {
-    "Closed": 154,
-    "Road to 100": "154/100",
-    "Record": "44W\u2013110L",
-    "Win rate": "29%",
-    "PnL": "$-708.63",
-    "Watching": 259,
-    "Open": 1,
+    "Closed": 155,
+    "Road to 100": "155/100",
+    "Record": "44W\u2013111L",
+    "Win rate": "28%",
+    "PnL": "$-711.49",
+    "Watching": 267,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 64,
+    "Entries (24h)": 66,
     "Avg win": "$+20.43",
-    "Avg loss": "$-14.61",
+    "Avg loss": "$-14.51",
     "Profit factor": "0.56"
    },
    "demerits": [
@@ -218,7 +218,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 185,
+    "Jobs tracked on the board": 217,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,270 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,273 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
