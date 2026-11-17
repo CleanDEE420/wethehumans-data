@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T00:15:00-06:00",
+ "generated_at": "2026-11-17T00:25:00-06:00",
  "season": {
-  "fleet_pnl": -720.82,
-  "closed_total": 183,
-  "open_total": 5,
+  "fleet_pnl": -721.4,
+  "closed_total": 184,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -118,15 +118,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 15,
-    "Road to 100": "15/100",
-    "Record": "4W\u201311L",
-    "Win rate": "27%",
-    "PnL": "$-2.21",
-    "Open": 1,
-    "Profit factor": "0.53"
+    "Closed": 16,
+    "Road to 100": "16/100",
+    "Record": "4W\u201312L",
+    "Win rate": "25%",
+    "PnL": "$-2.80",
+    "Open": 0,
+    "Profit factor": "0.47"
    },
    "demerits": []
   },
