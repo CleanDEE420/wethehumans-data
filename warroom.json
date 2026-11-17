@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T12:45:00-06:00",
+ "generated_at": "2026-11-17T12:50:00-06:00",
  "season": {
-  "fleet_pnl": -847.26,
-  "closed_total": 222,
+  "fleet_pnl": -832.5,
+  "closed_total": 223,
   "open_total": 3,
   "milestones": [
    {
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 308 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 307 fresh Solana launches.",
    "stats": {
-    "Closed": 181,
-    "Road to 100": "181/100",
-    "Record": "49W\u2013132L",
+    "Closed": 182,
+    "Road to 100": "182/100",
+    "Record": "50W\u2013132L",
     "Win rate": "27%",
-    "PnL": "$-828.82",
-    "Watching": 308,
+    "PnL": "$-814.06",
+    "Watching": 307,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 69,
-    "Avg win": "$+19.91",
+    "Entries (24h)": 68,
+    "Avg win": "$+19.80",
     "Avg loss": "$-13.67",
-    "Profit factor": "0.54"
+    "Profit factor": "0.55"
    },
    "demerits": [
     "Bag Holder \u00d772"
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-drip-cache right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
-    "Reviews done": "70/76",
+    "Reviews done": "71/76",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 214,
+    "Jobs tracked on the board": 209,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
