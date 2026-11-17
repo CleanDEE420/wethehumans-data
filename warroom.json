@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T21:15:00-06:00",
+ "generated_at": "2026-11-16T21:25:00-06:00",
  "season": {
   "fleet_pnl": -768.49,
   "closed_total": 174,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,14 +117,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 12,
     "Road to 100": "12/100",
     "Record": "3W\u20139L",
     "Win rate": "25%",
     "PnL": "$-2.78",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.34"
    },
    "demerits": []
@@ -134,14 +134,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 240 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 243 fresh Solana launches.",
    "stats": {
     "Closed": 149,
     "Road to 100": "149/100",
     "Record": "43W\u2013106L",
     "Win rate": "29%",
     "PnL": "$-753.73",
-    "Watching": 240,
+    "Watching": 243,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 67,
@@ -217,7 +217,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 178,
+    "Jobs tracked on the board": 190,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
     "Open decisions": 0,
