@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T01:44:59-06:00",
+ "generated_at": "2026-11-17T01:50:00-06:00",
  "season": {
   "fleet_pnl": -741.86,
   "closed_total": 187,
@@ -218,7 +218,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 181,
+    "Jobs tracked on the board": 197,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
