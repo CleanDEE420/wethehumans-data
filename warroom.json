@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T12:10:00-06:00",
+ "generated_at": "2026-11-17T12:15:00-06:00",
  "season": {
   "fleet_pnl": -845.2,
   "closed_total": 220,
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 307 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 309 fresh Solana launches.",
    "stats": {
     "Closed": 180,
     "Road to 100": "180/100",
     "Record": "49W\u2013131L",
     "Win rate": "27%",
     "PnL": "$-825.92",
-    "Watching": 307,
+    "Watching": 309,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 72,
+    "Entries (24h)": 71,
     "Avg win": "$+19.91",
     "Avg loss": "$-13.75",
     "Profit factor": "0.54"
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-wavec-proven-recipe right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
-    "Reviews done": "68/74",
+    "Reviews done": "69/74",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 214,
+    "Jobs tracked on the board": 210,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -231,11 +231,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,343 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,345 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 5 in a row (last 11:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 6 in a row (last 12:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
