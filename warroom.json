@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T12:15:00-06:00",
+ "generated_at": "2026-11-17T12:20:00-06:00",
  "season": {
-  "fleet_pnl": -845.2,
-  "closed_total": 220,
-  "open_total": 4,
+  "fleet_pnl": -848.1,
+  "closed_total": 221,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,19 +136,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 309 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 308, no open snipes right now.",
    "stats": {
-    "Closed": 180,
-    "Road to 100": "180/100",
-    "Record": "49W\u2013131L",
+    "Closed": 181,
+    "Road to 100": "181/100",
+    "Record": "49W\u2013132L",
     "Win rate": "27%",
-    "PnL": "$-825.92",
-    "Watching": 309,
-    "Open": 1,
+    "PnL": "$-828.82",
+    "Watching": 308,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 71,
+    "Entries (24h)": 70,
     "Avg win": "$+19.91",
-    "Avg loss": "$-13.75",
+    "Avg loss": "$-13.67",
     "Profit factor": "0.54"
    },
    "demerits": [
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-17-wavec-gate-era right now.",
    "stats": {
-    "Reviews done": "69/74",
+    "Reviews done": "69/75",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -217,9 +217,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-15-done",
    "stats": {
-    "Jobs tracked on the board": 210,
+    "Jobs tracked on the board": 215,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
