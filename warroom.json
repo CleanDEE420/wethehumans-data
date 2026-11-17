@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T06:20:00-06:00",
+ "generated_at": "2026-11-17T06:25:00-06:00",
  "season": {
   "fleet_pnl": -732.63,
   "closed_total": 198,
@@ -218,7 +218,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 187,
+    "Jobs tracked on the board": 188,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 7,466 rows logged \u00b7 5,315 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 7,469 rows logged \u00b7 5,315 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -335,7 +335,7 @@
    "next_gate": "Block-2 running under the K entry rule; block-3 candidate = his trailing-stop-from-entry design; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken\u2026"
   }
  ],
- "projects_as_of": "2026-11-17 12:29 AM CT",
+ "projects_as_of": "2026-11-17 06:21 AM CT",
  "waiting": [
   {
    "title": "wethehumans.cool whole-site graffiti pass: ship it as its own deploy when the proofs land?",
