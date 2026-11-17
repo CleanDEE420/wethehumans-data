@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T14:30:00-06:00",
+ "generated_at": "2026-11-17T14:35:00-06:00",
  "season": {
-  "fleet_pnl": -864.11,
-  "closed_total": 229,
+  "fleet_pnl": -889.11,
+  "closed_total": 230,
   "open_total": 7,
   "milestones": [
    {
@@ -136,33 +136,33 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 315 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 310 fresh Solana launches.",
    "stats": {
-    "Closed": 188,
-    "Road to 100": "188/100",
-    "Record": "52W\u2013136L",
+    "Closed": 189,
+    "Road to 100": "189/100",
+    "Record": "52W\u2013137L",
     "Win rate": "28%",
-    "PnL": "$-845.67",
-    "Watching": 315,
+    "PnL": "$-870.67",
+    "Watching": 310,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 70,
+    "Entries (24h)": 71,
     "Avg win": "$+19.84",
-    "Avg loss": "$-13.81",
-    "Profit factor": "0.55"
+    "Avg loss": "$-13.89",
+    "Profit factor": "0.54"
    },
    "demerits": [
-    "Bag Holder \u00d775"
+    "Bag Holder \u00d776"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-toolkit-buddy-upgrade right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
-    "Reviews done": "72/78",
+    "Reviews done": "73/79",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -217,9 +217,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-26-done",
    "stats": {
-    "Jobs tracked on the board": 200,
+    "Jobs tracked on the board": 212,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
