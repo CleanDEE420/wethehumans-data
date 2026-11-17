@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T16:10:00-06:00",
+ "generated_at": "2026-11-17T16:15:00-06:00",
  "season": {
-  "fleet_pnl": -940.03,
-  "closed_total": 239,
-  "open_total": 7,
+  "fleet_pnl": -964.47,
+  "closed_total": 241,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,15 +103,15 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
-    "Closed": 2,
-    "Road to 100": "2/100",
-    "Record": "1W\u20131L",
-    "Win rate": "50%",
-    "PnL": "$-0.78",
-    "Open": 1,
-    "Profit factor": "0.32"
+    "Closed": 3,
+    "Road to 100": "3/100",
+    "Record": "2W\u20131L",
+    "Win rate": "67%",
+    "PnL": "$-0.23",
+    "Open": 0,
+    "Profit factor": "0.80"
    },
    "demerits": []
   },
@@ -137,33 +137,33 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 311 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 310 fresh Solana launches.",
    "stats": {
-    "Closed": 196,
-    "Road to 100": "196/100",
-    "Record": "52W\u2013144L",
-    "Win rate": "27%",
-    "PnL": "$-921.58",
-    "Watching": 311,
-    "Open": 4,
+    "Closed": 197,
+    "Road to 100": "197/100",
+    "Record": "52W\u2013145L",
+    "Win rate": "26%",
+    "PnL": "$-946.58",
+    "Watching": 310,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 69,
+    "Entries (24h)": 68,
     "Avg win": "$+19.84",
-    "Avg loss": "$-13.57",
-    "Profit factor": "0.53"
+    "Avg loss": "$-13.64",
+    "Profit factor": "0.52"
    },
    "demerits": [
-    "Bag Holder \u00d778"
+    "Bag Holder \u00d779"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-17-drip-winddown right now.",
    "stats": {
-    "Reviews done": "74/80",
+    "Reviews done": "74/81",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 502 \u2014 9 in a row (last 03:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 10 in a row (last 04:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
