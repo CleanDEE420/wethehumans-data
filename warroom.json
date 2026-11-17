@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T06:15:00-06:00",
+ "generated_at": "2026-11-17T06:20:00-06:00",
  "season": {
   "fleet_pnl": -732.63,
   "closed_total": 198,
-  "open_total": 4,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Closed": 14,
     "Road to 100": "14/100",
     "Record": "1W\u201313L",
     "Win rate": "7%",
     "PnL": "$-12.68",
-    "Open": 1,
+    "Open": 2,
     "Profit factor": "0.14"
    },
    "demerits": []
@@ -216,7 +216,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Drafting today's batches \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 187,
     "Crew reporting in": "5 racers",
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 7,462 rows logged \u00b7 5,315 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 7,466 rows logged \u00b7 5,315 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
