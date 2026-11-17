@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T10:05:00-06:00",
+ "generated_at": "2026-11-17T10:10:01-06:00",
  "season": {
-  "fleet_pnl": -835.39,
-  "closed_total": 210,
+  "fleet_pnl": -811.63,
+  "closed_total": 212,
   "open_total": 8,
   "milestones": [
    {
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 15,
-    "Road to 100": "15/100",
-    "Record": "1W\u201314L",
-    "Win rate": "7%",
-    "PnL": "$-14.10",
-    "Open": 2,
+    "Closed": 16,
+    "Road to 100": "16/100",
+    "Record": "1W\u201315L",
+    "Win rate": "6%",
+    "PnL": "$-15.44",
+    "Open": 1,
     "Profit factor": "0.12"
    },
    "demerits": []
@@ -102,14 +102,14 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Closed": 1,
     "Road to 100": "1/100",
     "Record": "1W\u20130L",
     "Win rate": "100%",
     "PnL": "$+0.36",
-    "Open": 1
+    "Open": 2
    },
    "demerits": []
   },
@@ -137,18 +137,18 @@
    "alive": true,
    "doing": "Holding 3 snipes and tracking 307 fresh Solana launches.",
    "stats": {
-    "Closed": 173,
-    "Road to 100": "173/100",
-    "Record": "46W\u2013127L",
+    "Closed": 174,
+    "Road to 100": "174/100",
+    "Record": "47W\u2013127L",
     "Win rate": "27%",
-    "PnL": "$-818.98",
+    "PnL": "$-793.89",
     "Watching": 307,
     "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 73,
-    "Avg win": "$+20.18",
+    "Entries (24h)": 74,
+    "Avg win": "$+20.28",
     "Avg loss": "$-13.76",
-    "Profit factor": "0.53"
+    "Profit factor": "0.55"
    },
    "demerits": [
     "Bag Holder \u00d770"
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,329 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,331 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
