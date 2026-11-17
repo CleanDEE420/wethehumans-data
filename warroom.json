@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T23:40:00-06:00",
+ "generated_at": "2026-11-16T23:44:59-06:00",
  "season": {
   "fleet_pnl": -720.82,
   "closed_total": 183,
@@ -145,7 +145,7 @@
     "Watching": 256,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 68,
+    "Entries (24h)": 66,
     "Avg win": "$+20.43",
     "Avg loss": "$-14.61",
     "Profit factor": "0.56"
@@ -158,8 +158,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-16-clip-miner right now.",
+   "alive": null,
+   "doing": "Last review filed: Kick chat pipe \u2014 KRYPTON review, VETTED (2026-11-16).",
    "stats": {
     "Reviews done": "65/71",
     "Reviews filed": 63,
@@ -216,9 +216,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-5-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 208,
+    "Jobs tracked on the board": 180,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
     "Open decisions": 0,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,259 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,261 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
