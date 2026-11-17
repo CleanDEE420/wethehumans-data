@@ -1,1 +1,7 @@
-{"kickPipe":{"chatOut":false,"enabled":false,"note":"STAGED 2026-11-16 — publish this file to the wethehumans-data shelf as fh-kick-pipe.json ONLY as part of the kick-pipe deploy, on the founder's word. enabled = the pipe hears Kick (webhook stores events, overlay feed serves them). chatOut = the bot may speak into Kick chat. Both default OFF; the functions fail closed to OFF on any shelf read error. Flip by editing this file on the shelf — never by redeploying."}}
+{
+ "kickPipe": {
+  "chatOut": false,
+  "enabled": true,
+  "note": "LIVE 2026-11-16 \u2014 channel connected by founder OAuth; event flow on. enabled = the pipe hears Kick (webhook stores events, overlay feed serves them). chatOut = the bot may speak into Kick chat (still OFF \u2014 arms separately with the session key). Functions fail closed to OFF on any shelf read error. Flip by editing this file on the shelf \u2014 never by redeploying."
+ }
+}
