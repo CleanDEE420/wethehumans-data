@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-17T02:00:00-06:00",
+ "generated_at": "2026-11-17T02:05:00-06:00",
  "season": {
-  "fleet_pnl": -741.86,
-  "closed_total": 187,
+  "fleet_pnl": -744.72,
+  "closed_total": 188,
   "open_total": 6,
   "milestones": [
    {
@@ -118,14 +118,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Closed": 16,
     "Road to 100": "16/100",
     "Record": "4W\u201312L",
     "Win rate": "25%",
     "PnL": "$-2.80",
-    "Open": 1,
+    "Open": 2,
     "Profit factor": "0.47"
    },
    "demerits": []
@@ -135,19 +135,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 270 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 269 fresh Solana launches.",
    "stats": {
-    "Closed": 156,
-    "Road to 100": "156/100",
-    "Record": "44W\u2013112L",
+    "Closed": 157,
+    "Road to 100": "157/100",
+    "Record": "44W\u2013113L",
     "Win rate": "28%",
-    "PnL": "$-728.29",
-    "Watching": 270,
-    "Open": 3,
+    "PnL": "$-731.15",
+    "Watching": 269,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
     "Avg win": "$+20.43",
-    "Avg loss": "$-14.53",
+    "Avg loss": "$-14.42",
     "Profit factor": "0.55"
    },
    "demerits": [
@@ -216,9 +216,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-9-done",
    "stats": {
-    "Jobs tracked on the board": 182,
+    "Jobs tracked on the board": 201,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
