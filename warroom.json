@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T18:50:00-06:00",
+ "generated_at": "2026-11-16T18:55:00-06:00",
  "season": {
-  "fleet_pnl": -713.74,
-  "closed_total": 164,
-  "open_total": 7,
+  "fleet_pnl": -714.54,
+  "closed_total": 165,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 10,
-    "Road to 100": "10/100",
-    "Record": "0W\u201310L",
+    "Closed": 11,
+    "Road to 100": "11/100",
+    "Record": "0W\u201311L",
     "Win rate": "0%",
-    "PnL": "$-12.31",
-    "Open": 2
+    "PnL": "$-13.11",
+    "Open": 1
    },
    "demerits": []
   },
@@ -134,14 +134,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 236 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 238 fresh Solana launches.",
    "stats": {
     "Closed": 141,
     "Road to 100": "141/100",
     "Record": "42W\u201399L",
     "Win rate": "30%",
     "PnL": "$-700.32",
-    "Watching": 236,
+    "Watching": 238,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 67,
