@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T03:50:00-06:00",
+ "generated_at": "2026-11-17T03:55:00-06:00",
  "season": {
   "fleet_pnl": -751.65,
   "closed_total": 193,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -135,17 +135,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 276 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 277 fresh Solana launches.",
    "stats": {
     "Closed": 159,
     "Road to 100": "159/100",
     "Record": "44W\u2013115L",
     "Win rate": "28%",
     "PnL": "$-736.90",
-    "Watching": 276,
-    "Open": 2,
+    "Watching": 277,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 68,
+    "Entries (24h)": 69,
     "Avg win": "$+20.43",
     "Avg loss": "$-14.22",
     "Profit factor": "0.55"
@@ -159,9 +159,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-16-toolkit-phase1-shell right now.",
+   "doing": "Reviewing 2026-11-16-council-opinion right now.",
    "stats": {
-    "Reviews done": "66/73",
+    "Reviews done": "67/73",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -218,7 +218,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 200,
+    "Jobs tracked on the board": 198,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,743 rows logged \u00b7 4,631 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,767 rows logged \u00b7 4,653 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
