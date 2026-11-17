@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T18:35:00-06:00",
+ "generated_at": "2026-11-16T18:40:00-06:00",
  "season": {
-  "fleet_pnl": -764.62,
-  "closed_total": 161,
-  "open_total": 9,
+  "fleet_pnl": -765.07,
+  "closed_total": 162,
+  "open_total": 8,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 9,
-    "Road to 100": "9/100",
-    "Record": "0W\u20139L",
+    "Closed": 10,
+    "Road to 100": "10/100",
+    "Record": "0W\u201310L",
     "Win rate": "0%",
-    "PnL": "$-11.85",
-    "Open": 3
+    "PnL": "$-12.31",
+    "Open": 2
    },
    "demerits": []
   },
