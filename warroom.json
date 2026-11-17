@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T04:15:00-06:00",
+ "generated_at": "2026-11-17T04:20:00-06:00",
  "season": {
   "fleet_pnl": -752.94,
   "closed_total": 194,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -68,14 +68,14 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Closed": 1,
     "Road to 100": "1/100",
     "Record": "1W\u20130L",
     "Win rate": "100%",
     "PnL": "$+0.76",
-    "Open": 1
+    "Open": 2
    },
    "demerits": []
   },
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,898 rows logged \u00b7 4,783 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,923 rows logged \u00b7 4,807 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
