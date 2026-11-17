@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T05:15:00-06:00",
+ "generated_at": "2026-11-17T05:20:00-06:00",
  "season": {
   "fleet_pnl": -758.61,
   "closed_total": 196,
-  "open_total": 4,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 14,
     "Road to 100": "14/100",
     "Record": "1W\u201313L",
     "Win rate": "7%",
     "PnL": "$-12.68",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.14"
    },
    "demerits": []
@@ -135,14 +135,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 278 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 277 fresh Solana launches.",
    "stats": {
     "Closed": 162,
     "Road to 100": "162/100",
     "Record": "44W\u2013118L",
     "Win rate": "27%",
     "PnL": "$-743.86",
-    "Watching": 278,
+    "Watching": 277,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 67,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 7,250 rows logged \u00b7 5,119 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 7,280 rows logged \u00b7 5,149 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
