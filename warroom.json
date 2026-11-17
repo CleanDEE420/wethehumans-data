@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T21:09:59-06:00",
+ "generated_at": "2026-11-16T21:15:00-06:00",
  "season": {
-  "fleet_pnl": -758.67,
-  "closed_total": 173,
-  "open_total": 4,
+  "fleet_pnl": -768.49,
+  "closed_total": 174,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -134,23 +134,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 240 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 240 fresh Solana launches.",
    "stats": {
-    "Closed": 148,
-    "Road to 100": "148/100",
-    "Record": "43W\u2013105L",
+    "Closed": 149,
+    "Road to 100": "149/100",
+    "Record": "43W\u2013106L",
     "Win rate": "29%",
-    "PnL": "$-743.91",
+    "PnL": "$-753.73",
     "Watching": 240,
-    "Open": 2,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 68,
+    "Entries (24h)": 67,
     "Avg win": "$+19.60",
-    "Avg loss": "$-15.11",
+    "Avg loss": "$-15.06",
     "Profit factor": "0.53"
    },
    "demerits": [
-    "Bag Holder \u00d763"
+    "Bag Holder \u00d764"
    ]
   },
   {
@@ -217,7 +217,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 196,
+    "Jobs tracked on the board": 178,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
     "Open decisions": 0,
@@ -229,11 +229,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,239 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,241 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 502 \u2014 7 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 502 \u2014 8 in a row (last 09:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
