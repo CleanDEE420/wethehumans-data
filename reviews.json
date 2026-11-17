@@ -5,5 +5,108 @@
  "whatnot_sold": 879,
  "whatnot_reviews": 76,
  "ship_time": "<1 day",
- "as_of": "October 2026"
+ "as_of": "October 2026",
+ "quotes": [
+  {
+   "text": "This seller is amazing. Items were perfect and I have never gotten a shipment from eBay so fast! Would definitely buy from them again!",
+   "theme": "Fast shipping",
+   "lead": true
+  },
+  {
+   "text": "AAA+++ seller! Great transaction! I highly recommend this seller and will consider future purchases. Communication was good, price was fair, and the items were shipped out fast. Product was well packaged and arrived as described in good condition. Thank you.",
+   "theme": "Price & communication",
+   "lead": true
+  },
+  {
+   "text": "The card was shipped immediately and arrived fast, well packaged and the condition of the card was as described. Prices are very fair. I'm very pleased with the vendor, I highly recommend them. Thank you.",
+   "theme": "Packaging",
+   "lead": true
+  },
+  {
+   "text": "Fast shipping. Packaging held up great. Everything was as described. Didn't have to have any communication with seller.",
+   "theme": "Fast shipping",
+   "lead": true
+  },
+  {
+   "text": "Seller shipped quickly and was well packaged in toploader + sleeve. Item arrived as shown in pictures.",
+   "theme": "Packaging",
+   "lead": true
+  },
+  {
+   "text": "Fast shipping, condition as described, 10/10!",
+   "theme": "Fast shipping"
+  },
+  {
+   "text": "Card arrived very quickly and in awesome condition. No problems.",
+   "theme": "Fast shipping"
+  },
+  {
+   "text": "Nice card fast delivery thankyou so much",
+   "theme": "Fast shipping"
+  },
+  {
+   "text": "As described, fast shipping",
+   "theme": "Fast shipping"
+  },
+  {
+   "text": "Order delivered on time with no issues",
+   "theme": "Fast shipping"
+  },
+  {
+   "text": "Beautiful as described. Nice packaging too.",
+   "theme": "Packaging"
+  },
+  {
+   "text": "Exactly what was shown A++++++++++++++++++++",
+   "theme": "Condition as described"
+  },
+  {
+   "text": "As described",
+   "theme": "Condition as described"
+  },
+  {
+   "text": "Thank you so much for this card everything was perfect! Great price fast shipping A+++ seller",
+   "theme": "Price & communication"
+  },
+  {
+   "text": "A+ seller. Great communication and fast shipping!",
+   "theme": "Price & communication"
+  },
+  {
+   "text": "Thank you!",
+   "theme": "Short & sweet"
+  },
+  {
+   "text": "Thanks",
+   "theme": "Short & sweet"
+  },
+  {
+   "text": "Received! Great! Thanks",
+   "theme": "Short & sweet"
+  },
+  {
+   "text": "Great buy",
+   "theme": "Short & sweet"
+  },
+  {
+   "text": "Perfect. Thank you!",
+   "theme": "Short & sweet"
+  },
+  {
+   "text": "Ty",
+   "theme": "Short & sweet"
+  },
+  {
+   "text": "Perfect Transaction! A+ Ebay Seller!",
+   "theme": "Short & sweet"
+  },
+  {
+   "text": "A+++++",
+   "theme": "Short & sweet"
+  },
+  {
+   "text": "Thank you very much",
+   "theme": "Short & sweet"
+  }
+ ]
 }
