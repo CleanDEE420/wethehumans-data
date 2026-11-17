@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T12:20:00-06:00",
+ "generated_at": "2026-11-17T12:25:00-06:00",
  "season": {
   "fleet_pnl": -848.1,
   "closed_total": 221,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 308, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 310 fresh Solana launches.",
    "stats": {
     "Closed": 181,
     "Road to 100": "181/100",
     "Record": "49W\u2013132L",
     "Win rate": "27%",
     "PnL": "$-828.82",
-    "Watching": 308,
-    "Open": 0,
+    "Watching": 310,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 70,
+    "Entries (24h)": 71,
     "Avg win": "$+19.91",
     "Avg loss": "$-13.67",
     "Profit factor": "0.54"
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-wavec-gate-era right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
-    "Reviews done": "69/75",
+    "Reviews done": "70/76",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -217,9 +217,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-15-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 215,
+    "Jobs tracked on the board": 211,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -231,7 +231,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,345 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,347 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
