@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:00:00-06:00",
+ "generated_at": "2026-11-16T19:05:02-06:00",
  "season": {
   "fleet_pnl": -714.54,
   "closed_total": 165,
@@ -134,14 +134,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 239 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 240 fresh Solana launches.",
    "stats": {
     "Closed": 141,
     "Road to 100": "141/100",
     "Record": "42W\u201399L",
     "Win rate": "30%",
     "PnL": "$-700.32",
-    "Watching": 239,
+    "Watching": 240,
     "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
@@ -172,7 +172,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": null,
+   "alive": true,
    "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
@@ -215,7 +215,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the 7:00 PM profile post \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 173,
     "Crew reporting in": "5 racers",
