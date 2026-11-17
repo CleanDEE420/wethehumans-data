@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T18:55:00-06:00",
+ "generated_at": "2026-11-16T19:00:00-06:00",
  "season": {
   "fleet_pnl": -714.54,
   "closed_total": 165,
-  "open_total": 6,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -134,17 +134,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 238 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 239 fresh Solana launches.",
    "stats": {
     "Closed": 141,
     "Road to 100": "141/100",
     "Record": "42W\u201399L",
     "Win rate": "30%",
     "PnL": "$-700.32",
-    "Watching": 238,
-    "Open": 4,
+    "Watching": 239,
+    "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 68,
     "Avg win": "$+19.89",
     "Avg loss": "$-15.51",
     "Profit factor": "0.54"
@@ -172,7 +172,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
@@ -215,9 +215,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the 7:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 171,
+    "Jobs tracked on the board": 173,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 0,
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,221 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,223 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
