@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T07:40:00-06:00",
+ "generated_at": "2026-11-17T07:45:00-06:00",
  "season": {
   "fleet_pnl": -775.29,
   "closed_total": 201,
@@ -216,7 +216,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning quotes \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 190,
     "Crew reporting in": "5 racers",
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 7,880 rows logged \u00b7 5,703 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 7,910 rows logged \u00b7 5,733 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -250,7 +250,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "32 posted of 70 cards \u2014 38 fresh on the bench"
+   "value": "33 posted of 70 cards \u2014 37 fresh on the bench"
   }
  ],
  "projects": [
