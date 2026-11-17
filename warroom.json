@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T16:00:00-06:00",
+ "generated_at": "2026-11-17T16:05:00-06:00",
  "season": {
-  "fleet_pnl": -932.61,
-  "closed_total": 237,
-  "open_total": 7,
+  "fleet_pnl": -937.17,
+  "closed_total": 238,
+  "open_total": 8,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 311 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 312 fresh Solana launches.",
    "stats": {
-    "Closed": 194,
-    "Road to 100": "194/100",
-    "Record": "52W\u2013142L",
+    "Closed": 195,
+    "Road to 100": "195/100",
+    "Record": "52W\u2013143L",
     "Win rate": "27%",
-    "PnL": "$-914.16",
-    "Watching": 311,
-    "Open": 4,
+    "PnL": "$-918.72",
+    "Watching": 312,
+    "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 67,
+    "Entries (24h)": 69,
     "Avg win": "$+19.84",
-    "Avg loss": "$-13.70",
+    "Avg loss": "$-13.64",
     "Profit factor": "0.53"
    },
    "demerits": [
@@ -163,7 +163,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
-    "Reviews done": "74/79",
+    "Reviews done": "74/80",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 203,
+    "Jobs tracked on the board": 221,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
