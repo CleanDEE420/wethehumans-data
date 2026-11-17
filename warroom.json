@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T19:55:01-06:00",
+ "generated_at": "2026-11-16T20:00:00-06:00",
  "season": {
   "fleet_pnl": -746.25,
   "closed_total": 170,
@@ -172,7 +172,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-15 22:37 CT (run 9, nightly stacker): 9 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-15 22:37 CT (run 9, nightly stacker)",
@@ -186,7 +186,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 2796,
@@ -215,9 +215,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the evening pins \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 175,
+    "Jobs tracked on the board": 176,
     "Crew reporting in": "5 racers",
     "Open tasks": 35,
     "Open decisions": 0,
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,229 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,231 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
