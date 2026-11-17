@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T03:55:00-06:00",
+ "generated_at": "2026-11-17T04:00:00-06:00",
  "season": {
   "fleet_pnl": -751.65,
   "closed_total": 193,
@@ -158,10 +158,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-16-council-opinion right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
-    "Reviews done": "67/73",
+    "Reviews done": "68/73",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -218,7 +218,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 198,
+    "Jobs tracked on the board": 196,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,767 rows logged \u00b7 4,653 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,804 rows logged \u00b7 4,690 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
