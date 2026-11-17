@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T22:45:00-06:00",
+ "generated_at": "2026-11-16T22:50:00-06:00",
  "season": {
-  "fleet_pnl": -718.49,
-  "closed_total": 179,
-  "open_total": 7,
+  "fleet_pnl": -717.49,
+  "closed_total": 180,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -117,15 +117,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 14,
-    "Road to 100": "14/100",
-    "Record": "3W\u201311L",
-    "Win rate": "21%",
-    "PnL": "$-3.22",
-    "Open": 1,
-    "Profit factor": "0.31"
+    "Closed": 15,
+    "Road to 100": "15/100",
+    "Record": "4W\u201311L",
+    "Win rate": "27%",
+    "PnL": "$-2.21",
+    "Open": 0,
+    "Profit factor": "0.53"
    },
    "demerits": []
   },
@@ -134,17 +134,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 251 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 252 fresh Solana launches.",
    "stats": {
     "Closed": 152,
     "Road to 100": "152/100",
     "Record": "44W\u2013108L",
     "Win rate": "29%",
     "PnL": "$-703.29",
-    "Watching": 251,
+    "Watching": 252,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 70,
+    "Entries (24h)": 69,
     "Avg win": "$+20.43",
     "Avg loss": "$-14.83",
     "Profit factor": "0.56"
@@ -157,8 +157,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: Kick chat pipe \u2014 KRYPTON review, VETTED (2026-11-16).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-16-clip-miner right now.",
    "stats": {
     "Reviews done": "65/70",
     "Reviews filed": 63,
@@ -215,9 +215,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-1-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 209,
+    "Jobs tracked on the board": 179,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
     "Open decisions": 0,
