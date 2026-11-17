@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T23:00:02-06:00",
+ "generated_at": "2026-11-16T23:05:03-06:00",
  "season": {
-  "fleet_pnl": -717.49,
-  "closed_total": 180,
-  "open_total": 6,
+  "fleet_pnl": -718.34,
+  "closed_total": 182,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,15 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 11,
-    "Road to 100": "11/100",
-    "Record": "0W\u201311L",
-    "Win rate": "0%",
-    "PnL": "$-13.11",
-    "Open": 3
+    "Closed": 12,
+    "Road to 100": "12/100",
+    "Record": "1W\u201311L",
+    "Win rate": "8%",
+    "PnL": "$-11.10",
+    "Open": 2,
+    "Profit factor": "0.15"
    },
    "demerits": []
   },
@@ -134,19 +135,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 253 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 252 fresh Solana launches.",
    "stats": {
-    "Closed": 152,
-    "Road to 100": "152/100",
-    "Record": "44W\u2013108L",
+    "Closed": 153,
+    "Road to 100": "153/100",
+    "Record": "44W\u2013109L",
     "Win rate": "29%",
-    "PnL": "$-703.29",
-    "Watching": 253,
-    "Open": 2,
+    "PnL": "$-706.15",
+    "Watching": 252,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 69,
     "Avg win": "$+20.43",
-    "Avg loss": "$-14.83",
+    "Avg loss": "$-14.72",
     "Profit factor": "0.56"
    },
    "demerits": [
@@ -215,9 +216,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-23-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 188,
+    "Jobs tracked on the board": 204,
     "Crew reporting in": "5 racers",
     "Open tasks": 36,
     "Open decisions": 0,
