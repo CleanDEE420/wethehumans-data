@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-16T12:38:26",
+ "generated": "2026-11-16T23:18:43",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 85,
-   "visits7d": 77,
+   "pageviews7d": 86,
+   "visits7d": 78,
    "by_day": [
     {
      "date": "2026-11-10",
@@ -39,14 +39,14 @@
     },
     {
      "date": "2026-11-16",
-     "pageviews": 8,
-     "visits": 8
+     "pageviews": 9,
+     "visits": 9
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 19
+     "pageviews": 20
     },
     {
      "path": "/links/",
@@ -106,8 +106,8 @@
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 48,
-   "visits7d": 44,
+   "pageviews7d": 49,
+   "visits7d": 45,
    "by_day": [
     {
      "date": "2026-11-10",
@@ -141,14 +141,14 @@
     },
     {
      "date": "2026-11-16",
-     "pageviews": 4,
-     "visits": 3
+     "pageviews": 5,
+     "visits": 4
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 35
+     "pageviews": 36
     },
     {
      "path": "/app/",
