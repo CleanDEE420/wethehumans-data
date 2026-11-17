@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T09:20:00-06:00",
+ "generated_at": "2026-11-17T09:25:00-06:00",
  "season": {
-  "fleet_pnl": -830.19,
-  "closed_total": 207,
-  "open_total": 9,
+  "fleet_pnl": -832.63,
+  "closed_total": 209,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,15 +51,15 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 14,
-    "Road to 100": "14/100",
-    "Record": "1W\u201313L",
+    "Closed": 15,
+    "Road to 100": "15/100",
+    "Record": "1W\u201314L",
     "Win rate": "7%",
-    "PnL": "$-12.68",
-    "Open": 3,
-    "Profit factor": "0.14"
+    "PnL": "$-14.10",
+    "Open": 2,
+    "Profit factor": "0.12"
    },
    "demerits": []
   },
@@ -118,15 +118,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 18,
-    "Road to 100": "18/100",
-    "Record": "5W\u201313L",
-    "Win rate": "28%",
-    "PnL": "$-3.19",
-    "Open": 1,
-    "Profit factor": "0.44"
+    "Closed": 19,
+    "Road to 100": "19/100",
+    "Record": "5W\u201314L",
+    "Win rate": "26%",
+    "PnL": "$-4.20",
+    "Open": 0,
+    "Profit factor": "0.37"
    },
    "demerits": []
   },
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,311 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,313 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
