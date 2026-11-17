@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T23:30:00-06:00",
+ "generated_at": "2026-11-16T23:35:00-06:00",
  "season": {
   "fleet_pnl": -720.82,
   "closed_total": 183,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -118,14 +118,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 15,
     "Road to 100": "15/100",
     "Record": "4W\u201311L",
     "Win rate": "27%",
     "PnL": "$-2.21",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.53"
    },
    "demerits": []
@@ -135,14 +135,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 255, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 256, no open snipes right now.",
    "stats": {
     "Closed": 154,
     "Road to 100": "154/100",
     "Record": "44W\u2013110L",
     "Win rate": "29%",
     "PnL": "$-708.63",
-    "Watching": 255,
+    "Watching": 256,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 68,
@@ -158,8 +158,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: Kick chat pipe \u2014 KRYPTON review, VETTED (2026-11-16).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-16-clip-miner right now.",
    "stats": {
     "Reviews done": "65/71",
     "Reviews filed": 63,
