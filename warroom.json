@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T17:40:00-06:00",
+ "generated_at": "2026-11-17T17:45:00-06:00",
  "season": {
-  "fleet_pnl": -977.54,
-  "closed_total": 245,
-  "open_total": 3,
+  "fleet_pnl": -1002.54,
+  "closed_total": 246,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,31 +137,31 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 305 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 305, no open snipes right now.",
    "stats": {
-    "Closed": 200,
-    "Road to 100": "200/100",
-    "Record": "52W\u2013148L",
+    "Closed": 201,
+    "Road to 100": "201/100",
+    "Record": "52W\u2013149L",
     "Win rate": "26%",
-    "PnL": "$-961.68",
+    "PnL": "$-986.68",
     "Watching": 305,
-    "Open": 1,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 61,
+    "Entries (24h)": 60,
     "Avg win": "$+19.84",
-    "Avg loss": "$-13.47",
-    "Profit factor": "0.52"
+    "Avg loss": "$-13.55",
+    "Profit factor": "0.51"
    },
    "demerits": [
-    "Bag Holder \u00d779"
+    "Bag Holder \u00d780"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-toolkit-games-integration right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
     "Reviews done": "75/81",
     "Reviews filed": 64,
