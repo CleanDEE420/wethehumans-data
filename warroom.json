@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T14:00:00-06:00",
+ "generated_at": "2026-11-17T14:05:00-06:00",
  "season": {
-  "fleet_pnl": -875.27,
-  "closed_total": 226,
-  "open_total": 8,
+  "fleet_pnl": -840.78,
+  "closed_total": 227,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 318 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 316 fresh Solana launches.",
    "stats": {
-    "Closed": 185,
-    "Road to 100": "185/100",
-    "Record": "51W\u2013134L",
+    "Closed": 186,
+    "Road to 100": "186/100",
+    "Record": "52W\u2013134L",
     "Win rate": "28%",
-    "PnL": "$-856.83",
-    "Watching": 318,
-    "Open": 5,
+    "PnL": "$-822.34",
+    "Watching": 316,
+    "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 70,
-    "Avg win": "$+19.56",
+    "Avg win": "$+19.84",
     "Avg loss": "$-13.84",
-    "Profit factor": "0.54"
+    "Profit factor": "0.56"
    },
    "demerits": [
     "Bag Holder \u00d774"
@@ -159,8 +159,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-toolkit-buddy-upgrade right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
     "Reviews done": "72/78",
     "Reviews filed": 64,
@@ -231,7 +231,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,365 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,367 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
