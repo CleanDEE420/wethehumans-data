@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T18:24:59-06:00",
+ "generated_at": "2026-11-16T18:30:00-06:00",
  "season": {
   "fleet_pnl": -764.62,
   "closed_total": 161,
@@ -144,7 +144,7 @@
     "Watching": 234,
     "Open": 5,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 69,
+    "Entries (24h)": 68,
     "Avg win": "$+19.04",
     "Avg loss": "$-15.63",
     "Profit factor": "0.51"
@@ -229,7 +229,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,217 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,219 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
