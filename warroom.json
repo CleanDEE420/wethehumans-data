@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-16T23:55:00-06:00",
+ "generated_at": "2026-11-17T00:00:00-06:00",
  "season": {
   "fleet_pnl": -720.82,
   "closed_total": 183,
-  "open_total": 4,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -135,17 +135,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 257, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 258 fresh Solana launches.",
    "stats": {
     "Closed": 154,
     "Road to 100": "154/100",
     "Record": "44W\u2013110L",
     "Win rate": "29%",
     "PnL": "$-708.63",
-    "Watching": 257,
-    "Open": 0,
+    "Watching": 258,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 64,
+    "Entries (24h)": 65,
     "Avg win": "$+20.43",
     "Avg loss": "$-14.61",
     "Profit factor": "0.56"
@@ -158,10 +158,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-16-clip-miner right now.",
+   "alive": null,
+   "doing": "Last review filed: Kick chat pipe \u2014 KRYPTON review, VETTED (2026-11-16).",
    "stats": {
-    "Reviews done": "65/71",
+    "Reviews done": "65/72",
     "Reviews filed": 63,
     "Held in queue": 4,
     "Latest report": "2026-11-16-kick-pipe-VETTED.md",
@@ -216,11 +216,11 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-12-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 211,
+    "Jobs tracked on the board": 181,
     "Crew reporting in": "5 racers",
-    "Open tasks": 44,
+    "Open tasks": 45,
     "Open decisions": 9,
     "Projects": 16
    },
@@ -230,7 +230,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 6,261 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 6,263 rows logged \u00b7 4,188 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
@@ -335,13 +335,8 @@
    "next_gate": "Block-2 running under the K entry rule; block-3 candidate = his trailing-stop-from-entry design; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken\u2026"
   }
  ],
- "projects_as_of": "2026-11-16 11:54 PM CT",
+ "projects_as_of": "2026-11-16 11:59 PM CT",
  "waiting": [
-  {
-   "title": "Whatnot store banner: v3 (ready now) or the louder v4 (in production tonight)?",
-   "detail": "The lab banner went through three rounds tonight. V3 is FINAL and live-ready: CleanDEE's CleanCards plank sign dead center, the CLEANDEE wordmark melted into the wall (no rectangle), all six slabs carrying colorful abstr\u2026",
-   "link": "https://www.whatnot.com/s/ae8yBj0i"
-  },
   {
    "title": "wethehumans.cool whole-site graffiti pass: ship it as its own deploy when the proofs land?",
    "detail": "Your order 23:45 CT - 'pop loud, be an experience' - is BUILDING tonight: every page audited and treated, one shared loud layer (animated neon, particle canvas, load bursts, sticker-physics cards, graffiti headers), perf\u2026",
@@ -376,6 +371,11 @@
    "title": "Black Friday weekend: schedule Sat/Sun/Mon follow-up shows now, or let Friday earn them?",
    "detail": "Your Friday Nov 27 show is scheduled (4:20 PM CT, -starts, Road to 1000) with the 10-card big-card block built and price-passed. The promo map: Fri = 0% commission for all sellers; Sat = 0% only for eligible small seller\u2026",
    "link": "https://whatnot.com/s/a1cudsVb"
+  },
+  {
+   "title": "Meta trust sitting: hold position until Meta's next instruction lands?",
+   "detail": "State of the thread (Gmail thread 1a1e32c5d4822195): Meta replied 2026-11-16 01:04 CT to your Nov 14 suspension ticket; your approved answer went back the same night (US/Missouri, no VPN, business/creator use) plus a fol\u2026",
+   "link": "https://mail.google.com/mail/u/0/#inbox/1a1e32c5d4822195"
   }
  ]
 }
