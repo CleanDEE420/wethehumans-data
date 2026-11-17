@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T12:35:00-06:00",
+ "generated_at": "2026-11-17T12:40:00-06:00",
  "season": {
-  "fleet_pnl": -848.1,
-  "closed_total": 221,
-  "open_total": 4,
+  "fleet_pnl": -847.26,
+  "closed_total": 222,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -19,7 +19,7 @@
    },
    {
     "name": "Hot Hand",
-    "holder": null
+    "holder": "RECOIL"
    },
    {
     "name": "Survivor",
@@ -68,14 +68,14 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 2,
-    "Road to 100": "2/100",
-    "Record": "2W\u20130L",
+    "Closed": 3,
+    "Road to 100": "3/100",
+    "Record": "3W\u20130L",
     "Win rate": "100%",
-    "PnL": "$+1.53",
-    "Open": 2
+    "PnL": "$+2.38",
+    "Open": 1
    },
    "demerits": []
   },
@@ -146,7 +146,7 @@
     "Watching": 310,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 70,
+    "Entries (24h)": 69,
     "Avg win": "$+19.91",
     "Avg loss": "$-13.67",
     "Profit factor": "0.54"
@@ -159,8 +159,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-drip-cache right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
     "Reviews done": "70/76",
     "Reviews filed": 64,
