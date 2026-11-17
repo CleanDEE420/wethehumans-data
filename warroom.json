@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T11:10:00-06:00",
+ "generated_at": "2026-11-17T11:15:00-06:00",
  "season": {
-  "fleet_pnl": -834.66,
-  "closed_total": 216,
-  "open_total": 7,
+  "fleet_pnl": -852.95,
+  "closed_total": 218,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -102,14 +102,15 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 1,
-    "Road to 100": "1/100",
-    "Record": "1W\u20130L",
-    "Win rate": "100%",
-    "PnL": "$+0.36",
-    "Open": 2
+    "Closed": 2,
+    "Road to 100": "2/100",
+    "Record": "1W\u20131L",
+    "Win rate": "50%",
+    "PnL": "$-0.78",
+    "Open": 1,
+    "Profit factor": "0.32"
    },
    "demerits": []
   },
@@ -135,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 307 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 306 fresh Solana launches.",
    "stats": {
-    "Closed": 177,
-    "Road to 100": "177/100",
-    "Record": "48W\u2013129L",
+    "Closed": 178,
+    "Road to 100": "178/100",
+    "Record": "48W\u2013130L",
     "Win rate": "27%",
-    "PnL": "$-816.52",
-    "Watching": 307,
-    "Open": 3,
+    "PnL": "$-833.67",
+    "Watching": 306,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 75,
     "Avg win": "$+19.97",
-    "Avg loss": "$-13.76",
-    "Profit factor": "0.54"
+    "Avg loss": "$-13.79",
+    "Profit factor": "0.53"
    },
    "demerits": [
     "Bag Holder \u00d771"
@@ -234,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 502 \u2014 4 in a row (last 10:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 5 in a row (last 11:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
