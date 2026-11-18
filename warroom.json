@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T19:00:00-06:00",
+ "generated_at": "2026-11-17T19:05:00-06:00",
  "season": {
   "fleet_pnl": -15.86,
   "closed_total": 248,
@@ -163,7 +163,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-17-toolkit-games-integration right now.",
    "stats": {
-    "Reviews done": "75/81",
+    "Reviews done": "75/82",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the 7:00 PM profile post \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 208,
+    "Jobs tracked on the board": 225,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
