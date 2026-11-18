@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T05:15:00-06:00",
+ "generated_at": "2026-11-18T05:30:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
   "closed_total": 281,
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 332, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 333, no open snipes right now.",
    "stats": {
     "Closed": 226,
     "Road to 100": "226/100",
     "Record": "55W\u2013171L",
     "Win rate": "24%",
     "PnL": "$+0.00",
-    "Watching": 332,
+    "Watching": 333,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 63,
@@ -329,7 +329,7 @@
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: KRYPTON review - games-integration (running 35/74); Gumby's vet on the games pile when it lands; dead-man's switch vet (Gumby) + activation (his ~5 min hands); Wave C resume (his word after the Browse watch answers); D82 soak (~\u2026"
+   "next_gate": "waiting on: KRYPTON review - games-integration (running 60/74); Gumby's vet on the games pile when it lands; dead-man's switch vet (Gumby) + activation (his ~5 min hands); Wave C resume (his word after the Browse watch answers); D82 soak (~\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
@@ -337,7 +337,7 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204); KRYPTON orbit-block2 cross-check queued #46 behind games-integration; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer\u2026"
   }
  ],
- "projects_as_of": "2026-11-17 08:49 PM CT",
+ "projects_as_of": "2026-11-18 12:29 AM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
