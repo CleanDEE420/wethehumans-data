@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T04:55:00-06:00",
+ "generated_at": "2026-11-18T05:00:00-06:00",
  "season": {
-  "fleet_pnl": -18.85,
-  "closed_total": 280,
-  "open_total": 2,
+  "fleet_pnl": -19.65,
+  "closed_total": 281,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,15 +51,15 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
    "stats": {
-    "Closed": 21,
-    "Road to 100": "21/100",
-    "Record": "2W\u201319L",
-    "Win rate": "10%",
-    "PnL": "$-15.16",
-    "Open": 1,
-    "Profit factor": "0.21"
+    "Closed": 22,
+    "Road to 100": "22/100",
+    "Record": "2W\u201320L",
+    "Win rate": "9%",
+    "PnL": "$-15.97",
+    "Open": 0,
+    "Profit factor": "0.20"
    },
    "demerits": []
   },
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 331, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 330, no open snipes right now.",
    "stats": {
     "Closed": 226,
     "Road to 100": "226/100",
     "Record": "55W\u2013171L",
     "Win rate": "24%",
     "PnL": "$+0.00",
-    "Watching": 331,
+    "Watching": 330,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 64,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 221,
+    "Jobs tracked on the board": 222,
     "Crew reporting in": "5 racers",
     "Open tasks": 43,
     "Open decisions": 0,
