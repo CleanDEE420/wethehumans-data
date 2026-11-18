@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T08:05:00-06:00",
+ "generated_at": "2026-11-18T08:10:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
   "closed_total": 283,
@@ -163,7 +163,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
    "stats": {
-    "Reviews done": "78/83",
+    "Reviews done": "78/84",
     "Reviews filed": 65,
     "Held in queue": 4,
     "Latest report": "2026-11-18-drip.js.md",
