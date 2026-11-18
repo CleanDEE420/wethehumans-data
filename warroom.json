@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T20:35:00-06:00",
+ "generated_at": "2026-11-17T20:40:00-06:00",
  "season": {
-  "fleet_pnl": -999.55,
-  "closed_total": 252,
-  "open_total": 3,
+  "fleet_pnl": -1002.41,
+  "closed_total": 253,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -120,14 +120,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 20,
     "Road to 100": "20/100",
     "Record": "6W\u201314L",
     "Win rate": "30%",
     "PnL": "$-4.09",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.39"
    },
    "demerits": []
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 306 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 305 fresh Solana launches.",
    "stats": {
-    "Closed": 207,
-    "Road to 100": "207/100",
-    "Record": "54W\u2013153L",
+    "Closed": 208,
+    "Road to 100": "208/100",
+    "Record": "54W\u2013154L",
     "Win rate": "26%",
-    "PnL": "$-983.69",
-    "Watching": 306,
+    "PnL": "$-986.55",
+    "Watching": 305,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 60,
+    "Entries (24h)": 61,
     "Avg win": "$+20.12",
-    "Avg loss": "$-13.53",
+    "Avg loss": "$-13.46",
     "Profit factor": "0.52"
    },
    "demerits": [
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-20-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 227,
+    "Jobs tracked on the board": 211,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 0,
