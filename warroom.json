@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T05:40:00-06:00",
+ "generated_at": "2026-11-18T05:45:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
   "closed_total": 281,
@@ -259,7 +259,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "D82 wind-down DEPLOYED 2026-11-17 16:43 CT (6afcd851, suite 729/729, KRYPTON-vetted CLEARED) - test wake + 4 hourly wakes clean, soak from 16:43 CT. Wave B FINISHED 2026-11-17 10:03 CT (6,002 buyer-verified). Wave C HALTED (HALT) - 249 buye\u2026"
+   "next_gate": "D82 wind-down DEPLOYED 2026-11-17 16:43 CT (6afcd851, suite 729/729, KRYPTON-vetted CLEARED) - test wake + 13 hourly wakes since (12 ran, 1 timeout-class 02:02 CT), soak from 16:43 CT. Wave B FINISHED 2026-11-17 10:03 CT (6,002 buyer-verifi\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -329,15 +329,15 @@
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: KRYPTON review - games-integration (running 60/74); Gumby's vet on the games pile when it lands; dead-man's switch vet (Gumby) + activation (his ~5 min hands); Wave C resume (his word after the Browse watch answers); D82 soak (~\u2026"
+   "next_gate": "waiting on: Gumby's vet \u2014 games-integration (DONE 74/74) + nightly drip.js review (DONE 10/10); dead-man's switch vet (Gumby) + activation (his ~5 min hands); Wave C resume (his word after the Browse watch answers); D82 soak (~48h from 16:4\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204); KRYPTON orbit-block2 cross-check queued #46 behind games-integration; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer\u2026"
+   "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 22 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer u\u2026"
   }
  ],
- "projects_as_of": "2026-11-18 12:29 AM CT",
+ "projects_as_of": "2026-11-18 05:38 AM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
