@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T13:20:00-06:00",
+ "generated_at": "2026-11-18T13:25:00-06:00",
  "season": {
   "fleet_pnl": -20.72,
   "closed_total": 304,
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 323, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 324, no open snipes right now.",
    "stats": {
     "Closed": 245,
     "Road to 100": "245/100",
     "Record": "56W\u2013189L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 323,
+    "Watching": 324,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 59,
+    "Entries (24h)": 58,
     "Avg win": "$+19.87",
     "Avg loss": "$-12.32",
     "Profit factor": "0.48"
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-18-wavec-patient right now.",
    "stats": {
     "Reviews done": "80/86",
     "Reviews filed": 65,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 258,
+    "Jobs tracked on the board": 270,
     "Crew reporting in": "5 racers",
     "Open tasks": 44,
     "Open decisions": 0,
