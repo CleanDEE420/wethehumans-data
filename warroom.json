@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:40:00-06:00",
+ "generated_at": "2026-11-18T07:45:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
   "closed_total": 283,
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 336, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 335, no open snipes right now.",
    "stats": {
     "Closed": 228,
     "Road to 100": "228/100",
     "Record": "56W\u2013172L",
     "Win rate": "25%",
     "PnL": "$+0.00",
-    "Watching": 336,
+    "Watching": 335,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 60,
+    "Entries (24h)": 59,
     "Avg win": "$+19.87",
     "Avg loss": "$-12.68",
     "Profit factor": "0.51"
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-18-toolkit-spotify right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
    "stats": {
-    "Reviews done": "77/83",
+    "Reviews done": "78/83",
     "Reviews filed": 65,
     "Held in queue": 4,
     "Latest report": "2026-11-18-drip.js.md",
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Posting the morning quotes \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 244,
+    "Jobs tracked on the board": 243,
     "Crew reporting in": "5 racers",
     "Open tasks": 43,
     "Open decisions": 0,
@@ -237,6 +237,10 @@
   {
    "label": "StoreFab drip wake",
    "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+  },
+  {
+   "label": "Netlify credits",
+   "value": "~266 left (range 230\u2013303) \u00b7 146 deploys this cycle \u00b7 pool resets Nov 27"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
