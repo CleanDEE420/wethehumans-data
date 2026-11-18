@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T20:30:00-06:00",
+ "generated_at": "2026-11-17T20:35:00-06:00",
  "season": {
   "fleet_pnl": -999.55,
   "closed_total": 252,
@@ -218,12 +218,12 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-20-done",
    "stats": {
-    "Jobs tracked on the board": 211,
+    "Jobs tracked on the board": 227,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
-    "Open decisions": 9,
+    "Open decisions": 0,
     "Projects": 16
    },
    "demerits": []
@@ -337,47 +337,47 @@
    "next_gate": "Block-2 running under the K entry rule; block-3 candidate = his trailing-stop-from-entry design; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken\u2026"
   }
  ],
- "projects_as_of": "2026-11-17 06:21 AM CT",
+ "projects_as_of": "2026-11-17 07:41 AM CT",
  "waiting": [
   {
-   "title": "wethehumans.cool whole-site graffiti pass: ship it as its own deploy when the proofs land?",
-   "detail": "Your order 23:45 CT - 'pop loud, be an experience' - is BUILDING tonight: every page audited and treated, one shared loud layer (animated neon, particle canvas, load bursts, sticker-physics cards, graffiti headers), perf\u2026",
-   "link": "https://www.wethehumans.cool/"
+   "title": "Mail the DC Mechanical winding-up envelope",
+   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
+   "link": null
   },
   {
-   "title": "Links page: merge the doubled Facebook Page entry + add the Cash App tip line?",
-   "detail": "Two small calls on the links hub (31 entries, shelf-fed - both changes are publishes, no deploy). (a) Your Facebook Page appears TWICE: #13 'Facebook Page' (profile.php?id=61595470396443) and #14 'Gumby's Stage' (faceboo\u2026",
-   "link": "https://www.wethehumans.cool/links/"
+   "title": "Update the card on GitHub billing (Belabox)",
+   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
+   "link": "https://github.com/settings/billing/payment_information"
   },
   {
-   "title": "Review Wall: add the 25th buyer quote (the partial one), or leave it out?",
-   "detail": "The Review Wall shipped tonight with 24 of the 25 transcribed buyer quotes (shelf-fed - adding one later is a publish, no deploy). The 25th was held off by Gumby's call: in your source screenshot its middle is hidden beh\u2026",
-   "link": "https://www.wethehumans.cool/reviews/"
+   "title": "Neuron book migration \u2014 one ledger for the whole Cloudflare pool (gated on KRYPTON review)",
+   "detail": "RULE ADOPTED (walk item 1, 19:26 CT) - 'no unbooked spend': every caller debits the one ledger; failed debit stops the spend; ledger never overstates. KRYPTON review VETTED: plan CANNOT proceed as written - 4 amendments\u2026",
+   "link": null
   },
   {
-   "title": "Gumby's Stage is back ON \u2014 one test post to learn if Meta's 403 gate lifted?",
-   "detail": "You turned the Page back on tonight (~22:28 CT, 'it was off from the crap'). Since 2026-11-15 the Page's scheduling/writes have been refused server-side (403, Page-specific) - whether that gate lifted when the Page came\u2026",
-   "link": "https://www.facebook.com/profile.php?id=1320828584456775"
+   "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
+   "link": null
   },
   {
-   "title": "Kick pipe is LIVE \u2014 arm chatOut (the bot speaking in your Kick chat), or keep it ears-only?",
-   "detail": "The Kick pipe went live tonight (22:38 CT, verified end-to-end: your 'sup gumby' landed in the event feed in ~1s). The shelf switch reads enabled: true / chatOut: false - the pipe HEARS everything; the bot may not SPEAK\u2026",
-   "link": "https://live.foreverhumans.com/"
+   "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
+   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
+   "link": null
   },
   {
-   "title": "Toolkit Phase 1 shell: deploy when the KRYPTON review clears + Gumby vets?",
-   "detail": "The BotRix-style shell is BUILT and passed your eyeball tonight (23:08 CT - 'Now we talking. Looking Hella better.'): sidebar screens replacing the 400-control scroll, per-element OBS source links with copy buttons, Bann\u2026",
-   "link": "https://live.foreverhumans.com/"
+   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
+   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
+   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
   },
   {
-   "title": "Black Friday weekend: schedule Sat/Sun/Mon follow-up shows now, or let Friday earn them?",
-   "detail": "Your Friday Nov 27 show is scheduled (4:20 PM CT, -starts, Road to 1000) with the 10-card big-card block built and price-passed. The promo map: Fri = 0% commission for all sellers; Sat = 0% only for eligible small seller\u2026",
-   "link": "https://whatnot.com/s/a1cudsVb"
+   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
   },
   {
-   "title": "Meta trust sitting: hold position until Meta's next instruction lands?",
-   "detail": "State of the thread (Gmail thread 1a1e32c5d4822195): Meta replied 2026-11-16 01:04 CT to your Nov 14 suspension ticket; your approved answer went back the same night (US/Missouri, no VPN, business/creator use) plus a fol\u2026",
-   "link": "https://mail.google.com/mail/u/0/#inbox/1a1e32c5d4822195"
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
+   "link": null
   }
  ]
 }
