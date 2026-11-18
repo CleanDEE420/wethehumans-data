@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:45:00-06:00",
+ "generated_at": "2026-11-18T12:50:00-06:00",
  "season": {
   "fleet_pnl": -20.69,
   "closed_total": 300,
@@ -147,7 +147,7 @@
     "Watching": 324,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 60,
+    "Entries (24h)": 59,
     "Avg win": "$+19.87",
     "Avg loss": "$-12.38",
     "Profit factor": "0.48"
@@ -163,7 +163,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
    "stats": {
-    "Reviews done": "80/85",
+    "Reviews done": "80/86",
     "Reviews filed": 65,
     "Held in queue": 4,
     "Latest report": "2026-11-18-drip.js.md",
