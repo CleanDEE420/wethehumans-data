@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T01:10:00-06:00",
+ "generated_at": "2026-11-18T01:15:00-06:00",
  "season": {
   "fleet_pnl": -16.79,
-  "closed_total": 270,
-  "open_total": 4,
+  "closed_total": 271,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 324 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 323 fresh Solana launches.",
    "stats": {
-    "Closed": 220,
-    "Road to 100": "220/100",
-    "Record": "55W\u2013165L",
+    "Closed": 221,
+    "Road to 100": "221/100",
+    "Record": "55W\u2013166L",
     "Win rate": "25%",
     "PnL": "$+0.00",
-    "Watching": 324,
-    "Open": 2,
+    "Watching": 323,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 65,
     "Avg win": "$+20.14",
-    "Avg loss": "$-13.11",
+    "Avg loss": "$-13.04",
     "Profit factor": "0.51"
    },
    "demerits": [
@@ -161,9 +161,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-17-toolkit-games-integration right now.",
+   "doing": "Reviewing 2026-11-17-orbit-block2 right now.",
    "stats": {
-    "Reviews done": "75/82",
+    "Reviews done": "76/82",
     "Reviews filed": 64,
     "Held in queue": 4,
     "Latest report": "2026-11-17-bluesky_api.md",
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 218,
+    "Jobs tracked on the board": 234,
     "Crew reporting in": "5 racers",
     "Open tasks": 43,
     "Open decisions": 0,
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 12:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 01:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
