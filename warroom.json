@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T21:50:00-06:00",
+ "generated_at": "2026-11-17T21:55:03-06:00",
  "season": {
   "fleet_pnl": -16.51,
   "closed_total": 259,
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 314 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 317 fresh Solana launches.",
    "stats": {
     "Closed": 212,
     "Road to 100": "212/100",
     "Record": "55W\u2013157L",
     "Win rate": "26%",
     "PnL": "$+0.00",
-    "Watching": 314,
+    "Watching": 317,
     "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 63,
@@ -248,7 +248,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "268 cards banked"
+   "value": "285 cards banked"
   },
   {
    "label": "Quote card pool",
