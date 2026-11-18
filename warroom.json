@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T23:15:00-06:00",
+ "generated_at": "2026-11-17T23:20:00-06:00",
  "season": {
   "fleet_pnl": -16.76,
   "closed_total": 266,
-  "open_total": 1,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -120,14 +120,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Closed": 21,
     "Road to 100": "21/100",
     "Record": "6W\u201315L",
     "Win rate": "29%",
     "PnL": "$-4.31",
-    "Open": 1,
+    "Open": 2,
     "Profit factor": "0.38"
    },
    "demerits": []
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 216,
+    "Jobs tracked on the board": 233,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 0,
