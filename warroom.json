@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T17:50:00-06:00",
+ "generated_at": "2026-11-18T17:55:00-06:00",
  "season": {
   "fleet_pnl": -20.72,
   "closed_total": 317,
-  "open_total": 2,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 22,
     "Road to 100": "22/100",
     "Record": "2W\u201320L",
     "Win rate": "9%",
     "PnL": "$-15.97",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.20"
    },
    "demerits": []
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 328 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 329 fresh Solana launches.",
    "stats": {
     "Closed": 258,
     "Road to 100": "258/100",
     "Record": "58W\u2013200L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 328,
+    "Watching": 329,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 57,
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-18-mphc-repair right now.",
    "stats": {
     "Reviews done": "83/89",
     "Reviews filed": 65,
