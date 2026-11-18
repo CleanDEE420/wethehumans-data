@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T14:55:00-06:00",
+ "generated_at": "2026-11-18T15:00:00-06:00",
  "season": {
   "fleet_pnl": -20.72,
-  "closed_total": 308,
-  "open_total": 5,
+  "closed_total": 310,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 328 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 327 fresh Solana launches.",
    "stats": {
-    "Closed": 249,
-    "Road to 100": "249/100",
-    "Record": "56W\u2013193L",
+    "Closed": 251,
+    "Road to 100": "251/100",
+    "Record": "56W\u2013195L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 328,
-    "Open": 5,
+    "Watching": 327,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 60,
+    "Entries (24h)": 59,
     "Avg win": "$+19.87",
-    "Avg loss": "$-12.22",
+    "Avg loss": "$-12.14",
     "Profit factor": "0.47"
    },
    "demerits": [
@@ -163,7 +163,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
    "stats": {
-    "Reviews done": "81/86",
+    "Reviews done": "81/87",
     "Reviews filed": 65,
     "Held in queue": 4,
     "Latest report": "2026-11-18-drip.js.md",
