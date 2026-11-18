@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T13:00:00-06:00",
+ "generated_at": "2026-11-18T13:05:00-06:00",
  "season": {
   "fleet_pnl": -20.72,
-  "closed_total": 302,
+  "closed_total": 303,
   "open_total": 1,
   "milestones": [
    {
@@ -139,17 +139,17 @@
    "alive": true,
    "doing": "Holding 1 snipe and tracking 325 fresh Solana launches.",
    "stats": {
-    "Closed": 243,
-    "Road to 100": "243/100",
-    "Record": "56W\u2013187L",
+    "Closed": 244,
+    "Road to 100": "244/100",
+    "Record": "56W\u2013188L",
     "Win rate": "23%",
     "PnL": "$+0.00",
     "Watching": 325,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 58,
+    "Entries (24h)": 59,
     "Avg win": "$+19.87",
-    "Avg loss": "$-12.38",
+    "Avg loss": "$-12.36",
     "Profit factor": "0.48"
    },
    "demerits": [
@@ -218,7 +218,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the 1:00 PM profile post \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
     "Jobs tracked on the board": 246,
     "Crew reporting in": "5 racers",
