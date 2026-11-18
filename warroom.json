@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T03:10:00-06:00",
+ "generated_at": "2026-11-18T03:15:00-06:00",
  "season": {
   "fleet_pnl": -18.16,
   "closed_total": 276,
-  "open_total": 3,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,14 +103,14 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 3,
     "Road to 100": "3/100",
     "Record": "2W\u20131L",
     "Win rate": "67%",
     "PnL": "$-0.23",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.80"
    },
    "demerits": []
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 326 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 328 fresh Solana launches.",
    "stats": {
     "Closed": 223,
     "Road to 100": "223/100",
     "Record": "55W\u2013168L",
     "Win rate": "25%",
     "PnL": "$+0.00",
-    "Watching": 326,
-    "Open": 1,
+    "Watching": 328,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 64,
+    "Entries (24h)": 65,
     "Avg win": "$+20.14",
     "Avg loss": "$-12.93",
     "Profit factor": "0.51"
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 1 in a row (last 02:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 03:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
