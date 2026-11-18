@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T06:10:00-06:00",
+ "generated_at": "2026-11-18T06:15:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
   "closed_total": 281,
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Drafting today's batches \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 223,
+    "Jobs tracked on the board": 224,
     "Crew reporting in": "5 racers",
     "Open tasks": 43,
     "Open decisions": 0,
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
