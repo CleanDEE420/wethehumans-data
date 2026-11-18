@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T15:15:00-06:00",
+ "generated_at": "2026-11-18T15:20:00-06:00",
  "season": {
   "fleet_pnl": -20.72,
-  "closed_total": 313,
+  "closed_total": 314,
   "open_total": 1,
   "milestones": [
    {
@@ -139,16 +139,16 @@
    "alive": true,
    "doing": "Holding 1 snipe and tracking 329 fresh Solana launches.",
    "stats": {
-    "Closed": 254,
-    "Road to 100": "254/100",
-    "Record": "56W\u2013198L",
+    "Closed": 255,
+    "Road to 100": "255/100",
+    "Record": "57W\u2013198L",
     "Win rate": "22%",
     "PnL": "$+0.00",
     "Watching": 329,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 60,
-    "Avg win": "$+19.87",
+    "Avg win": "$+19.70",
     "Avg loss": "$-12.01",
     "Profit factor": "0.47"
    },
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 246,
+    "Jobs tracked on the board": 257,
     "Crew reporting in": "5 racers",
     "Open tasks": 44,
     "Open decisions": 0,
