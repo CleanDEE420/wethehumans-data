@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T16:15:00-06:00",
+ "generated_at": "2026-11-18T16:30:00-06:00",
  "season": {
   "fleet_pnl": -20.72,
   "closed_total": 316,
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 333, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 331, no open snipes right now.",
    "stats": {
     "Closed": 257,
     "Road to 100": "257/100",
     "Record": "58W\u2013199L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 333,
+    "Watching": 331,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 57,
@@ -222,8 +222,8 @@
    "stats": {
     "Jobs tracked on the board": 236,
     "Crew reporting in": "5 racers",
-    "Open tasks": 44,
-    "Open decisions": 0,
+    "Open tasks": 45,
+    "Open decisions": 4,
     "Projects": 16
    },
    "demerits": []
@@ -341,8 +341,28 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 22 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer u\u2026"
   }
  ],
- "projects_as_of": "2026-11-18 11:41 AM CT",
+ "projects_as_of": "2026-11-18 04:29 PM CT",
  "waiting": [
+  {
+   "title": "Conditional OK to republish 2 stuck cards (MLBA16-033 + NFLA1-012) \u2014 ONLY if the Trading fix fails?",
+   "detail": "These 2 cards carry a bad condition value rendered into the live listing itself, and the normal repair now bounces off it (proven in the Big Fix record, Category Fix section). A Trading API revise is being proven on MLBA\u2026",
+   "link": "sandbox://workspace/goals/ebay-store-optimization/hidden_files/rarity-plan-2026-11-13/BIG-FIX-2026-11-13.md"
+  },
+  {
+   "title": "Speed-up: run Wave D titles (218) + the 23 MP/HP repairs in PARALLEL with the LP run?",
+   "detail": "Right now these wait behind the LP condition run \u2014 that's Gumby's sequencing, not your ruling and not a real dependency. The title fixes (Wave D, 218 listings) and the 23 MP/HP condition repairs (16 MP + 7 HP \u2014 straight-\u2026",
+   "link": "sandbox://workspace/goals/ebay-store-optimization/hidden_files/rarity-plan-2026-11-13/BIG-FIX-2026-11-13.md"
+  },
+  {
+   "title": "Pinterest engine: fix the vintage board name in config (1 line)?",
+   "detail": "The engine's config still names the vintage board \"Vintage WotC\" (pinterest_engine.py, BOARD_VINTAGE) \u2014 no board exists under that name, so every run hand-routes vintage pins to the real board, \"Vintage Pok\u00e9mon \u2014 Yellow\u2026",
+   "link": "sandbox://workspace/goals/wethehumans-cool-netlify-migration/hidden_files/pinterest_engine.py"
+  },
+  {
+   "title": "Toolkit games: 17 design calls from the KRYPTON vet \u2014 rule them in one pass?",
+   "detail": "The games + Stream Buddy shipped live this morning (06:17 CT). The KRYPTON vet left 17 design/taste calls that are yours by design \u2014 boss HP and goal caps, growth caps, pop-text lengths, the fishing slice tradeoff (full\u2026",
+   "link": "sandbox://workspace/goals/foreverhumans-streamer-toolkit-and-referral-network/hidden_files/games-krypton-vet-2026-11-18.md"
+  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -361,26 +381,6 @@
   {
    "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
-   "link": null
-  },
-  {
-   "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
-   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
-   "link": null
-  },
-  {
-   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
-   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
-   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
-  },
-  {
-   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
-   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
-   "link": null
-  },
-  {
-   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
-   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
