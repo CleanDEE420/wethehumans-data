@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T00:40:00-06:00",
+ "generated_at": "2026-11-18T00:50:00-06:00",
  "season": {
   "fleet_pnl": -16.79,
   "closed_total": 270,
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-12-done",
    "stats": {
-    "Jobs tracked on the board": 217,
+    "Jobs tracked on the board": 234,
     "Crew reporting in": "5 racers",
     "Open tasks": 43,
     "Open decisions": 0,
