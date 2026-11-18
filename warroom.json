@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T21:30:00-06:00",
+ "generated_at": "2026-11-17T21:35:00-06:00",
  "season": {
-  "fleet_pnl": -16.28,
-  "closed_total": 258,
-  "open_total": 4,
+  "fleet_pnl": -16.51,
+  "closed_total": 259,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -120,15 +120,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 20,
-    "Road to 100": "20/100",
-    "Record": "6W\u201314L",
-    "Win rate": "30%",
-    "PnL": "$-4.09",
-    "Open": 1,
-    "Profit factor": "0.39"
+    "Closed": 21,
+    "Road to 100": "21/100",
+    "Record": "6W\u201315L",
+    "Win rate": "29%",
+    "PnL": "$-4.31",
+    "Open": 0,
+    "Profit factor": "0.38"
    },
    "demerits": []
   },
@@ -147,7 +147,7 @@
     "Watching": 312,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 63,
+    "Entries (24h)": 62,
     "Avg win": "$+20.14",
     "Avg loss": "$-13.49",
     "Profit factor": "0.52"
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 213,
+    "Jobs tracked on the board": 229,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 0,
