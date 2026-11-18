@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T11:35:00-06:00",
+ "generated_at": "2026-11-18T11:40:00-06:00",
  "season": {
-  "fleet_pnl": -22.15,
-  "closed_total": 294,
-  "open_total": 5,
+  "fleet_pnl": -20.69,
+  "closed_total": 296,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -68,15 +68,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 4,
-    "Road to 100": "4/100",
-    "Record": "3W\u20131L",
-    "Win rate": "75%",
-    "PnL": "$+2.25",
-    "Open": 3,
-    "Profit factor": "19.41"
+    "Closed": 5,
+    "Road to 100": "5/100",
+    "Record": "4W\u20131L",
+    "Win rate": "80%",
+    "PnL": "$+3.72",
+    "Open": 2,
+    "Profit factor": "31.35"
    },
    "demerits": []
   },
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 323 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 323 fresh Solana launches.",
    "stats": {
-    "Closed": 238,
-    "Road to 100": "238/100",
-    "Record": "56W\u2013182L",
-    "Win rate": "24%",
+    "Closed": 239,
+    "Road to 100": "239/100",
+    "Record": "56W\u2013183L",
+    "Win rate": "23%",
     "PnL": "$+0.00",
     "Watching": 323,
-    "Open": 2,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 59,
     "Avg win": "$+19.87",
-    "Avg loss": "$-12.56",
+    "Avg loss": "$-12.52",
     "Profit factor": "0.49"
    },
    "demerits": [
@@ -218,12 +218,12 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the morning pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 232,
+    "Jobs tracked on the board": 233,
     "Crew reporting in": "5 racers",
     "Open tasks": 44,
-    "Open decisions": 1,
+    "Open decisions": 0,
     "Projects": 16
    },
    "demerits": []
@@ -341,13 +341,8 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 22 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer u\u2026"
   }
  ],
- "projects_as_of": "2026-11-18 11:34 AM CT",
+ "projects_as_of": "2026-11-18 11:36 AM CT",
  "waiting": [
-  {
-   "title": "Efficiency audit \u2014 approve the top-3 trims? (~362 agent runs/day saved)",
-   "detail": "From today's efficiency audit (93 automations inventoried; full report: ~/workspace/your_files/efficiency-audit-2026-11-18.md). Nothing was changed \u2014 these 3 wait on your word: 1) Tradebot board heartbeat \u2192 script hook:\u2026",
-   "link": null
-  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -381,6 +376,11 @@
   {
    "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
+  },
+  {
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
