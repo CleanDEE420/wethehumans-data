@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T11:30:00-06:00",
+ "generated_at": "2026-11-18T11:35:00-06:00",
  "season": {
   "fleet_pnl": -22.15,
   "closed_total": 294,
@@ -222,8 +222,8 @@
    "stats": {
     "Jobs tracked on the board": 232,
     "Crew reporting in": "5 racers",
-    "Open tasks": 43,
-    "Open decisions": 0,
+    "Open tasks": 44,
+    "Open decisions": 1,
     "Projects": 16
    },
    "demerits": []
@@ -278,7 +278,7 @@
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Wave B FINISHED 2026-11-17 10:03 CT: 8,369 rows - 6,002 updated_verified + 16 republished + 220 already_live; holds 1,418 specifics / 210 nobind / 295 unresolved / 122 throttled / 68 no-bind. Wave C HALTED (HALT) at 13:58 CT on its failure-\u2026"
+   "next_gate": "Wave B FINISHED 2026-11-17 10:03 CT: 8,369 rows - 6,002 updated_verified + 16 republished + 220 already_live; holds 1,418 specifics / 210 nobind / 295 unresolved / 122 throttled / 68 no-bind. LP repair IN FLIGHT Gumby-side (NOT waiting on h\u2026"
   },
   {
    "name": "wethehumans.cool",
@@ -333,7 +333,7 @@
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: Gumby's vet \u2014 games-integration (DONE 74/74) + nightly drip.js review (DONE 10/10); dead-man's switch vet (Gumby) + activation (his ~5 min hands); Wave C resume (his word after the Browse watch answers); D82 soak (~48h from 16:4\u2026"
+   "next_gate": "waiting on: dead-man's switch vet (Gumby) + activation (his ~5 min hands \u2014 inside tonight's PC sitting, Wed Nov 18 ~7:37 PM CT); Gumby's vet \u2014 nightly drip.js review (DONE 10/10); D82 soak (~48h from 16:43 CT Nov 17). Games-integration CLOS\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
@@ -341,8 +341,13 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 22 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer u\u2026"
   }
  ],
- "projects_as_of": "2026-11-18 06:21 AM CT",
+ "projects_as_of": "2026-11-18 11:34 AM CT",
  "waiting": [
+  {
+   "title": "Efficiency audit \u2014 approve the top-3 trims? (~362 agent runs/day saved)",
+   "detail": "From today's efficiency audit (93 automations inventoried; full report: ~/workspace/your_files/efficiency-audit-2026-11-18.md). Nothing was changed \u2014 these 3 wait on your word: 1) Tradebot board heartbeat \u2192 script hook:\u2026",
+   "link": null
+  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -376,11 +381,6 @@
   {
    "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
-   "link": null
-  },
-  {
-   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
-   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
