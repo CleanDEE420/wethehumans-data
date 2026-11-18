@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T19:40:00-06:00",
+ "generated_at": "2026-11-17T19:45:00-06:00",
  "season": {
-  "fleet_pnl": -1009.15,
-  "closed_total": 249,
-  "open_total": 5,
+  "fleet_pnl": -15.86,
+  "closed_total": 250,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,20 +137,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 307 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 306 fresh Solana launches.",
    "stats": {
-    "Closed": 204,
-    "Road to 100": "204/100",
-    "Record": "53W\u2013151L",
+    "Closed": 205,
+    "Road to 100": "205/100",
+    "Record": "53W\u2013152L",
     "Win rate": "26%",
-    "PnL": "$-993.29",
-    "Watching": 307,
-    "Open": 3,
+    "PnL": "$+0.00",
+    "Watching": 306,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 60,
     "Avg win": "$+20.06",
-    "Avg loss": "$-13.62",
-    "Profit factor": "0.52"
+    "Avg loss": "$-13.59",
+    "Profit factor": "0.51"
    },
    "demerits": [
     "Bag Holder \u00d782"
@@ -252,7 +252,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "33 posted of 70 cards \u2014 37 fresh on the bench"
+   "value": "34 posted of 70 cards \u2014 36 fresh on the bench"
   }
  ],
  "projects": [
