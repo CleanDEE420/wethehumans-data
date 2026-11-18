@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T19:50:00-06:00",
+ "generated_at": "2026-11-17T19:55:00-06:00",
  "season": {
   "fleet_pnl": -15.86,
   "closed_total": 251,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 305 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 306 fresh Solana launches.",
    "stats": {
     "Closed": 206,
     "Road to 100": "206/100",
     "Record": "53W\u2013153L",
     "Win rate": "26%",
     "PnL": "$+0.00",
-    "Watching": 305,
-    "Open": 1,
+    "Watching": 306,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 60,
+    "Entries (24h)": 61,
     "Avg win": "$+20.06",
     "Avg loss": "$-13.53",
     "Profit factor": "0.51"
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-17-toolkit-games-integration right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly code review \u2014 2026-11-17.",
    "stats": {
     "Reviews done": "75/82",
     "Reviews filed": 64,
@@ -189,7 +189,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 2882,
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the evening pins \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 227,
+    "Jobs tracked on the board": 239,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
