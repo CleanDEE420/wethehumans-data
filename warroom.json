@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T22:55:00-06:00",
+ "generated_at": "2026-11-17T23:00:00-06:00",
  "season": {
   "fleet_pnl": -16.76,
   "closed_total": 265,
@@ -176,10 +176,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": true,
-   "doing": "Nightly stacker \u2014 last run 2026-11-16 22:37 CT (run 10, nightly stacker): 14 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-17 22:37 CT (run 11, nightly stacker): 13 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-16 22:37 CT (run 10, nightly stacker)",
-    "Pieces last run": 14,
+    "Last run": "2026-11-17 22:37 CT (run 11, nightly stacker)",
+    "Pieces last run": 13,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 215,
+    "Jobs tracked on the board": 216,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 0,
