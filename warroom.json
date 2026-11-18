@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T23:35:00-06:00",
+ "generated_at": "2026-11-17T23:40:00-06:00",
  "season": {
   "fleet_pnl": -16.76,
   "closed_total": 266,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 20,
     "Road to 100": "20/100",
     "Record": "2W\u201318L",
     "Win rate": "10%",
     "PnL": "$-14.48",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.22"
    },
    "demerits": []
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 319 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 321 fresh Solana launches.",
    "stats": {
     "Closed": 218,
     "Road to 100": "218/100",
     "Record": "55W\u2013163L",
     "Win rate": "25%",
     "PnL": "$+0.00",
-    "Watching": 319,
+    "Watching": 321,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 65,
