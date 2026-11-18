@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:15:00-06:00",
+ "generated_at": "2026-11-18T07:25:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
   "closed_total": 282,
@@ -147,7 +147,7 @@
     "Watching": 339,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 61,
+    "Entries (24h)": 60,
     "Avg win": "$+19.87",
     "Avg loss": "$-12.74",
     "Profit factor": "0.51"
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 226,
+    "Jobs tracked on the board": 243,
     "Crew reporting in": "5 racers",
     "Open tasks": 43,
     "Open decisions": 0,
