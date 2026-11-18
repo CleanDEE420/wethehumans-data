@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T10:30:00-06:00",
+ "generated_at": "2026-11-18T10:35:00-06:00",
  "season": {
   "fleet_pnl": -22.15,
-  "closed_total": 290,
+  "closed_total": 291,
   "open_total": 3,
   "milestones": [
    {
@@ -68,14 +68,14 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 3 open trades and watching the market.",
    "stats": {
     "Closed": 4,
     "Road to 100": "4/100",
     "Record": "3W\u20131L",
     "Win rate": "75%",
     "PnL": "$+2.25",
-    "Open": 2,
+    "Open": 3,
     "Profit factor": "19.41"
    },
    "demerits": []
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 327 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 325, no open snipes right now.",
    "stats": {
-    "Closed": 234,
-    "Road to 100": "234/100",
-    "Record": "56W\u2013178L",
+    "Closed": 235,
+    "Road to 100": "235/100",
+    "Record": "56W\u2013179L",
     "Win rate": "24%",
     "PnL": "$+0.00",
-    "Watching": 327,
-    "Open": 1,
+    "Watching": 325,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 58,
     "Avg win": "$+19.87",
-    "Avg loss": "$-12.58",
+    "Avg loss": "$-12.53",
     "Profit factor": "0.50"
    },
    "demerits": [
