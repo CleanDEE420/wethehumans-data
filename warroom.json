@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T07:50:00-06:00",
+ "generated_at": "2026-11-18T07:55:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
   "closed_total": 283,
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 335, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 336, no open snipes right now.",
    "stats": {
     "Closed": 228,
     "Road to 100": "228/100",
     "Record": "56W\u2013172L",
     "Win rate": "25%",
     "PnL": "$+0.00",
-    "Watching": 335,
+    "Watching": 336,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 59,
+    "Entries (24h)": 58,
     "Avg win": "$+19.87",
     "Avg loss": "$-12.68",
     "Profit factor": "0.51"
@@ -218,7 +218,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning quotes \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 227,
     "Crew reporting in": "5 racers",
@@ -256,7 +256,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "34 posted of 70 cards \u2014 36 fresh on the bench"
+   "value": "35 posted of 70 cards \u2014 35 fresh on the bench"
   }
  ],
  "projects": [
