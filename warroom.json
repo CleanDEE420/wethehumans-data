@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T23:40:00-06:00",
+ "generated_at": "2026-11-17T23:45:01-06:00",
  "season": {
   "fleet_pnl": -16.76,
   "closed_total": 266,
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 321 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 324 fresh Solana launches.",
    "stats": {
     "Closed": 218,
     "Road to 100": "218/100",
     "Record": "55W\u2013163L",
     "Win rate": "25%",
     "PnL": "$+0.00",
-    "Watching": 321,
+    "Watching": 324,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 65,
@@ -222,7 +222,7 @@
    "stats": {
     "Jobs tracked on the board": 216,
     "Crew reporting in": "5 racers",
-    "Open tasks": 45,
+    "Open tasks": 43,
     "Open decisions": 0,
     "Projects": 16
    },
@@ -259,7 +259,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "DEPLOYED 2026-11-13 (6af72ce1, suite 693/693, charging OFF). Stable checklist WRITTEN 2026-11-15 - 26 items: 4 PROVEN / 13 PARTIAL / 9 NOT YET PROVEN; outreach stays held until it reads proven and you say go. Parity build order adopted: byt\u2026"
+   "next_gate": "D82 wind-down DEPLOYED 2026-11-17 16:43 CT (6afcd851, suite 729/729, KRYPTON-vetted CLEARED) - test wake + 4 hourly wakes clean, soak from 16:43 CT. Wave B FINISHED 2026-11-17 10:03 CT (6,002 buyer-verified). Wave C HALTED (HALT) - 249 buye\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -269,17 +269,17 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Findability DEPLOYED 2026-11-15 (6afa0622, 13 files - llms.txt, structured data, IndexNow key; ping accepted 202). Waiting on: CleanDEE's deploy word for the staged WTH-feed section (native rebuild, staged 2026-11-06; feed refresh ran 2026-\u2026"
+   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 10:26 CT (6afc8020, 162 files, live-verified on live.foreverhumans.com). Findability DEPLOYED 2026-11-15 (6afa0622, 13 files - llms.txt, structured data, IndexNow key; ping accepted 202). W\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Game-gap fix COMPLETE 03:46 CT: census 1,591 rows / 1,589 unique - 1,575 written, 1,574 buyer-verified, 13 already had Game, 1 skip (MLBB2-010 sold); price freeze absolute (1,575/1,575 byte-identical). EXCEPTION: MLBB1-001 - record says Bas\u2026"
+   "next_gate": "Wave B FINISHED 2026-11-17 10:03 CT: 8,369 rows - 6,002 updated_verified + 16 republished + 220 already_live; holds 1,418 specifics / 210 nobind / 295 unresolved / 122 throttled / 68 no-bind. Wave C HALTED (HALT) at 13:58 CT on its failure-\u2026"
   },
   {
    "name": "wethehumans.cool",
    "status": "live",
-   "next_gate": "Findability DEPLOYED 2026-11-15 (6afa0533, 23 files - llms.txt, structured data, answer blocks, 12 Seller School lessons, IndexNow keys; IndexNow ping accepted 202). Just Listed card-size fix + Dad Hustle <-> StoreFab cross-link: LIVE since\u2026"
+   "next_gate": "Graffiti pass DEPLOYED 2026-11-17 10:30 CT (6afc8026, live-verified; /obs-widgets/ 404 as ruled). Mobile icon-button revision + Review Wall quotes (24 buyer quotes) are LIVE since the 2026-11-16 23:48 CT deploy (6afbea86) - no longer staged\u2026"
   },
   {
    "name": "Facebook + Reels machine",
@@ -324,20 +324,20 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Audio backfill renders DONE \u2014 index rebuild + deploy on his word (ship the 16 now vs full-bank deploy still open \u2014 Gumby's call: ship the 16 now); 'The Night Shift' narration in the house voice as the audiobook proof before any per-chapter\u2026"
+   "next_gate": "Audio backfill LIVE (244 entries, deploy 6afc98a9); the 17 unrendered cards 252-268 are BUILD-fated to the next voice render batch; 'The Night Shift' narration in the house voice as the audiobook proof before any per-chapter habit; SC decis\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: KRYPTON vets (19 owed \u2014 see statusNote); clip-miner review (running); kick-pipe fix 2.1 in staging, then his deploy word; D82 half-2 rides the combined post-campaign deploy; dead-man's switch activation: his ~5 min hands (Health\u2026"
+   "next_gate": "waiting on: KRYPTON review - games-integration (running 35/74); Gumby's vet on the games pile when it lands; dead-man's switch vet (Gumby) + activation (his ~5 min hands); Wave C resume (his word after the Browse watch answers); D82 soak (~\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block-2 running under the K entry rule; block-3 candidate = his trailing-stop-from-entry design; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken\u2026"
+   "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204); KRYPTON orbit-block2 cross-check queued #46 behind games-integration; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer\u2026"
   }
  ],
- "projects_as_of": "2026-11-17 07:41 AM CT",
+ "projects_as_of": "2026-11-17 08:49 PM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
