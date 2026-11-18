@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T18:10:00-06:00",
+ "generated_at": "2026-11-17T18:15:00-06:00",
  "season": {
   "fleet_pnl": -15.86,
   "closed_total": 247,
@@ -147,7 +147,7 @@
     "Watching": 305,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 62,
+    "Entries (24h)": 60,
     "Avg win": "$+19.84",
     "Avg loss": "$-13.58",
     "Profit factor": "0.51"
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
