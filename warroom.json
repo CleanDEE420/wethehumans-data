@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T08:15:01-06:00",
+ "generated_at": "2026-11-18T08:20:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
-  "closed_total": 283,
-  "open_total": 3,
+  "closed_total": 284,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,31 +137,31 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 337 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 336 fresh Solana launches.",
    "stats": {
-    "Closed": 228,
-    "Road to 100": "228/100",
-    "Record": "56W\u2013172L",
-    "Win rate": "25%",
+    "Closed": 229,
+    "Road to 100": "229/100",
+    "Record": "56W\u2013173L",
+    "Win rate": "24%",
     "PnL": "$+0.00",
-    "Watching": 337,
-    "Open": 2,
+    "Watching": 336,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 60,
     "Avg win": "$+19.87",
-    "Avg loss": "$-12.68",
-    "Profit factor": "0.51"
+    "Avg loss": "$-12.75",
+    "Profit factor": "0.50"
    },
    "demerits": [
-    "Bag Holder \u00d784"
+    "Bag Holder \u00d785"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-18-wavec-catguard right now.",
    "stats": {
     "Reviews done": "78/84",
     "Reviews filed": 65,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 243,
+    "Jobs tracked on the board": 251,
     "Crew reporting in": "5 racers",
     "Open tasks": 43,
     "Open decisions": 0,
