@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-18T09:10:00-06:00",
+ "generated_at": "2026-11-18T09:15:00-06:00",
  "season": {
-  "fleet_pnl": -19.65,
-  "closed_total": 285,
+  "fleet_pnl": -22.15,
+  "closed_total": 286,
   "open_total": 3,
   "milestones": [
    {
@@ -103,15 +103,15 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
-    "Closed": 3,
-    "Road to 100": "3/100",
-    "Record": "2W\u20131L",
-    "Win rate": "67%",
-    "PnL": "$-0.23",
-    "Open": 1,
-    "Profit factor": "0.80"
+    "Closed": 4,
+    "Road to 100": "4/100",
+    "Record": "2W\u20132L",
+    "Win rate": "50%",
+    "PnL": "$-2.72",
+    "Open": 0,
+    "Profit factor": "0.25"
    },
    "demerits": []
   },
@@ -137,15 +137,15 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 328, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 330 fresh Solana launches.",
    "stats": {
     "Closed": 230,
     "Road to 100": "230/100",
     "Record": "56W\u2013174L",
     "Win rate": "24%",
     "PnL": "$+0.00",
-    "Watching": 328,
-    "Open": 0,
+    "Watching": 330,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 56,
     "Avg win": "$+19.87",
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 09:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
