@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-17T19:35:00-06:00",
+ "generated_at": "2026-11-17T19:40:00-06:00",
  "season": {
-  "fleet_pnl": -15.86,
-  "closed_total": 248,
-  "open_total": 6,
+  "fleet_pnl": -1009.15,
+  "closed_total": 249,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,20 +137,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 308 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 307 fresh Solana launches.",
    "stats": {
-    "Closed": 203,
-    "Road to 100": "203/100",
-    "Record": "52W\u2013151L",
+    "Closed": 204,
+    "Road to 100": "204/100",
+    "Record": "53W\u2013151L",
     "Win rate": "26%",
-    "PnL": "$+0.00",
-    "Watching": 308,
-    "Open": 4,
+    "PnL": "$-993.29",
+    "Watching": 307,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 60,
-    "Avg win": "$+19.84",
+    "Avg win": "$+20.06",
     "Avg loss": "$-13.62",
-    "Profit factor": "0.50"
+    "Profit factor": "0.52"
    },
    "demerits": [
     "Bag Holder \u00d782"
@@ -189,12 +189,12 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 2882,
     "Emails": 554,
-    "Streamers": 133,
+    "Streamers": 163,
     "States in the bank": 10
    },
    "demerits": []
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the evening pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 225,
+    "Jobs tracked on the board": 210,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 9,
