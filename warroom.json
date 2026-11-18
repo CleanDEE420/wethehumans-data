@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T02:10:00-06:00",
+ "generated_at": "2026-11-18T02:15:00-06:00",
  "season": {
-  "fleet_pnl": -16.79,
-  "closed_total": 272,
-  "open_total": 6,
+  "fleet_pnl": -17.09,
+  "closed_total": 273,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -120,15 +120,15 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 23,
-    "Road to 100": "23/100",
-    "Record": "7W\u201316L",
-    "Win rate": "30%",
-    "PnL": "$-4.34",
-    "Open": 3,
-    "Profit factor": "0.39"
+    "Closed": 24,
+    "Road to 100": "24/100",
+    "Record": "7W\u201317L",
+    "Win rate": "29%",
+    "PnL": "$-4.64",
+    "Open": 2,
+    "Profit factor": "0.38"
    },
    "demerits": []
   },
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 01:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 1 in a row (last 02:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
