@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T04:50:00-06:00",
+ "generated_at": "2026-11-18T04:55:00-06:00",
  "season": {
-  "fleet_pnl": -18.16,
-  "closed_total": 278,
-  "open_total": 4,
+  "fleet_pnl": -18.85,
+  "closed_total": 280,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,15 +51,15 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 20,
-    "Road to 100": "20/100",
-    "Record": "2W\u201318L",
+    "Closed": 21,
+    "Road to 100": "21/100",
+    "Record": "2W\u201319L",
     "Win rate": "10%",
-    "PnL": "$-14.48",
-    "Open": 2,
-    "Profit factor": "0.22"
+    "PnL": "$-15.16",
+    "Open": 1,
+    "Profit factor": "0.21"
    },
    "demerits": []
   },
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 331 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 331, no open snipes right now.",
    "stats": {
-    "Closed": 225,
-    "Road to 100": "225/100",
-    "Record": "55W\u2013170L",
+    "Closed": 226,
+    "Road to 100": "226/100",
+    "Record": "55W\u2013171L",
     "Win rate": "24%",
     "PnL": "$+0.00",
     "Watching": 331,
-    "Open": 1,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 64,
     "Avg win": "$+20.14",
-    "Avg loss": "$-12.80",
+    "Avg loss": "$-12.74",
     "Profit factor": "0.51"
    },
    "demerits": [
@@ -192,7 +192,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 2941,
+    "Shops banked": 2953,
     "Emails": 568,
     "Streamers": 163,
     "States in the bank": 11
