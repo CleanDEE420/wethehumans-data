@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T17:00:00-06:00",
+ "generated_at": "2026-11-18T17:05:00-06:00",
  "season": {
   "fleet_pnl": -20.72,
   "closed_total": 316,
@@ -147,7 +147,7 @@
     "Watching": 328,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 57,
+    "Entries (24h)": 56,
     "Avg win": "$+19.56",
     "Avg loss": "$-11.98",
     "Profit factor": "0.48"
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 236,
+    "Jobs tracked on the board": 248,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 3,
