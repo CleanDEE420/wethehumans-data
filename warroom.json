@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T07:05:00-06:00",
+ "generated_at": "2026-11-18T07:10:00-06:00",
  "season": {
   "fleet_pnl": -19.65,
-  "closed_total": 281,
-  "open_total": 3,
+  "closed_total": 282,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,18 +137,18 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 340 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 339 fresh Solana launches.",
    "stats": {
-    "Closed": 226,
-    "Road to 100": "226/100",
-    "Record": "55W\u2013171L",
-    "Win rate": "24%",
+    "Closed": 227,
+    "Road to 100": "227/100",
+    "Record": "56W\u2013171L",
+    "Win rate": "25%",
     "PnL": "$+0.00",
-    "Watching": 340,
-    "Open": 2,
+    "Watching": 339,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 61,
-    "Avg win": "$+20.14",
+    "Avg win": "$+19.87",
     "Avg loss": "$-12.74",
     "Profit factor": "0.51"
    },
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-18-toolkit-spotify right now.",
    "stats": {
-    "Reviews done": "77/82",
+    "Reviews done": "77/83",
     "Reviews filed": 65,
     "Held in queue": 4,
     "Latest report": "2026-11-18-drip.js.md",
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 226,
+    "Jobs tracked on the board": 243,
     "Crew reporting in": "5 racers",
     "Open tasks": 43,
     "Open decisions": 0,
