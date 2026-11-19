@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T13:05:00-06:00",
+ "generated_at": "2026-11-19T13:15:00-06:00",
  "season": {
   "fleet_pnl": -25.97,
   "closed_total": 373,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Posting the 1:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 258,
+    "Jobs tracked on the board": 265,
     "Crew reporting in": "5 racers",
     "Open tasks": 54,
     "Open decisions": 0,
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 12:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 01:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
