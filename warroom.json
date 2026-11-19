@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T11:10:00-06:00",
+ "generated_at": "2026-11-19T11:15:00-06:00",
  "season": {
   "fleet_pnl": -27.2,
-  "closed_total": 361,
+  "closed_total": 363,
   "open_total": 8,
   "milestones": [
    {
@@ -103,14 +103,14 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 4,
     "Road to 100": "4/100",
     "Record": "2W\u20132L",
     "Win rate": "50%",
     "PnL": "$-2.72",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.25"
    },
    "demerits": []
@@ -137,20 +137,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 295 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 293 fresh Solana launches.",
    "stats": {
-    "Closed": 289,
-    "Road to 100": "289/100",
-    "Record": "65W\u2013224L",
-    "Win rate": "22%",
+    "Closed": 291,
+    "Road to 100": "291/100",
+    "Record": "66W\u2013225L",
+    "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 295,
-    "Open": 4,
+    "Watching": 293,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 55,
-    "Avg win": "$+20.04",
-    "Avg loss": "$-11.52",
-    "Profit factor": "0.50"
+    "Entries (24h)": 56,
+    "Avg win": "$+19.82",
+    "Avg loss": "$-11.48",
+    "Profit factor": "0.51"
    },
    "demerits": [
     "Bag Holder \u00d789"
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 11:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
