@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T20:40:00-06:00",
+ "generated_at": "2026-11-18T20:45:00-06:00",
  "season": {
   "fleet_pnl": -20.99,
-  "closed_total": 326,
-  "open_total": 5,
+  "closed_total": 327,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 338 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 337, no open snipes right now.",
    "stats": {
-    "Closed": 265,
-    "Road to 100": "265/100",
-    "Record": "59W\u2013206L",
+    "Closed": 266,
+    "Road to 100": "266/100",
+    "Record": "59W\u2013207L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 338,
-    "Open": 1,
+    "Watching": 337,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 57,
     "Avg win": "$+19.98",
-    "Avg loss": "$-11.97",
+    "Avg loss": "$-11.92",
     "Profit factor": "0.48"
    },
    "demerits": [
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-18-wavec-exclgate right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
    "stats": {
-    "Reviews done": "84/90",
+    "Reviews done": "85/90",
     "Reviews filed": 65,
     "Held in queue": 4,
     "Latest report": "2026-11-18-drip.js.md",
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 255,
+    "Jobs tracked on the board": 239,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 3,
