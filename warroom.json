@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T11:25:00-06:00",
+ "generated_at": "2026-11-19T11:40:00-06:00",
  "season": {
-  "fleet_pnl": -27.2,
-  "closed_total": 365,
-  "open_total": 7,
+  "fleet_pnl": -27.15,
+  "closed_total": 366,
+  "open_total": 8,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,14 +51,14 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 25,
-    "Road to 100": "25/100",
-    "Record": "2W\u201323L",
-    "Win rate": "8%",
-    "PnL": "$-18.46",
-    "Open": 2,
+    "Closed": 26,
+    "Road to 100": "26/100",
+    "Record": "3W\u201323L",
+    "Win rate": "12%",
+    "PnL": "$-18.41",
+    "Open": 1,
     "Profit factor": "0.18"
    },
    "demerits": []
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 294 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 295 fresh Solana launches.",
    "stats": {
     "Closed": 293,
     "Road to 100": "293/100",
     "Record": "66W\u2013227L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 294,
-    "Open": 2,
+    "Watching": 295,
+    "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 55,
+    "Entries (24h)": 56,
     "Avg win": "$+19.82",
     "Avg loss": "$-11.41",
     "Profit factor": "0.51"
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the morning pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 244,
+    "Jobs tracked on the board": 245,
     "Crew reporting in": "5 racers",
     "Open tasks": 54,
     "Open decisions": 0,
