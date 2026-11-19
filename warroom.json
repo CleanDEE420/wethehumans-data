@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T23:25:00-06:00",
+ "generated_at": "2026-11-18T23:30:00-06:00",
  "season": {
   "fleet_pnl": -23.71,
   "closed_total": 335,
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 312, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 311, no open snipes right now.",
    "stats": {
     "Closed": 271,
     "Road to 100": "271/100",
     "Record": "61W\u2013210L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 312,
+    "Watching": 311,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 53,
+    "Entries (24h)": 52,
     "Avg win": "$+20.33",
     "Avg loss": "$-11.90",
     "Profit factor": "0.50"
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-18-toolkit-spotify-frame-pile right now.",
    "stats": {
-    "Reviews done": "84/89",
+    "Reviews done": "84/90",
     "Reviews filed": 65,
     "Held in queue": 4,
     "Latest report": "2026-11-18-drip.js.md",
