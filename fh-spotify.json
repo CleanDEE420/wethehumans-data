@@ -1,0 +1,6 @@
+{
+  "spotify": {
+    "enabled": true,
+    "queueAdd": false
+  }
+}
