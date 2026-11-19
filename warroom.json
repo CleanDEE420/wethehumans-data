@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T23:15:00-06:00",
+ "generated_at": "2026-11-18T23:20:00-06:00",
  "season": {
   "fleet_pnl": -23.71,
-  "closed_total": 332,
-  "open_total": 6,
+  "closed_total": 335,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,20 +137,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 316 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 312, no open snipes right now.",
    "stats": {
-    "Closed": 268,
-    "Road to 100": "268/100",
-    "Record": "59W\u2013209L",
-    "Win rate": "22%",
+    "Closed": 271,
+    "Road to 100": "271/100",
+    "Record": "61W\u2013210L",
+    "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 316,
-    "Open": 3,
+    "Watching": 312,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 53,
-    "Avg win": "$+19.98",
+    "Avg win": "$+20.33",
     "Avg loss": "$-11.90",
-    "Profit factor": "0.47"
+    "Profit factor": "0.50"
    },
    "demerits": [
     "Bag Holder \u00d789"
@@ -176,10 +176,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": true,
-   "doing": "Nightly stacker \u2014 last run 2026-11-17 22:37 CT (run 11, nightly stacker): 13 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-18 22:37 CT (run 12, nightly stacker): 19 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-17 22:37 CT (run 11, nightly stacker)",
-    "Pieces last run": 13,
+    "Last run": "2026-11-18 22:37 CT (run 12, nightly stacker)",
+    "Pieces last run": 19,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
@@ -223,7 +223,7 @@
     "Jobs tracked on the board": 240,
     "Crew reporting in": "5 racers",
     "Open tasks": 54,
-    "Open decisions": 3,
+    "Open decisions": 0,
     "Projects": 16
    },
    "demerits": []
@@ -341,23 +341,8 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 22 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer u\u2026"
   }
  ],
- "projects_as_of": "2026-11-18 11:13 PM CT",
+ "projects_as_of": "2026-11-18 11:15 PM CT",
  "waiting": [
-  {
-   "title": "Housekeeping trims: kill the empty heartbeat cron, clean the supervisor registry, retire campaign-watch?",
-   "detail": "Three zero-risk items from the efficiency audit: (#10) the heartbeat cron fires 48x/day against an empty HEARTBEAT.md \u2014 pure churn, 0 tokens; (#11) the supervisor registry still carries package-pass (complete Nov 10) and\u2026",
-   "link": "sandbox://workspace/your_files/efficiency-audit-2026-11-18.md"
-  },
-  {
-   "title": "Build the 'freehand' helper \u2014 route grunt text to the free seats (Groq, Cloudflare, KRYPTON)?",
-   "detail": "From the efficiency audit's free-assistant section: a thin script that takes a task + text and routes it to the free seats in order (Groq free tier, then Cloudflare Workers AI free neurons, then KRYPTON on your PC), retu\u2026",
-   "link": "sandbox://workspace/your_files/efficiency-audit-2026-11-18.md"
-  },
-  {
-   "title": "FORGE video lane vs KRYPTON: give the video lane a clear GPU window at night?",
-   "detail": "The FORGE clip lane on CLEANmachine is proven end-to-end tonight (ComfyUI 0.45.4, RTX 4060, Wan 2.2 stack) \u2014 but the first clip took ~26 min because LM Studio/KRYPTON holds the GPU: only ~873 MB of 8 GB VRAM free, so Wan\u2026",
-   "link": "sandbox://workspace/goals/stay-curious-humans-fact-scroll/hidden_files/ramp-implementation-receipt-2026-11-18.md"
-  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -381,6 +366,21 @@
   {
    "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
    "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
+   "link": null
+  },
+  {
+   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
+   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
+   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
+  },
+  {
+   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
+  },
+  {
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
