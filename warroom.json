@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T12:30:00-06:00",
+ "generated_at": "2026-11-19T12:40:00-06:00",
  "season": {
-  "fleet_pnl": -27.15,
-  "closed_total": 370,
-  "open_total": 5,
+  "fleet_pnl": -25.97,
+  "closed_total": 373,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,15 +51,15 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
    "stats": {
-    "Closed": 26,
-    "Road to 100": "26/100",
-    "Record": "3W\u201323L",
-    "Win rate": "12%",
-    "PnL": "$-18.41",
-    "Open": 1,
-    "Profit factor": "0.18"
+    "Closed": 27,
+    "Road to 100": "27/100",
+    "Record": "4W\u201323L",
+    "Win rate": "15%",
+    "PnL": "$-18.10",
+    "Open": 0,
+    "Profit factor": "0.20"
    },
    "demerits": []
   },
@@ -68,15 +68,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
-    "Closed": 7,
-    "Road to 100": "7/100",
-    "Record": "5W\u20132L",
-    "Win rate": "71%",
-    "PnL": "$+3.68",
-    "Open": 2,
-    "Profit factor": "10.30"
+    "Closed": 9,
+    "Road to 100": "9/100",
+    "Record": "7W\u20132L",
+    "Win rate": "78%",
+    "PnL": "$+4.54",
+    "Open": 0,
+    "Profit factor": "12.49"
    },
    "demerits": []
   },
@@ -120,14 +120,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 36,
     "Road to 100": "36/100",
     "Record": "9W\u201327L",
     "Win rate": "25%",
     "PnL": "$-9.69",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.24"
    },
    "demerits": []
@@ -163,7 +163,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
-    "Reviews done": "87/92",
+    "Reviews done": "87/93",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
