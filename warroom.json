@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T22:55:00-06:00",
+ "generated_at": "2026-11-18T23:00:00-06:00",
  "season": {
   "fleet_pnl": -23.71,
   "closed_total": 332,
@@ -222,8 +222,8 @@
    "stats": {
     "Jobs tracked on the board": 240,
     "Crew reporting in": "5 racers",
-    "Open tasks": 45,
-    "Open decisions": 0,
+    "Open tasks": 54,
+    "Open decisions": 12,
     "Projects": 16
    },
    "demerits": []
@@ -341,47 +341,47 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 22 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer u\u2026"
   }
  ],
- "projects_as_of": "2026-11-18 06:49 PM CT",
+ "projects_as_of": "2026-11-18 10:58 PM CT",
  "waiting": [
   {
-   "title": "Mail the DC Mechanical winding-up envelope",
-   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
-   "link": null
+   "title": "Spotify queueAdd: arm Song Requests queueing now, or wait for the scope-fix deploy?",
+   "detail": "Spotify connected tonight as your Premium account 'Clean DEE' \u2014 the 'free' label on the status page is a display artifact: the OAuth scopes omit user-read-private, so Spotify returns no product field and the page prints\u2026",
+   "link": "https://github.com/CleanDEE420/wethehumans-data/blob/main/fh-spotify.json"
   },
   {
-   "title": "Update the card on GitHub billing (Belabox)",
-   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
-   "link": "https://github.com/settings/billing/payment_information"
+   "title": "Toolkit: build the full-art frame mode for Whatnot overlays?",
+   "detail": "Tonight you handed over your Neon Graffiti Card Shop overlay (1027x1532, now in Gumby's hands) and said you want frames like it buildable in the toolkit. js/frames.js already has the frame.artUrl seam \u2014 today it only han\u2026",
+   "link": "https://live.foreverhumans.com"
   },
   {
-   "title": "Neuron book migration \u2014 one ledger for the whole Cloudflare pool (gated on KRYPTON review)",
-   "detail": "RULE ADOPTED (walk item 1, 19:26 CT) - 'no unbooked spend': every caller debits the one ledger; failed debit stops the spend; ledger never overstates. KRYPTON review VETTED: plan CANNOT proceed as written - 4 amendments\u2026",
-   "link": null
+   "title": "Re-authorize the DC Command second-eyes audit (nightly 20:30 CT)?",
+   "detail": "The Nov 18 audit did not run: its procedure file was flagged by a safety check, so the run stopped before any board read or write (last clean audit Nov 17). You were asked at 20:31 CT and it stayed open. The audit is the\u2026",
+   "link": "https://dc-command.netlify.app"
   },
   {
-   "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
-   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
-   "link": null
+   "title": "Trim: script the KRYPTON nightly code review (drop the ~80-min agent session)?",
+   "detail": "Efficiency audit #4: krypton-nightly-code-review burns a ~80-minute agent session every night babysitting a local-model driver that already has a detached pattern. Script-it shape: launch the night's target detached, the\u2026",
+   "link": "sandbox://workspace/your_files/efficiency-audit-2026-11-18.md"
   },
   {
-   "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
-   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
-   "link": null
+   "title": "Trim: merge the dead-man's switch lane checks into the hook only?",
+   "detail": "Efficiency audit #5: the dead-man lanes are watched twice \u2014 the 30-min hook AND a daily agent cron (deadman-watches-daily) \u2014 and the hook re-wakes for the same unacted state ~4x/day. Merge: keep the hook, drop the daily\u2026",
+   "link": "sandbox://workspace/your_files/efficiency-audit-2026-11-18.md"
   },
   {
-   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
-   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
-   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
+   "title": "Trim: script the toolkit Supabase keepalive ping?",
+   "detail": "Efficiency audit #6: fh-supabase-keepalive spends a full agent run every day on one authenticated ping that keeps the toolkit's free-tier Supabase project from pausing (~7 days idle kills it). As a script/hook it pings i\u2026",
+   "link": "sandbox://workspace/your_files/efficiency-audit-2026-11-18.md"
   },
   {
-   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
-   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
-   "link": null
+   "title": "Trim: slim the 3 Pinterest job bodies to pointers (~32 KB to ~3 KB)?",
+   "detail": "Efficiency audit #8: the Pinterest trio (daily drip, midday, evening) carries 32 KB of instructions re-sent every day, and the 11:37 body's launch-pack framing dates to Oct 27 while the engine runs the 20/day plan. Move\u2026",
+   "link": "sandbox://workspace/your_files/efficiency-audit-2026-11-18.md"
   },
   {
-   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
-   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
-   "link": null
+   "title": "Trim: supervisor watchdog needs 2 down-polls before waking Gumby?",
+   "detail": "Efficiency audit #9: supervisor_down fired 13 wakes in 24h \u2014 the daemon dies in VM reaps and gets agent-restarted over and over. Requiring the down state on 2 consecutive polls (10 min) before waking cuts ~6 wakes/day; w\u2026",
+   "link": "sandbox://workspace/your_files/efficiency-audit-2026-11-18.md"
   }
  ]
 }
