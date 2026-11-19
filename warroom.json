@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T20:10:00-06:00",
+ "generated_at": "2026-11-18T20:15:00-06:00",
  "season": {
   "fleet_pnl": -20.53,
   "closed_total": 323,
-  "open_total": 6,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 333 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 334 fresh Solana launches.",
    "stats": {
     "Closed": 263,
     "Road to 100": "263/100",
     "Record": "59W\u2013204L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 333,
-    "Open": 1,
+    "Watching": 334,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 56,
+    "Entries (24h)": 57,
     "Avg win": "$+19.98",
     "Avg loss": "$-12.01",
     "Profit factor": "0.48"
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-18-wavec-exclgate right now.",
    "stats": {
     "Reviews done": "84/90",
     "Reviews filed": 65,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 239,
+    "Jobs tracked on the board": 247,
     "Crew reporting in": "5 racers",
     "Open tasks": 45,
     "Open decisions": 3,
@@ -232,11 +232,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,373 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,375 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
