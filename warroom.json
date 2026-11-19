@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-18T19:45:00-06:00",
+ "generated_at": "2026-11-18T19:50:00-06:00",
  "season": {
   "fleet_pnl": -20.53,
   "closed_total": 322,
-  "open_total": 4,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -120,14 +120,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 27,
     "Road to 100": "27/100",
     "Record": "8W\u201319L",
     "Win rate": "30%",
     "PnL": "$-5.52",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.35"
    },
    "demerits": []
@@ -137,15 +137,15 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 332 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 333 fresh Solana launches.",
    "stats": {
     "Closed": 262,
     "Road to 100": "262/100",
     "Record": "59W\u2013203L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 332,
-    "Open": 1,
+    "Watching": 333,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 56,
     "Avg win": "$+19.98",
