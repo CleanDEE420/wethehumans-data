@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T00:05:00-06:00",
+ "generated_at": "2026-11-19T00:10:00-06:00",
  "season": {
   "fleet_pnl": -23.71,
   "closed_total": 336,
@@ -147,7 +147,7 @@
     "Watching": 307,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 53,
+    "Entries (24h)": 52,
     "Avg win": "$+20.03",
     "Avg loss": "$-11.90",
     "Profit factor": "0.50"
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 drip.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-18-toolkit-spotify-frame-pile right now.",
    "stats": {
     "Reviews done": "84/90",
     "Reviews filed": 65,
