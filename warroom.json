@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T15:05:00-06:00",
+ "generated_at": "2026-11-19T15:15:00-06:00",
  "season": {
   "fleet_pnl": -25.97,
   "closed_total": 373,
@@ -147,7 +147,7 @@
     "Watching": 292,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 44,
+    "Entries (24h)": 43,
     "Avg win": "$+19.75",
     "Avg loss": "$-11.33",
     "Profit factor": "0.51"
@@ -175,7 +175,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-18 22:37 CT (run 12, nightly stacker): 19 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-18 22:37 CT (run 12, nightly stacker)",
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 02:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 03:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
