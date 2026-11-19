@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:55:00-06:00",
+ "generated_at": "2026-11-19T13:00:00-06:00",
  "season": {
   "fleet_pnl": -25.97,
   "closed_total": 373,
@@ -136,7 +136,7 @@
    "id": "orbit",
    "name": "ORBIT",
    "role": "Moonshot sniper",
-   "alive": true,
+   "alive": false,
    "doing": "Holding 2 snipes and tracking 292 fresh Solana launches.",
    "stats": {
     "Closed": 297,
@@ -147,7 +147,7 @@
     "Watching": 292,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 55,
+    "Entries (24h)": 54,
     "Avg win": "$+19.75",
     "Avg loss": "$-11.33",
     "Profit factor": "0.51"
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-19-staycurious-prototype-pile right now.",
    "stats": {
     "Reviews done": "87/93",
     "Reviews filed": 66,
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the 1:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 245,
+    "Jobs tracked on the board": 258,
     "Crew reporting in": "5 racers",
     "Open tasks": 54,
     "Open decisions": 0,
