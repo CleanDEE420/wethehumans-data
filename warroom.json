@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:10:00-06:00",
+ "generated_at": "2026-11-20T06:15:00-06:00",
  "season": {
   "fleet_pnl": -28.67,
   "closed_total": 397,
@@ -163,7 +163,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
-    "Reviews done": "96/101",
+    "Reviews done": "96/102",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Drafting today's batches \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 253,
+    "Jobs tracked on the board": 254,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 4,
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
