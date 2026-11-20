@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:15:00-06:00",
+ "generated_at": "2026-11-20T07:20:02-06:00",
  "season": {
   "fleet_pnl": -29.57,
   "closed_total": 398,
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 246, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 247, no open snipes right now.",
    "stats": {
     "Closed": 312,
     "Road to 100": "312/100",
     "Record": "72W\u2013240L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 246,
+    "Watching": 247,
     "Open": 0,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 29,
@@ -163,7 +163,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-20-wavec-throttle-exit right now.",
    "stats": {
-    "Reviews done": "96/103",
+    "Reviews done": "96/104",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
