@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-20T17:12:14.703629+00:00",
+ "generated_at": "2026-11-20T17:19:27.323365+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 11:05 CST \u2014 36 new coins seen. \u00b7 38401 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 11:10 CST \u2014 25 new coins seen. \u00b7 38426 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-20T17:05:41.893862+00:00"
+   "detail": "journal last entry 2026-11-20T17:10:41.950761+00:00"
   },
   {
    "seat": "EQUITY",
@@ -44,8 +44,8 @@
   },
   {
    "seat": "RISK GATE",
-   "status": "not logging yet",
-   "detail": "shadow verdicts are being wired today \u2014 this seat lights up when the first verdicts land in the mirror"
+   "status": "shadow",
+   "detail": "316 verdicts logged \u00b7 135 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-20T17:10:18.390337+00:00"
   }
  ],
  "crew": {
@@ -1458,7 +1458,8 @@
    "symbol": "BITCAT",
    "pnl": null,
    "reason": null,
-   "stake": 25.0
+   "stake": 25.0,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T16:40:41.037854+00:00",
@@ -1467,7 +1468,8 @@
    "symbol": "MIA",
    "pnl": -19.77,
    "reason": "hard_stop_-60%",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T16:35:40.455269+00:00",
@@ -1476,7 +1478,8 @@
    "symbol": "MIA",
    "pnl": null,
    "reason": null,
-   "stake": 25.0
+   "stake": 25.0,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T15:30:32.216658+00:00",
@@ -1485,7 +1488,8 @@
    "symbol": "RIEMANN",
    "pnl": 2.08,
    "reason": "trailing_-5%_from_peak",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T15:30:02.208108+00:00",
@@ -1510,7 +1514,8 @@
    "symbol": "RIEMANN",
    "pnl": null,
    "reason": null,
-   "stake": 25.0
+   "stake": 25.0,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T15:15:02.168815+00:00",
@@ -1535,7 +1540,8 @@
    "symbol": "Bobo",
    "pnl": -20.26,
    "reason": "hard_stop_-60%",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T14:50:29.537256+00:00",
@@ -1544,7 +1550,8 @@
    "symbol": "Bobo",
    "pnl": null,
    "reason": null,
-   "stake": 25.0
+   "stake": 25.0,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T14:45:11.024000+00:00",
@@ -1609,7 +1616,8 @@
    "symbol": "AWDADawd",
    "pnl": -2.91,
    "reason": "max_hold_60m",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T08:45:06.422000+00:00",
@@ -1642,7 +1650,8 @@
    "symbol": "AWDADawd",
    "pnl": null,
    "reason": null,
-   "stake": 25.0
+   "stake": 25.0,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T07:31:35.487000+00:00",
@@ -1675,7 +1684,8 @@
    "symbol": "iCat",
    "pnl": -8.89,
    "reason": "trailing_-5%_from_peak",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T04:40:47.653717+00:00",
@@ -1684,7 +1694,8 @@
    "symbol": "iCat",
    "pnl": null,
    "reason": null,
-   "stake": 25.0
+   "stake": 25.0,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T04:15:11.006000+00:00",
@@ -1701,7 +1712,8 @@
    "symbol": "Neko",
    "pnl": -2.79,
    "reason": "max_hold_60m",
-   "stake": null
+   "stake": null,
+   "suspect": false
   }
  ],
  "decision_log": [
@@ -1712,7 +1724,8 @@
    "symbol": "MIA",
    "pnl": -19.77,
    "reason": "hard_stop_-60%",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T15:30:32.216658+00:00",
@@ -1721,7 +1734,8 @@
    "symbol": "RIEMANN",
    "pnl": 2.08,
    "reason": "trailing_-5%_from_peak",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T14:55:32.676461+00:00",
@@ -1730,7 +1744,8 @@
    "symbol": "Bobo",
    "pnl": -20.26,
    "reason": "hard_stop_-60%",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T14:45:11.024000+00:00",
@@ -1771,7 +1786,8 @@
    "symbol": "AWDADawd",
    "pnl": -2.91,
    "reason": "max_hold_60m",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T08:45:06.422000+00:00",
@@ -1804,7 +1820,8 @@
    "symbol": "iCat",
    "pnl": -8.89,
    "reason": "trailing_-5%_from_peak",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T04:15:11.006000+00:00",
@@ -1821,7 +1838,8 @@
    "symbol": "Neko",
    "pnl": -2.79,
    "reason": "max_hold_60m",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T03:50:57.153773+00:00",
@@ -1830,7 +1848,8 @@
    "symbol": "EXEN",
    "pnl": -2.72,
    "reason": "max_hold_60m",
-   "stake": null
+   "stake": null,
+   "suspect": false
   },
   {
    "ts": "2026-11-20T03:30:50.290849+00:00",
@@ -1839,7 +1858,8 @@
    "symbol": "ORE",
    "pnl": 182037.18,
    "reason": "trailing_-5%_from_peak",
-   "stake": null
+   "stake": null,
+   "suspect": true
   },
   {
    "ts": "2026-11-20T03:00:19.788000+00:00",
@@ -1856,7 +1876,8 @@
    "symbol": "iAgent",
    "pnl": 47.23,
    "reason": "trailing_-5%_from_peak",
-   "stake": null
+   "stake": null,
+   "suspect": false
   }
  ]
 }
