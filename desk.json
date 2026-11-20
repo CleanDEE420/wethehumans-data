@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-20T20:45:34.637330+00:00",
+ "generated_at": "2026-11-20T20:50:28.568936+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 14:40 CST \u2014 38 new coins seen. \u00b7 40035 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 14:45 CST \u2014 35 new coins seen. \u00b7 40070 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 335 entered all time \u00b7 1 open now \u00b7 5 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 335 entered all time \u00b7 0 open now \u00b7 5 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-20T20:40:53.776380+00:00"
+   "detail": "journal last entry 2026-11-20T20:45:53.673447+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,025.02 of $500 start \u00b7 max drawdown $1,525.02 (305.0% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,027.88 of $500 start \u00b7 max drawdown $1,527.88 (305.6% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -57,13 +57,13 @@
  },
  "orbit": {
   "stats": {
-   "closed": 333,
+   "closed": 334,
    "wins": 73,
-   "losses": 260,
+   "losses": 261,
    "win_pct": 21.9,
    "pf": 0.49,
    "pf_inf": false,
-   "pnl": -1525.02
+   "pnl": -1527.88
   },
   "blocks": [
    {
@@ -102,11 +102,11 @@
    {
     "no": 4,
     "lo": 313,
-    "hi": 334,
-    "n": 22,
+    "hi": 335,
+    "n": 23,
     "wins": 2,
-    "losses": 20,
-    "pnl": -308.93,
+    "losses": 21,
+    "pnl": -311.79,
     "pf": 0.01,
     "final": false
    }
@@ -1517,23 +1517,27 @@
   {
    "ts": "2026-11-20T20:35:46.130647+00:00",
    "equity": -1025.02
+  },
+  {
+   "ts": "2026-11-20T20:45:53.673447+00:00",
+   "equity": -1027.88
   }
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1025.02,
-  "max_dd_usd": 1525.02,
-  "max_dd_pct": 305.0,
-  "open_count": 1
+  "ending_equity": -1027.88,
+  "max_dd_usd": 1527.88,
+  "max_dd_pct": 305.6,
+  "open_count": 0
  },
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1025.02,
+   "equity": -1027.88,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1525.02,
-   "dd_pct": 305.0,
+   "dd_usd": 1527.88,
+   "dd_pct": 305.6,
    "flagged": true
   },
   {
@@ -1583,6 +1587,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-20T20:45:53.673447+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "SI",
+   "pnl": -2.86,
+   "reason": "max_hold_60m",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-20T20:35:46.130647+00:00",
    "racer": "ORBIT",
@@ -1872,19 +1886,19 @@
    "reason": "rugged",
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-20T18:05:40.279026+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "CATPOOP",
-   "pnl": -2.73,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-20T20:45:53.673447+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "SI",
+   "pnl": -2.86,
+   "reason": "max_hold_60m",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-20T20:35:46.130647+00:00",
    "racer": "ORBIT",
@@ -2052,16 +2066,6 @@
    "symbol": "AMC",
    "pnl": -2.81,
    "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T17:45:46.759075+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "RH",
-   "pnl": -22.66,
-   "reason": "hard_stop_-60%",
    "stake": null,
    "suspect": false
   }
