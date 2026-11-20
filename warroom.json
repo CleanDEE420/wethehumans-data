@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T19:10:00-06:00",
+ "generated_at": "2026-11-19T19:15:00-06:00",
  "season": {
   "fleet_pnl": -28.78,
   "closed_total": 378,
@@ -147,7 +147,7 @@
     "Watching": 246,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 41,
+    "Entries (24h)": 40,
     "Avg win": "$+20.49",
     "Avg loss": "$-11.31",
     "Profit factor": "0.54"
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-19-staycurious-home-shorts-fix right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
-    "Reviews done": "93/99",
+    "Reviews done": "94/99",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
