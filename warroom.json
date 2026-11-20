@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T00:05:00-06:00",
+ "generated_at": "2026-11-20T00:10:00-06:00",
  "season": {
-  "fleet_pnl": -27.78,
-  "closed_total": 393,
-  "open_total": 1,
+  "fleet_pnl": -27.65,
+  "closed_total": 394,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -70,15 +70,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
-    "Closed": 10,
-    "Road to 100": "10/100",
-    "Record": "8W\u20132L",
-    "Win rate": "80%",
-    "PnL": "$+5.62",
-    "Open": 1,
-    "Profit factor": "15.21"
+    "Closed": 11,
+    "Road to 100": "11/100",
+    "Record": "9W\u20132L",
+    "Win rate": "82%",
+    "PnL": "$+5.75",
+    "Open": 0,
+    "Profit factor": "15.55"
    },
    "demerits": []
   },
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 283,
+    "Jobs tracked on the board": 252,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 4,
