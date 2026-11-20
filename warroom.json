@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:35:00-06:00",
+ "generated_at": "2026-11-19T18:40:00-06:00",
  "season": {
   "fleet_pnl": -25.97,
   "closed_total": 373,
@@ -240,7 +240,7 @@
   },
   {
    "label": "Netlify credits",
-   "value": "~250 left (range 211\u2013288) \u00b7 147 deploys this cycle \u00b7 pool resets Nov 27"
+   "value": "~234 left (range 195\u2013273) \u00b7 148 deploys this cycle \u00b7 pool resets Nov 27"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
