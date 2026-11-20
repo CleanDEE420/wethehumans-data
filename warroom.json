@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:25:18-06:00",
+ "generated_at": "2026-11-20T17:30:19-06:00",
  "season": {
   "fleet_pnl": -34.64,
   "closed_total": 432,
@@ -138,14 +138,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 263 fresh Solana launches.",
+   "doing": "Holding 5 snipes and tracking 264 fresh Solana launches.",
    "stats": {
     "Closed": 340,
     "Road to 100": "340/100",
     "Record": "76W\u2013264L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 263,
+    "Watching": 264,
     "Open": 5,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 46,
@@ -162,12 +162,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" spec review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" spec Rev 2 + Build Plan review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "108/113",
-    "Reviews filed": 67,
+    "Reviews filed": 68,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-spec-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-spec-rev2-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 273,
+    "Jobs tracked on the board": 283,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
