@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T11:50:18-06:00",
+ "generated_at": "2026-11-20T11:55:18-06:00",
  "season": {
   "fleet_pnl": -30.97,
-  "closed_total": 405,
-  "open_total": 9,
+  "closed_total": 406,
+  "open_total": 8,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,23 +137,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 242 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 242 fresh Solana launches.",
    "stats": {
-    "Closed": 316,
-    "Road to 100": "316/100",
-    "Record": "73W\u2013243L",
+    "Closed": 317,
+    "Road to 100": "317/100",
+    "Record": "73W\u2013244L",
     "Win rate": "23%",
     "PnL": "$+0.00",
     "Watching": 242,
-    "Open": 4,
+    "Open": 3,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 23,
     "Avg win": "$+2513.74",
-    "Avg loss": "$-11.30",
-    "Profit factor": "66.86"
+    "Avg loss": "$-11.34",
+    "Profit factor": "66.31"
    },
    "demerits": [
-    "Bag Holder \u00d793"
+    "Bag Holder \u00d794"
    ]
   },
   {
@@ -161,9 +161,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-20-toolkit-botrix-timers right now.",
+   "doing": "Reviewing 2026-11-20-orbit-risk-gate right now.",
    "stats": {
-    "Reviews done": "101/109",
+    "Reviews done": "102/109",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning pins \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 281,
+    "Jobs tracked on the board": 290,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
