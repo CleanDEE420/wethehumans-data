@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:50:06-06:00",
+ "generated_at": "2026-11-20T06:55:00-06:00",
  "season": {
   "fleet_pnl": -29.57,
   "closed_total": 398,
@@ -147,7 +147,7 @@
     "Watching": 247,
     "Open": 0,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 33,
+    "Entries (24h)": 32,
     "Avg win": "$+2548.62",
     "Avg loss": "$-11.17",
     "Profit factor": "68.48"
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 265,
+    "Jobs tracked on the board": 275,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 4,
