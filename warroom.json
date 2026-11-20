@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:45:19-06:00",
+ "generated_at": "2026-11-20T14:50:19-06:00",
  "season": {
   "fleet_pnl": -30.97,
   "closed_total": 423,
@@ -161,9 +161,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-20-ebay-pass2-specifics right now.",
+   "doing": "Reviewing 2026-11-20-storefab-never-again-spec right now.",
    "stats": {
-    "Reviews done": "104/111",
+    "Reviews done": "105/111",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 292,
+    "Jobs tracked on the board": 258,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
@@ -232,7 +232,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,462 rows logged \u00b7 6,047 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,468 rows logged \u00b7 6,053 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
