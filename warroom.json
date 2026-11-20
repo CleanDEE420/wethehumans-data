@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T08:00:05-06:00",
+ "generated_at": "2026-11-20T08:05:01-06:00",
  "season": {
   "fleet_pnl": -29.57,
   "closed_total": 398,
@@ -161,9 +161,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-20-toolkit-skin-swap-fix right now.",
+   "doing": "Reviewing 2026-11-20-staycurious-spokenform-recal right now.",
    "stats": {
-    "Reviews done": "97/105",
+    "Reviews done": "98/105",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 255,
+    "Jobs tracked on the board": 266,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 4,
