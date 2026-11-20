@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T15:45:19-06:00",
+ "generated_at": "2026-11-20T15:50:18-06:00",
  "season": {
   "fleet_pnl": -30.97,
   "closed_total": 427,
-  "open_total": 5,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -120,14 +120,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 41,
     "Road to 100": "41/100",
     "Record": "9W\u201332L",
     "Win rate": "22%",
     "PnL": "$-14.40",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.17"
    },
    "demerits": []
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 249, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 250 fresh Solana launches.",
    "stats": {
     "Closed": 338,
     "Road to 100": "338/100",
     "Record": "75W\u2013263L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 249,
-    "Open": 0,
+    "Watching": 250,
+    "Open": 1,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 39,
+    "Entries (24h)": 40,
     "Avg win": "$+2446.92",
     "Avg loss": "$-11.48",
     "Profit factor": "60.79"
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" spec review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-20-staycurious-voice-clone-lane right now.",
    "stats": {
     "Reviews done": "106/112",
     "Reviews filed": 67,
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the midday pins \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 289,
+    "Jobs tracked on the board": 296,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
@@ -232,7 +232,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,549 rows logged \u00b7 6,133 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,555 rows logged \u00b7 6,139 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
