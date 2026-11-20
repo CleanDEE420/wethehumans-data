@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T08:55:01-06:00",
+ "generated_at": "2026-11-20T09:00:02-06:00",
  "season": {
   "fleet_pnl": -30.97,
   "closed_total": 401,
-  "open_total": 0,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 241, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 243 fresh Solana launches.",
    "stats": {
     "Closed": 312,
     "Road to 100": "312/100",
     "Record": "72W\u2013240L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 241,
-    "Open": 0,
+    "Watching": 243,
+    "Open": 1,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 29,
+    "Entries (24h)": 30,
     "Avg win": "$+2548.62",
     "Avg loss": "$-11.17",
     "Profit factor": "68.48"
@@ -223,7 +223,7 @@
     "Jobs tracked on the board": 255,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
-    "Open decisions": 4,
+    "Open decisions": 0,
     "Projects": 16
    },
    "demerits": []
@@ -341,28 +341,8 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 103 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer\u2026"
   }
  ],
- "projects_as_of": "2026-11-20 05:40 AM CT",
+ "projects_as_of": "2026-11-20 08:44 AM CT",
  "waiting": [
-  {
-   "title": "Social posts: add an end-of-day seat check?",
-   "detail": "From the seat-check inventory (2026-11-19, founder doctrine: every lane verifies itself from the seat that matters, and silence is an alarm). The social cadence is the one high-stakes lane with NEITHER check: 5 profile s\u2026",
-   "link": null
-  },
-  {
-   "title": "Feed refresh: wire fh_wth_feed_refresh.py into a daily job?",
-   "detail": "Nightly sweep 2026-11-19: the ForeverHumans 'We The Humans Feed' refresh script (hidden_files/fh_wth_feed_refresh.py \u2014 pulls the Page's newest posts, matches quote-card images, publishes foreverhumans/wth-feed.json to th\u2026",
-   "link": null
-  },
-  {
-   "title": "Video lane: add a cap-exhaustion detector + manual flip to the local fallback?",
-   "detail": "Nightly sweep 2026-11-19 (Groq-suggested, Gumby-vetted): the Stay Curious video lane has been dead since 15:02 UTC on the Cloudflare Workers AI neuron cap (28+ failed launches, last bank card 333-cool 09:25 CT). The fall\u2026",
-   "link": null
-  },
-  {
-   "title": "KRYPTON: auto-queue a vet when a review completes?",
-   "detail": "Nightly sweep 2026-11-19: KRYPTON reviews finish (ALL.done) but the vet step waits for an agent to be dispatched \u2014 13 runs sat unvetted earlier today (wavec resolve-hardening + beats-split got vetted tonight by hand disp\u2026",
-   "link": null
-  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -381,6 +361,26 @@
   {
    "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
+   "link": null
+  },
+  {
+   "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
+   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
+   "link": null
+  },
+  {
+   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
+   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
+   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
+  },
+  {
+   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
+  },
+  {
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
