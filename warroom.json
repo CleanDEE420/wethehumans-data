@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T13:30:20-06:00",
+ "generated_at": "2026-11-20T13:35:18-06:00",
  "season": {
   "fleet_pnl": -30.97,
-  "closed_total": 415,
-  "open_total": 10,
+  "closed_total": 419,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,23 +137,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 5 snipes and tracking 245 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 244 fresh Solana launches.",
    "stats": {
-    "Closed": 326,
-    "Road to 100": "326/100",
-    "Record": "74W\u2013252L",
-    "Win rate": "23%",
+    "Closed": 330,
+    "Road to 100": "330/100",
+    "Record": "74W\u2013256L",
+    "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 245,
-    "Open": 5,
+    "Watching": 244,
+    "Open": 1,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 32,
     "Avg win": "$+2479.77",
-    "Avg loss": "$-11.36",
-    "Profit factor": "64.13"
+    "Avg loss": "$-11.43",
+    "Profit factor": "62.69"
    },
    "demerits": [
-    "Bag Holder \u00d798"
+    "Bag Holder \u00d7101"
    ]
   },
   {
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 258,
+    "Jobs tracked on the board": 264,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
@@ -232,7 +232,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,391 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,392 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
