@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-20T17:30:39.714175+00:00",
+ "generated_at": "2026-11-20T17:35:27.592628+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 11:25 CST \u2014 76 new coins seen. \u00b7 38626 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 11:30 CST \u2014 38 new coins seen. \u00b7 38664 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-20T17:20:46.874300+00:00"
+   "detail": "journal last entry 2026-11-20T17:30:45.502640+00:00"
   },
   {
    "seat": "EQUITY",
@@ -1456,6 +1456,14 @@
  },
  "flow": [
   {
+   "ts": "2026-11-20T17:35:02.275073+00:00",
+   "racer": "AMP",
+   "kind": "enter",
+   "symbol": "BTC/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
    "ts": "2026-11-20T17:20:46.874193+00:00",
    "racer": "ORBIT",
    "kind": "exit",
@@ -1709,16 +1717,6 @@
    "pnl": -8.89,
    "reason": "trailing_-5%_from_peak",
    "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T04:40:47.653717+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "iCat",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
    "suspect": false
   }
  ],
