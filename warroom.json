@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T18:00:00-06:00",
+ "generated_at": "2026-11-19T18:05:00-06:00",
  "season": {
   "fleet_pnl": -25.97,
   "closed_total": 373,
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-19-staycurious-p8-thinline right now.",
    "stats": {
     "Reviews done": "91/98",
     "Reviews filed": 66,
