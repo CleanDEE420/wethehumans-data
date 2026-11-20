@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T20:20:00-06:00",
+ "generated_at": "2026-11-19T20:25:00-06:00",
  "season": {
   "fleet_pnl": -29.31,
   "closed_total": 386,
-  "open_total": 1,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -68,14 +68,14 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Closed": 9,
     "Road to 100": "9/100",
     "Record": "7W\u20132L",
     "Win rate": "78%",
     "PnL": "$+4.54",
-    "Open": 1,
+    "Open": 2,
     "Profit factor": "12.49"
    },
    "demerits": []
@@ -85,14 +85,14 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
     "Record": "0W\u20130L",
     "Win rate": "\u2014",
     "PnL": "$+0.00",
-    "Open": 0
+    "Open": 1
    },
    "demerits": [
     "Dead Air"
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 247, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 248, no open snipes right now.",
    "stats": {
     "Closed": 307,
     "Road to 100": "307/100",
     "Record": "71W\u2013236L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 247,
+    "Watching": 248,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 41,
