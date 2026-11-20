@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T13:35:18-06:00",
+ "generated_at": "2026-11-20T13:40:18-06:00",
  "season": {
   "fleet_pnl": -30.97,
-  "closed_total": 419,
-  "open_total": 6,
+  "closed_total": 420,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,20 +137,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 244 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 244 fresh Solana launches.",
    "stats": {
-    "Closed": 330,
-    "Road to 100": "330/100",
-    "Record": "74W\u2013256L",
+    "Closed": 331,
+    "Road to 100": "331/100",
+    "Record": "74W\u2013257L",
     "Win rate": "22%",
     "PnL": "$+0.00",
     "Watching": 244,
-    "Open": 1,
+    "Open": 2,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 32,
+    "Entries (24h)": 34,
     "Avg win": "$+2479.77",
-    "Avg loss": "$-11.43",
-    "Profit factor": "62.69"
+    "Avg loss": "$-11.40",
+    "Profit factor": "62.62"
    },
    "demerits": [
     "Bag Holder \u00d7101"
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-ebay-pass2-specifics right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
     "Reviews done": "104/111",
     "Reviews filed": 66,
@@ -232,7 +232,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,392 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,398 rows logged \u00b7 6,002 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
