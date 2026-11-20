@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T23:50:00-06:00",
+ "generated_at": "2026-11-19T23:55:03-06:00",
  "season": {
   "fleet_pnl": -27.78,
   "closed_total": 393,
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-19-toolkit-mountframe-fix right now.",
    "stats": {
     "Reviews done": "95/101",
     "Reviews filed": 66,
@@ -220,10 +220,10 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 273,
+    "Jobs tracked on the board": 283,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
-    "Open decisions": 1,
+    "Open decisions": 4,
     "Projects": 16
    },
    "demerits": []
@@ -341,11 +341,26 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 103 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer\u2026"
   }
  ],
- "projects_as_of": "2026-11-19 08:45 PM CT",
+ "projects_as_of": "2026-11-19 11:51 PM CT",
  "waiting": [
   {
    "title": "Social posts: add an end-of-day seat check?",
    "detail": "From the seat-check inventory (2026-11-19, founder doctrine: every lane verifies itself from the seat that matters, and silence is an alarm). The social cadence is the one high-stakes lane with NEITHER check: 5 profile s\u2026",
+   "link": null
+  },
+  {
+   "title": "Feed refresh: wire fh_wth_feed_refresh.py into a daily job?",
+   "detail": "Nightly sweep 2026-11-19: the ForeverHumans 'We The Humans Feed' refresh script (hidden_files/fh_wth_feed_refresh.py \u2014 pulls the Page's newest posts, matches quote-card images, publishes foreverhumans/wth-feed.json to th\u2026",
+   "link": null
+  },
+  {
+   "title": "Video lane: add a cap-exhaustion detector + manual flip to the local fallback?",
+   "detail": "Nightly sweep 2026-11-19 (Groq-suggested, Gumby-vetted): the Stay Curious video lane has been dead since 15:02 UTC on the Cloudflare Workers AI neuron cap (28+ failed launches, last bank card 333-cool 09:25 CT). The fall\u2026",
+   "link": null
+  },
+  {
+   "title": "KRYPTON: auto-queue a vet when a review completes?",
+   "detail": "Nightly sweep 2026-11-19: KRYPTON reviews finish (ALL.done) but the vet step waits for an agent to be dispatched \u2014 13 runs sat unvetted earlier today (wavec resolve-hardening + beats-split got vetted tonight by hand disp\u2026",
    "link": null
   },
   {
@@ -366,21 +381,6 @@
   {
    "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
-   "link": null
-  },
-  {
-   "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
-   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
-   "link": null
-  },
-  {
-   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
-   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
-   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
-  },
-  {
-   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
-   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
    "link": null
   }
  ]
