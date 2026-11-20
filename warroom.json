@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-19T21:30:00-06:00",
+ "generated_at": "2026-11-19T21:40:00-06:00",
  "season": {
   "fleet_pnl": -27.16,
-  "closed_total": 388,
+  "closed_total": 389,
   "open_total": 4,
   "milestones": [
    {
@@ -15,7 +15,7 @@
    },
    {
     "name": "Ten Up",
-    "holder": null
+    "holder": "ORBIT"
    },
    {
     "name": "Hot Hand",
@@ -120,14 +120,14 @@
    "name": "STACKER",
    "role": "Quick-wins stacker",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 38,
     "Road to 100": "38/100",
     "Record": "9W\u201329L",
     "Win rate": "24%",
     "PnL": "$-12.75",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.19"
    },
    "demerits": []
@@ -137,20 +137,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 252 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 252 fresh Solana launches.",
    "stats": {
-    "Closed": 307,
-    "Road to 100": "307/100",
-    "Record": "71W\u2013236L",
+    "Closed": 308,
+    "Road to 100": "308/100",
+    "Record": "72W\u2013236L",
     "Win rate": "23%",
     "PnL": "$+0.00",
     "Watching": 252,
-    "Open": 3,
-    "Best trade": "BUTTHOLE +$116.35",
+    "Open": 2,
+    "Best trade": "ORE +$182.0",
     "Entries (24h)": 42,
-    "Avg win": "$+20.61",
+    "Avg win": "$+2548.62",
     "Avg loss": "$-11.28",
-    "Profit factor": "0.55"
+    "Profit factor": "68.92"
    },
    "demerits": [
     "Bag Holder \u00d790"
