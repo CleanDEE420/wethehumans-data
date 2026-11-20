@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-20T23:30:29.088054+00:00",
+ "generated_at": "2026-11-20T23:35:24.658644+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 17:25 CST \u2014 23 new coins seen. \u00b7 41102 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 17:30 CST \u2014 31 new coins seen. \u00b7 41133 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 345 entered all time \u00b7 4 open now \u00b7 5 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 346 entered all time \u00b7 4 open now \u00b7 5 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,17 +35,17 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-20T23:25:36.905701+00:00"
+   "detail": "journal last entry 2026-11-20T23:30:38.914420+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,030.77 of $500 start \u00b7 max drawdown $1,540.04 (308.0% of bankroll) \u00b7 4 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,029.19 of $500 start \u00b7 max drawdown $1,540.04 (308.0% of bankroll) \u00b7 4 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "345 verdicts logged \u00b7 143 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-20T23:20:36.078789+00:00"
+   "detail": "346 verdicts logged \u00b7 143 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-20T23:35:00.658122+00:00"
   }
  ],
  "crew": {
@@ -57,13 +57,13 @@
  },
  "orbit": {
   "stats": {
-   "closed": 340,
-   "wins": 75,
+   "closed": 341,
+   "wins": 76,
    "losses": 265,
-   "win_pct": 22.1,
+   "win_pct": 22.3,
    "pf": 0.49,
    "pf_inf": false,
-   "pnl": -1552.52
+   "pnl": -1550.94
   },
   "blocks": [
    {
@@ -102,12 +102,12 @@
    {
     "no": 4,
     "lo": 313,
-    "hi": 341,
-    "n": 29,
-    "wins": 4,
+    "hi": 342,
+    "n": 30,
+    "wins": 5,
     "losses": 25,
-    "pnl": -336.43,
-    "pf": 0.05,
+    "pnl": -334.85,
+    "pf": 0.06,
     "final": false
    }
   ],
@@ -162,13 +162,13 @@
   },
   {
    "label": "AMP",
-   "closed": 5,
+   "closed": 6,
    "wins": 2,
-   "losses": 3,
-   "win_pct": 40.0,
-   "pf": 0.23,
+   "losses": 4,
+   "win_pct": 33.3,
+   "pf": 0.2,
    "pf_inf": false,
-   "pnl": -3.0
+   "pnl": -3.62
   },
   {
    "label": "STACKER",
@@ -1545,11 +1545,15 @@
   {
    "ts": "2026-11-20T23:25:36.905701+00:00",
    "equity": -1030.77
+  },
+  {
+   "ts": "2026-11-20T23:30:38.914420+00:00",
+   "equity": -1029.19
   }
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1030.77,
+  "ending_equity": -1029.19,
   "max_dd_usd": 1540.04,
   "max_dd_pct": 308.0,
   "open_count": 4
@@ -1557,11 +1561,11 @@
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1030.77,
+   "equity": -1029.19,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1530.77,
-   "dd_pct": 306.2,
+   "dd_usd": 1529.19,
+   "dd_pct": 305.8,
    "flagged": true
   },
   {
@@ -1593,11 +1597,11 @@
   },
   {
    "racer": "AMP",
-   "equity": 497.0,
+   "equity": 496.38,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-chatter.runtime.json",
-   "dd_usd": 3.37,
-   "dd_pct": 0.7,
+   "dd_usd": 3.98,
+   "dd_pct": 0.8,
    "flagged": false
   },
   {
@@ -1611,6 +1615,34 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-20T23:35:16.023000+00:00",
+   "racer": "AMP",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": -0.61,
+   "reason": "max_hold_6h"
+  },
+  {
+   "ts": "2026-11-20T23:30:38.914420+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "FARM",
+   "pnl": 1.58,
+   "reason": "trailing_-5%_from_peak",
+   "stake": null,
+   "suspect": false
+  },
+  {
+   "ts": "2026-11-20T23:30:38.914349+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "JENSEN",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-20T23:25:36.905701+00:00",
    "racer": "ORBIT",
@@ -1872,39 +1904,27 @@
    "reason": "rugged",
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:40:55.189946+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "SI",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:30:48.325068+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "SLOPULISM",
-   "pnl": -3.11,
-   "reason": "max_hold_60m",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:30:48.324918+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "FIENA",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-20T23:35:16.023000+00:00",
+   "racer": "AMP",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": -0.61,
+   "reason": "max_hold_6h"
+  },
+  {
+   "ts": "2026-11-20T23:30:38.914420+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "FARM",
+   "pnl": 1.58,
+   "reason": "trailing_-5%_from_peak",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-20T23:25:36.905701+00:00",
    "racer": "ORBIT",
@@ -2056,26 +2076,6 @@
    "symbol": "MIC",
    "pnl": -17.18,
    "reason": "hard_stop_-60%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:25:44.399556+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "FIONAWIF",
-   "pnl": -20.19,
-   "reason": "hard_stop_-60%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:25:44.399489+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "T",
-   "pnl": -3.43,
-   "reason": "max_hold_60m",
    "stake": null,
    "suspect": false
   }
