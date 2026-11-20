@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-20T22:35:35.765726+00:00",
+ "generated_at": "2026-11-20T22:40:27.756991+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 16:30 CST \u2014 32 new coins seen. \u00b7 40763 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 16:35 CST \u2014 20 new coins seen. \u00b7 40783 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-20T22:30:47.930293+00:00"
+   "detail": "journal last entry 2026-11-20T22:35:42.944492+00:00"
   },
   {
    "seat": "EQUITY",
@@ -45,7 +45,7 @@
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "339 verdicts logged \u00b7 141 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-20T21:45:18.575712+00:00"
+   "detail": "340 verdicts logged \u00b7 141 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-20T22:35:20.061102+00:00"
   }
  ],
  "crew": {
@@ -172,13 +172,13 @@
   },
   {
    "label": "STACKER",
-   "closed": 41,
+   "closed": 42,
    "wins": 9,
-   "losses": 32,
-   "win_pct": 22.0,
+   "losses": 33,
+   "win_pct": 21.4,
    "pf": 0.17,
    "pf_inf": false,
-   "pnl": -14.4
+   "pnl": -14.95
   }
  ],
  "equity_curve": [
@@ -1590,15 +1590,23 @@
   },
   {
    "racer": "STACKER",
-   "equity": 485.6,
+   "equity": 485.05,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-stacker.runtime.json",
-   "dd_usd": 14.4,
-   "dd_pct": 2.9,
+   "dd_usd": 14.95,
+   "dd_pct": 3.0,
    "flagged": false
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-20T22:37:16.131000+00:00",
+   "racer": "STACKER",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": -0.55,
+   "reason": "stacker_flat_kill"
+  },
   {
    "ts": "2026-11-20T22:30:47.930293+00:00",
    "racer": "ORBIT",
@@ -1882,19 +1890,17 @@
    "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:05:39.958416+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "MIC",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-20T22:37:16.131000+00:00",
+   "racer": "STACKER",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": -0.55,
+   "reason": "stacker_flat_kill"
+  },
   {
    "ts": "2026-11-20T21:49:26.093000+00:00",
    "racer": "GOVERNOR",
@@ -2058,16 +2064,6 @@
    "symbol": "BIGFOOT",
    "pnl": -21.43,
    "reason": "hard_stop_-60%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T18:55:39.989080+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "BTC",
-   "pnl": 0.25,
-   "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
   }
