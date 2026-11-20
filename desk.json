@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:35:27.592628+00:00",
+ "generated_at": "2026-11-20T17:39:26.162039+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
@@ -1454,6 +1454,62 @@
   "max_dd_pct": 261.7,
   "open_count": 1
  },
+ "equity_line": [
+  {
+   "racer": "ORBIT",
+   "equity": -779.04,
+   "basis": 500.0,
+   "basis_source": "shadow bankroll (report_card convention)",
+   "dd_usd": 1279.04,
+   "dd_pct": 255.8,
+   "flagged": true
+  },
+  {
+   "racer": "VECTOR",
+   "equity": 479.5,
+   "basis": 500.0,
+   "basis_source": "dry_run_wallet in user_data/config.runtime.json",
+   "dd_usd": 20.5,
+   "dd_pct": 4.1,
+   "flagged": false
+  },
+  {
+   "racer": "RECOIL",
+   "equity": 505.8,
+   "basis": 500.0,
+   "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
+   "dd_usd": 0.0,
+   "dd_pct": 0.0,
+   "flagged": false
+  },
+  {
+   "racer": "GOVERNOR",
+   "equity": 501.13,
+   "basis": 500.0,
+   "basis_source": "dry_run_wallet in user_data/config-regime.runtime.json",
+   "dd_usd": 0.0,
+   "dd_pct": 0.0,
+   "flagged": false
+  },
+  {
+   "racer": "AMP",
+   "equity": 497.0,
+   "basis": 500.0,
+   "basis_source": "dry_run_wallet in user_data/config-chatter.runtime.json",
+   "dd_usd": 3.37,
+   "dd_pct": 0.7,
+   "flagged": false
+  },
+  {
+   "racer": "STACKER",
+   "equity": 485.6,
+   "basis": 500.0,
+   "basis_source": "dry_run_wallet in user_data/config-stacker.runtime.json",
+   "dd_usd": 14.4,
+   "dd_pct": 2.9,
+   "flagged": false
+  }
+ ],
  "flow": [
   {
    "ts": "2026-11-20T17:35:02.275073+00:00",
