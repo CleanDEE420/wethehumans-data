@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T19:35:00-06:00",
+ "generated_at": "2026-11-19T19:40:00-06:00",
  "season": {
   "fleet_pnl": -28.78,
-  "closed_total": 382,
-  "open_total": 4,
+  "closed_total": 383,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,19 +137,19 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 247 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 248 fresh Solana launches.",
    "stats": {
-    "Closed": 304,
-    "Road to 100": "304/100",
-    "Record": "69W\u2013235L",
+    "Closed": 305,
+    "Road to 100": "305/100",
+    "Record": "69W\u2013236L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 247,
-    "Open": 3,
+    "Watching": 248,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 44,
     "Avg win": "$+20.49",
-    "Avg loss": "$-11.30",
+    "Avg loss": "$-11.28",
     "Profit factor": "0.53"
    },
    "demerits": [
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the evening pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 249,
+    "Jobs tracked on the board": 251,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 2,
