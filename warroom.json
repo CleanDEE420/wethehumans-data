@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T22:45:00-06:00",
+ "generated_at": "2026-11-19T22:50:00-06:00",
  "season": {
   "fleet_pnl": -27.78,
   "closed_total": 392,
-  "open_total": 1,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,15 +137,15 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 252, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 253 fresh Solana launches.",
    "stats": {
     "Closed": 310,
     "Road to 100": "310/100",
     "Record": "72W\u2013238L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 252,
-    "Open": 0,
+    "Watching": 253,
+    "Open": 1,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 41,
     "Avg win": "$+2548.62",
@@ -176,10 +176,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": true,
-   "doing": "Nightly stacker \u2014 last run 2026-11-18 22:37 CT (run 12, nightly stacker): 19 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-19 22:37 CT (run 13, nightly stacker): 14 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-18 22:37 CT (run 12, nightly stacker)",
-    "Pieces last run": 19,
+    "Last run": "2026-11-19 22:37 CT (run 13, nightly stacker)",
+    "Pieces last run": 14,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
