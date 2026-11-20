@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-20T23:25:27.702916+00:00",
+ "generated_at": "2026-11-20T23:30:29.088054+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 17:20 CST \u2014 24 new coins seen. \u00b7 41079 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 17:25 CST \u2014 23 new coins seen. \u00b7 41102 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 345 entered all time \u00b7 5 open now \u00b7 5 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 345 entered all time \u00b7 4 open now \u00b7 5 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-20T23:20:42.414518+00:00"
+   "detail": "journal last entry 2026-11-20T23:25:36.905701+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,017.84 of $500 start \u00b7 max drawdown $1,540.04 (308.0% of bankroll) \u00b7 5 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,030.77 of $500 start \u00b7 max drawdown $1,540.04 (308.0% of bankroll) \u00b7 4 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -57,13 +57,13 @@
  },
  "orbit": {
   "stats": {
-   "closed": 339,
+   "closed": 340,
    "wins": 75,
-   "losses": 264,
+   "losses": 265,
    "win_pct": 22.1,
    "pf": 0.49,
    "pf_inf": false,
-   "pnl": -1539.59
+   "pnl": -1552.52
   },
   "blocks": [
    {
@@ -102,11 +102,11 @@
    {
     "no": 4,
     "lo": 313,
-    "hi": 340,
-    "n": 28,
+    "hi": 341,
+    "n": 29,
     "wins": 4,
-    "losses": 24,
-    "pnl": -323.5,
+    "losses": 25,
+    "pnl": -336.43,
     "pf": 0.05,
     "final": false
    }
@@ -1541,23 +1541,27 @@
   {
    "ts": "2026-11-20T22:40:42.573747+00:00",
    "equity": -1039.59
+  },
+  {
+   "ts": "2026-11-20T23:25:36.905701+00:00",
+   "equity": -1030.77
   }
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1017.84,
+  "ending_equity": -1030.77,
   "max_dd_usd": 1540.04,
   "max_dd_pct": 308.0,
-  "open_count": 5
+  "open_count": 4
  },
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1017.84,
+   "equity": -1030.77,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1517.84,
-   "dd_pct": 303.6,
+   "dd_usd": 1530.77,
+   "dd_pct": 306.2,
    "flagged": true
   },
   {
@@ -1607,6 +1611,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-20T23:25:36.905701+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "TITTYVERSE",
+   "pnl": -12.93,
+   "reason": "trailing_-5%_from_peak",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-20T23:20:42.414518+00:00",
    "racer": "ORBIT",
@@ -1888,19 +1902,19 @@
    "reason": null,
    "stake": 25.0,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:30:48.324820+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "ATMCAT",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-20T23:25:36.905701+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "TITTYVERSE",
+   "pnl": -12.93,
+   "reason": "trailing_-5%_from_peak",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-20T22:40:42.573747+00:00",
    "racer": "ORBIT",
@@ -2062,16 +2076,6 @@
    "symbol": "T",
    "pnl": -3.43,
    "reason": "max_hold_60m",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:15:39.827063+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "Singularity",
-   "pnl": -18.29,
-   "reason": "hard_stop_-60%",
    "stake": null,
    "suspect": false
   }
