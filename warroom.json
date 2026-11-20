@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:10:00-06:00",
+ "generated_at": "2026-11-20T05:15:00-06:00",
  "season": {
   "fleet_pnl": -28.67,
   "closed_total": 397,
@@ -192,7 +192,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3245,
+    "Shops banked": 3258,
     "Emails": 658,
     "Streamers": 200,
     "States in the bank": 13
@@ -236,7 +236,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 04:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
