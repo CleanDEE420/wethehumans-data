@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T15:50:18-06:00",
+ "generated_at": "2026-11-20T15:55:18-06:00",
  "season": {
-  "fleet_pnl": -30.97,
-  "closed_total": 427,
-  "open_total": 7,
+  "fleet_pnl": -34.09,
+  "closed_total": 429,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -68,15 +68,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 12,
-    "Road to 100": "12/100",
-    "Record": "10W\u20132L",
-    "Win rate": "83%",
-    "PnL": "$+5.80",
-    "Open": 3,
-    "Profit factor": "15.68"
+    "Closed": 13,
+    "Road to 100": "13/100",
+    "Record": "10W\u20133L",
+    "Win rate": "77%",
+    "PnL": "$+4.24",
+    "Open": 2,
+    "Profit factor": "3.17"
    },
    "demerits": []
   },
@@ -85,14 +85,15 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
    "stats": {
-    "Closed": 2,
-    "Road to 100": "2/100",
-    "Record": "2W\u20130L",
-    "Win rate": "100%",
-    "PnL": "$+1.13",
-    "Open": 1
+    "Closed": 3,
+    "Road to 100": "3/100",
+    "Record": "2W\u20131L",
+    "Win rate": "67%",
+    "PnL": "$-0.43",
+    "Open": 0,
+    "Profit factor": "0.72"
    },
    "demerits": []
   },
@@ -137,14 +138,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 250 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 251 fresh Solana launches.",
    "stats": {
     "Closed": 338,
     "Road to 100": "338/100",
     "Record": "75W\u2013263L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 250,
+    "Watching": 251,
     "Open": 1,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 40,
@@ -232,7 +233,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,555 rows logged \u00b7 6,139 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,564 rows logged \u00b7 6,148 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
