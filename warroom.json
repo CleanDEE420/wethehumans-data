@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T18:50:00-06:00",
+ "generated_at": "2026-11-19T19:00:00-06:00",
  "season": {
-  "fleet_pnl": -25.97,
-  "closed_total": 373,
-  "open_total": 4,
+  "fleet_pnl": -28.78,
+  "closed_total": 377,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -50,8 +50,8 @@
    "id": "vector",
    "name": "VECTOR",
    "role": "Trend follower",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
    "stats": {
     "Closed": 27,
     "Road to 100": "27/100",
@@ -67,8 +67,8 @@
    "id": "recoil",
    "name": "RECOIL",
    "role": "Dip buyer",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
     "Closed": 9,
     "Road to 100": "9/100",
@@ -84,8 +84,8 @@
    "id": "governor",
    "name": "GOVERNOR",
    "role": "Regime switcher",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
    "stats": {
     "Closed": 0,
     "Road to 100": "0/100",
@@ -102,16 +102,16 @@
    "id": "amp",
    "name": "AMP",
    "role": "Chatter trader",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
-    "Closed": 4,
-    "Road to 100": "4/100",
-    "Record": "2W\u20132L",
-    "Win rate": "50%",
-    "PnL": "$-2.72",
-    "Open": 1,
-    "Profit factor": "0.25"
+    "Closed": 5,
+    "Road to 100": "5/100",
+    "Record": "2W\u20133L",
+    "Win rate": "40%",
+    "PnL": "$-3.00",
+    "Open": 0,
+    "Profit factor": "0.23"
    },
    "demerits": []
   },
@@ -119,16 +119,16 @@
    "id": "stacker",
    "name": "STACKER",
    "role": "Quick-wins stacker",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
-    "Closed": 36,
-    "Road to 100": "36/100",
-    "Record": "9W\u201327L",
-    "Win rate": "25%",
-    "PnL": "$-9.69",
-    "Open": 1,
-    "Profit factor": "0.24"
+    "Closed": 37,
+    "Road to 100": "37/100",
+    "Record": "9W\u201328L",
+    "Win rate": "24%",
+    "PnL": "$-12.22",
+    "Open": 0,
+    "Profit factor": "0.20"
    },
    "demerits": []
   },
@@ -136,21 +136,21 @@
    "id": "orbit",
    "name": "ORBIT",
    "role": "Moonshot sniper",
-   "alive": false,
-   "doing": "Holding 2 snipes and tracking 292 fresh Solana launches.",
+   "alive": true,
+   "doing": "Holding 1 snipe and tracking 243 fresh Solana launches.",
    "stats": {
-    "Closed": 297,
-    "Road to 100": "297/100",
-    "Record": "67W\u2013230L",
+    "Closed": 299,
+    "Road to 100": "299/100",
+    "Record": "69W\u2013230L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 292,
-    "Open": 2,
+    "Watching": 243,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 38,
-    "Avg win": "$+19.75",
+    "Entries (24h)": 39,
+    "Avg win": "$+20.49",
     "Avg loss": "$-11.33",
-    "Profit factor": "0.51"
+    "Profit factor": "0.54"
    },
    "demerits": [
     "Bag Holder \u00d789"
@@ -163,7 +163,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
-    "Reviews done": "93/98",
+    "Reviews done": "93/99",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
@@ -218,9 +218,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the 7:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 248,
+    "Jobs tracked on the board": 249,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 2,
