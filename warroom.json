@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T14:15:19-06:00",
+ "generated_at": "2026-11-20T14:20:18-06:00",
  "season": {
   "fleet_pnl": -30.97,
   "closed_total": 421,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 277,
+    "Jobs tracked on the board": 284,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
@@ -232,7 +232,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,418 rows logged \u00b7 6,003 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,426 rows logged \u00b7 6,011 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
