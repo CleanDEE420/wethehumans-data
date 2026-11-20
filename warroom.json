@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T04:55:00-06:00",
+ "generated_at": "2026-11-20T05:00:00-06:00",
  "season": {
   "fleet_pnl": -28.67,
   "closed_total": 397,
@@ -189,13 +189,13 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3095,
-    "Emails": 600,
+    "Shops banked": 3132,
+    "Emails": 611,
     "Streamers": 200,
-    "States in the bank": 12
+    "States in the bank": 13
    },
    "demerits": []
   },
