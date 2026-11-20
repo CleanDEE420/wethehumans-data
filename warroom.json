@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T06:35:00-06:00",
+ "generated_at": "2026-11-20T06:40:01-06:00",
  "season": {
-  "fleet_pnl": -28.67,
-  "closed_total": 397,
-  "open_total": 3,
+  "fleet_pnl": -29.57,
+  "closed_total": 398,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -51,19 +51,17 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for an uptrend to ride \u2014 no signal yet",
    "stats": {
-    "Closed": 27,
-    "Road to 100": "27/100",
-    "Record": "4W\u201323L",
-    "Win rate": "15%",
-    "PnL": "$-18.10",
-    "Open": 1,
-    "Profit factor": "0.20"
+    "Closed": 28,
+    "Road to 100": "28/100",
+    "Record": "4W\u201324L",
+    "Win rate": "14%",
+    "PnL": "$-19.00",
+    "Open": 0,
+    "Profit factor": "0.19"
    },
-   "demerits": [
-    "Dead Air"
-   ]
+   "demerits": []
   },
   {
    "id": "recoil",
@@ -113,7 +111,9 @@
     "Open": 0,
     "Profit factor": "0.23"
    },
-   "demerits": []
+   "demerits": [
+    "Dead Air"
+   ]
   },
   {
    "id": "stacker",
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 256, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 247, no open snipes right now.",
    "stats": {
     "Closed": 312,
     "Road to 100": "312/100",
     "Record": "72W\u2013240L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 256,
+    "Watching": 247,
     "Open": 0,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 35,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 254,
+    "Jobs tracked on the board": 265,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 4,
