@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:40:19-06:00",
+ "generated_at": "2026-11-20T15:45:19-06:00",
  "season": {
   "fleet_pnl": -30.97,
   "closed_total": 427,
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 248, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 249, no open snipes right now.",
    "stats": {
     "Closed": 338,
     "Road to 100": "338/100",
     "Record": "75W\u2013263L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 248,
+    "Watching": 249,
     "Open": 0,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 39,
@@ -163,7 +163,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" spec review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "106/111",
+    "Reviews done": "106/112",
     "Reviews filed": 67,
     "Held in queue": 4,
     "Latest report": "2026-11-20-storefab-never-again-spec-VET.md",
@@ -232,7 +232,7 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,540 rows logged \u00b7 6,124 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,549 rows logged \u00b7 6,133 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
