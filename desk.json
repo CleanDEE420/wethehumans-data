@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-20T21:45:31.634707+00:00",
+ "generated_at": "2026-11-20T21:50:32.997260+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 15:40 CST \u2014 28 new coins seen. \u00b7 40469 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 15:45 CST \u2014 23 new coins seen. \u00b7 40492 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -18,7 +18,7 @@
     },
     {
      "name": "dexscreener_boosts",
-     "status": "answered (26 coins)"
+     "status": "answered (27 coins)"
     }
    ]
   },
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-20T21:40:40.734614+00:00"
+   "detail": "journal last entry 2026-11-20T21:45:41.174577+00:00"
   },
   {
    "seat": "EQUITY",
@@ -142,23 +142,23 @@
   },
   {
    "label": "RECOIL",
-   "closed": 12,
+   "closed": 13,
    "wins": 10,
-   "losses": 2,
-   "win_pct": 83.3,
-   "pf": 15.68,
+   "losses": 3,
+   "win_pct": 76.9,
+   "pf": 3.17,
    "pf_inf": false,
-   "pnl": 5.8
+   "pnl": 4.24
   },
   {
    "label": "GOVERNOR",
-   "closed": 2,
+   "closed": 3,
    "wins": 2,
-   "losses": 0,
-   "win_pct": 100.0,
-   "pf": null,
-   "pf_inf": true,
-   "pnl": 1.13
+   "losses": 1,
+   "win_pct": 66.7,
+   "pf": 0.72,
+   "pf_inf": false,
+   "pnl": -0.43
   },
   {
    "label": "AMP",
@@ -1563,20 +1563,20 @@
   },
   {
    "racer": "RECOIL",
-   "equity": 505.8,
+   "equity": 504.24,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
-   "dd_usd": 0.0,
-   "dd_pct": 0.0,
+   "dd_usd": 1.56,
+   "dd_pct": 0.3,
    "flagged": false
   },
   {
    "racer": "GOVERNOR",
-   "equity": 501.13,
+   "equity": 499.57,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-regime.runtime.json",
-   "dd_usd": 0.0,
-   "dd_pct": 0.0,
+   "dd_usd": 1.56,
+   "dd_pct": 0.3,
    "flagged": false
   },
   {
@@ -1599,6 +1599,22 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-20T21:49:26.093000+00:00",
+   "racer": "GOVERNOR",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": -1.56,
+   "reason": "dip_reversion"
+  },
+  {
+   "ts": "2026-11-20T21:49:26.068000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": -1.56,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-20T21:45:02.139416+00:00",
    "racer": "STACKER",
@@ -1876,29 +1892,25 @@
    "reason": "hard_stop_-60%",
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:00:45.447126+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "FIONAWIF",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T18:55:39.989080+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "BTC",
-   "pnl": 0.25,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-20T21:49:26.093000+00:00",
+   "racer": "GOVERNOR",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": -1.56,
+   "reason": "dip_reversion"
+  },
+  {
+   "ts": "2026-11-20T21:49:26.068000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": -1.56,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-20T21:20:54.184651+00:00",
    "racer": "ORBIT",
@@ -2056,26 +2068,6 @@
    "symbol": "BTC",
    "pnl": 0.25,
    "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T18:30:50.577437+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "MAYA",
-   "pnl": -16.57,
-   "reason": "hard_stop_-60%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T18:25:48.522401+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "STANDOFF",
-   "pnl": -3.11,
-   "reason": "max_hold_60m",
    "stake": null,
    "suspect": false
   }
