@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T17:15:19-06:00",
+ "generated_at": "2026-11-20T17:20:18-06:00",
  "season": {
   "fleet_pnl": -34.64,
   "closed_total": 432,
-  "open_total": 4,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -138,17 +138,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 257 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 261 fresh Solana launches.",
    "stats": {
     "Closed": 340,
     "Road to 100": "340/100",
     "Record": "76W\u2013264L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 257,
-    "Open": 1,
+    "Watching": 261,
+    "Open": 4,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 42,
+    "Entries (24h)": 45,
     "Avg win": "$+2414.73",
     "Avg loss": "$-11.45",
     "Profit factor": "60.73"
@@ -161,8 +161,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-spec-rev2 right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" spec review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "107/113",
     "Reviews filed": 67,
