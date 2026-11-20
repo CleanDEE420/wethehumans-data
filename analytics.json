@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-19T12:39:53",
+ "generated": "2026-11-20T12:13:55",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 77,
-   "visits7d": 66,
+   "pageviews7d": 71,
+   "visits7d": 62,
    "by_day": [
-    {
-     "date": "2026-11-13",
-     "pageviews": 10,
-     "visits": 8
-    },
     {
      "date": "2026-11-14",
      "pageviews": 14,
@@ -39,8 +34,13 @@
     },
     {
      "date": "2026-11-19",
-     "pageviews": 5,
-     "visits": 5
+     "pageviews": 8,
+     "visits": 8
+    },
+    {
+     "date": "2026-11-20",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
@@ -50,18 +50,18 @@
     },
     {
      "path": "/home-2/",
-     "pageviews": 5
+     "pageviews": 4
     },
     {
      "path": "/home-2/category/food+break/",
-     "pageviews": 5
-    },
-    {
-     "path": "/dex-tracker/",
      "pageviews": 4
     },
     {
      "path": "/home-2/2016/1/7/sit-on-a-zubaton-ecdae/",
+     "pageviews": 3
+    },
+    {
+     "path": "/decks/",
      "pageviews": 3
     }
    ]
@@ -106,14 +106,9 @@
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 31,
-   "visits7d": 28,
+   "pageviews7d": 30,
+   "visits7d": 26,
    "by_day": [
-    {
-     "date": "2026-11-13",
-     "pageviews": 3,
-     "visits": 3
-    },
     {
      "date": "2026-11-14",
      "pageviews": 4,
@@ -141,14 +136,14 @@
     },
     {
      "date": "2026-11-19",
-     "pageviews": 2,
-     "visits": 2
+     "pageviews": 4,
+     "visits": 3
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 27
+     "pageviews": 26
     },
     {
      "path": "/app/",
