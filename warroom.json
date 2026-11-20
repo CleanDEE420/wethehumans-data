@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T22:05:00-06:00",
+ "generated_at": "2026-11-19T22:10:00-06:00",
  "season": {
   "fleet_pnl": -27.16,
   "closed_total": 391,
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 251, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 252, no open snipes right now.",
    "stats": {
     "Closed": 310,
     "Road to 100": "310/100",
     "Record": "72W\u2013238L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 251,
+    "Watching": 252,
     "Open": 0,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 42,
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-19-staycurious-beats-split-fix right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
-    "Reviews done": "94/100",
+    "Reviews done": "95/100",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
