@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T05:25:00-06:00",
+ "generated_at": "2026-11-20T05:30:00-06:00",
  "season": {
   "fleet_pnl": -28.67,
   "closed_total": 397,
@@ -341,7 +341,7 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 103 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer\u2026"
   }
  ],
- "projects_as_of": "2026-11-19 11:51 PM CT",
+ "projects_as_of": "2026-11-20 12:33 AM CT",
  "waiting": [
   {
    "title": "Social posts: add an end-of-day seat check?",
