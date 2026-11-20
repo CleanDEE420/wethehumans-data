@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T01:50:00-06:00",
+ "generated_at": "2026-11-20T01:55:00-06:00",
  "season": {
   "fleet_pnl": -28.47,
   "closed_total": 395,
-  "open_total": 0,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -137,17 +137,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 253, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 254 fresh Solana launches.",
    "stats": {
     "Closed": 311,
     "Road to 100": "311/100",
     "Record": "72W\u2013239L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 253,
-    "Open": 0,
+    "Watching": 254,
+    "Open": 1,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 39,
+    "Entries (24h)": 40,
     "Avg win": "$+2548.62",
     "Avg loss": "$-11.20",
     "Profit factor": "68.55"
@@ -252,7 +252,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "370 cards banked"
+   "value": "375 cards banked"
   },
   {
    "label": "Quote card pool",
