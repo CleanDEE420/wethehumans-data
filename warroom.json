@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:20:02-06:00",
+ "generated_at": "2026-11-20T07:30:00-06:00",
  "season": {
   "fleet_pnl": -29.57,
   "closed_total": 398,
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-wavec-throttle-exit right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
     "Reviews done": "96/104",
     "Reviews filed": 66,
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 286,
+    "Jobs tracked on the board": 254,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 4,
