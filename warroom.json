@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T06:55:00-06:00",
+ "generated_at": "2026-11-20T07:00:00-06:00",
  "season": {
   "fleet_pnl": -29.57,
   "closed_total": 398,
@@ -163,7 +163,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-20-wavec-throttle-exit right now.",
    "stats": {
-    "Reviews done": "96/102",
+    "Reviews done": "96/103",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
