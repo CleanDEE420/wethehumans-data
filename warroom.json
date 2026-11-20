@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T12:50:19-06:00",
+ "generated_at": "2026-11-20T12:55:19-06:00",
  "season": {
   "fleet_pnl": -30.97,
   "closed_total": 411,
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 242 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 241 fresh Solana launches.",
    "stats": {
     "Closed": 322,
     "Road to 100": "322/100",
     "Record": "73W\u2013249L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 242,
+    "Watching": 241,
     "Open": 4,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 27,
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-tradebot-equity-line right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
-    "Reviews done": "103/109",
+    "Reviews done": "104/109",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
@@ -220,7 +220,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 267,
+    "Jobs tracked on the board": 274,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
