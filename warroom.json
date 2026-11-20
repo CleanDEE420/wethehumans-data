@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T10:25:00-06:00",
+ "generated_at": "2026-11-20T10:30:01-06:00",
  "season": {
   "fleet_pnl": -30.97,
   "closed_total": 403,
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-toolkit-timer-loop right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
-    "Reviews done": "100/106",
+    "Reviews done": "101/106",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
