@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T06:30:00-06:00",
+ "generated_at": "2026-11-20T06:35:00-06:00",
  "season": {
   "fleet_pnl": -28.67,
   "closed_total": 397,
-  "open_total": 1,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -50,8 +50,8 @@
    "id": "vector",
    "name": "VECTOR",
    "role": "Trend follower",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 27,
     "Road to 100": "27/100",
@@ -69,15 +69,15 @@
    "id": "recoil",
    "name": "RECOIL",
    "role": "Dip buyer",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 11,
     "Road to 100": "11/100",
     "Record": "9W\u20132L",
     "Win rate": "82%",
     "PnL": "$+5.75",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "15.55"
    },
    "demerits": []
@@ -86,15 +86,15 @@
    "id": "governor",
    "name": "GOVERNOR",
    "role": "Regime switcher",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 1,
     "Road to 100": "1/100",
     "Record": "1W\u20130L",
     "Win rate": "100%",
     "PnL": "$+1.08",
-    "Open": 0
+    "Open": 1
    },
    "demerits": []
   },
@@ -102,8 +102,8 @@
    "id": "amp",
    "name": "AMP",
    "role": "Chatter trader",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
     "Closed": 5,
     "Road to 100": "5/100",
@@ -119,8 +119,8 @@
    "id": "stacker",
    "name": "STACKER",
    "role": "Quick-wins stacker",
-   "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "alive": true,
+   "doing": "Watching BTC/ETH/SOL for a quick burst to grab \u2014 small wins, stacked",
    "stats": {
     "Closed": 41,
     "Road to 100": "41/100",
@@ -136,7 +136,7 @@
    "id": "orbit",
    "name": "ORBIT",
    "role": "Moonshot sniper",
-   "alive": false,
+   "alive": true,
    "doing": "Scanning brand-new Solana coins \u2014 tracking 256, no open snipes right now.",
    "stats": {
     "Closed": 312,
@@ -160,8 +160,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-20-wavec-throttle-exit right now.",
    "stats": {
     "Reviews done": "96/102",
     "Reviews filed": 66,
