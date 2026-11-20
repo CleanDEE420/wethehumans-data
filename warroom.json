@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T21:05:00-06:00",
+ "generated_at": "2026-11-19T21:10:00-06:00",
  "season": {
-  "fleet_pnl": -29.31,
-  "closed_total": 386,
-  "open_total": 6,
+  "fleet_pnl": -27.16,
+  "closed_total": 388,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -61,22 +61,24 @@
     "Open": 0,
     "Profit factor": "0.20"
    },
-   "demerits": []
+   "demerits": [
+    "Dead Air"
+   ]
   },
   {
    "id": "recoil",
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 9,
-    "Road to 100": "9/100",
-    "Record": "7W\u20132L",
-    "Win rate": "78%",
-    "PnL": "$+4.54",
-    "Open": 2,
-    "Profit factor": "12.49"
+    "Closed": 10,
+    "Road to 100": "10/100",
+    "Record": "8W\u20132L",
+    "Win rate": "80%",
+    "PnL": "$+5.62",
+    "Open": 1,
+    "Profit factor": "15.21"
    },
    "demerits": []
   },
@@ -85,18 +87,16 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
    "stats": {
-    "Closed": 0,
-    "Road to 100": "0/100",
-    "Record": "0W\u20130L",
-    "Win rate": "\u2014",
-    "PnL": "$+0.00",
-    "Open": 1
+    "Closed": 1,
+    "Road to 100": "1/100",
+    "Record": "1W\u20130L",
+    "Win rate": "100%",
+    "PnL": "$+1.08",
+    "Open": 0
    },
-   "demerits": [
-    "Dead Air"
-   ]
+   "demerits": []
   },
   {
    "id": "amp",
@@ -137,14 +137,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 249 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 250 fresh Solana launches.",
    "stats": {
     "Closed": 307,
     "Road to 100": "307/100",
     "Record": "71W\u2013236L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 249,
+    "Watching": 250,
     "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 43,
