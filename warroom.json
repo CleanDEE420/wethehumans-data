@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T17:40:19-06:00",
+ "generated_at": "2026-11-20T17:45:18-06:00",
  "season": {
   "fleet_pnl": -35.25,
-  "closed_total": 435,
-  "open_total": 6,
+  "closed_total": 436,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -61,7 +61,9 @@
     "Open": 0,
     "Profit factor": "0.18"
    },
-   "demerits": []
+   "demerits": [
+    "Dead Air"
+   ]
   },
   {
    "id": "recoil",
@@ -112,9 +114,7 @@
     "Open": 0,
     "Profit factor": "0.20"
    },
-   "demerits": [
-    "Dead Air"
-   ]
+   "demerits": []
   },
   {
    "id": "stacker",
@@ -138,23 +138,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 262 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 261 fresh Solana launches.",
    "stats": {
-    "Closed": 342,
-    "Road to 100": "342/100",
-    "Record": "77W\u2013265L",
-    "Win rate": "23%",
+    "Closed": 343,
+    "Road to 100": "343/100",
+    "Record": "77W\u2013266L",
+    "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 262,
-    "Open": 4,
+    "Watching": 261,
+    "Open": 3,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 47,
     "Avg win": "$+2383.39",
-    "Avg loss": "$-11.45",
-    "Profit factor": "60.47"
+    "Avg loss": "$-11.50",
+    "Profit factor": "59.98"
    },
    "demerits": [
-    "Bag Holder \u00d7105"
+    "Bag Holder \u00d7106"
    ]
   },
   {
