@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T07:00:00-06:00",
+ "generated_at": "2026-11-20T07:05:00-06:00",
  "season": {
   "fleet_pnl": -29.57,
   "closed_total": 398,
@@ -147,7 +147,7 @@
     "Watching": 247,
     "Open": 0,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 32,
+    "Entries (24h)": 30,
     "Avg win": "$+2548.62",
     "Avg loss": "$-11.17",
     "Profit factor": "68.48"
