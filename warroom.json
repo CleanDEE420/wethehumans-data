@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T15:10:19-06:00",
+ "generated_at": "2026-11-20T15:15:18-06:00",
  "season": {
   "fleet_pnl": -30.97,
   "closed_total": 424,
@@ -160,10 +160,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-spec right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 fix.js.",
    "stats": {
-    "Reviews done": "105/111",
+    "Reviews done": "106/111",
     "Reviews filed": 66,
     "Held in queue": 4,
     "Latest report": "2026-11-19-fix.js.md",
@@ -232,11 +232,11 @@
  "machine": [
   {
    "label": "Big Fix \u2014 description rebrand (Wave B)",
-   "value": "Running \u2014 8,499 rows logged \u00b7 6,084 verified \u00b7 1,418 held for the specifics sitting"
+   "value": "Running \u2014 8,505 rows logged \u00b7 6,090 verified \u00b7 1,418 held for the specifics sitting"
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 02:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 03:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
