@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-19T20:05:00-06:00",
+ "generated_at": "2026-11-19T20:10:00-06:00",
  "season": {
   "fleet_pnl": -29.31,
   "closed_total": 386,
-  "open_total": 0,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -68,14 +68,14 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 9,
     "Road to 100": "9/100",
     "Record": "7W\u20132L",
     "Win rate": "78%",
     "PnL": "$+4.54",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "12.49"
    },
    "demerits": []
@@ -147,7 +147,7 @@
     "Watching": 246,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 43,
+    "Entries (24h)": 42,
     "Avg win": "$+20.61",
     "Avg loss": "$-11.28",
     "Profit factor": "0.55"
