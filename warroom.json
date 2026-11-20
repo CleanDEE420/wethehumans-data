@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T17:05:19-06:00",
+ "generated_at": "2026-11-20T17:10:19-06:00",
  "season": {
   "fleet_pnl": -34.64,
   "closed_total": 432,
@@ -161,8 +161,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-spec-rev2 right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" spec review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "107/113",
     "Reviews filed": 67,
