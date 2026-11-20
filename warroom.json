@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T17:35:18-06:00",
+ "generated_at": "2026-11-20T17:40:19-06:00",
  "season": {
-  "fleet_pnl": -34.64,
-  "closed_total": 433,
-  "open_total": 7,
+  "fleet_pnl": -35.25,
+  "closed_total": 435,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -102,15 +102,15 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
-    "Closed": 5,
-    "Road to 100": "5/100",
-    "Record": "2W\u20133L",
-    "Win rate": "40%",
-    "PnL": "$-3.00",
-    "Open": 1,
-    "Profit factor": "0.23"
+    "Closed": 6,
+    "Road to 100": "6/100",
+    "Record": "2W\u20134L",
+    "Win rate": "33%",
+    "PnL": "$-3.62",
+    "Open": 0,
+    "Profit factor": "0.20"
    },
    "demerits": [
     "Dead Air"
@@ -138,18 +138,18 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 263 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 262 fresh Solana launches.",
    "stats": {
-    "Closed": 341,
-    "Road to 100": "341/100",
-    "Record": "76W\u2013265L",
-    "Win rate": "22%",
+    "Closed": 342,
+    "Road to 100": "342/100",
+    "Record": "77W\u2013265L",
+    "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 263,
+    "Watching": 262,
     "Open": 4,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 46,
-    "Avg win": "$+2414.73",
+    "Entries (24h)": 47,
+    "Avg win": "$+2383.39",
     "Avg loss": "$-11.45",
     "Profit factor": "60.47"
    },
