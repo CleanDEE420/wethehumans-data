@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T20:25:00-06:00",
+ "generated_at": "2026-11-19T20:30:00-06:00",
  "season": {
   "fleet_pnl": -29.31,
   "closed_total": 386,
@@ -223,7 +223,7 @@
     "Jobs tracked on the board": 251,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
-    "Open decisions": 2,
+    "Open decisions": 1,
     "Projects": 16
    },
    "demerits": []
@@ -341,16 +341,11 @@
    "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 22 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer u\u2026"
   }
  ],
- "projects_as_of": "2026-11-19 06:39 PM CT",
+ "projects_as_of": "2026-11-19 06:56 PM CT",
  "waiting": [
   {
    "title": "Social posts: add an end-of-day seat check?",
    "detail": "From the seat-check inventory (2026-11-19, founder doctrine: every lane verifies itself from the seat that matters, and silence is an alarm). The social cadence is the one high-stakes lane with NEITHER check: 5 profile s\u2026",
-   "link": null
-  },
-  {
-   "title": "Stay Curious video lane: retire the last launcher cron for a stall-only hook?",
-   "detail": "From the offload sweep (2026-11-19, founder order: move everything off agent attention that can move). DONE ALREADY in the sweep: the batch auto-repair watchdog (48 agent runs/day), the dead-man's watches (1/day) and the\u2026",
    "link": null
   },
   {
@@ -382,6 +377,11 @@
    "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
    "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
    "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
+  },
+  {
+   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
   }
  ]
 }
