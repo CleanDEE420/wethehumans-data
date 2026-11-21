@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T14:36:36-06:00",
+ "generated_at": "2026-11-21T14:41:34-06:00",
  "season": {
   "fleet_pnl": -42.87,
-  "closed_total": 475,
-  "open_total": 6,
+  "closed_total": 476,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,33 +136,33 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 267 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 266 fresh Solana launches.",
    "stats": {
-    "Closed": 377,
-    "Road to 100": "377/100",
-    "Record": "85W\u2013292L",
-    "Win rate": "23%",
+    "Closed": 378,
+    "Road to 100": "378/100",
+    "Record": "85W\u2013293L",
+    "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 267,
-    "Open": 3,
+    "Watching": 266,
+    "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 46,
     "Avg win": "$+2136.20",
-    "Avg loss": "$-11.68",
-    "Profit factor": "53.86"
+    "Avg loss": "$-11.70",
+    "Profit factor": "53.60"
    },
    "demerits": [
-    "Bag Holder \u00d7119"
+    "Bag Holder \u00d7120"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab OI-1 scope patch review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-21-storefab-ui-dialin right now.",
    "stats": {
-    "Reviews done": "125/130",
+    "Reviews done": "125/131",
     "Reviews filed": 84,
     "Held in queue": 4,
     "Latest report": "2026-11-21-storefab-oi1-scope-patch-VET.md",
