@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T15:46:46.063235+00:00",
+ "generated_at": "2026-11-21T15:51:46.174730+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-21 09:45 CST \u2014 26 new coins seen. \u00b7 45797 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-21 09:50 CST \u2014 30 new coins seen. \u00b7 45827 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 371 entered all time \u00b7 0 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 372 entered all time \u00b7 1 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T15:45:36.814982+00:00"
+   "detail": "journal last entry 2026-11-21T15:50:44.137376+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,141.76 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,141.76 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -1628,7 +1628,7 @@
   "ending_equity": -1141.76,
   "max_dd_usd": 1674.39,
   "max_dd_pct": 334.9,
-  "open_count": 0
+  "open_count": 1
  },
  "equity_line": [
   {
@@ -1687,6 +1687,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T15:50:44.137376+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "NOHR",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T14:25:38.738243+00:00",
    "racer": "ORBIT",
@@ -1969,16 +1979,6 @@
    "pnl": -19.37,
    "reason": "hard_stop_-60%",
    "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-21T04:40:39.086174+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "PUNANI",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
    "suspect": false
   }
  ],
