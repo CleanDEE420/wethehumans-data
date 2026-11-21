@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T23:50:18-06:00",
+ "generated_at": "2026-11-20T23:55:23-06:00",
  "season": {
   "fleet_pnl": -44.1,
-  "closed_total": 455,
-  "open_total": 7,
+  "closed_total": 456,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,18 +136,18 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 244 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 244, no open snipes right now.",
    "stats": {
-    "Closed": 360,
-    "Road to 100": "360/100",
-    "Record": "81W\u2013279L",
-    "Win rate": "22%",
+    "Closed": 361,
+    "Road to 100": "361/100",
+    "Record": "82W\u2013279L",
+    "Win rate": "23%",
     "PnL": "$+0.00",
     "Watching": 244,
-    "Open": 1,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 51,
-    "Avg win": "$+2239.82",
+    "Avg win": "$+2213.05",
     "Avg loss": "$-11.67",
     "Profit factor": "56.39"
    },
@@ -219,10 +219,10 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 285,
+    "Jobs tracked on the board": 293,
     "Crew reporting in": "5 racers",
     "Open tasks": 75,
-    "Open decisions": 16,
+    "Open decisions": 0,
     "Projects": 16
    },
    "demerits": []
@@ -340,47 +340,47 @@
    "next_gate": "Block 4 running (36 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED today; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken record\u2026"
   }
  ],
- "projects_as_of": "2026-11-20 10:08 PM CT",
+ "projects_as_of": "2026-11-20 10:14 PM CT",
  "waiting": [
   {
-   "title": "Approve the spoken-form gate recalibration? (unblocks 355/356/382; 381 eyeball rides along)",
-   "detail": "The producer's spoken-form check uses a stale formula that parks good cards: 355, 356 and 382 are held on it, and card 373 was day-parked by it today. The recalibration (limit = 0.30 + 0.55 x spoken syllables) is staged\u2026",
-   "link": "https://eximioushuman.com"
+   "title": "Mail the DC Mechanical winding-up envelope",
+   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
+   "link": null
   },
   {
-   "title": "Lift the upload hold for the CPK-only small-batch push?",
-   "detail": "The store reads finished: photos 8,319/8,319, descriptions, specifics, weights all landed and buyer-verified; CPK sync closed tonight with CPK Only 0 and the live count unchanged at 8,319 (post-sync spot-check: differenc\u2026",
-   "link": "https://ebay.us/m/wfJ5g3"
+   "title": "Update the card on GitHub billing (Belabox)",
+   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
+   "link": "https://github.com/settings/billing/payment_information"
   },
   {
-   "title": "Drop the category-moves pile (1,718 sports singles)?",
-   "detail": "The ebay-store GOAL.md still lists moving 1,718 sports singles from category 183454 to 261328 as a pending pile. The landed campaign did the opposite on purpose: it repaired those listings IN 183454 using that category's\u2026",
-   "link": "https://ebay.us/m/wfJ5g3"
+   "title": "Neuron book migration \u2014 one ledger for the whole Cloudflare pool (gated on KRYPTON review)",
+   "detail": "RULE ADOPTED (walk item 1, 19:26 CT) - 'no unbooked spend': every caller debits the one ledger; failed debit stops the spend; ledger never overstates. KRYPTON review VETTED: plan CANNOT proceed as written - 4 amendments\u2026",
+   "link": null
   },
   {
-   "title": "Run a read-only census of the wrong-'Game' aspect class?",
-   "detail": "2 baseball cards (MLBB1-001, MLBB9-005) carry a stored Game=['Basketball'] aspect, buyer-visible. The class size is unknown \u2014 the Sport scan covered 706/709 clean, so it may be just these 2, but nobody has counted the Ga\u2026",
-   "link": "https://ebay.us/m/wfJ5g3"
+   "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
+   "link": null
   },
   {
-   "title": "Best Offer watch: let it retire Fri Nov 27 as planned?",
-   "detail": "The watch is a daily agent cron running a job that already exists as a pure script (bestoffer_watch.py, 75-read slice). It has caught 0 drops in every recorded run and retires Fri Nov 27 09:45 CT by your standing ruling.\u2026",
-   "link": "https://ebay.us/m/wfJ5g3"
+   "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
+   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
+   "link": null
   },
   {
-   "title": "Whatnot Nov 27 show: confirm 4:20 PM CT + that it's scheduled in Whatnot?",
-   "detail": "Your promo plan says the main show is Fri Nov 27 at 4:20 PM CT (countdown to 1,000 as the hero). The best-show-time research report on file recommends a 4:00 PM CT start and \u2014 its strongest finding \u2014 scheduling ~1 week a\u2026",
-   "link": "https://www.whatnot.com/dashboard"
+   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
+   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
+   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
   },
   {
-   "title": "FH-030 / FH-031 / FH-032: keep all 3 for the next Product Day?",
-   "detail": "'Got You Covered', 'Kindness Landed', 'Garden Mind' \u2014 files on disk, white-stage eyeball-approved by you Nov 18, never ruled. Same illustrated family as tonight's kept batch (FH-026/028/029, now live: shop at 49 products\u2026",
-   "link": "https://foreverhumans-shop.fourthwall.com/"
+   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
+   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
   },
   {
-   "title": "Retire the missing b5-10 quote card instead of reposting it?",
-   "detail": "The Nov 19 PM quote card (b5-10) never landed on the FB Page \u2014 create outcome unknown, read-back showed it absent, and the no-retry rule held. The same card posted fine on Bluesky, Pinterest and Instagram. The ledger's 1\u2026",
-   "link": "https://www.facebook.com/profile.php?id=1320828584456775"
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
+   "link": null
   }
  ]
 }
