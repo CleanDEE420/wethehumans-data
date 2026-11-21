@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:45:18-06:00",
+ "generated_at": "2026-11-20T20:50:19-06:00",
  "season": {
   "fleet_pnl": -37.79,
   "closed_total": 445,
@@ -162,9 +162,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-p5 right now.",
+   "doing": "Reviewing 2026-11-20-storefab-never-again-p6 right now.",
    "stats": {
-    "Reviews done": "113/125",
+    "Reviews done": "114/125",
     "Reviews filed": 73,
     "Held in queue": 4,
     "Latest report": "2026-11-20-storefab-never-again-p4-VET.md",
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 263,
+    "Jobs tracked on the board": 268,
     "Crew reporting in": "5 racers",
     "Open tasks": 53,
     "Open decisions": 0,
