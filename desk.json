@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T05:00:34.119275+00:00",
+ "generated_at": "2026-11-21T05:05:33.972481+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 22:55 CST \u2014 26 new coins seen. \u00b7 43001 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 23:00 CST \u2014 19 new coins seen. \u00b7 43020 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 360 entered all time \u00b7 1 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 360 entered all time \u00b7 0 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T04:55:43.671798+00:00"
+   "detail": "journal last entry 2026-11-21T05:00:37.812779+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,143.41 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,128.13 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -57,13 +57,13 @@
  },
  "orbit": {
   "stats": {
-   "closed": 358,
-   "wins": 80,
+   "closed": 359,
+   "wins": 81,
    "losses": 278,
-   "win_pct": 22.3,
-   "pf": 0.49,
+   "win_pct": 22.6,
+   "pf": 0.5,
    "pf_inf": false,
-   "pnl": -1674.39
+   "pnl": -1628.13
   },
   "blocks": [
    {
@@ -102,12 +102,12 @@
    {
     "no": 4,
     "lo": 313,
-    "hi": 359,
-    "n": 47,
-    "wins": 9,
+    "hi": 360,
+    "n": 48,
+    "wins": 10,
     "losses": 38,
-    "pnl": -458.3,
-    "pf": 0.21,
+    "pnl": -412.04,
+    "pf": 0.29,
     "final": false
    }
   ],
@@ -1617,23 +1617,27 @@
   {
    "ts": "2026-11-21T04:45:46.369867+00:00",
    "equity": -1174.39
+  },
+  {
+   "ts": "2026-11-21T05:00:37.812779+00:00",
+   "equity": -1128.13
   }
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1143.41,
+  "ending_equity": -1128.13,
   "max_dd_usd": 1674.39,
   "max_dd_pct": 334.9,
-  "open_count": 1
+  "open_count": 0
  },
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1143.41,
+   "equity": -1128.13,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1643.41,
-   "dd_pct": 328.7,
+   "dd_usd": 1628.13,
+   "dd_pct": 325.6,
    "flagged": true
   },
   {
@@ -1683,6 +1687,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T05:00:37.812779+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "PUNANI",
+   "pnl": 46.26,
+   "reason": "trailing_-5%_from_peak",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T04:55:43.671798+00:00",
    "racer": "ORBIT",
@@ -1962,17 +1976,19 @@
    "reason": null,
    "stake": 25.0,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-21T01:15:02.663699+00:00",
-   "racer": "STACKER",
-   "kind": "enter",
-   "symbol": "SOL/USD",
-   "pnl": null,
-   "reason": null
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-21T05:00:37.812779+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "PUNANI",
+   "pnl": 46.26,
+   "reason": "trailing_-5%_from_peak",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T04:45:46.369867+00:00",
    "racer": "ORBIT",
@@ -2136,16 +2152,6 @@
    "symbol": "GOLD",
    "pnl": -2.86,
    "reason": "max_hold_60m",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T23:40:44.832164+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "BANDANA",
-   "pnl": 55.5,
-   "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
   }
