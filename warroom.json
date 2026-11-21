@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:41:39-06:00",
+ "generated_at": "2026-11-21T09:46:35-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 468,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 253, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 254, no open snipes right now.",
    "stats": {
     "Closed": 370,
     "Road to 100": "370/100",
     "Record": "84W\u2013286L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 253,
+    "Watching": 254,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 57,
@@ -152,15 +152,15 @@
     "Profit factor": "55.68"
    },
    "demerits": [
-    "Bag Holder \u00d7115"
+    "Bag Holder \u00d7113"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab sidebar UI pass review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-21-storefab-oi1-scope-patch right now.",
    "stats": {
     "Reviews done": "124/130",
     "Reviews filed": 83,
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 282,
+    "Jobs tracked on the board": 287,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 6,
