@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T10:45:29.659796+00:00",
+ "generated_at": "2026-11-21T10:50:32.263541+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-21 04:40 CST \u2014 17 new coins seen. \u00b7 44301 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-21 04:45 CST \u2014 29 new coins seen. \u00b7 44330 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 367 entered all time \u00b7 1 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 367 entered all time \u00b7 0 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T10:40:39.567901+00:00"
+   "detail": "journal last entry 2026-11-21T10:45:39.824698+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,119.83 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,122.69 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -57,13 +57,13 @@
  },
  "orbit": {
   "stats": {
-   "closed": 365,
+   "closed": 366,
    "wins": 83,
-   "losses": 282,
+   "losses": 283,
    "win_pct": 22.7,
    "pf": 0.5,
    "pf_inf": false,
-   "pnl": -1619.83
+   "pnl": -1622.69
   },
   "blocks": [
    {
@@ -102,11 +102,11 @@
    {
     "no": 4,
     "lo": 313,
-    "hi": 366,
-    "n": 54,
+    "hi": 367,
+    "n": 55,
     "wins": 12,
-    "losses": 42,
-    "pnl": -403.74,
+    "losses": 43,
+    "pnl": -406.6,
     "pf": 0.31,
     "final": false
    }
@@ -287,10 +287,6 @@
    "equity": 293.65
   },
   {
-   "ts": "2026-11-15T10:48:32.600759+00:00",
-   "equity": 301.38
-  },
-  {
    "ts": "2026-11-15T10:53:25.987014+00:00",
    "equity": 361.61
   },
@@ -301,6 +297,10 @@
   {
    "ts": "2026-11-15T12:53:40.461898+00:00",
    "equity": 334.17
+  },
+  {
+   "ts": "2026-11-15T13:28:37.545361+00:00",
+   "equity": 317.71
   },
   {
    "ts": "2026-11-15T14:48:49.474468+00:00",
@@ -491,10 +491,6 @@
    "equity": 86.64
   },
   {
-   "ts": "2026-11-16T02:05:42.281710+00:00",
-   "equity": 76.8
-  },
-  {
    "ts": "2026-11-16T02:25:55.040295+00:00",
    "equity": 63.72
   },
@@ -541,6 +537,10 @@
   {
    "ts": "2026-11-16T07:35:34.448630+00:00",
    "equity": 10.95
+  },
+  {
+   "ts": "2026-11-16T09:00:34.134208+00:00",
+   "equity": -10.88
   },
   {
    "ts": "2026-11-16T09:25:45.960394+00:00",
@@ -699,10 +699,6 @@
    "equity": -150.51
   },
   {
-   "ts": "2026-11-16T23:00:44.536710+00:00",
-   "equity": -175.51
-  },
-  {
    "ts": "2026-11-16T23:15:35.431173+00:00",
    "equity": -178.3
   },
@@ -781,6 +777,10 @@
   {
    "ts": "2026-11-17T04:30:46.419490+00:00",
    "equity": -203.29
+  },
+  {
+   "ts": "2026-11-17T04:55:48.107398+00:00",
+   "equity": -206.15
   },
   {
    "ts": "2026-11-17T05:05:45.880755+00:00",
@@ -903,10 +903,6 @@
    "equity": -339.06
   },
   {
-   "ts": "2026-11-17T19:40:38.648883+00:00",
-   "equity": -319.87
-  },
-  {
    "ts": "2026-11-17T19:40:38.648930+00:00",
    "equity": -344.87
   },
@@ -1023,6 +1019,10 @@
    "equity": -513.14
   },
   {
+   "ts": "2026-11-18T04:10:46.564648+00:00",
+   "equity": -516.01
+  },
+  {
    "ts": "2026-11-18T04:10:46.564685+00:00",
    "equity": -519.76
   },
@@ -1105,10 +1105,6 @@
   {
    "ts": "2026-11-18T16:25:40.819310+00:00",
    "equity": -629.76
-  },
-  {
-   "ts": "2026-11-18T16:45:44.612676+00:00",
-   "equity": -640.28
   },
   {
    "ts": "2026-11-18T16:45:44.612722+00:00",
@@ -1263,6 +1259,10 @@
    "equity": -770.67
   },
   {
+   "ts": "2026-11-19T09:25:32.572302+00:00",
+   "equity": -765.93
+  },
+  {
    "ts": "2026-11-19T12:10:41.465158+00:00",
    "equity": -770.32
   },
@@ -1313,10 +1313,6 @@
   {
    "ts": "2026-11-19T16:50:39.511099+00:00",
    "equity": -772.44
-  },
-  {
-   "ts": "2026-11-19T17:00:38.418576+00:00",
-   "equity": -776.88
   },
   {
    "ts": "2026-11-19T17:05:37.122982+00:00",
@@ -1503,6 +1499,10 @@
    "equity": -1027.88
   },
   {
+   "ts": "2026-11-20T21:15:45.377555+00:00",
+   "equity": -1023.04
+  },
+  {
    "ts": "2026-11-20T21:15:45.377619+00:00",
    "equity": -1018.28
   },
@@ -1517,10 +1517,6 @@
   {
    "ts": "2026-11-20T22:40:42.573747+00:00",
    "equity": -1039.59
-  },
-  {
-   "ts": "2026-11-20T23:25:36.905701+00:00",
-   "equity": -1030.77
   },
   {
    "ts": "2026-11-20T23:30:38.914420+00:00",
@@ -1621,23 +1617,27 @@
   {
    "ts": "2026-11-21T10:40:39.567901+00:00",
    "equity": -1119.83
+  },
+  {
+   "ts": "2026-11-21T10:45:39.824698+00:00",
+   "equity": -1122.69
   }
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1119.83,
+  "ending_equity": -1122.69,
   "max_dd_usd": 1674.39,
   "max_dd_pct": 334.9,
-  "open_count": 1
+  "open_count": 0
  },
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1119.83,
+   "equity": -1122.69,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1619.83,
-   "dd_pct": 324.0,
+   "dd_usd": 1622.69,
+   "dd_pct": 324.5,
    "flagged": true
   },
   {
@@ -1687,6 +1687,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T10:45:39.824698+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "SI",
+   "pnl": -2.86,
+   "reason": "max_hold_60m",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T10:40:39.567901+00:00",
    "racer": "ORBIT",
@@ -1966,17 +1976,19 @@
    "symbol": "ETH/USD",
    "pnl": null,
    "reason": null
-  },
-  {
-   "ts": "2026-11-21T03:41:46.047000+00:00",
-   "racer": "RECOIL",
-   "kind": "exit",
-   "symbol": "ETH/USD",
-   "pnl": -6.31,
-   "reason": "stop_loss"
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-21T10:45:39.824698+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "SI",
+   "pnl": -2.86,
+   "reason": "max_hold_60m",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T10:40:39.567901+00:00",
    "racer": "ORBIT",
@@ -2136,16 +2148,6 @@
    "symbol": "Cyber",
    "pnl": 3.81,
    "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-21T03:15:58.239864+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "d**",
-   "pnl": -24.21,
-   "reason": "hard_stop_-60%",
    "stake": null,
    "suspect": false
   }
