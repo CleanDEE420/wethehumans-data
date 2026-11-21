@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T09:20:28.146539+00:00",
+ "generated_at": "2026-11-21T09:25:28.547856+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-21 03:15 CST \u2014 27 new coins seen. \u00b7 43899 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-21 03:20 CST \u2014 24 new coins seen. \u00b7 43923 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 365 entered all time \u00b7 1 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 365 entered all time \u00b7 0 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T09:15:36.304109+00:00"
+   "detail": "journal last entry 2026-11-21T09:20:36.573627+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,114.34 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,117.04 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -57,13 +57,13 @@
  },
  "orbit": {
   "stats": {
-   "closed": 363,
+   "closed": 364,
    "wins": 83,
-   "losses": 280,
-   "win_pct": 22.9,
-   "pf": 0.51,
+   "losses": 281,
+   "win_pct": 22.8,
+   "pf": 0.5,
    "pf_inf": false,
-   "pnl": -1614.34
+   "pnl": -1617.04
   },
   "blocks": [
    {
@@ -102,11 +102,11 @@
    {
     "no": 4,
     "lo": 313,
-    "hi": 364,
-    "n": 52,
+    "hi": 365,
+    "n": 53,
     "wins": 12,
-    "losses": 40,
-    "pnl": -398.25,
+    "losses": 41,
+    "pnl": -400.95,
     "pf": 0.32,
     "final": false
    }
@@ -327,10 +327,6 @@
    "equity": 233.5
   },
   {
-   "ts": "2026-11-15T15:33:35.251987+00:00",
-   "equity": 208.5
-  },
-  {
    "ts": "2026-11-15T16:03:35.778620+00:00",
    "equity": 183.5
   },
@@ -361,6 +357,10 @@
   {
    "ts": "2026-11-15T18:42:02.508796+00:00",
    "equity": 173.31
+  },
+  {
+   "ts": "2026-11-15T19:10:48.172421+00:00",
+   "equity": 199.32
   },
   {
    "ts": "2026-11-15T19:20:38.249302+00:00",
@@ -615,10 +615,6 @@
    "equity": -72.32
   },
   {
-   "ts": "2026-11-16T18:40:47.578366+00:00",
-   "equity": -89.74
-  },
-  {
    "ts": "2026-11-16T18:40:47.578412+00:00",
    "equity": -114.74
   },
@@ -721,6 +717,10 @@
   {
    "ts": "2026-11-16T23:35:41.911531+00:00",
    "equity": -229.27
+  },
+  {
+   "ts": "2026-11-17T00:05:38.600229+00:00",
+   "equity": -219.67
   },
   {
    "ts": "2026-11-17T00:05:38.600270+00:00",
@@ -903,10 +903,6 @@
    "equity": -314.06
   },
   {
-   "ts": "2026-11-17T19:25:37.486783+00:00",
-   "equity": -339.06
-  },
-  {
    "ts": "2026-11-17T19:40:38.648883+00:00",
    "equity": -319.87
   },
@@ -1083,6 +1079,10 @@
    "equity": -565.65
   },
   {
+   "ts": "2026-11-18T13:25:37.187163+00:00",
+   "equity": -568.51
+  },
+  {
    "ts": "2026-11-18T14:10:36.414872+00:00",
    "equity": -593.51
   },
@@ -1189,10 +1189,6 @@
   {
    "ts": "2026-11-18T21:10:43.651385+00:00",
    "equity": -755.38
-  },
-  {
-   "ts": "2026-11-18T21:30:38.462273+00:00",
-   "equity": -744.04
   },
   {
    "ts": "2026-11-18T21:50:39.224341+00:00",
@@ -1443,6 +1439,10 @@
    "equity": -804.51
   },
   {
+   "ts": "2026-11-20T18:05:40.279026+00:00",
+   "equity": -807.24
+  },
+  {
    "ts": "2026-11-20T18:05:40.279110+00:00",
    "equity": -832.24
   },
@@ -1477,10 +1477,6 @@
   {
    "ts": "2026-11-20T19:25:44.399556+00:00",
    "equity": -919.19
-  },
-  {
-   "ts": "2026-11-20T19:25:44.399617+00:00",
-   "equity": -936.37
   },
   {
    "ts": "2026-11-20T19:25:44.399672+00:00",
@@ -1621,23 +1617,27 @@
   {
    "ts": "2026-11-21T06:10:37.733924+00:00",
    "equity": -1114.34
+  },
+  {
+   "ts": "2026-11-21T09:20:36.573526+00:00",
+   "equity": -1117.04
   }
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1114.34,
+  "ending_equity": -1117.04,
   "max_dd_usd": 1674.39,
   "max_dd_pct": 334.9,
-  "open_count": 1
+  "open_count": 0
  },
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1114.34,
+   "equity": -1117.04,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1614.34,
-   "dd_pct": 322.9,
+   "dd_usd": 1617.04,
+   "dd_pct": 323.4,
    "flagged": true
   },
   {
@@ -1687,6 +1687,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T09:20:36.573526+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "XTO",
+   "pnl": -2.7,
+   "reason": "max_hold_60m",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T08:20:29.858829+00:00",
    "racer": "ORBIT",
@@ -1964,19 +1974,19 @@
    "reason": null,
    "stake": 25.0,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-21T03:20:35.685989+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "Cyber",
-   "pnl": 3.81,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-21T09:20:36.573526+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "XTO",
+   "pnl": -2.7,
+   "reason": "max_hold_60m",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T06:45:01.390000+00:00",
    "racer": "RECOIL",
@@ -2136,16 +2146,6 @@
    "symbol": "SPONGEBOB",
    "pnl": -17.27,
    "reason": "hard_stop_-60%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-21T02:35:40.217526+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "AODT",
-   "pnl": -2.45,
-   "reason": "max_hold_60m",
    "stake": null,
    "suspect": false
   }
