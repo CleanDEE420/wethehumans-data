@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:01:48-06:00",
+ "generated_at": "2026-11-21T07:06:34-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 465,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 253, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 254, no open snipes right now.",
    "stats": {
     "Closed": 367,
     "Road to 100": "367/100",
     "Record": "83W\u2013284L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 253,
+    "Watching": 254,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 56,
@@ -159,8 +159,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON ORBIT price-check review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-21-storefab-ui-pass right now.",
    "stats": {
     "Reviews done": "123/129",
     "Reviews filed": 82,
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 299,
+    "Jobs tracked on the board": 266,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 6,
