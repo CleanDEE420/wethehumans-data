@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T05:45:18-06:00",
+ "generated_at": "2026-11-21T05:50:18-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 465,
@@ -160,12 +160,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 rarity.js.",
+   "doing": "Last review filed: KRYPTON ORBIT price-check review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "123/128",
-    "Reviews filed": 81,
+    "Reviews filed": 82,
     "Held in queue": 4,
-    "Latest report": "2026-11-21-rarity.js.md",
+    "Latest report": "2026-11-20-tradebot-price-check-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -191,7 +191,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3448,
+    "Shops banked": 3463,
     "Emails": 706,
     "Streamers": 230,
     "States in the bank": 14
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 293,
+    "Jobs tracked on the board": 297,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 0,
