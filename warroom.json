@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T00:30:19-06:00",
+ "generated_at": "2026-11-21T00:45:18-06:00",
  "season": {
   "fleet_pnl": -44.1,
   "closed_total": 458,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 246, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 247, no open snipes right now.",
    "stats": {
     "Closed": 363,
     "Road to 100": "363/100",
     "Record": "83W\u2013280L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 246,
+    "Watching": 247,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 53,
@@ -188,7 +188,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 3358,
