@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T23:25:18-06:00",
+ "generated_at": "2026-11-20T23:30:18-06:00",
  "season": {
   "fleet_pnl": -44.1,
   "closed_total": 454,
@@ -159,8 +159,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" Phase 11 review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-20-tradebot-price-check right now.",
    "stats": {
     "Reviews done": "121/128",
     "Reviews filed": 80,
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 264,
+    "Jobs tracked on the board": 276,
     "Crew reporting in": "5 racers",
     "Open tasks": 75,
     "Open decisions": 16,
