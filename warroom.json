@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T23:35:19-06:00",
+ "generated_at": "2026-11-20T23:40:18-06:00",
  "season": {
   "fleet_pnl": -44.1,
-  "closed_total": 454,
-  "open_total": 8,
+  "closed_total": 455,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 247 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 243 fresh Solana launches.",
    "stats": {
-    "Closed": 359,
-    "Road to 100": "359/100",
-    "Record": "81W\u2013278L",
-    "Win rate": "23%",
+    "Closed": 360,
+    "Road to 100": "360/100",
+    "Record": "81W\u2013279L",
+    "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 247,
-    "Open": 2,
+    "Watching": 243,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 51,
     "Avg win": "$+2239.82",
-    "Avg loss": "$-11.71",
-    "Profit factor": "56.40"
+    "Avg loss": "$-11.67",
+    "Profit factor": "56.39"
    },
    "demerits": [
     "Bag Holder \u00d7113"
@@ -160,9 +160,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-20-tradebot-price-check right now.",
+   "doing": "Reviewing 2026-11-20-storefab-rarity-requeue right now.",
    "stats": {
-    "Reviews done": "121/128",
+    "Reviews done": "122/128",
     "Reviews filed": 80,
     "Held in queue": 4,
     "Latest report": "2026-11-20-storefab-never-again-p11-VET.md",
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 276,
+    "Jobs tracked on the board": 285,
     "Crew reporting in": "5 racers",
     "Open tasks": 75,
     "Open decisions": 16,
