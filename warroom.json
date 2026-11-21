@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T20:00:19-06:00",
+ "generated_at": "2026-11-20T20:05:19-06:00",
  "season": {
-  "fleet_pnl": -35.25,
-  "closed_total": 441,
-  "open_total": 6,
+  "fleet_pnl": -37.79,
+  "closed_total": 442,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -70,15 +70,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 13,
-    "Road to 100": "13/100",
-    "Record": "10W\u20133L",
-    "Win rate": "77%",
-    "PnL": "$+4.24",
-    "Open": 2,
-    "Profit factor": "3.17"
+    "Closed": 14,
+    "Road to 100": "14/100",
+    "Record": "10W\u20134L",
+    "Win rate": "71%",
+    "PnL": "$+1.71",
+    "Open": 1,
+    "Profit factor": "1.38"
    },
    "demerits": []
   },
@@ -161,10 +161,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-p1 right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" Phase 0 review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "109/125",
+    "Reviews done": "110/125",
     "Reviews filed": 69,
     "Held in queue": 4,
     "Latest report": "2026-11-20-storefab-never-again-p0-VET.md",
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 291,
+    "Jobs tracked on the board": 298,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
