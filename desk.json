@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T00:20:26.819106+00:00",
+ "generated_at": "2026-11-21T00:25:28.092230+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 18:15 CST \u2014 28 new coins seen. \u00b7 41373 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 18:20 CST \u2014 20 new coins seen. \u00b7 41393 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 348 entered all time \u00b7 3 open now \u00b7 5 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 348 entered all time \u00b7 2 open now \u00b7 5 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T00:15:41.837203+00:00"
+   "detail": "journal last entry 2026-11-21T00:20:35.292366+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,023.30 of $500 start \u00b7 max drawdown $1,554.19 (310.8% of bankroll) \u00b7 3 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,026.15 of $500 start \u00b7 max drawdown $1,554.19 (310.8% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -57,13 +57,13 @@
  },
  "orbit": {
   "stats": {
-   "closed": 344,
+   "closed": 345,
    "wins": 77,
-   "losses": 267,
-   "win_pct": 22.4,
+   "losses": 268,
+   "win_pct": 22.3,
    "pf": 0.5,
    "pf_inf": false,
-   "pnl": -1523.3
+   "pnl": -1526.15
   },
   "blocks": [
    {
@@ -102,11 +102,11 @@
    {
     "no": 4,
     "lo": 313,
-    "hi": 345,
-    "n": 33,
+    "hi": 346,
+    "n": 34,
     "wins": 6,
-    "losses": 27,
-    "pnl": -307.21,
+    "losses": 28,
+    "pnl": -310.06,
     "pf": 0.2,
     "final": false
    }
@@ -1561,23 +1561,27 @@
   {
    "ts": "2026-11-20T23:45:39.209358+00:00",
    "equity": -1023.3
+  },
+  {
+   "ts": "2026-11-21T00:20:35.292366+00:00",
+   "equity": -1026.15
   }
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1023.3,
+  "ending_equity": -1026.15,
   "max_dd_usd": 1554.19,
   "max_dd_pct": 310.8,
-  "open_count": 3
+  "open_count": 2
  },
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1023.3,
+   "equity": -1026.15,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1523.3,
-   "dd_pct": 304.7,
+   "dd_usd": 1526.15,
+   "dd_pct": 305.2,
    "flagged": true
   },
   {
@@ -1627,6 +1631,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T00:20:35.292366+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "$AURA",
+   "pnl": -2.85,
+   "reason": "max_hold_60m",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T00:10:47.723407+00:00",
    "racer": "ORBIT",
@@ -1906,19 +1920,19 @@
    "reason": null,
    "stake": 25.0,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-20T20:55:51.497957+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "Trader",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-21T00:20:35.292366+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "$AURA",
+   "pnl": -2.85,
+   "reason": "max_hold_60m",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-20T23:45:39.209358+00:00",
    "racer": "ORBIT",
@@ -2078,16 +2092,6 @@
    "symbol": "GTA",
    "pnl": -19.27,
    "reason": "hard_stop_-60%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T19:50:41.951400+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "FIENA",
-   "pnl": -25.0,
-   "reason": "rugged",
    "stake": null,
    "suspect": false
   }
