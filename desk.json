@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T01:55:27.690688+00:00",
+ "generated_at": "2026-11-21T02:00:29.769124+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 19:50 CST \u2014 26 new coins seen. \u00b7 41923 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 19:55 CST \u2014 23 new coins seen. \u00b7 41946 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -14,7 +14,7 @@
     },
     {
      "name": "dexscreener_profiles",
-     "status": "answered (26 coins)"
+     "status": "answered (25 coins)"
     },
     {
      "name": "dexscreener_boosts",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T01:50:43.338155+00:00"
+   "detail": "journal last entry 2026-11-21T01:55:41.996070+00:00"
   },
   {
    "seat": "EQUITY",
@@ -142,13 +142,13 @@
   },
   {
    "label": "RECOIL",
-   "closed": 13,
+   "closed": 14,
    "wins": 10,
-   "losses": 3,
-   "win_pct": 76.9,
-   "pf": 3.17,
+   "losses": 4,
+   "win_pct": 71.4,
+   "pf": 1.38,
    "pf_inf": false,
-   "pnl": 4.24
+   "pnl": 1.71
   },
   {
    "label": "GOVERNOR",
@@ -1603,11 +1603,11 @@
   },
   {
    "racer": "RECOIL",
-   "equity": 504.24,
+   "equity": 501.71,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
-   "dd_usd": 1.56,
-   "dd_pct": 0.3,
+   "dd_usd": 4.1,
+   "dd_pct": 0.8,
    "flagged": false
   },
   {
@@ -1639,6 +1639,14 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T02:00:11.010000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": -2.54,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-21T01:30:39.515194+00:00",
    "racer": "ORBIT",
@@ -1914,17 +1922,17 @@
    "symbol": "SOL/USD",
    "pnl": -1.56,
    "reason": "exit_signal"
-  },
-  {
-   "ts": "2026-11-20T21:45:02.139416+00:00",
-   "racer": "STACKER",
-   "kind": "enter",
-   "symbol": "BTC/USD",
-   "pnl": null,
-   "reason": null
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-21T02:00:11.010000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": -2.54,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-21T00:50:41.061790+00:00",
    "racer": "ORBIT",
@@ -2084,16 +2092,6 @@
    "symbol": "Trader",
    "pnl": -6.15,
    "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T20:45:53.673447+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "SI",
-   "pnl": -2.86,
-   "reason": "max_hold_60m",
    "stake": null,
    "suspect": false
   }
