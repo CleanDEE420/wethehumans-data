@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T23:55:23-06:00",
+ "generated_at": "2026-11-21T00:00:18-06:00",
  "season": {
   "fleet_pnl": -44.1,
   "closed_total": 456,
-  "open_total": 6,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 244, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 246 fresh Solana launches.",
    "stats": {
     "Closed": 361,
     "Road to 100": "361/100",
     "Record": "82W\u2013279L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 244,
-    "Open": 0,
+    "Watching": 246,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 51,
+    "Entries (24h)": 52,
     "Avg win": "$+2213.05",
     "Avg loss": "$-11.67",
     "Profit factor": "56.39"
@@ -340,7 +340,7 @@
    "next_gate": "Block 4 running (36 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED today; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken record\u2026"
   }
  ],
- "projects_as_of": "2026-11-20 10:14 PM CT",
+ "projects_as_of": "2026-11-20 11:58 PM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
