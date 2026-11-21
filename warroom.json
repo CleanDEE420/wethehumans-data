@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T21:30:18-06:00",
+ "generated_at": "2026-11-20T21:35:19-06:00",
  "season": {
   "fleet_pnl": -37.79,
   "closed_total": 448,
-  "open_total": 4,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -70,14 +70,14 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Closed": 14,
     "Road to 100": "14/100",
     "Record": "10W\u20134L",
     "Win rate": "71%",
     "PnL": "$+1.71",
-    "Open": 1,
+    "Open": 2,
     "Profit factor": "1.38"
    },
    "demerits": []
@@ -138,14 +138,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 249, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 248, no open snipes right now.",
    "stats": {
     "Closed": 354,
     "Road to 100": "354/100",
     "Record": "80W\u2013274L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 249,
+    "Watching": 248,
     "Open": 0,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 44,
@@ -165,9 +165,9 @@
    "doing": "Reviewing 2026-11-20-storefab-never-again-p10 right now.",
    "stats": {
     "Reviews done": "118/125",
-    "Reviews filed": 76,
+    "Reviews filed": 77,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-p7-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-p8-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 284,
+    "Jobs tracked on the board": 264,
     "Crew reporting in": "5 racers",
     "Open tasks": 53,
     "Open decisions": 0,
