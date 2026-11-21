@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T13:36:47.326519+00:00",
+ "generated_at": "2026-11-21T13:41:43.375708+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-21 07:35 CST \u2014 27 new coins seen. \u00b7 44948 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-21 07:40 CST \u2014 17 new coins seen. \u00b7 44965 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -18,14 +18,14 @@
     },
     {
      "name": "dexscreener_boosts",
-     "status": "answered (25 coins)"
+     "status": "answered (24 coins)"
     }
    ]
   },
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 371 entered all time \u00b7 3 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 371 entered all time \u00b7 2 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T13:35:33.269380+00:00"
+   "detail": "journal last entry 2026-11-21T13:40:32.997850+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,145.42 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 3 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,136.54 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -57,13 +57,13 @@
  },
  "orbit": {
   "stats": {
-   "closed": 367,
-   "wins": 83,
+   "closed": 368,
+   "wins": 84,
    "losses": 284,
-   "win_pct": 22.6,
+   "win_pct": 22.8,
    "pf": 0.5,
    "pf_inf": false,
-   "pnl": -1645.42
+   "pnl": -1636.54
   },
   "blocks": [
    {
@@ -102,12 +102,12 @@
    {
     "no": 4,
     "lo": 313,
-    "hi": 368,
-    "n": 56,
-    "wins": 12,
+    "hi": 369,
+    "n": 57,
+    "wins": 13,
     "losses": 44,
-    "pnl": -429.33,
-    "pf": 0.3,
+    "pnl": -420.45,
+    "pf": 0.32,
     "final": false
    }
   ],
@@ -263,16 +263,16 @@
    "equity": 351.52
   },
   {
-   "ts": "2026-11-15T07:03:19.519038+00:00",
-   "equity": 361.06
-  },
-  {
    "ts": "2026-11-15T07:08:19.176072+00:00",
    "equity": 369.41
   },
   {
    "ts": "2026-11-15T07:48:20.723829+00:00",
    "equity": 349.36
+  },
+  {
+   "ts": "2026-11-15T08:18:20.763015+00:00",
+   "equity": 332.11
   },
   {
    "ts": "2026-11-15T08:33:21.326021+00:00",
@@ -423,10 +423,6 @@
    "equity": 115.16
   },
   {
-   "ts": "2026-11-15T22:20:36.943041+00:00",
-   "equity": 133.06
-  },
-  {
    "ts": "2026-11-15T22:40:42.387090+00:00",
    "equity": 136.59
   },
@@ -453,6 +449,10 @@
   {
    "ts": "2026-11-15T23:30:35.392913+00:00",
    "equity": 138.36
+  },
+  {
+   "ts": "2026-11-15T23:55:45.996608+00:00",
+   "equity": 117.61
   },
   {
    "ts": "2026-11-16T00:10:54.940387+00:00",
@@ -583,10 +583,6 @@
    "equity": -5.26
   },
   {
-   "ts": "2026-11-16T16:10:33.786398+00:00",
-   "equity": -2.1
-  },
-  {
    "ts": "2026-11-16T17:25:29.271921+00:00",
    "equity": -13.75
   },
@@ -633,6 +629,10 @@
   {
    "ts": "2026-11-16T19:45:39.898278+00:00",
    "equity": -155.79
+  },
+  {
+   "ts": "2026-11-16T20:00:51.849701+00:00",
+   "equity": -147.63
   },
   {
    "ts": "2026-11-16T20:05:39.947816+00:00",
@@ -743,10 +743,6 @@
    "equity": -223.49
   },
   {
-   "ts": "2026-11-17T01:10:40.193298+00:00",
-   "equity": -226.23
-  },
-  {
    "ts": "2026-11-17T01:15:50.534116+00:00",
    "equity": -229.09
   },
@@ -813,6 +809,10 @@
   {
    "ts": "2026-11-17T10:35:35.256819+00:00",
    "equity": -241.0
+  },
+  {
+   "ts": "2026-11-17T10:50:34.829733+00:00",
+   "equity": -243.86
   },
   {
    "ts": "2026-11-17T12:00:39.891445+00:00",
@@ -903,10 +903,6 @@
    "equity": -319.87
   },
   {
-   "ts": "2026-11-17T19:40:38.648930+00:00",
-   "equity": -344.87
-  },
-  {
    "ts": "2026-11-17T19:55:43.078077+00:00",
    "equity": -322.34
   },
@@ -991,6 +987,10 @@
    "equity": -506.92
   },
   {
+   "ts": "2026-11-18T01:55:39.346030+00:00",
+   "equity": -483.69
+  },
+  {
    "ts": "2026-11-18T02:30:43.709142+00:00",
    "equity": -486.55
   },
@@ -1061,10 +1061,6 @@
   {
    "ts": "2026-11-18T10:05:33.509043+00:00",
    "equity": -567.45
-  },
-  {
-   "ts": "2026-11-18T10:45:34.424874+00:00",
-   "equity": -570.47
   },
   {
    "ts": "2026-11-18T13:00:36.681975+00:00",
@@ -1171,6 +1167,10 @@
    "equity": -760.61
   },
   {
+   "ts": "2026-11-18T21:05:42.906678+00:00",
+   "equity": -761.2
+  },
+  {
    "ts": "2026-11-18T21:05:42.906787+00:00",
    "equity": -765.76
   },
@@ -1221,10 +1221,6 @@
   {
    "ts": "2026-11-19T02:35:46.837286+00:00",
    "equity": -789.29
-  },
-  {
-   "ts": "2026-11-19T02:45:45.412042+00:00",
-   "equity": -795.35
   },
   {
    "ts": "2026-11-19T03:25:50.082104+00:00",
@@ -1351,6 +1347,10 @@
    "equity": -755.06
   },
   {
+   "ts": "2026-11-20T00:51:49.883923+00:00",
+   "equity": -692.35
+  },
+  {
    "ts": "2026-11-20T01:00:45.325961+00:00",
    "equity": -699.69
   },
@@ -1380,10 +1380,6 @@
   },
   {
    "ts": "2026-11-20T01:55:50.876897+00:00",
-   "equity": -698.78
-  },
-  {
-   "ts": "2026-11-20T03:30:50.290849+00:00",
    "equity": -698.78
   },
   {
@@ -1531,6 +1527,10 @@
    "equity": -1020.44
   },
   {
+   "ts": "2026-11-20T23:45:39.209358+00:00",
+   "equity": -1023.3
+  },
+  {
    "ts": "2026-11-21T00:20:35.292366+00:00",
    "equity": -1026.15
   },
@@ -1541,10 +1541,6 @@
   {
    "ts": "2026-11-21T00:50:41.061790+00:00",
    "equity": -996.85
-  },
-  {
-   "ts": "2026-11-21T02:05:49.866452+00:00",
-   "equity": -1021.85
   },
   {
    "ts": "2026-11-21T02:25:37.898820+00:00",
@@ -1621,23 +1617,27 @@
   {
    "ts": "2026-11-21T11:10:36.273244+00:00",
    "equity": -1145.42
+  },
+  {
+   "ts": "2026-11-21T13:40:32.997850+00:00",
+   "equity": -1136.54
   }
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1145.42,
+  "ending_equity": -1136.54,
   "max_dd_usd": 1674.39,
   "max_dd_pct": 334.9,
-  "open_count": 3
+  "open_count": 2
  },
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1145.42,
+   "equity": -1136.54,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1645.42,
-   "dd_pct": 329.1,
+   "dd_usd": 1636.54,
+   "dd_pct": 327.3,
    "flagged": true
   },
   {
@@ -1687,6 +1687,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T13:40:32.997850+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "DPRK",
+   "pnl": 8.88,
+   "reason": "trailing_-5%_from_peak",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T13:20:39.573009+00:00",
    "racer": "ORBIT",
@@ -1970,19 +1980,19 @@
    "reason": null,
    "stake": 25.0,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-21T04:05:41.611591+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "PENNY",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-21T13:40:32.997850+00:00",
+   "racer": "ORBIT",
+   "kind": "exit",
+   "symbol": "DPRK",
+   "pnl": 8.88,
+   "reason": "trailing_-5%_from_peak",
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T11:10:36.273244+00:00",
    "racer": "ORBIT",
@@ -2144,16 +2154,6 @@
    "symbol": "ETH/USD",
    "pnl": -6.31,
    "reason": "stop_loss"
-  },
-  {
-   "ts": "2026-11-21T03:35:41.748582+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "FINGERS",
-   "pnl": -25.0,
-   "reason": "rugged",
-   "stake": null,
-   "suspect": false
   }
  ]
 }
