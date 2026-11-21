@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T21:45:19-06:00",
+ "generated_at": "2026-11-20T21:50:19-06:00",
  "season": {
-  "fleet_pnl": -37.79,
-  "closed_total": 449,
-  "open_total": 5,
+  "fleet_pnl": -44.1,
+  "closed_total": 450,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -70,15 +70,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 3 open trades and watching the market.",
    "stats": {
-    "Closed": 14,
-    "Road to 100": "14/100",
-    "Record": "10W\u20134L",
-    "Win rate": "71%",
-    "PnL": "$+1.71",
-    "Open": 2,
-    "Profit factor": "1.38"
+    "Closed": 15,
+    "Road to 100": "15/100",
+    "Record": "10W\u20135L",
+    "Win rate": "67%",
+    "PnL": "$-4.60",
+    "Open": 3,
+    "Profit factor": "0.57"
    },
    "demerits": []
   },
@@ -138,17 +138,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 247, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 248 fresh Solana launches.",
    "stats": {
     "Closed": 355,
     "Road to 100": "355/100",
     "Record": "80W\u2013275L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 247,
-    "Open": 0,
+    "Watching": 248,
+    "Open": 1,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 45,
+    "Entries (24h)": 46,
     "Avg win": "$+2295.15",
     "Avg loss": "$-11.59",
     "Profit factor": "57.62"
@@ -253,7 +253,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "382 cards banked"
+   "value": "389 cards banked"
   },
   {
    "label": "Quote card pool",
