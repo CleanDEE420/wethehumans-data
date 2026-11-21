@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:56:34-06:00",
+ "generated_at": "2026-11-21T10:01:35-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 468,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 255 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 254 fresh Solana launches.",
    "stats": {
     "Closed": 370,
     "Road to 100": "370/100",
     "Record": "84W\u2013286L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 255,
+    "Watching": 254,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 58,
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-21-storefab-oi1-scope-patch right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab sidebar UI pass review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "124/130",
+    "Reviews done": "125/130",
     "Reviews filed": 83,
     "Held in queue": 4,
     "Latest report": "2026-11-21-storefab-ui-pass-VET.md",
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 287,
+    "Jobs tracked on the board": 297,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 6,
