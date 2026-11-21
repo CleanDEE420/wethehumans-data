@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T20:40:19-06:00",
+ "generated_at": "2026-11-20T20:45:18-06:00",
  "season": {
   "fleet_pnl": -37.79,
-  "closed_total": 444,
-  "open_total": 6,
+  "closed_total": 445,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -138,20 +138,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 256 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 254 fresh Solana launches.",
    "stats": {
-    "Closed": 350,
-    "Road to 100": "350/100",
-    "Record": "79W\u2013271L",
+    "Closed": 351,
+    "Road to 100": "351/100",
+    "Record": "79W\u2013272L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 256,
-    "Open": 2,
+    "Watching": 254,
+    "Open": 1,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 44,
     "Avg win": "$+2324.16",
-    "Avg loss": "$-11.51",
-    "Profit factor": "58.89"
+    "Avg loss": "$-11.47",
+    "Profit factor": "58.84"
    },
    "demerits": [
     "Bag Holder \u00d7106"
@@ -165,9 +165,9 @@
    "doing": "Reviewing 2026-11-20-storefab-never-again-p5 right now.",
    "stats": {
     "Reviews done": "113/125",
-    "Reviews filed": 72,
+    "Reviews filed": 73,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-p3-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-p4-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -221,9 +221,9 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 296,
+    "Jobs tracked on the board": 263,
     "Crew reporting in": "5 racers",
-    "Open tasks": 58,
+    "Open tasks": 53,
     "Open decisions": 0,
     "Projects": 16
    },
@@ -264,7 +264,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "D82 wind-down DEPLOYED 2026-11-17 16:43 CT (6afcd851, suite 729/729, KRYPTON-vetted CLEARED) - hook waker healthy (last poll 20:26 CT Nov 19, HTTP 200, 0 consecutive failures); soak window CLOSED ~16:43 CT Nov 19 \u2014 the Nov 18 02:02 timeout\u2026"
+   "next_gate": "D82 wind-down DEPLOYED 2026-11-17 16:43 CT (6afcd851, suite 729/729, KRYPTON-vetted CLEARED) \u2014 LANDED 2026-11-20: the Nov 18 02:02 timeout wake counted and restarted the soak clock; hook log shows the last failure Nov 18 02:13 CT, then 48h\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -274,17 +274,17 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 10:26 CT (6afc8020, 162 files, live-verified on live.foreverhumans.com). Findability DEPLOYED 2026-11-15 (6afa0622, 13 files - llms.txt, structured data, IndexNow key; ping accepted 202). F\u2026"
+   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 10:26 CT (6afc8020, 162 files, live-verified on live.foreverhumans.com). Findability DEPLOYED 2026-11-15 (6afa0622, 13 files). PRODUCT DAY BUILD DONE 2026-11-20 evening: FH-026/028/029 (fou\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Wave B FINISHED 2026-11-17 10:03 CT: 8,369 rows - 6,002 updated_verified + 16 republished + 220 already_live; holds 1,418 specifics / 210 nobind / 295 unresolved / 122 throttled / 68 no-bind. Wave C RELAUNCHED 2026-11-19 14:08 CT on his wor\u2026"
+   "next_gate": "STORE FINISHED 100% 2026-11-20 19:29 CT \u2014 8,319/8,319 published listings buyer-verified: Pass 5 closed the last 167 descriptions (166 written + buyer-verified, 1 already correct, 0 failed); photos 21/21 fixed + verified (PKMND2-028 re-shot\u2026"
   },
   {
    "name": "wethehumans.cool",
    "status": "live",
-   "next_gate": "Graffiti pass DEPLOYED 2026-11-17 10:30 CT (6afc8026, live-verified; /obs-widgets/ 404 as ruled). Mobile icon-button revision + Review Wall quotes (24 buyer quotes) are LIVE since the 2026-11-16 23:48 CT deploy (6afbea86) - no longer staged\u2026"
+   "next_gate": "Graffiti pass DEPLOYED 2026-11-17 10:30 CT (6afc8026, live-verified; /obs-widgets/ 404 as ruled). Mobile icon-button revision + Review Wall quotes (24 buyer quotes) LIVE since the 2026-11-16 23:48 CT deploy (6afbea86). Google Search Console\u2026"
   },
   {
    "name": "Facebook + Reels machine",
@@ -334,15 +334,15 @@
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: Gumby's vet \u2014 dead-man's switch review (DONE, ALL.done) + nightly drip.js review (DONE 10/10) + the 12 newer ALL.done runs (spotify-frame-pile 5/5, wavec-exclgate 5/5, mphc-repair 9/9, waved-sampled 3/3, exclgate-port 2/2, resol\u2026"
+   "next_gate": "waiting on: Gumby's vet \u2014 dead-man's switch review (DONE, ALL.done, Nov 15 run) + nightly drip.js review (DONE 10/10) + the 12 older ALL.done runs (spotify-frame-pile, wavec-exclgate, mphc-repair, waved-sampled, exclgate-port, resolve-harde\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 3 running under the trailing-stop-from-entry rule (boundary 204, 103 closed); KRYPTON orbit-block2 cross-check DONE + VETTED 01:50 CT; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer\u2026"
+   "next_gate": "Block 4 running (36 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED today; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken record\u2026"
   }
  ],
- "projects_as_of": "2026-11-20 08:59 AM CT",
+ "projects_as_of": "2026-11-20 08:42 PM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
