@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T01:10:25.712453+00:00",
+ "generated_at": "2026-11-21T01:15:30.259978+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 19:05 CST \u2014 47 new coins seen. \u00b7 41678 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 19:10 CST \u2014 34 new coins seen. \u00b7 41712 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -18,14 +18,14 @@
     },
     {
      "name": "dexscreener_boosts",
-     "status": "answered (24 coins)"
+     "status": "answered (23 coins)"
     }
    ]
   },
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 348 entered all time \u00b7 0 open now \u00b7 5 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 348 entered all time \u00b7 0 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T01:05:47.353168+00:00"
+   "detail": "journal last entry 2026-11-21T01:10:39.273954+00:00"
   },
   {
    "seat": "EQUITY",
@@ -49,7 +49,7 @@
   }
  ],
  "crew": {
-  "vector": true,
+  "vector": false,
   "recoil": true,
   "governor": true,
   "amp": true,
@@ -1640,6 +1640,30 @@
  ],
  "flow": [
   {
+   "ts": "2026-11-21T01:15:02.663699+00:00",
+   "racer": "STACKER",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-21T01:15:02.074901+00:00",
+   "racer": "STACKER",
+   "kind": "enter",
+   "symbol": "ETH/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-21T01:15:01.742065+00:00",
+   "racer": "STACKER",
+   "kind": "enter",
+   "symbol": "BTC/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
    "ts": "2026-11-21T00:50:41.061790+00:00",
    "racer": "ORBIT",
    "kind": "exit",
@@ -1897,36 +1921,6 @@
    "pnl": null,
    "reason": null,
    "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T21:20:54.184651+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "Singularity",
-   "pnl": -19.02,
-   "reason": "hard_stop_-60%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T21:15:45.377619+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "BTC",
-   "pnl": 15.75,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-20T21:15:45.377555+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "Trader",
-   "pnl": -6.15,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
    "suspect": false
   }
  ],
