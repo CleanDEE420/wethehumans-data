@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T21:10:18-06:00",
+ "generated_at": "2026-11-20T21:15:18-06:00",
  "season": {
   "fleet_pnl": -37.79,
   "closed_total": 446,
-  "open_total": 4,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -138,17 +138,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 251, no open snipes right now.",
+   "doing": "Holding 2 snipes and tracking 252 fresh Solana launches.",
    "stats": {
     "Closed": 352,
     "Road to 100": "352/100",
     "Record": "79W\u2013273L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 251,
-    "Open": 0,
+    "Watching": 252,
+    "Open": 2,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 42,
+    "Entries (24h)": 44,
     "Avg win": "$+2324.16",
     "Avg loss": "$-11.49",
     "Profit factor": "58.52"
@@ -162,9 +162,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-p7 right now.",
+   "doing": "Reviewing 2026-11-20-storefab-never-again-p8 right now.",
    "stats": {
-    "Reviews done": "115/125",
+    "Reviews done": "116/125",
     "Reviews filed": 75,
     "Held in queue": 4,
     "Latest report": "2026-11-20-storefab-never-again-p6-VET.md",
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 286,
+    "Jobs tracked on the board": 264,
     "Crew reporting in": "5 racers",
     "Open tasks": 53,
     "Open decisions": 0,
@@ -237,7 +237,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 09:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
