@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T04:40:32.587131+00:00",
+ "generated_at": "2026-11-21T04:45:49.607788+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 22:35 CST \u2014 33 new coins seen. \u00b7 42930 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 22:40 CST \u2014 19 new coins seen. \u00b7 42949 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 359 entered all time \u00b7 1 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 360 entered all time \u00b7 2 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T04:35:47.392793+00:00"
+   "detail": "journal last entry 2026-11-21T04:40:39.086174+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,155.02 of $500 start \u00b7 max drawdown $1,661.97 (332.4% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,155.02 of $500 start \u00b7 max drawdown $1,661.97 (332.4% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -1620,7 +1620,7 @@
   "ending_equity": -1155.02,
   "max_dd_usd": 1661.97,
   "max_dd_pct": 332.4,
-  "open_count": 1
+  "open_count": 2
  },
  "equity_line": [
   {
@@ -1679,6 +1679,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T04:40:39.086174+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "PUNANI",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T04:35:47.392793+00:00",
    "racer": "ORBIT",
@@ -1952,16 +1962,6 @@
    "symbol": "BTC/USD",
    "pnl": null,
    "reason": null
-  },
-  {
-   "ts": "2026-11-21T00:50:41.061790+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "JENSEN",
-   "pnl": 31.82,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
