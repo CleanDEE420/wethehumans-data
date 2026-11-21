@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:05:19-06:00",
+ "generated_at": "2026-11-20T21:10:18-06:00",
  "season": {
   "fleet_pnl": -37.79,
   "closed_total": 446,
@@ -138,14 +138,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 252, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 251, no open snipes right now.",
    "stats": {
     "Closed": 352,
     "Road to 100": "352/100",
     "Record": "79W\u2013273L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 252,
+    "Watching": 251,
     "Open": 0,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 42,
@@ -165,9 +165,9 @@
    "doing": "Reviewing 2026-11-20-storefab-never-again-p7 right now.",
    "stats": {
     "Reviews done": "115/125",
-    "Reviews filed": 74,
+    "Reviews filed": 75,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-p5-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-p6-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 283,
+    "Jobs tracked on the board": 286,
     "Crew reporting in": "5 racers",
     "Open tasks": 53,
     "Open decisions": 0,
