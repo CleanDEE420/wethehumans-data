@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:01:47-06:00",
+ "generated_at": "2026-11-21T13:06:35-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 473,
@@ -136,23 +136,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 261, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 260, no open snipes right now.",
    "stats": {
     "Closed": 375,
     "Road to 100": "375/100",
     "Record": "85W\u2013290L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 261,
+    "Watching": 260,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 48,
+    "Entries (24h)": 47,
     "Avg win": "$+2136.20",
     "Avg loss": "$-11.63",
     "Profit factor": "54.49"
    },
    "demerits": [
-    "Bag Holder \u00d7113"
+    "Bag Holder \u00d7118"
    ]
   },
   {
@@ -217,7 +217,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the 1:00 PM profile post \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
     "Jobs tracked on the board": 270,
     "Crew reporting in": "5 racers",
