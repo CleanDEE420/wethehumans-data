@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-21T04:55:36.878921+00:00",
+ "generated_at": "2026-11-21T05:00:34.119275+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-20 22:50 CST \u2014 10 new coins seen. \u00b7 42975 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-20 22:55 CST \u2014 26 new coins seen. \u00b7 43001 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-21T04:50:50.631854+00:00"
+   "detail": "journal last entry 2026-11-21T04:55:43.671798+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,174.39 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,143.41 of $500 start \u00b7 max drawdown $1,674.39 (334.9% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -1621,7 +1621,7 @@
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1174.39,
+  "ending_equity": -1143.41,
   "max_dd_usd": 1674.39,
   "max_dd_pct": 334.9,
   "open_count": 1
@@ -1629,11 +1629,11 @@
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1174.39,
+   "equity": -1143.41,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 1674.39,
-   "dd_pct": 334.9,
+   "dd_usd": 1643.41,
+   "dd_pct": 328.7,
    "flagged": true
   },
   {
@@ -1683,6 +1683,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-21T04:55:43.671798+00:00",
+   "racer": "ORBIT",
+   "kind": "double_out",
+   "symbol": "PUNANI",
+   "pnl": null,
+   "reason": null,
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-21T04:45:46.369867+00:00",
    "racer": "ORBIT",
@@ -1958,14 +1968,6 @@
    "racer": "STACKER",
    "kind": "enter",
    "symbol": "SOL/USD",
-   "pnl": null,
-   "reason": null
-  },
-  {
-   "ts": "2026-11-21T01:15:02.074901+00:00",
-   "racer": "STACKER",
-   "kind": "enter",
-   "symbol": "ETH/USD",
    "pnl": null,
    "reason": null
   }
