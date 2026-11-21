@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:31:35-06:00",
+ "generated_at": "2026-11-21T09:41:39-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 468,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 254, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 253, no open snipes right now.",
    "stats": {
     "Closed": 370,
     "Road to 100": "370/100",
     "Record": "84W\u2013286L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 254,
+    "Watching": 253,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 57,
@@ -162,7 +162,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON StoreFab sidebar UI pass review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "124/129",
+    "Reviews done": "124/130",
     "Reviews filed": 83,
     "Held in queue": 4,
     "Latest report": "2026-11-21-storefab-ui-pass-VET.md",
