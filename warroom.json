@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T14:56:35-06:00",
+ "generated_at": "2026-11-21T16:16:35-06:00",
  "season": {
   "fleet_pnl": -42.87,
-  "closed_total": 477,
-  "open_total": 5,
+  "closed_total": 482,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 267 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 269 fresh Solana launches.",
    "stats": {
-    "Closed": 379,
-    "Road to 100": "379/100",
-    "Record": "85W\u2013294L",
+    "Closed": 384,
+    "Road to 100": "384/100",
+    "Record": "86W\u2013298L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 267,
-    "Open": 2,
+    "Watching": 269,
+    "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 46,
-    "Avg win": "$+2136.20",
-    "Avg loss": "$-11.67",
-    "Profit factor": "53.55"
+    "Entries (24h)": 50,
+    "Avg win": "$+2111.85",
+    "Avg loss": "$-11.69",
+    "Profit factor": "52.75"
    },
    "demerits": [
     "Bag Holder \u00d7113"
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-21-storefab-ui-dialin right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab OI-1 scope patch review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "125/131",
+    "Reviews done": "126/132",
     "Reviews filed": 84,
     "Held in queue": 4,
     "Latest report": "2026-11-21-storefab-oi1-scope-patch-VET.md",
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 279,
+    "Jobs tracked on the board": 286,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 6,
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 02:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 04:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
@@ -251,7 +251,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "433 cards banked"
+   "value": "444 cards banked"
   },
   {
    "label": "Quote card pool",
