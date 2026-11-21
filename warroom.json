@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T19:50:19-06:00",
+ "generated_at": "2026-11-20T19:55:18-06:00",
  "season": {
   "fleet_pnl": -35.25,
   "closed_total": 441,
@@ -165,9 +165,9 @@
    "doing": "Reviewing 2026-11-20-storefab-never-again-p1 right now.",
    "stats": {
     "Reviews done": "109/125",
-    "Reviews filed": 68,
+    "Reviews filed": 69,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-spec-rev2-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-p0-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -190,7 +190,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 3358,
@@ -219,9 +219,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the evening pins \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 275,
+    "Jobs tracked on the board": 291,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
