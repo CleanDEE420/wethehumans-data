@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:30:18-06:00",
+ "generated_at": "2026-11-20T22:35:18-06:00",
  "season": {
   "fleet_pnl": -44.1,
   "closed_total": 452,
@@ -11,6 +11,10 @@
    },
    {
     "name": "First Green",
+    "holder": "ORBIT"
+   },
+   {
+    "name": "Ten Up",
     "holder": "ORBIT"
    },
    {
@@ -76,9 +80,7 @@
     "Open": 3,
     "Profit factor": "0.57"
    },
-   "demerits": [
-    "Bag Holder \u00d71"
-   ]
+   "demerits": []
   },
   {
    "id": "governor",
@@ -152,15 +154,15 @@
     "Profit factor": "56.73"
    },
    "demerits": [
-    "Bag Holder \u00d7113"
+    "Bag Holder \u00d7106"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" Phase 11 review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-20-orbit-phantom-display-fix right now.",
    "stats": {
     "Reviews done": "120/126",
     "Reviews filed": 80,
@@ -219,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 291,
+    "Jobs tracked on the board": 264,
     "Crew reporting in": "5 racers",
     "Open tasks": 75,
     "Open decisions": 16,
