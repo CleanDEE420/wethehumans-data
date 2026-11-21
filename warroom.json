@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:25:18-06:00",
+ "generated_at": "2026-11-20T22:30:18-06:00",
  "season": {
   "fleet_pnl": -44.1,
   "closed_total": 452,
@@ -11,10 +11,6 @@
    },
    {
     "name": "First Green",
-    "holder": "ORBIT"
-   },
-   {
-    "name": "Ten Up",
     "holder": "ORBIT"
    },
    {
@@ -80,7 +76,9 @@
     "Open": 3,
     "Profit factor": "0.57"
    },
-   "demerits": []
+   "demerits": [
+    "Bag Holder \u00d71"
+   ]
   },
   {
    "id": "governor",
@@ -154,7 +152,7 @@
     "Profit factor": "56.73"
    },
    "demerits": [
-    "Bag Holder \u00d7106"
+    "Bag Holder \u00d7113"
    ]
   },
   {
@@ -164,7 +162,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" Phase 11 review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "120/125",
+    "Reviews done": "120/126",
     "Reviews filed": 80,
     "Held in queue": 4,
     "Latest report": "2026-11-20-storefab-never-again-p11-VET.md",
