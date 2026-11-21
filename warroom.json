@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T17:26:36-06:00",
+ "generated_at": "2026-11-21T17:31:39-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 486,
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 267 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 268 fresh Solana launches.",
    "stats": {
     "Closed": 388,
     "Road to 100": "388/100",
     "Record": "87W\u2013301L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 267,
+    "Watching": 268,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 45,
+    "Entries (24h)": 44,
     "Avg win": "$+2088.01",
     "Avg loss": "$-11.60",
     "Profit factor": "52.64"
@@ -162,7 +162,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON StoreFab OI-1 scope patch review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "127/132",
+    "Reviews done": "127/133",
     "Reviews filed": 84,
     "Held in queue": 4,
     "Latest report": "2026-11-21-storefab-oi1-scope-patch-VET.md",
