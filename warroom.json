@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:55:19-06:00",
+ "generated_at": "2026-11-20T21:00:19-06:00",
  "season": {
   "fleet_pnl": -37.79,
   "closed_total": 446,
@@ -138,17 +138,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 253, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 252, no open snipes right now.",
    "stats": {
     "Closed": 352,
     "Road to 100": "352/100",
     "Record": "79W\u2013273L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 253,
+    "Watching": 252,
     "Open": 0,
     "Best trade": "ORE +$182.0",
-    "Entries (24h)": 43,
+    "Entries (24h)": 42,
     "Avg win": "$+2324.16",
     "Avg loss": "$-11.49",
     "Profit factor": "58.52"
@@ -165,9 +165,9 @@
    "doing": "Reviewing 2026-11-20-storefab-never-again-p6 right now.",
    "stats": {
     "Reviews done": "114/125",
-    "Reviews filed": 73,
+    "Reviews filed": 74,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-p4-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-p5-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -219,9 +219,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the 9:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 268,
+    "Jobs tracked on the board": 276,
     "Crew reporting in": "5 racers",
     "Open tasks": 53,
     "Open decisions": 0,
