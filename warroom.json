@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T22:50:20-06:00",
+ "generated_at": "2026-11-20T22:55:18-06:00",
  "season": {
   "fleet_pnl": -44.1,
-  "closed_total": 452,
-  "open_total": 8,
+  "closed_total": 453,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 248 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 247 fresh Solana launches.",
    "stats": {
-    "Closed": 357,
-    "Road to 100": "357/100",
-    "Record": "80W\u2013277L",
+    "Closed": 358,
+    "Road to 100": "358/100",
+    "Record": "80W\u2013278L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 248,
-    "Open": 2,
+    "Watching": 247,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 49,
     "Avg win": "$+2266.90",
-    "Avg loss": "$-11.69",
-    "Profit factor": "56.73"
+    "Avg loss": "$-11.71",
+    "Profit factor": "56.39"
    },
    "demerits": [
     "Bag Holder \u00d7113"
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-orbit-phantom-display-fix right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" Phase 11 review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "120/126",
+    "Reviews done": "121/126",
     "Reviews filed": 80,
     "Held in queue": 4,
     "Latest report": "2026-11-20-storefab-never-again-p11-VET.md",
@@ -175,10 +175,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": true,
-   "doing": "Nightly stacker \u2014 last run 2026-11-19 22:37 CT (run 13, nightly stacker): 14 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-20 22:37 CT (run 13, nightly stacker): 6 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-19 22:37 CT (run 13, nightly stacker)",
-    "Pieces last run": 14,
+    "Last run": "2026-11-20 22:37 CT (run 13, nightly stacker)",
+    "Pieces last run": 6,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
