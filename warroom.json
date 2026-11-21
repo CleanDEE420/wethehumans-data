@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:06:35-06:00",
+ "generated_at": "2026-11-21T13:11:35-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 473,
@@ -57,9 +57,7 @@
     "Open": 0,
     "Profit factor": "0.18"
    },
-   "demerits": [
-    "Dead Air"
-   ]
+   "demerits": []
   },
   {
    "id": "recoil",
@@ -76,9 +74,7 @@
     "Open": 0,
     "Profit factor": "0.74"
    },
-   "demerits": [
-    "Bag Holder \u00d71"
-   ]
+   "demerits": []
   },
   {
    "id": "governor",
@@ -146,14 +142,12 @@
     "Watching": 260,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 47,
+    "Entries (24h)": 46,
     "Avg win": "$+2136.20",
     "Avg loss": "$-11.63",
     "Profit factor": "54.49"
    },
-   "demerits": [
-    "Bag Holder \u00d7118"
-   ]
+   "demerits": []
   },
   {
    "id": "krypton",
