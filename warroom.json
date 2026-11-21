@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T18:10:19-06:00",
+ "generated_at": "2026-11-20T18:15:18-06:00",
  "season": {
   "fleet_pnl": -35.25,
   "closed_total": 438,
@@ -237,7 +237,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
