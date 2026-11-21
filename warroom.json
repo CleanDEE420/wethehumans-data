@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T21:50:19-06:00",
+ "generated_at": "2026-11-20T21:55:18-06:00",
  "season": {
   "fleet_pnl": -44.1,
   "closed_total": 450,
@@ -138,14 +138,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 248 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 247 fresh Solana launches.",
    "stats": {
     "Closed": 355,
     "Road to 100": "355/100",
     "Record": "80W\u2013275L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 248,
+    "Watching": 247,
     "Open": 1,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 46,
@@ -162,9 +162,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-p10 right now.",
+   "doing": "Reviewing 2026-11-20-storefab-never-again-p11 right now.",
    "stats": {
-    "Reviews done": "118/125",
+    "Reviews done": "119/125",
     "Reviews filed": 78,
     "Held in queue": 4,
     "Latest report": "2026-11-20-storefab-never-again-p9-VET.md",
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 276,
+    "Jobs tracked on the board": 287,
     "Crew reporting in": "5 racers",
     "Open tasks": 59,
     "Open decisions": 20,
@@ -253,7 +253,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "389 cards banked"
+   "value": "399 cards banked"
   },
   {
    "label": "Quote card pool",
