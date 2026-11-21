@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T06:10:18-06:00",
+ "generated_at": "2026-11-21T06:15:18-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 465,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 247, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 248, no open snipes right now.",
    "stats": {
     "Closed": 367,
     "Road to 100": "367/100",
     "Record": "83W\u2013284L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 247,
+    "Watching": 248,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 56,
@@ -191,7 +191,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3524,
+    "Shops banked": 3541,
     "Emails": 709,
     "Streamers": 230,
     "States in the bank": 14
@@ -217,9 +217,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Drafting today's batches \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 297,
+    "Jobs tracked on the board": 298,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 0,
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
