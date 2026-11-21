@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T07:26:37-06:00",
+ "generated_at": "2026-11-21T07:31:39-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 465,
@@ -160,12 +160,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON ORBIT price-check review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab sidebar UI pass review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "124/129",
-    "Reviews filed": 82,
+    "Reviews filed": 83,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-tradebot-price-check-VET.md",
+    "Latest report": "2026-11-21-storefab-ui-pass-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 266,
+    "Jobs tracked on the board": 281,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 6,
