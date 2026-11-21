@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T20:20:19-06:00",
+ "generated_at": "2026-11-20T20:25:19-06:00",
  "season": {
   "fleet_pnl": -37.79,
   "closed_total": 443,
@@ -138,14 +138,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 254 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 255 fresh Solana launches.",
    "stats": {
     "Closed": 349,
     "Road to 100": "349/100",
     "Record": "79W\u2013270L",
     "Win rate": "23%",
     "PnL": "$+0.00",
-    "Watching": 254,
+    "Watching": 255,
     "Open": 2,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 44,
@@ -161,13 +161,13 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-p3 right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" Phase 2 review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "111/125",
-    "Reviews filed": 70,
+    "Reviews done": "112/125",
+    "Reviews filed": 71,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-p1-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-p2-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 282,
+    "Jobs tracked on the board": 288,
     "Crew reporting in": "5 racers",
     "Open tasks": 58,
     "Open decisions": 0,
