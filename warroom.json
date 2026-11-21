@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T05:25:19-06:00",
+ "generated_at": "2026-11-21T05:30:19-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 465,
@@ -191,7 +191,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3391,
+    "Shops banked": 3408,
     "Emails": 706,
     "Streamers": 230,
     "States in the bank": 14
@@ -340,7 +340,7 @@
    "next_gate": "Block 4 running (36 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED today; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken record\u2026"
   }
  ],
- "projects_as_of": "2026-11-21 12:00 AM CT",
+ "projects_as_of": "2026-11-21 12:31 AM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
