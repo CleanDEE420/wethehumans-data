@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-20T21:15:18-06:00",
+ "generated_at": "2026-11-20T21:25:18-06:00",
  "season": {
   "fleet_pnl": -37.79,
-  "closed_total": 446,
-  "open_total": 6,
+  "closed_total": 447,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -138,20 +138,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 252 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 251 fresh Solana launches.",
    "stats": {
-    "Closed": 352,
-    "Road to 100": "352/100",
-    "Record": "79W\u2013273L",
+    "Closed": 353,
+    "Road to 100": "353/100",
+    "Record": "79W\u2013274L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 252,
-    "Open": 2,
+    "Watching": 251,
+    "Open": 1,
     "Best trade": "ORE +$182.0",
     "Entries (24h)": 44,
     "Avg win": "$+2324.16",
-    "Avg loss": "$-11.49",
-    "Profit factor": "58.52"
+    "Avg loss": "$-11.54",
+    "Profit factor": "58.07"
    },
    "demerits": [
     "Bag Holder \u00d7106"
@@ -162,12 +162,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-20-storefab-never-again-p8 right now.",
+   "doing": "Reviewing 2026-11-20-storefab-never-again-p9 right now.",
    "stats": {
-    "Reviews done": "116/125",
-    "Reviews filed": 75,
+    "Reviews done": "117/125",
+    "Reviews filed": 76,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-p6-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-p7-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -221,7 +221,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 264,
+    "Jobs tracked on the board": 276,
     "Crew reporting in": "5 racers",
     "Open tasks": 53,
     "Open decisions": 0,
