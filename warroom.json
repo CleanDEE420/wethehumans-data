@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T22:00:18-06:00",
+ "generated_at": "2026-11-20T22:05:19-06:00",
  "season": {
   "fleet_pnl": -44.1,
   "closed_total": 451,
@@ -162,12 +162,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" Phase 9 review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab \"Never Again\" Phase 10 review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "120/125",
-    "Reviews filed": 78,
+    "Reviews filed": 79,
     "Held in queue": 4,
-    "Latest report": "2026-11-20-storefab-never-again-p9-VET.md",
+    "Latest report": "2026-11-20-storefab-never-again-p10-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -221,10 +221,10 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 287,
+    "Jobs tracked on the board": 264,
     "Crew reporting in": "5 racers",
-    "Open tasks": 59,
-    "Open decisions": 20,
+    "Open tasks": 75,
+    "Open decisions": 24,
     "Projects": 16
    },
    "demerits": []
@@ -342,7 +342,7 @@
    "next_gate": "Block 4 running (36 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED today; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answers; hosting: uptime + unbroken record\u2026"
   }
  ],
- "projects_as_of": "2026-11-20 09:38 PM CT",
+ "projects_as_of": "2026-11-20 10:01 PM CT",
  "waiting": [
   {
    "title": "Flip the Stay Curious voice lane to your clone voice?",
