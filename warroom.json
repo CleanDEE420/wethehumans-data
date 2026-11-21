@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T13:11:35-06:00",
+ "generated_at": "2026-11-21T13:16:36-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 473,
@@ -57,7 +57,9 @@
     "Open": 0,
     "Profit factor": "0.18"
    },
-   "demerits": []
+   "demerits": [
+    "Dead Air"
+   ]
   },
   {
    "id": "recoil",
@@ -74,7 +76,9 @@
     "Open": 0,
     "Profit factor": "0.74"
    },
-   "demerits": []
+   "demerits": [
+    "Bag Holder \u00d71"
+   ]
   },
   {
    "id": "governor",
@@ -147,7 +151,9 @@
     "Avg loss": "$-11.63",
     "Profit factor": "54.49"
    },
-   "demerits": []
+   "demerits": [
+    "Bag Holder \u00d7113"
+   ]
   },
   {
    "id": "krypton",
@@ -229,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 12:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 01:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
