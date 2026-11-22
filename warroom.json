@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T01:31:35-06:00",
+ "generated_at": "2026-11-22T01:36:34-06:00",
  "season": {
-  "fleet_pnl": -43.43,
-  "closed_total": 500,
-  "open_total": 7,
+  "fleet_pnl": -44.11,
+  "closed_total": 501,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -66,15 +66,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
-    "Closed": 19,
-    "Road to 100": "19/100",
-    "Record": "12W\u20137L",
-    "Win rate": "63%",
-    "PnL": "$-3.94",
-    "Open": 2,
-    "Profit factor": "0.71"
+    "Closed": 20,
+    "Road to 100": "20/100",
+    "Record": "12W\u20138L",
+    "Win rate": "60%",
+    "PnL": "$-4.61",
+    "Open": 1,
+    "Profit factor": "0.67"
    },
    "demerits": [
     "Bag Holder \u00d71"
