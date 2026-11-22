@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T17:06:34-06:00",
+ "generated_at": "2026-11-22T17:11:34-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 522,
@@ -160,12 +160,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab Outreach Tracker review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab outreach send function review \u2014 Gumby vet (FINAL, overdue wake).",
    "stats": {
     "Reviews done": "135/140",
-    "Reviews filed": 90,
+    "Reviews filed": 91,
     "Held in queue": 4,
-    "Latest report": "2026-11-22-storefab-outreach-tracker-VET.md",
+    "Latest report": "2026-11-22-storefab-outreach-send-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
