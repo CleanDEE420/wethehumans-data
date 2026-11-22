@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T16:36:34-06:00",
+ "generated_at": "2026-11-22T16:41:35-06:00",
  "season": {
   "fleet_pnl": -45.04,
-  "closed_total": 520,
+  "closed_total": 521,
   "open_total": 7,
   "milestones": [
    {
@@ -102,14 +102,14 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Closed": 6,
     "Road to 100": "6/100",
     "Record": "2W\u20134L",
     "Win rate": "33%",
     "PnL": "$-3.62",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.20"
    },
    "demerits": []
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 264 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 264 fresh Solana launches.",
    "stats": {
-    "Closed": 419,
-    "Road to 100": "419/100",
-    "Record": "91W\u2013328L",
+    "Closed": 420,
+    "Road to 100": "420/100",
+    "Record": "91W\u2013329L",
     "Win rate": "22%",
     "PnL": "$+0.00",
     "Watching": 264,
-    "Open": 4,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 35,
     "Avg win": "$+1998.21",
-    "Avg loss": "$-11.42",
-    "Profit factor": "49.07"
+    "Avg loss": "$-11.40",
+    "Profit factor": "49.03"
    },
    "demerits": [
     "Bag Holder \u00d7132"
