@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:56:34-06:00",
+ "generated_at": "2026-11-22T00:01:35-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 499,
@@ -146,7 +146,7 @@
     "Watching": 270,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 39,
+    "Entries (24h)": 38,
     "Avg win": "$+2019.81",
     "Avg loss": "$-11.61",
     "Profit factor": "50.92"
@@ -222,7 +222,7 @@
     "Jobs tracked on the board": 31,
     "Crew reporting in": "5 racers",
     "Open tasks": 74,
-    "Open decisions": 0,
+    "Open decisions": 1,
     "Projects": 16
    },
    "demerits": []
@@ -317,7 +317,7 @@
   {
    "name": "DC Command \u2014 the board itself",
    "status": "active",
-   "next_gate": "Factory Alive DEPLOYED 2026-11-15 (6afa04db). Board deploy DONE 2026-11-21 18:44 CT (6b023c5c244df456cff37d57 \u2014 /desk/ live, width fix). 30-min sites-stats timer INSTALLED + proven pulling. Daily sync analytics leg RETIRED. liveStatus trim\u2026"
+   "next_gate": "Factory Alive DEPLOYED 2026-11-15 (6afa04db). Board deploy DONE 2026-11-21 18:44 CT (6b023c5c244df456cff37d57 \u2014 /desk/ live, width fix). 30-min sites-stats timer REINSTALLED 23:49 CT (was swept from /etc) + proven pulling; flip timer reinst\u2026"
   },
   {
    "name": "Household / admin",
@@ -340,8 +340,13 @@
    "next_gate": "Block 4 running (46 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answ\u2026"
   }
  ],
- "projects_as_of": "2026-11-21 08:57 PM CT",
+ "projects_as_of": "2026-11-22 12:01 AM CT",
  "waiting": [
+  {
+   "title": "Profile slot 21:00 (Sat Nov 21) failed \u2014 publish now or skip?",
+   "detail": "Tonight's 9:00 PM profile post (\"Sports cards don't get auto-priced. Ever.\") never landed: the first post-create session disappeared ~20:57 CT, then 4 retries over ~50 min were all blocked by the connector with 'an equiv\u2026",
+   "link": null
+  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -375,11 +380,6 @@
   {
    "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
-   "link": null
-  },
-  {
-   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
-   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
