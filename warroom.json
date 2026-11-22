@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T02:06:34-06:00",
+ "generated_at": "2026-11-22T02:16:35-06:00",
  "season": {
-  "fleet_pnl": -44.11,
-  "closed_total": 502,
+  "fleet_pnl": -45.04,
+  "closed_total": 503,
   "open_total": 6,
   "milestones": [
    {
@@ -66,15 +66,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
-    "Closed": 20,
-    "Road to 100": "20/100",
-    "Record": "12W\u20138L",
-    "Win rate": "60%",
-    "PnL": "$-4.61",
-    "Open": 1,
-    "Profit factor": "0.67"
+    "Closed": 21,
+    "Road to 100": "21/100",
+    "Record": "12W\u20139L",
+    "Win rate": "57%",
+    "PnL": "$-5.54",
+    "Open": 0,
+    "Profit factor": "0.63"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 269 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 270 fresh Solana launches.",
    "stats": {
     "Closed": 402,
     "Road to 100": "402/100",
     "Record": "90W\u2013312L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 269,
-    "Open": 2,
+    "Watching": 270,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 41,
+    "Entries (24h)": 42,
     "Avg win": "$+2019.81",
     "Avg loss": "$-11.58",
     "Profit factor": "50.88"
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 01:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 02:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
