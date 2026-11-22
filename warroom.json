@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T10:26:34-06:00",
+ "generated_at": "2026-11-22T10:31:35-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 511,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 273 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 274 fresh Solana launches.",
    "stats": {
     "Closed": 410,
     "Road to 100": "410/100",
     "Record": "90W\u2013320L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 273,
+    "Watching": 274,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 39,
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab scanner buyer-seat rebuild review (#98) \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-22-storefab-outreach-send right now.",
    "stats": {
-    "Reviews done": "129/137",
+    "Reviews done": "129/139",
     "Reviews filed": 88,
     "Held in queue": 4,
     "Latest report": "2026-11-21-storefab-scanner-buyer-seat-VET.md",
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 31,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "5 racers",
     "Open tasks": 75,
     "Open decisions": 1,
