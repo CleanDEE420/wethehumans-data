@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T14:16:35-06:00",
+ "generated_at": "2026-11-22T14:21:35-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 517,
@@ -152,7 +152,7 @@
     "Profit factor": "49.14"
    },
    "demerits": [
-    "Bag Holder \u00d7131"
+    "Bag Holder \u00d7132"
    ]
   },
   {
@@ -163,9 +163,9 @@
    "doing": "Reviewing 2026-11-22-storefab-never-again-wiring right now.",
    "stats": {
     "Reviews done": "132/140",
-    "Reviews filed": 88,
+    "Reviews filed": 89,
     "Held in queue": 4,
-    "Latest report": "2026-11-21-storefab-scanner-buyer-seat-VET.md",
+    "Latest report": "2026-11-22-storefab-title-rarity-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -221,9 +221,9 @@
    "stats": {
     "Jobs tracked on the board": 31,
     "Crew reporting in": "5 racers",
-    "Open tasks": 75,
+    "Open tasks": 84,
     "Open decisions": 1,
-    "Projects": 16
+    "Projects": 17
    },
    "demerits": []
   }
@@ -338,9 +338,14 @@
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
    "next_gate": "Block 4 running (46 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answ\u2026"
+  },
+  {
+   "name": "StoreFab \u2014 outreach",
+   "status": "active",
+   "next_gate": "First email waits on: final code reviews (finishing today) \u2192 your deploy word \u2192 a test email to your own inbox \u2192 your tap on the first batch."
   }
  ],
- "projects_as_of": "2026-11-22 06:22 AM CT",
+ "projects_as_of": "2026-11-22 02:20 PM CT",
  "waiting": [
   {
    "title": "Profile slot 21:00 (Sat Nov 21) failed \u2014 publish now or skip?",
