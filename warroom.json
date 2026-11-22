@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:16:38-06:00",
+ "generated_at": "2026-11-22T05:21:34-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 507,
@@ -191,7 +191,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3912,
+    "Shops banked": 3927,
     "Emails": 839,
     "Streamers": 240,
     "States in the bank": 14
@@ -340,7 +340,7 @@
    "next_gate": "Block 4 running (46 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answ\u2026"
   }
  ],
- "projects_as_of": "2026-11-22 12:05 AM CT",
+ "projects_as_of": "2026-11-22 01:19 AM CT",
  "waiting": [
   {
    "title": "Profile slot 21:00 (Sat Nov 21) failed \u2014 publish now or skip?",
