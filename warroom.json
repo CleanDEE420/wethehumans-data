@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T14:26:35-06:00",
+ "generated_at": "2026-11-22T14:31:35-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 517,
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 31,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "5 racers",
     "Open tasks": 84,
     "Open decisions": 1,
