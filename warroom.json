@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T20:56:35-06:00",
+ "generated_at": "2026-11-21T21:01:35-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 498,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 265, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 266, no open snipes right now.",
    "stats": {
     "Closed": 400,
     "Road to 100": "400/100",
     "Record": "89W\u2013311L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 265,
+    "Watching": 266,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 49,
@@ -221,7 +221,7 @@
    "stats": {
     "Jobs tracked on the board": 33,
     "Crew reporting in": "5 racers",
-    "Open tasks": 76,
+    "Open tasks": 74,
     "Open decisions": 0,
     "Projects": 16
    },
@@ -262,7 +262,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "D82 wind-down DEPLOYED 2026-11-17 16:43 CT (6afcd851, suite 729/729, KRYPTON-vetted CLEARED) \u2014 LANDED 2026-11-20: the Nov 18 02:02 timeout wake counted and restarted the soak clock; hook log shows the last failure Nov 18 02:13 CT, then 48h\u2026"
+   "next_gate": "Combined deploy LIVE 2026-11-21 10:12 CT (6b01c2d57a7d4b60826a4a0c): wiring (13 na-* on server, no live fn calls them yet) + OI-1 patch + sidebar UI (#94/#95 vetted CLEARED). Live fix_plan NOT exercised; live-browser render owed. Store NOT\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -272,17 +272,17 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 10:26 CT (6afc8020, 162 files, live-verified on live.foreverhumans.com). Findability DEPLOYED 2026-11-15 (6afa0622, 13 files). PRODUCT DAY BUILD DONE 2026-11-20 evening: FH-026/028/029 (fou\u2026"
+   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 10:26 CT (6afc8020, live-verified). PRODUCT DAY DONE: shop 31 -> 40 products (FH-026/028/029 x3, all PUBLIC/AVAILABLE). Ko-fi payout CONNECTED by the founder this evening \u2014 the tip jar can\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "STORE FINISHED 100% 2026-11-20 19:29 CT \u2014 8,319/8,319 published listings buyer-verified: Pass 5 closed the last 167 descriptions (166 written + buyer-verified, 1 already correct, 0 failed); photos 21/21 fixed + verified (PKMND2-028 re-shot\u2026"
+   "next_gate": "STORE NOT 100% (2026-11-21 correction): the Nov 20 finish scope excluded category moves \u2014 1,312 sports singles sit in the wrong leaf. Category batch 1,311 AUTHORIZED 18:08 CT ('run them soon as you can as soon as they are vetted run them')\u2026"
   },
   {
    "name": "wethehumans.cool",
    "status": "live",
-   "next_gate": "Graffiti pass DEPLOYED 2026-11-17 10:30 CT (6afc8026, live-verified; /obs-widgets/ 404 as ruled). Mobile icon-button revision + Review Wall quotes (24 buyer quotes) LIVE since the 2026-11-16 23:48 CT deploy (6afbea86). Google Search Console\u2026"
+   "next_gate": "Graffiti pass DEPLOYED 2026-11-17 10:30 CT (6afc8026, live-verified). SC reels SCHEDULED: 7 reels, 1/day 7:30 PM CT, Sun Nov 22 \u2013 Sat Nov 28, on the WTH FB Page. eximioushuman.com zone ACTIVE (nameserver swap COMPLETE 17:07 CT); SC analytic\u2026"
   },
   {
    "name": "Facebook + Reels machine",
@@ -317,7 +317,7 @@
   {
    "name": "DC Command \u2014 the board itself",
    "status": "active",
-   "next_gate": "Factory Alive DEPLOYED 2026-11-15 (6afa04db - production already carried the factory+alive index from the Nov 12 trading deploy; the GO converted inference into deploy-record proof). War Room DEPLOYED 17:23-17:24 CT (6afa3eec89f165d8e67f92e\u2026"
+   "next_gate": "Factory Alive DEPLOYED 2026-11-15 (6afa04db). Board deploy DONE 2026-11-21 18:44 CT (6b023c5c244df456cff37d57 \u2014 /desk/ live, width fix). 30-min sites-stats timer INSTALLED + proven pulling. Daily sync analytics leg RETIRED. liveStatus trim\u2026"
   },
   {
    "name": "Household / admin",
@@ -332,15 +332,15 @@
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: Gumby's vet \u2014 dead-man's switch review (DONE, ALL.done, Nov 15 run) + nightly drip.js review (DONE 10/10) + the 12 older ALL.done runs (spotify-frame-pile, wavec-exclgate, mphc-repair, waved-sampled, exclgate-port, resolve-harde\u2026"
+   "next_gate": "waiting on: Gumby's vet \u2014 dead-man's switch review (DONE, ALL.done, Nov 15 run) + nightly drip.js review (DONE 10/10) + the 12 older ALL.done runs + nightly 2026-11-21-rarity.js (not in the queue) + 4 older complete runs without VET files (\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 4 running (46 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED today; price-check review DONE 4/4, vet queued; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he a\u2026"
+   "next_gate": "Block 4 running (46 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answ\u2026"
   }
  ],
- "projects_as_of": "2026-11-21 08:00 PM CT",
+ "projects_as_of": "2026-11-21 08:57 PM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
