@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T15:46:35-06:00",
+ "generated_at": "2026-11-22T15:51:36-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 518,
@@ -160,9 +160,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-22-ebay-title-batch-runner right now.",
+   "doing": "Reviewing 2026-11-22-storefab-outreach-tracker right now.",
    "stats": {
-    "Reviews done": "133/140",
+    "Reviews done": "134/140",
     "Reviews filed": 89,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-title-rarity-VET.md",
@@ -217,9 +217,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the midday pins \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "5 racers",
     "Open tasks": 84,
     "Open decisions": 1,
