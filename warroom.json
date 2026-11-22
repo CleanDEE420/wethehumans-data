@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T20:26:40-06:00",
+ "generated_at": "2026-11-21T20:31:37-06:00",
  "season": {
   "fleet_pnl": -42.87,
-  "closed_total": 496,
-  "open_total": 5,
+  "closed_total": 497,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 271 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 270 fresh Solana launches.",
    "stats": {
-    "Closed": 398,
-    "Road to 100": "398/100",
-    "Record": "88W\u2013310L",
+    "Closed": 399,
+    "Road to 100": "399/100",
+    "Record": "89W\u2013310L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 271,
-    "Open": 2,
+    "Watching": 270,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 50,
-    "Avg win": "$+2064.57",
+    "Entries (24h)": 49,
+    "Avg win": "$+2042.23",
     "Avg loss": "$-11.63",
-    "Profit factor": "50.95"
+    "Profit factor": "50.96"
    },
    "demerits": [
     "Bag Holder \u00d7113"
@@ -340,7 +340,7 @@
    "next_gate": "Block 4 running (46 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED today; price-check review DONE 4/4, vet queued; kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he a\u2026"
   }
  ],
- "projects_as_of": "2026-11-21 08:07 AM CT",
+ "projects_as_of": "2026-11-21 08:00 PM CT",
  "waiting": [
   {
    "title": "Mail the DC Mechanical winding-up envelope",
