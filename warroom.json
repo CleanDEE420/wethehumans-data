@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T20:11:35-06:00",
+ "generated_at": "2026-11-21T20:16:36-06:00",
  "season": {
   "fleet_pnl": -42.87,
-  "closed_total": 494,
-  "open_total": 7,
+  "closed_total": 495,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,18 +136,18 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 272 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 272 fresh Solana launches.",
    "stats": {
-    "Closed": 396,
-    "Road to 100": "396/100",
-    "Record": "87W\u2013309L",
+    "Closed": 397,
+    "Road to 100": "397/100",
+    "Record": "88W\u2013309L",
     "Win rate": "22%",
     "PnL": "$+0.00",
     "Watching": 272,
-    "Open": 4,
+    "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 50,
-    "Avg win": "$+2088.01",
+    "Avg win": "$+2064.57",
     "Avg loss": "$-11.66",
     "Profit factor": "50.98"
    },
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
