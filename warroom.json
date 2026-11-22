@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T01:16:34-06:00",
+ "generated_at": "2026-11-22T01:26:37-06:00",
  "season": {
-  "fleet_pnl": -42.87,
-  "closed_total": 499,
-  "open_total": 7,
+  "fleet_pnl": -43.43,
+  "closed_total": 500,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -66,15 +66,15 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
-    "Closed": 18,
-    "Road to 100": "18/100",
-    "Record": "12W\u20136L",
-    "Win rate": "67%",
-    "PnL": "$-3.38",
-    "Open": 3,
-    "Profit factor": "0.74"
+    "Closed": 19,
+    "Road to 100": "19/100",
+    "Record": "12W\u20137L",
+    "Win rate": "63%",
+    "PnL": "$-3.94",
+    "Open": 2,
+    "Profit factor": "0.71"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 271 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 270 fresh Solana launches.",
    "stats": {
     "Closed": 401,
     "Road to 100": "401/100",
     "Record": "90W\u2013311L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 271,
+    "Watching": 270,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 39,
