@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:26:35-06:00",
+ "generated_at": "2026-11-21T22:31:36-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 499,
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-21-storefab-rarity-batch-runner right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab OI-1 scope patch review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "128/134",
+    "Reviews done": "129/134",
     "Reviews filed": 84,
     "Held in queue": 4,
     "Latest report": "2026-11-21-storefab-oi1-scope-patch-VET.md",
