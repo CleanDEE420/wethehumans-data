@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T07:11:34-06:00",
+ "generated_at": "2026-11-22T07:16:34-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 509,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,15 +136,15 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 267, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 268 fresh Solana launches.",
    "stats": {
     "Closed": 408,
     "Road to 100": "408/100",
     "Record": "90W\u2013318L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 267,
-    "Open": 0,
+    "Watching": 268,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 41,
     "Avg win": "$+2019.81",
@@ -160,12 +160,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 batch_full.py.",
+   "doing": "Last review filed: KRYPTON StoreFab scanner buyer-seat rebuild review (#98) \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "129/134",
-    "Reviews filed": 86,
+    "Reviews filed": 88,
     "Held in queue": 4,
-    "Latest report": "2026-11-22-batch_full.py.md",
+    "Latest report": "2026-11-21-storefab-scanner-buyer-seat-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
