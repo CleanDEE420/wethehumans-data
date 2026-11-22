@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-22T22:16:54.886983+00:00",
+ "generated_at": "2026-11-22T22:21:51.509526+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-22 16:15 CST \u2014 40 new coins seen. \u00b7 56401 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-22 16:20 CST \u2014 32 new coins seen. \u00b7 56433 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -18,14 +18,14 @@
     },
     {
      "name": "dexscreener_boosts",
-     "status": "answered (24 coins)"
+     "status": "answered (25 coins)"
     }
    ]
   },
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 422 entered all time \u00b7 2 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 424 entered all time \u00b7 4 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-22T22:15:51.773117+00:00"
+   "detail": "journal last entry 2026-11-22T22:20:52.927920+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,448.59 of $500 start \u00b7 max drawdown $1,978.27 (395.7% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,448.59 of $500 start \u00b7 max drawdown $1,978.27 (395.7% of bankroll) \u00b7 4 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -1628,7 +1628,7 @@
   "ending_equity": -1448.59,
   "max_dd_usd": 1978.27,
   "max_dd_pct": 395.7,
-  "open_count": 2
+  "open_count": 4
  },
  "equity_line": [
   {
@@ -1687,6 +1687,26 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-22T22:20:52.927800+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "BTC",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
+  {
+   "ts": "2026-11-22T22:20:52.927743+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "COPIUM",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-22T22:15:51.773117+00:00",
    "racer": "ORBIT",
@@ -1965,26 +1985,6 @@
    "pnl": null,
    "reason": null,
    "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-22T10:45:34.816850+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "KOx",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-22T09:45:34.858232+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "MooSom",
-   "pnl": -17.39,
-   "reason": "hard_stop_-60%",
-   "stake": null,
    "suspect": false
   }
  ],
