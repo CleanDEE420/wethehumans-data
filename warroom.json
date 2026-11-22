@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T19:56:35-06:00",
+ "generated_at": "2026-11-21T20:01:35-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 493,
@@ -146,7 +146,7 @@
     "Watching": 275,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 51,
+    "Entries (24h)": 50,
     "Avg win": "$+2088.01",
     "Avg loss": "$-11.64",
     "Profit factor": "51.25"
@@ -162,7 +162,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-21-storefab-scanner-buyer-seat right now.",
    "stats": {
-    "Reviews done": "127/133",
+    "Reviews done": "127/134",
     "Reviews filed": 84,
     "Held in queue": 4,
     "Latest report": "2026-11-21-storefab-oi1-scope-patch-VET.md",
