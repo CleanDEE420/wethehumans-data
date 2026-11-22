@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T20:41:34-06:00",
+ "generated_at": "2026-11-21T20:51:36-06:00",
  "season": {
   "fleet_pnl": -42.87,
-  "closed_total": 497,
-  "open_total": 4,
+  "closed_total": 498,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -66,14 +66,14 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "doing": "Holding 3 open trades and watching the market.",
    "stats": {
     "Closed": 18,
     "Road to 100": "18/100",
     "Record": "12W\u20136L",
     "Win rate": "67%",
     "PnL": "$-3.38",
-    "Open": 0,
+    "Open": 3,
     "Profit factor": "0.74"
    },
    "demerits": [
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 267 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 265, no open snipes right now.",
    "stats": {
-    "Closed": 399,
-    "Road to 100": "399/100",
-    "Record": "89W\u2013310L",
+    "Closed": 400,
+    "Road to 100": "400/100",
+    "Record": "89W\u2013311L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 267,
-    "Open": 1,
+    "Watching": 265,
+    "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 49,
     "Avg win": "$+2042.23",
-    "Avg loss": "$-11.63",
-    "Profit factor": "50.96"
+    "Avg loss": "$-11.61",
+    "Profit factor": "50.92"
    },
    "demerits": [
     "Bag Holder \u00d7113"
