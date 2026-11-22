@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-21T17:31:39-06:00",
+ "generated_at": "2026-11-21T18:26:34-06:00",
  "season": {
   "fleet_pnl": -42.87,
-  "closed_total": 486,
+  "closed_total": 488,
   "open_total": 4,
   "milestones": [
    {
@@ -136,20 +136,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 268 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 272 fresh Solana launches.",
    "stats": {
-    "Closed": 388,
-    "Road to 100": "388/100",
-    "Record": "87W\u2013301L",
+    "Closed": 390,
+    "Road to 100": "390/100",
+    "Record": "87W\u2013303L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 268,
+    "Watching": 272,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 44,
     "Avg win": "$+2088.01",
-    "Avg loss": "$-11.60",
-    "Profit factor": "52.64"
+    "Avg loss": "$-11.55",
+    "Profit factor": "52.52"
    },
    "demerits": [
     "Bag Holder \u00d7122"
@@ -159,8 +159,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab OI-1 scope patch review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-21-storefab-scanner-buyer-seat right now.",
    "stats": {
     "Reviews done": "127/133",
     "Reviews filed": 84,
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 295,
+    "Jobs tracked on the board": 296,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 6,
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:14 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
