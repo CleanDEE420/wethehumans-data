@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T04:46:35-06:00",
+ "generated_at": "2026-11-22T04:51:34-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 507,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 269, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 270 fresh Solana launches.",
    "stats": {
     "Closed": 406,
     "Road to 100": "406/100",
     "Record": "90W\u2013316L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 269,
-    "Open": 0,
+    "Watching": 270,
+    "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 40,
+    "Entries (24h)": 41,
     "Avg win": "$+2019.81",
     "Avg loss": "$-11.51",
     "Profit factor": "50.52"
@@ -191,8 +191,8 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3617,
-    "Emails": 741,
+    "Shops banked": 3671,
+    "Emails": 763,
     "Streamers": 240,
     "States in the bank": 14
    },
