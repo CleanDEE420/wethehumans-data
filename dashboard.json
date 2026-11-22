@@ -1,10 +1,10 @@
 {
- "generated_at": "2026-11-21 06:14 CST",
- "generated_date": "2026-11-21",
+ "generated_at": "2026-11-22 06:32 CST",
+ "generated_date": "2026-11-22",
  "ebay": {
   "listings_live": 8319,
   "store_dex_species": 731,
-  "as_of": "2026-11-21"
+  "as_of": "2026-11-22"
  },
  "site": {
   "pages": 229,
@@ -12,26 +12,26 @@
   "office_feed": 24,
   "projects_cards": 15,
   "fb_posts_shelf": 6,
-  "as_of": "2026-11-21"
+  "as_of": "2026-11-22"
  },
  "pinterest": {
   "followers": 4953,
-  "monthly_views": 28676,
-  "pins": 7613,
+  "monthly_views": 28884,
+  "pins": 7633,
   "boards": 21,
-  "as_of": "2026-11-21"
+  "as_of": "2026-11-22"
  },
  "youtube": {
   "subscribers": 148,
   "views": 104735,
   "videos": 85,
-  "as_of": "2026-11-21"
+  "as_of": "2026-11-22"
  },
  "pinterest_pack": {
-  "engine_pins_total": 300,
+  "engine_pins_total": 317,
   "image_posted": 30,
   "image_total": 30,
-  "updated": "2026-11-20",
+  "updated": "2026-11-21",
   "video_posted": 12,
   "video_total": 12
  },
@@ -39,19 +39,19 @@
   "handle": "wethehumans.cool",
   "followers": 7,
   "following": 12,
-  "posts": 195,
-  "as_of": "2026-11-21"
+  "posts": 204,
+  "as_of": "2026-11-22"
  },
  "ebay_sales": {
   "last_7d": {
-   "orders": 6,
-   "gross": 22.12
+   "orders": 4,
+   "gross": 16.5
   },
   "last_30d": {
-   "orders": 36,
-   "gross": 219.02
+   "orders": 33,
+   "gross": 180.08
   },
-  "as_of": "2026-11-21"
+  "as_of": "2026-11-22"
  },
  "inspiration_lines": 2243,
  "manual": {
