@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T01:41:34-06:00",
+ "generated_at": "2026-11-22T01:46:34-06:00",
  "season": {
   "fleet_pnl": -44.11,
-  "closed_total": 501,
+  "closed_total": 502,
   "open_total": 6,
   "milestones": [
    {
@@ -138,18 +138,18 @@
    "alive": true,
    "doing": "Holding 2 snipes and tracking 270 fresh Solana launches.",
    "stats": {
-    "Closed": 401,
-    "Road to 100": "401/100",
-    "Record": "90W\u2013311L",
+    "Closed": 402,
+    "Road to 100": "402/100",
+    "Record": "90W\u2013312L",
     "Win rate": "22%",
     "PnL": "$+0.00",
     "Watching": 270,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 40,
+    "Entries (24h)": 41,
     "Avg win": "$+2019.81",
-    "Avg loss": "$-11.61",
-    "Profit factor": "50.92"
+    "Avg loss": "$-11.58",
+    "Profit factor": "50.88"
    },
    "demerits": [
     "Bag Holder \u00d7113"
@@ -160,12 +160,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab rarity batch runner review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON nightly review \u2014 batch_full.py.",
    "stats": {
     "Reviews done": "129/134",
-    "Reviews filed": 85,
+    "Reviews filed": 86,
     "Held in queue": 4,
-    "Latest report": "2026-11-21-storefab-rarity-batch-runner-VET.md",
+    "Latest report": "2026-11-22-batch_full.py.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
