@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T23:01:36-06:00",
+ "generated_at": "2026-11-21T23:16:38-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 499,
@@ -146,7 +146,7 @@
     "Watching": 271,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 42,
+    "Entries (24h)": 41,
     "Avg win": "$+2019.81",
     "Avg loss": "$-11.61",
     "Profit factor": "50.92"
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 11:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
