@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:21:38-06:00",
+ "generated_at": "2026-11-22T11:26:34-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 513,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 269 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 270 fresh Solana launches.",
    "stats": {
     "Closed": 412,
     "Road to 100": "412/100",
     "Record": "90W\u2013322L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 269,
+    "Watching": 270,
     "Open": 1,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 39,
