@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:41:35-06:00",
+ "generated_at": "2026-11-22T16:46:35-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 521,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 264 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 263 fresh Solana launches.",
    "stats": {
     "Closed": 420,
     "Road to 100": "420/100",
     "Record": "91W\u2013329L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 264,
+    "Watching": 263,
     "Open": 3,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 35,
@@ -160,12 +160,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab Title Rarity check + fix unit \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab Outreach Tracker review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "135/140",
-    "Reviews filed": 89,
+    "Reviews filed": 90,
     "Held in queue": 4,
-    "Latest report": "2026-11-22-storefab-title-rarity-VET.md",
+    "Latest report": "2026-11-22-storefab-outreach-tracker-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "5 racers",
     "Open tasks": 84,
     "Open decisions": 1,
