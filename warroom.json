@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T06:11:34-06:00",
+ "generated_at": "2026-11-22T06:16:34-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 509,
@@ -152,7 +152,7 @@
     "Profit factor": "50.46"
    },
    "demerits": [
-    "Bag Holder \u00d7128"
+    "Bag Holder \u00d7113"
    ]
   },
   {
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
