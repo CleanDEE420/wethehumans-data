@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T16:31:35-06:00",
+ "generated_at": "2026-11-22T16:36:34-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 520,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 263 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 264 fresh Solana launches.",
    "stats": {
     "Closed": 419,
     "Road to 100": "419/100",
     "Record": "91W\u2013328L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 263,
+    "Watching": 264,
     "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 35,
@@ -159,10 +159,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-22-storefab-outreach-tracker right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab Title Rarity check + fix unit \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "134/140",
+    "Reviews done": "135/140",
     "Reviews filed": 89,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-title-rarity-VET.md",
