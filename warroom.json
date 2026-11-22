@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:11:34-06:00",
+ "generated_at": "2026-11-22T05:16:38-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 507,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 270 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 269 fresh Solana launches.",
    "stats": {
     "Closed": 406,
     "Road to 100": "406/100",
     "Record": "90W\u2013316L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 270,
+    "Watching": 269,
     "Open": 2,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 41,
@@ -191,8 +191,8 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3892,
-    "Emails": 838,
+    "Shops banked": 3912,
+    "Emails": 839,
     "Streamers": 240,
     "States in the bank": 14
    },
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 1 in a row (last 04:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
