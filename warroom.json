@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T00:01:35-06:00",
+ "generated_at": "2026-11-22T00:06:36-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 499,
@@ -221,7 +221,7 @@
    "stats": {
     "Jobs tracked on the board": 31,
     "Crew reporting in": "5 racers",
-    "Open tasks": 74,
+    "Open tasks": 75,
     "Open decisions": 1,
     "Projects": 16
    },
@@ -340,7 +340,7 @@
    "next_gate": "Block 4 running (46 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answ\u2026"
   }
  ],
- "projects_as_of": "2026-11-22 12:01 AM CT",
+ "projects_as_of": "2026-11-22 12:05 AM CT",
  "waiting": [
   {
    "title": "Profile slot 21:00 (Sat Nov 21) failed \u2014 publish now or skip?",
