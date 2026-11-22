@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T21:51:34-06:00",
+ "generated_at": "2026-11-21T21:56:34-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 499,
@@ -136,14 +136,14 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 269, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 270, no open snipes right now.",
    "stats": {
     "Closed": 401,
     "Road to 100": "401/100",
     "Record": "90W\u2013311L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 269,
+    "Watching": 270,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 45,
@@ -159,8 +159,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab OI-1 scope patch review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-21-storefab-rarity-batch-runner right now.",
    "stats": {
     "Reviews done": "128/134",
     "Reviews filed": 84,
@@ -251,7 +251,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "444 cards banked"
+   "value": "472 cards banked"
   },
   {
    "label": "Quote card pool",
