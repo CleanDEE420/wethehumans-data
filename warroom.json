@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-21T19:41:34-06:00",
+ "generated_at": "2026-11-21T19:51:37-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 493,
-  "open_total": 5,
+  "open_total": 7,
   "milestones": [
    {
     "name": "First Blood",
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 273 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 275 fresh Solana launches.",
    "stats": {
     "Closed": 395,
     "Road to 100": "395/100",
     "Record": "87W\u2013308L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 273,
-    "Open": 2,
+    "Watching": 275,
+    "Open": 4,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 49,
+    "Entries (24h)": 51,
     "Avg win": "$+2088.01",
     "Avg loss": "$-11.64",
     "Profit factor": "51.25"
@@ -217,9 +217,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the evening pins \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 285,
+    "Jobs tracked on the board": 294,
     "Crew reporting in": "5 racers",
     "Open tasks": 76,
     "Open decisions": 0,
@@ -255,7 +255,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "41 posted of 70 cards \u2014 29 fresh on the bench"
+   "value": "42 posted of 70 cards \u2014 28 fresh on the bench"
   }
  ],
  "projects": [
