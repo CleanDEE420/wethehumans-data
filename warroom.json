@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T05:26:34-06:00",
+ "generated_at": "2026-11-22T05:36:34-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 507,
@@ -152,7 +152,7 @@
     "Profit factor": "50.52"
    },
    "demerits": [
-    "Bag Holder \u00d7113"
+    "Bag Holder \u00d7128"
    ]
   },
   {
@@ -191,8 +191,8 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3944,
-    "Emails": 839,
+    "Shops banked": 3976,
+    "Emails": 850,
     "Streamers": 240,
     "States in the bank": 14
    },
