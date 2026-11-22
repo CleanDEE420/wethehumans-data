@@ -2,6 +2,6 @@
   "kickPipe": {
     "chatOut": true,
     "enabled": true,
-    "note": "LIVE 2026-11-16 \u2014 channel connected by founder OAuth; event flow on. enabled = the pipe hears Kick (webhook stores events, overlay feed serves them). chatOut = the bot may speak into Kick chat (still OFF \u2014 arms separately with the session key). Functions fail closed to OFF on any shelf read error. Flip by editing this file on the shelf \u2014 never by redeploying."
+    "note": "LIVE 2026-11-16 — channel connected by founder OAuth; event flow on. enabled = the pipe hears Kick (webhook stores events, overlay feed serves them). chatOut = the bot may speak into Kick chat (ON since 2026-11-18 — armed with the session key; speaking proven by a live POST {ok:true, sent:true} 2026-11-18, verified 2026-11-20). Functions fail closed to OFF on any shelf read error. Flip by editing this file on the shelf — never by redeploying."
   }
 }
