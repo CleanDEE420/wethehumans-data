@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-22T08:06:44.041655+00:00",
+ "generated_at": "2026-11-22T08:11:44.375298+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-22 02:05 CST \u2014 18 new coins seen. \u00b7 51234 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-22 02:10 CST \u2014 23 new coins seen. \u00b7 51257 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 405 entered all time \u00b7 2 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 406 entered all time \u00b7 3 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-22T08:05:34.456468+00:00"
+   "detail": "journal last entry 2026-11-22T08:10:34.975270+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,347.32 of $500 start \u00b7 max drawdown $1,895.88 (379.2% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,347.32 of $500 start \u00b7 max drawdown $1,895.88 (379.2% of bankroll) \u00b7 3 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -142,13 +142,13 @@
   },
   {
    "label": "RECOIL",
-   "closed": 20,
+   "closed": 21,
    "wins": 12,
-   "losses": 8,
-   "win_pct": 60.0,
-   "pf": 0.67,
+   "losses": 9,
+   "win_pct": 57.1,
+   "pf": 0.63,
    "pf_inf": false,
-   "pnl": -4.61
+   "pnl": -5.54
   },
   {
    "label": "GOVERNOR",
@@ -1628,7 +1628,7 @@
   "ending_equity": -1347.32,
   "max_dd_usd": 1895.88,
   "max_dd_pct": 379.2,
-  "open_count": 2
+  "open_count": 3
  },
  "equity_line": [
   {
@@ -1651,11 +1651,11 @@
   },
   {
    "racer": "RECOIL",
-   "equity": 495.39,
+   "equity": 494.46,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
-   "dd_usd": 10.42,
-   "dd_pct": 2.1,
+   "dd_usd": 11.34,
+   "dd_pct": 2.3,
    "flagged": false
   },
   {
@@ -1687,6 +1687,24 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-22T08:10:34.975270+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "MCAT",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
+  {
+   "ts": "2026-11-22T08:10:06.027000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": -0.93,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-22T07:40:38.006093+00:00",
    "racer": "ORBIT",
@@ -1956,29 +1974,17 @@
    "reason": "rugged",
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-22T00:26:03.964769+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "STREETS",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-22T00:26:03.964720+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "BOOBILLIONS",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-22T08:10:06.027000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": -0.93,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-22T07:40:38.006093+00:00",
    "racer": "ORBIT",
@@ -2141,16 +2147,6 @@
    "kind": "exit",
    "symbol": "TAOLF",
    "pnl": -2.48,
-   "reason": "max_hold_60m",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-21T22:50:41.139683+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "GLDx",
-   "pnl": -2.88,
    "reason": "max_hold_60m",
    "stake": null,
    "suspect": false
