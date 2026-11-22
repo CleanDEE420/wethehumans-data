@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-22T07:26:46.500673+00:00",
+ "generated_at": "2026-11-22T07:31:42.648072+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-22 01:25 CST \u2014 21 new coins seen. \u00b7 51068 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-22 01:30 CST \u2014 13 new coins seen. \u00b7 51081 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-22T07:25:29.957547+00:00"
+   "detail": "journal last entry 2026-11-22T07:30:31.655288+00:00"
   },
   {
    "seat": "EQUITY",
@@ -45,7 +45,7 @@
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "403 verdicts logged \u00b7 164 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-22T07:15:18.293891+00:00"
+   "detail": "404 verdicts logged \u00b7 164 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-22T07:30:18.137774+00:00"
   }
  ],
  "crew": {
@@ -142,13 +142,13 @@
   },
   {
    "label": "RECOIL",
-   "closed": 19,
+   "closed": 20,
    "wins": 12,
-   "losses": 7,
-   "win_pct": 63.2,
-   "pf": 0.71,
+   "losses": 8,
+   "win_pct": 60.0,
+   "pf": 0.67,
    "pf_inf": false,
-   "pnl": -3.94
+   "pnl": -4.61
   },
   {
    "label": "GOVERNOR",
@@ -1651,11 +1651,11 @@
   },
   {
    "racer": "RECOIL",
-   "equity": 496.06,
+   "equity": 495.39,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
-   "dd_usd": 9.74,
-   "dd_pct": 1.9,
+   "dd_usd": 10.42,
+   "dd_pct": 2.1,
    "flagged": false
   },
   {
@@ -1687,6 +1687,14 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-22T07:30:16.007000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": -0.67,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-22T07:25:29.957547+00:00",
    "racer": "ORBIT",
@@ -1968,19 +1976,17 @@
    "reason": null,
    "stake": 25.0,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-21T23:55:47.425340+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "SLOWROAST",
-   "pnl": -2.86,
-   "reason": "max_hold_60m",
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-22T07:30:16.007000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": -0.67,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-22T07:16:51.041000+00:00",
    "racer": "RECOIL",
@@ -2145,16 +2151,6 @@
    "kind": "exit",
    "symbol": "ROCKET",
    "pnl": -2.04,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-21T22:15:44.544465+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "Mfer",
-   "pnl": 13.98,
    "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
