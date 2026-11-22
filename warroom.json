@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T22:36:37-06:00",
+ "generated_at": "2026-11-21T22:41:39-06:00",
  "season": {
   "fleet_pnl": -42.87,
   "closed_total": 499,
@@ -136,17 +136,17 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 270, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 271, no open snipes right now.",
    "stats": {
     "Closed": 401,
     "Road to 100": "401/100",
     "Record": "90W\u2013311L",
     "Win rate": "22%",
     "PnL": "$+0.00",
-    "Watching": 270,
+    "Watching": 271,
     "Open": 0,
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 43,
+    "Entries (24h)": 42,
     "Avg win": "$+2019.81",
     "Avg loss": "$-11.61",
     "Profit factor": "50.92"
@@ -160,12 +160,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab OI-1 scope patch review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab rarity batch runner review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "129/134",
-    "Reviews filed": 84,
+    "Reviews filed": 85,
     "Held in queue": 4,
-    "Latest report": "2026-11-21-storefab-oi1-scope-patch-VET.md",
+    "Latest report": "2026-11-21-storefab-rarity-batch-runner-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -219,7 +219,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "5 racers",
     "Open tasks": 74,
     "Open decisions": 0,
