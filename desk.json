@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-22T01:16:56.464230+00:00",
+ "generated_at": "2026-11-22T01:21:51.490659+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-21 19:15 CST \u2014 34 new coins seen. \u00b7 49369 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-21 19:20 CST \u2014 33 new coins seen. \u00b7 49402 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 396 entered all time \u00b7 0 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 398 entered all time \u00b7 2 open now \u00b7 5 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-22T01:15:49.564003+00:00"
+   "detail": "journal last entry 2026-11-22T01:20:45.189196+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,377.39 of $500 start \u00b7 max drawdown $1,877.39 (375.5% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,377.39 of $500 start \u00b7 max drawdown $1,877.39 (375.5% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -1628,7 +1628,7 @@
   "ending_equity": -1377.39,
   "max_dd_usd": 1877.39,
   "max_dd_pct": 375.5,
-  "open_count": 0
+  "open_count": 2
  },
  "equity_line": [
   {
@@ -1687,6 +1687,26 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-22T01:20:45.189196+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "GRAUDIA",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
+  {
+   "ts": "2026-11-22T01:20:45.189146+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "FARTMAS",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-22T00:55:44.281826+00:00",
    "racer": "ORBIT",
@@ -1965,26 +1985,6 @@
    "pnl": null,
    "reason": null,
    "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-21T21:10:46.725245+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "CI",
-   "pnl": -18.26,
-   "reason": "hard_stop_-60%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-21T21:05:52.901453+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "CLAWDIA",
-   "pnl": -25.0,
-   "reason": "rugged",
-   "stake": null,
    "suspect": false
   }
  ],
