@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T04:41:34-06:00",
+ "generated_at": "2026-11-22T04:46:35-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 507,
@@ -191,8 +191,8 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3567,
-    "Emails": 716,
+    "Shops banked": 3617,
+    "Emails": 741,
     "Streamers": 240,
     "States in the bank": 14
    },
