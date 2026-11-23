@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:46:36-06:00",
+ "generated_at": "2026-11-23T07:51:35-06:00",
  "season": {
   "fleet_pnl": -2092.58,
   "closed_total": 472,
@@ -128,10 +128,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-23-storefab-parity-mirror right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab NEXT PILE review (#106) \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "137/148",
+    "Reviews done": "138/148",
     "Reviews filed": 92,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-next-pile-VET.md",
