@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T21:16:34-06:00",
+ "generated_at": "2026-11-22T21:21:34-06:00",
  "season": {
-  "fleet_pnl": -2036.95,
-  "closed_total": 465,
-  "open_total": 4,
+  "fleet_pnl": -2036.04,
+  "closed_total": 466,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
     "Block": "Block 1",
-    "Closed": 21,
-    "Road to 100": "21/100",
-    "Record": "12W\u20139L",
-    "Win rate": "57%",
-    "PnL": "$-5.54",
-    "Open": 1,
-    "Profit factor": "0.63"
+    "Closed": 22,
+    "Road to 100": "22/100",
+    "Record": "13W\u20139L",
+    "Win rate": "59%",
+    "PnL": "$-4.63",
+    "Open": 0,
+    "Profit factor": "0.69"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -160,8 +160,8 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3994,
-    "Emails": 922,
+    "Shops banked": 4029,
+    "Emails": 939,
     "Streamers": 270,
     "States in the bank": 15
    },
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Posting the 9:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 33,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
     "Open decisions": 11,
