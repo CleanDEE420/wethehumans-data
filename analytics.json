@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-22T14:42:54",
+ "generated": "2026-11-23T12:36:00",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 53,
-   "visits7d": 45,
+   "pageviews7d": 101,
+   "visits7d": 86,
    "by_day": [
-    {
-     "date": "2026-11-16",
-     "pageviews": 9,
-     "visits": 9
-    },
     {
      "date": "2026-11-17",
      "pageviews": 13,
@@ -39,43 +34,43 @@
     },
     {
      "date": "2026-11-22",
+     "pageviews": 57,
+     "visits": 50
+    },
+    {
+     "date": "2026-11-23",
      "pageviews": 3,
      "visits": 3
     }
    ],
    "top_pages": [
     {
-     "path": "/",
-     "pageviews": 10
+     "path": "/dex-tracker/",
+     "pageviews": 49
     },
     {
-     "path": "/dex-tracker/",
-     "pageviews": 3
+     "path": "/",
+     "pageviews": 9
     },
     {
      "path": "/the-wall/",
+     "pageviews": 4
+    },
+    {
+     "path": "/cards/",
      "pageviews": 3
     },
     {
-     "path": "/home/",
+     "path": "/home-2/2016/1/7/sit-on-a-zubaton-ecdae/",
      "pageviews": 3
-    },
-    {
-     "path": "/home-2/category/interviews/",
-     "pageviews": 2
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 10,
-   "visits7d": 10,
+   "pageviews7d": 11,
+   "visits7d": 11,
    "by_day": [
-    {
-     "date": "2026-11-16",
-     "pageviews": 1,
-     "visits": 1
-    },
     {
      "date": "2026-11-17",
      "pageviews": 3,
@@ -95,25 +90,30 @@
      "date": "2026-11-21",
      "pageviews": 1,
      "visits": 1
+    },
+    {
+     "date": "2026-11-22",
+     "pageviews": 1,
+     "visits": 1
+    },
+    {
+     "date": "2026-11-23",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 10
+     "pageviews": 11
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 85,
-   "visits7d": 19,
+   "pageviews7d": 93,
+   "visits7d": 20,
    "by_day": [
-    {
-     "date": "2026-11-16",
-     "pageviews": 5,
-     "visits": 4
-    },
     {
      "date": "2026-11-17",
      "pageviews": 3,
@@ -136,18 +136,27 @@
     },
     {
      "date": "2026-11-22",
-     "pageviews": 3,
-     "visits": 3
+     "pageviews": 15,
+     "visits": 7
+    },
+    {
+     "date": "2026-11-23",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 68
+     "pageviews": 78
     },
     {
      "path": "/",
-     "pageviews": 17
+     "pageviews": 14
+    },
+    {
+     "path": "/grading/",
+     "pageviews": 1
     }
    ]
   }
