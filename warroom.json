@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:41:34-06:00",
+ "generated_at": "2026-11-23T09:51:34-06:00",
  "season": {
   "fleet_pnl": -2119.33,
   "closed_total": 478,
@@ -118,7 +118,7 @@
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "All-time": "446 closed \u00b7 96W\u2013350L \u00b7 $-2111.96",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 36
+    "Entries (24h)": 35
    },
    "demerits": [
     "Bag Holder \u00d7140"
@@ -128,10 +128,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-23-storefab-watch-disconnect-feedback right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab ASK FAB KB + GROQ OFF-KB ENGINE review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "140/149",
+    "Reviews done": "141/149",
     "Reviews filed": 94,
     "Held in queue": 4,
     "Latest report": "2026-11-23-storefab-askfab-kb-VET.md",
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
