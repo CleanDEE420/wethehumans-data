@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T04:46:34-06:00",
+ "generated_at": "2026-11-23T05:01:34-06:00",
  "season": {
   "fleet_pnl": -2067.58,
   "closed_total": 471,
@@ -118,7 +118,7 @@
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "All-time": "439 closed \u00b7 94W\u2013345L \u00b7 $-2060.21",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 32
+    "Entries (24h)": 31
    },
    "demerits": [
     "Bag Holder \u00d7137"
@@ -157,7 +157,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4681,
