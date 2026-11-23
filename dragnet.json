@@ -1,0 +1,205 @@
+{
+ "generated_at": "2026-11-23T01:43:56.148901+00:00",
+ "generated_ct": "2026-11-22 19:43 CT",
+ "totals": {
+  "records": 3976,
+  "with_email": 913,
+  "selling_on_ebay": 1438,
+  "with_socials": 1441,
+  "on_tcgplayer": 168,
+  "listings_counted": 651185,
+  "seeds_unchecked": 0
+ },
+ "states": [
+  {
+   "state": "FL",
+   "name": "Florida",
+   "records": 618,
+   "emails": 207,
+   "ebay_confirmed": 29,
+   "targets": 127,
+   "crawled": 127,
+   "status": "drag complete"
+  },
+  {
+   "state": "IL",
+   "name": "Illinois",
+   "records": 370,
+   "emails": 133,
+   "ebay_confirmed": 37,
+   "targets": 134,
+   "crawled": 134,
+   "status": "drag complete"
+  },
+  {
+   "state": "GA",
+   "name": "Georgia",
+   "records": 263,
+   "emails": 96,
+   "ebay_confirmed": 22,
+   "targets": 75,
+   "crawled": null,
+   "status": "banked"
+  },
+  {
+   "state": "TN",
+   "name": "Tennessee",
+   "records": 245,
+   "emails": 54,
+   "ebay_confirmed": 26,
+   "targets": 55,
+   "crawled": null,
+   "status": "banked"
+  },
+  {
+   "state": "OH",
+   "name": "Ohio",
+   "records": 226,
+   "emails": 75,
+   "ebay_confirmed": 19,
+   "targets": 115,
+   "crawled": 115,
+   "status": "drag complete"
+  },
+  {
+   "state": "KY",
+   "name": "Kentucky",
+   "records": 149,
+   "emails": 42,
+   "ebay_confirmed": 18,
+   "targets": 46,
+   "crawled": null,
+   "status": "banked"
+  },
+  {
+   "state": "MO",
+   "name": "Missouri",
+   "records": 142,
+   "emails": 49,
+   "ebay_confirmed": 13,
+   "targets": null,
+   "crawled": null,
+   "status": "banked"
+  },
+  {
+   "state": "AL",
+   "name": "Alabama",
+   "records": 142,
+   "emails": 36,
+   "ebay_confirmed": 8,
+   "targets": 49,
+   "crawled": 49,
+   "status": "drag complete"
+  },
+  {
+   "state": "IA",
+   "name": "Iowa",
+   "records": 136,
+   "emails": 47,
+   "ebay_confirmed": 9,
+   "targets": 38,
+   "crawled": 38,
+   "status": "drag complete"
+  },
+  {
+   "state": "AR",
+   "name": "Arkansas",
+   "records": 118,
+   "emails": 42,
+   "ebay_confirmed": 10,
+   "targets": 31,
+   "crawled": null,
+   "status": "banked"
+  },
+  {
+   "state": "KS",
+   "name": "Kansas",
+   "records": 113,
+   "emails": 48,
+   "ebay_confirmed": 10,
+   "targets": 22,
+   "crawled": 36,
+   "status": "drag complete"
+  },
+  {
+   "state": "OK",
+   "name": "Oklahoma",
+   "records": 86,
+   "emails": 32,
+   "ebay_confirmed": 5,
+   "targets": 36,
+   "crawled": null,
+   "status": "banked"
+  },
+  {
+   "state": "MS",
+   "name": "Mississippi",
+   "records": 71,
+   "emails": 14,
+   "ebay_confirmed": 5,
+   "targets": 25,
+   "crawled": 25,
+   "status": "drag complete"
+  },
+  {
+   "state": "IN",
+   "name": "Indiana",
+   "records": 70,
+   "emails": 29,
+   "ebay_confirmed": 3,
+   "targets": 5,
+   "crawled": 0,
+   "status": "drag complete"
+  },
+  {
+   "state": null,
+   "name": "Online sellers \u2014 no state",
+   "records": 1227,
+   "emails": 9,
+   "ebay_confirmed": 1224,
+   "targets": null,
+   "crawled": null,
+   "status": "seller lane \u2014 no state"
+  }
+ ],
+ "crawl": {
+  "last_completed": "Florida \u2014 drag complete; website email crawl done Nov 22",
+  "florida_crawl": {
+   "date": "2026-11-22",
+   "targets": 166,
+   "crawled_ok": 110,
+   "emails_patched": 63,
+   "crawled_no_email": 52,
+   "still_unread": 51,
+   "skipped_hubs": 19,
+   "unapproved_domain": 101,
+   "source": "RUN-dragnet-florida-crawl-2026-11-22.md"
+  },
+  "florida_records": 618,
+  "daily_drag_resumes": "Mon Nov 23, 04:37 CT",
+  "next_state": "South Carolina",
+  "next_state_gate": "waiting on the founder's word \u2014 register first, no crawl before it"
+ },
+ "verification": {
+  "verified": 832,
+  "qualifies_300plus": 404,
+  "verdicts": {
+   "qualifies": 404,
+   "below-bar": 387,
+   "inactive": 39,
+   "unresolved-identity": 2
+  },
+  "daily_cap_calls": 450,
+  "last_run_date_ct": "2026-11-22",
+  "status": "running \u2014 daily batches at the call cap; expected to finish ~Nov 24\u201325",
+  "source": "outreach-audience-verification.jsonl"
+ },
+ "outreach": {
+  "status": "held \u2014 wave 1 waits until the founder's own StoreFab scan reads clean",
+  "sends": 0
+ },
+ "sources": {
+  "bank": "~/workspace/marketing-bank/prospects.jsonl",
+  "crawl_ledgers": "~/workspace/goals/gumbyfpv-alt-facebook-brand/hidden_files/miner/dragnet-status*.json + RUN-dragnet-florida-crawl-2026-11-22.md"
+ }
+}
