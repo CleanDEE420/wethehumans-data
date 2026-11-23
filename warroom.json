@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:06:37-06:00",
+ "generated_at": "2026-11-23T09:11:35-06:00",
  "season": {
   "fleet_pnl": -2136.75,
   "closed_total": 475,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 268 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 269 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 132,
@@ -111,7 +111,7 @@
     "Win rate": "17%",
     "PnL": "$-913.29",
     "Profit factor": "0.29",
-    "Watching": 268,
+    "Watching": 269,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -132,9 +132,9 @@
    "doing": "Reviewing 2026-11-23-storefab-watch-disconnect-feedback right now.",
    "stats": {
     "Reviews done": "140/149",
-    "Reviews filed": 93,
+    "Reviews filed": 94,
     "Held in queue": 4,
-    "Latest report": "2026-11-23-storefab-charging-rail-VET.md",
+    "Latest report": "2026-11-23-storefab-askfab-kb-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
