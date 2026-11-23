@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T21:26:35-06:00",
+ "generated_at": "2026-11-22T21:31:35-06:00",
  "season": {
-  "fleet_pnl": -2036.04,
-  "closed_total": 466,
-  "open_total": 3,
+  "fleet_pnl": -2040.04,
+  "closed_total": 467,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,20 +103,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 259 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 257 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 124,
-    "Record": "22W\u2013102L",
+    "Closed": 125,
+    "Record": "22W\u2013103L",
     "Win rate": "18%",
-    "PnL": "$-811.27",
+    "PnL": "$-815.27",
     "Profit factor": "0.31",
-    "Watching": 259,
-    "Open": 2,
+    "Watching": 257,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "435 closed \u00b7 93W\u2013342L \u00b7 $-2027.36",
+    "All-time": "436 closed \u00b7 93W\u2013343L \u00b7 $-2031.36",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 36
    },
@@ -160,7 +160,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 4048,
+    "Shops banked": 4069,
     "Emails": 939,
     "Streamers": 270,
     "States in the bank": 15
