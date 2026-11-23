@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:51:43-06:00",
+ "generated_at": "2026-11-22T19:56:42-06:00",
  "season": {
   "fleet_pnl": -2012.38,
   "closed_total": 460,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 259 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 258 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 119,
@@ -111,7 +111,7 @@
     "Win rate": "18%",
     "PnL": "$-786.70",
     "Profit factor": "0.32",
-    "Watching": 259,
+    "Watching": 258,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -191,7 +191,7 @@
     "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 84,
-    "Open decisions": 0,
+    "Open decisions": 32,
     "Projects": 17
    },
    "demerits": []
@@ -314,46 +314,46 @@
    "next_gate": "First email waits on: final code reviews (finishing today) \u2192 your deploy word \u2192 a test email to your own inbox \u2192 your tap on the first batch."
   }
  ],
- "projects_as_of": "2026-11-22 07:13 PM CT",
+ "projects_as_of": "2026-11-22 07:55 PM CT",
  "waiting": [
   {
-   "title": "Mail the DC Mechanical winding-up envelope",
-   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
+   "title": "Next-pile deploy word",
+   "detail": "StoreFab pile (referrals, branded email, storefronts, story page, diagnosis fixes, v3 design) is built + green in staging. KRYPTON review #106 running (11/69 chunks at last read); Gumby vet next, then your word. Wave 1 o\u2026",
    "link": null
   },
   {
-   "title": "Update the card on GitHub billing (Belabox)",
-   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
-   "link": "https://github.com/settings/billing/payment_information"
-  },
-  {
-   "title": "Neuron book migration \u2014 one ledger for the whole Cloudflare pool (gated on KRYPTON review)",
-   "detail": "RULE ADOPTED (walk item 1, 19:26 CT) - 'no unbooked spend': every caller debits the one ledger; failed debit stops the spend; ledger never overstates. KRYPTON review VETTED: plan CANNOT proceed as written - 4 amendments\u2026",
+   "title": "Title batch canary",
+   "detail": "YGOC9-003 (Dark Blade \u2192 Ultimate Rare) \u2014 KRYPTON review #104 complete (15/15) and vetted. 1 canary write on your word, buyer-seat re-read, then the other 90 swaps. GUMBY'S CALL: Fire it \u2014 #104 is clear; my vet, then 1 wr\u2026",
    "link": null
   },
   {
-   "title": "Eyes on the physical card pile (15 parked listings + the Yubel)",
-   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'Whats this?': the 15 parked listings + the Yubel PHNI-EN073 that need YOUR eyes on the physical cards before anything is listed or delisted \u2014 which cards are actually in hand, a\u2026",
+   "title": "3-listing rarity fix",
+   "detail": "PKMND10-007, PKMNB9-010, PKMNB8-046 \u2014 live specific says Common, cards are truly Uncommon. Found by the Nov 22 diagnosis; one small fix run on your tap. GUMBY'S CALL: Run it \u2014 3 listings, one pass each, buyer-seat re-rea\u2026",
    "link": null
   },
   {
-   "title": "Add profile pic + banner to Mastodon (@CleanDEE@mastodon.social)",
-   "detail": "Item #6 (built-in profile set - picture + header + bio from the account's own vault token) is BUILT + DEPLOYED in the money-first StoreFab pile (09:31 CT Nov 13, deploy 6af72ce1). Assets staged (avatar face.jpg + header\u2026",
+   "title": "Founding 10 line in outreach email",
+   "detail": "Optional block offering the first 10 connectors their first 250 fixes free. In or out \u2014 one word settles the wave-1 drafts. GUMBY'S CALL: In \u2014 the 250 pack is already ruled; the line just says it out loud ACTION: This bo\u2026",
    "link": null
   },
   {
-   "title": "Brand pass: CleanDEE profile picture edit + page banners sized and on brand",
-   "detail": "still open \u2014 profile picture refresh + banners at the correct sizes on every CleanDEE surface, Gumby stays brand manager, nothing ships without his eyeball on the finals. Waiting on: CleanDEE.",
-   "link": "https://www.facebook.com/CleanDEEakaGumbyFPV"
-  },
-  {
-   "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
-   "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "title": "Wave-1 scope",
+   "detail": "Send to all 4 verified sellers or just The Nerd Merchant first? Asked at send time; sends wait on the pile deploy + your clean scan either way. GUMBY'S CALL: Just The Nerd Merchant first \u2014 prove the pipe on one clean sen\u2026",
    "link": null
   },
   {
-   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
-   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
+   "title": "Slogan pick",
+   "detail": "Shelf default is live in staging: \u201cA nickel a fix. A nickel a change. That's it.\u201d Two alternates on file; swappable on the shelf anytime, no deploy. GUMBY'S CALL: Candidate 1 \u2014 it's the shelf default and the plainest of\u2026",
+   "link": null
+  },
+  {
+   "title": "Helio as saved voice",
+   "detail": "Caravan notes were re-rendered in Helio after the saved \u201cDeadpan Clock\u201d voice turned out to be one you never picked. Confirm Helio locks as the default before voice.json changes. GUMBY'S CALL: Lock it in \u2014 the Caravan no\u2026",
+   "link": null
+  },
+  {
+   "title": "Charging flip",
+   "detail": "Pricing is settled ( per verified change, packs 100/ \u00b7 500/ \u00b7 1,000/). Turning charging ON is its own go \u2014 packs can run on the existing one-time Stripe key. No rush. GUMBY'S CALL: Not yet \u2014 flip it the day wave 1 sends,\u2026",
    "link": null
   }
  ]
