@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T10:26:34-06:00",
+ "generated_at": "2026-11-23T10:31:34-06:00",
  "season": {
   "fleet_pnl": -2119.33,
   "closed_total": 478,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 267, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 266, no open snipes right now.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 135,
@@ -111,7 +111,7 @@
     "Win rate": "19%",
     "PnL": "$-895.87",
     "Profit factor": "0.31",
-    "Watching": 267,
+    "Watching": 266,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -129,9 +129,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-23-storefab-charging-flip-wiring right now.",
+   "doing": "Reviewing 2026-11-23-storefab-law-pass-wiring right now.",
    "stats": {
-    "Reviews done": "141/149",
+    "Reviews done": "142/149",
     "Reviews filed": 95,
     "Held in queue": 4,
     "Latest report": "2026-11-23-storefab-watch-disconnect-feedback-VET.md",
