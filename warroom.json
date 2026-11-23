@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:51:34-06:00",
+ "generated_at": "2026-11-22T20:56:34-06:00",
  "season": {
   "fleet_pnl": -2031.29,
   "closed_total": 463,
@@ -186,11 +186,11 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the 9:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 33,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 84,
+    "Open tasks": 83,
     "Open decisions": 11,
     "Projects": 17
    },
@@ -231,7 +231,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "Combined deploy LIVE 2026-11-21 10:12 CT (6b01c2d57a7d4b60826a4a0c): wiring (13 na-* on server, no live fn calls them yet) + OI-1 patch + sidebar UI (#94/#95 vetted CLEARED). Live fix_plan NOT exercised; live-browser render owed. Store NOT\u2026"
+   "next_gate": "Next pile DEPLOYED 2026-11-22 16:14 CT (6b0363c975872d8efaafa136, placement-verified: live /app/ md5 = vetted #96 staged file; send-outreach live; test send to cleandee3@gmail.com 200, sent=1). Category batch COMPLETE 1,311/1,311 landed, 0\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -241,12 +241,12 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 10:26 CT (6afc8020, live-verified). PRODUCT DAY DONE: shop 31 -> 40 products (FH-026/028/029 x3, all PUBLIC/AVAILABLE). Ko-fi payout CONNECTED by the founder this evening \u2014 the tip jar can\u2026"
+   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 10:26 CT (6afc8020, live-verified). PRODUCT DAY DONE: shop 31 -> 40 products (FH-026/028/029 x3, all PUBLIC/AVAILABLE). Ko-fi payout CONNECTED \u2014 the bio-promo nudge was AUTHORIZED tonight (\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "STORE NOT 100% (2026-11-21 correction): the Nov 20 finish scope excluded category moves \u2014 1,312 sports singles sit in the wrong leaf. Category batch 1,311 AUTHORIZED 18:08 CT ('run them soon as you can as soon as they are vetted run them')\u2026"
+   "next_gate": "Category batch COMPLETE 1,311/1,311 landed + buyer proof 10:03 CT (5 pages). Rarity batch 607/607 landed (YGOA2-010 still lagging on the buyer page; backstop Mon Nov 23 09:00). Title canary AUTHORIZED tonight ('Fire the canary') \u2014 1 write (\u2026"
   },
   {
    "name": "wethehumans.cool",
@@ -306,15 +306,15 @@
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 4 running (46 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping stays a paper-sim offer until he answ\u2026"
+   "next_gate": "Block 4 running (122 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim AUTHORIZED tonight ('Run t\u2026"
   },
   {
    "name": "StoreFab \u2014 outreach",
    "status": "active",
-   "next_gate": "First email waits on: final code reviews (finishing today) \u2192 your deploy word \u2192 a test email to your own inbox \u2192 your tap on the first batch."
+   "next_gate": "First email waits on: the Wave-1 scope decision (all 4 vs The Nerd Merchant first \u2014 still open) \u2192 his tap on the first batch. The deploy word was given 15:27 CT and the test send landed. Charging flip AUTHORIZED but BLOCKED on the PaymentIn\u2026"
   }
  ],
- "projects_as_of": "2026-11-22 08:37 PM CT",
+ "projects_as_of": "2026-11-22 08:53 PM CT",
  "waiting": [
   {
    "title": "Next-pile deploy word",
