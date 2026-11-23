@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T21:11:34-06:00",
+ "generated_at": "2026-11-22T21:16:34-06:00",
  "season": {
-  "fleet_pnl": -2034.18,
-  "closed_total": 464,
+  "fleet_pnl": -2036.95,
+  "closed_total": 465,
   "open_total": 4,
   "milestones": [
    {
@@ -106,19 +106,19 @@
    "doing": "Holding 2 snipes and tracking 262 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 123,
-    "Record": "22W\u2013101L",
+    "Closed": 124,
+    "Record": "22W\u2013102L",
     "Win rate": "18%",
-    "PnL": "$-808.50",
+    "PnL": "$-811.27",
     "Profit factor": "0.31",
     "Watching": 262,
     "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "434 closed \u00b7 93W\u2013341L \u00b7 $-2024.59",
+    "All-time": "435 closed \u00b7 93W\u2013342L \u00b7 $-2027.36",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 35
+    "Entries (24h)": 36
    },
    "demerits": [
     "Bag Holder \u00d7136"
@@ -157,13 +157,13 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 3976,
-    "Emails": 913,
+    "Shops banked": 3994,
+    "Emails": 922,
     "Streamers": 270,
-    "States in the bank": 14
+    "States in the bank": 15
    },
    "demerits": []
   },
@@ -204,7 +204,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 09:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
