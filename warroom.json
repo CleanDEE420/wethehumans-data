@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T20:11:38-06:00",
+ "generated_at": "2026-11-22T20:16:35-06:00",
  "season": {
   "fleet_pnl": -2015.33,
   "closed_total": 461,
-  "open_total": 3,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 260 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 261 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 120,
@@ -111,14 +111,14 @@
     "Win rate": "18%",
     "PnL": "$-789.65",
     "Profit factor": "0.31",
-    "Watching": 260,
-    "Open": 2,
+    "Watching": 261,
+    "Open": 4,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "All-time": "431 closed \u00b7 92W\u2013339L \u00b7 $-2005.74",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 33
+    "Entries (24h)": 35
    },
    "demerits": [
     "Bag Holder \u00d7135"
@@ -131,7 +131,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-22-storefab-next-pile right now.",
    "stats": {
-    "Reviews done": "135/141",
+    "Reviews done": "135/142",
     "Reviews filed": 91,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-outreach-send-VET.md",
@@ -204,7 +204,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
@@ -314,7 +314,7 @@
    "next_gate": "First email waits on: final code reviews (finishing today) \u2192 your deploy word \u2192 a test email to your own inbox \u2192 your tap on the first batch."
   }
  ],
- "projects_as_of": "2026-11-22 08:05 PM CT",
+ "projects_as_of": "2026-11-22 08:12 PM CT",
  "waiting": [
   {
    "title": "Next-pile deploy word",
