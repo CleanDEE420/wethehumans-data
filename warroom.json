@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:56:34-06:00",
+ "generated_at": "2026-11-23T14:01:34-06:00",
  "season": {
   "fleet_pnl": -2153.94,
   "closed_total": 487,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 272 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 273 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 144,
@@ -111,7 +111,7 @@
     "Win rate": "19%",
     "PnL": "$-930.48",
     "Profit factor": "0.32",
-    "Watching": 272,
+    "Watching": 273,
     "Open": 3,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -129,12 +129,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab CHARGING FLIP WIRING review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab PARITY MIRROR review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "144/149",
-    "Reviews filed": 96,
+    "Reviews filed": 97,
     "Held in queue": 4,
-    "Latest report": "2026-11-23-storefab-charging-flip-wiring-VET.md",
+    "Latest report": "2026-11-23-storefab-parity-mirror-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
