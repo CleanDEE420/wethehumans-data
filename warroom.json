@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:06:38-06:00",
+ "generated_at": "2026-11-22T22:11:38-06:00",
  "season": {
   "fleet_pnl": -2037.27,
   "closed_total": 468,
@@ -157,7 +157,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4209,
@@ -191,7 +191,7 @@
     "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
-    "Open decisions": 11,
+    "Open decisions": 5,
     "Projects": 17
    },
    "demerits": []
@@ -314,38 +314,8 @@
    "next_gate": "First email waits on: the Wave-1 scope decision (all 4 vs The Nerd Merchant first \u2014 still open) \u2192 his tap on the first batch. The deploy word was given 15:27 CT and the test send landed. Charging flip AUTHORIZED but BLOCKED on the PaymentIn\u2026"
   }
  ],
- "projects_as_of": "2026-11-22 08:53 PM CT",
+ "projects_as_of": "2026-11-22 10:03 PM CT",
  "waiting": [
-  {
-   "title": "Next-pile deploy word",
-   "detail": "StoreFab pile (referrals, branded email, storefronts, story page, diagnosis fixes, v3 design) is built + green in staging. KRYPTON review #106 running (11/69 chunks at last read); Gumby vet next, then your word. Wave 1 o\u2026",
-   "link": null
-  },
-  {
-   "title": "Wave-1 scope",
-   "detail": "Send to all 4 verified sellers or just The Nerd Merchant first? Asked at send time; sends wait on the pile deploy + your clean scan either way. GUMBY'S CALL: Just The Nerd Merchant first \u2014 prove the pipe on one clean sen\u2026",
-   "link": null
-  },
-  {
-   "title": "Helio as saved voice",
-   "detail": "Caravan notes were re-rendered in Helio after the saved \u201cDeadpan Clock\u201d voice turned out to be one you never picked. Confirm Helio locks as the default before voice.json changes. GUMBY'S CALL: Lock it in \u2014 the Caravan no\u2026",
-   "link": null
-  },
-  {
-   "title": "Stay Curious deploy pile",
-   "detail": "Everything Stay Curious in one deploy, per your Nov 22 word: the Read/Watch switch + return-visit shuffle, the card-007 year fix (the one defective narration asset in the whole library \u2014 re-rendered, QA-passed, staged un\u2026",
-   "link": null
-  },
-  {
-   "title": "ForeverHumans tees FH-030 / 031 / 032",
-   "detail": "Keep-or-drop call on 3 banked tee designs from the Nov 20 walk-down. Never ruled; the designs sit in the library meanwhile. GUMBY'S CALL: Keep all 3 \u2014 selection-for-everyone is the standing rule; your favorites lead, not\u2026",
-   "link": null
-  },
-  {
-   "title": "Two small StoreFab pile calls",
-   "detail": "(1) A title that repeats the same rarity phrase twice gets only its first span swapped in the title-rarity fix \u2014 OK? (2) A few deep StoreFab surfaces still say \u201cisn't live\u201d where you ruled the wording is \u201csold or removed\u2026",
-   "link": null
-  },
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
    "detail": "Claim packets for We The Humans, StoreFab, and ForeverHumans are written copy-paste ready. The claim itself needs your Persona ID check (your hands only); Gumby stands by to place the DNS verification record the moment y\u2026",
@@ -354,6 +324,36 @@
   {
    "title": "eBay EAudit 2 Cert ID paste",
    "detail": "eBay granted the toolkit keyset (ticket 261108-000034, closed). The Cert ID (client secret) comes out of the developer portal into the vault \u2014 your hands only, never through chat. GUMBY'S CALL: Next PC sitting \u2014 2 minute\u2026",
+   "link": null
+  },
+  {
+   "title": "Vault the Gemini key",
+   "detail": "From the Nov 20 walk-down \u2014 still open, no answer. Once the key lives in the vault, the council seat stops depending on chat pastes. GUMBY'S CALL: Vault it \u2014 one paste, done War Room NEEDS register slug: gemini-vault.",
+   "link": null
+  },
+  {
+   "title": "Password vault sitting (Bitwarden)",
+   "detail": "PARKED \u2014 on the register so it is never forgotten; not urgent, and it stays parked until you call it. The pick is ruled: Bitwarden (free). When you call the sitting: install on phone + PC extension, one master password (\u2026",
+   "link": null
+  },
+  {
+   "title": "AIPI Lite flash",
+   "detail": "PARKED \u2014 on the register so it is never forgotten; not urgent, and it stays parked until you call it. Flashing the AIPI Lite as a portable push-to-talk Muse. Skipped in the Nov 18 sitting and carried forward since; PC si\u2026",
+   "link": null
+  },
+  {
+   "title": "Mail the DC Mechanical winding-up envelope",
+   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
+   "link": null
+  },
+  {
+   "title": "Update the card on GitHub billing (Belabox)",
+   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
+   "link": "https://github.com/settings/billing/payment_information"
+  },
+  {
+   "title": "Driver's license renewal",
+   "detail": "Expires Dec 16, 2026 \u2014 yours to handle (already on your list; shown here so the board carries it). (due: Dec 16, 2026)",
    "link": null
   }
  ]
