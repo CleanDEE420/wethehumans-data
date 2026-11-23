@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:22:10.852970+00:00",
+ "generated_at": "2026-11-23T01:23:20.222733+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 432 entered all time \u00b7 1 open now \u00b7 5 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 432 entered all time \u00b7 1 open now \u00b7 4 Freqtrade racers (check crew status)"
   },
   {
    "seat": "EXIT",
@@ -53,7 +53,7 @@
   "recoil": true,
   "governor": true,
   "amp": true,
-  "stacker": true
+  "stacker": false
  },
  "orbit": {
   "stats": {
@@ -63,7 +63,9 @@
    "win_pct": 21.4,
    "pf": 0.48,
    "pf_inf": false,
-   "pnl": -2002.79
+   "pnl": -2002.79,
+   "start": 500.0,
+   "now_worth": -1502.79
   },
   "blocks": [
    {
@@ -75,7 +77,9 @@
     "losses": 67,
     "pnl": -491.05,
     "pf": 0.57,
-    "final": true
+    "final": true,
+    "start": 500.0,
+    "now_worth": 8.95
    },
    {
     "no": 2,
@@ -86,7 +90,9 @@
     "losses": 81,
     "pnl": -470.63,
     "pf": 0.44,
-    "final": true
+    "final": true,
+    "start": 500.0,
+    "now_worth": 29.37
    },
    {
     "no": 3,
@@ -97,7 +103,9 @@
     "losses": 84,
     "pnl": -248.02,
     "pf": 0.59,
-    "final": true
+    "final": true,
+    "start": 500.0,
+    "now_worth": 251.98
    },
    {
     "no": 4,
@@ -108,7 +116,9 @@
     "losses": 98,
     "pnl": -786.7,
     "pf": 0.32,
-    "final": false
+    "final": false,
+    "start": 500.0,
+    "now_worth": -286.7
    }
   ],
   "quarantine": [
@@ -132,6 +142,10 @@
  "racers": [
   {
    "label": "VECTOR",
+   "key": "trend",
+   "block_no": 1,
+   "start": 500.0,
+   "now_worth": 479.5,
    "closed": 29,
    "wins": 4,
    "losses": 25,
@@ -142,6 +156,10 @@
   },
   {
    "label": "RECOIL",
+   "key": "dip",
+   "block_no": 1,
+   "start": 500.0,
+   "now_worth": 494.46,
    "closed": 21,
    "wins": 12,
    "losses": 9,
@@ -152,6 +170,10 @@
   },
   {
    "label": "GOVERNOR",
+   "key": "regime",
+   "block_no": 1,
+   "start": 500.0,
+   "now_worth": 499.57,
    "closed": 3,
    "wins": 2,
    "losses": 1,
@@ -162,6 +184,10 @@
   },
   {
    "label": "AMP",
+   "key": "chatter",
+   "block_no": 1,
+   "start": 500.0,
+   "now_worth": 496.38,
    "closed": 6,
    "wins": 2,
    "losses": 4,
@@ -169,16 +195,22 @@
    "pf": 0.2,
    "pf_inf": false,
    "pnl": -3.62
-  },
+  }
+ ],
+ "retired": [
   {
    "label": "STACKER",
+   "key": "stacker",
+   "retired_on": "2026-11-20",
    "closed": 42,
    "wins": 9,
    "losses": 33,
    "win_pct": 21.4,
    "pf": 0.17,
    "pf_inf": false,
-   "pnl": -14.95
+   "pnl": -14.95,
+   "start": 500.0,
+   "now_worth": 485.05
   }
  ],
  "equity_curve": [
