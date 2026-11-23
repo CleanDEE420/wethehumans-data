@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:26:35-06:00",
+ "generated_at": "2026-11-23T06:31:38-06:00",
  "season": {
   "fleet_pnl": -2092.58,
   "closed_total": 472,
@@ -121,7 +121,7 @@
     "Entries (24h)": 32
    },
    "demerits": [
-    "Bag Holder \u00d7137"
+    "Bag Holder \u00d7138"
    ]
   },
   {
@@ -131,7 +131,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-23-storefab-parity-mirror right now.",
    "stats": {
-    "Reviews done": "137/145",
+    "Reviews done": "137/146",
     "Reviews filed": 92,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-next-pile-VET.md",
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Scheduling today's approved batches \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
