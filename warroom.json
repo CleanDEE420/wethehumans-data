@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:21:40-06:00",
+ "generated_at": "2026-11-23T00:26:46-06:00",
  "season": {
   "fleet_pnl": -2035.96,
   "closed_total": 469,
@@ -128,10 +128,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-22-storefab-next-pile right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab outreach send function review \u2014 Gumby vet (FINAL, overdue wake).",
    "stats": {
-    "Reviews done": "135/142",
+    "Reviews done": "136/142",
     "Reviews filed": 91,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-outreach-send-VET.md",
@@ -160,7 +160,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 4590,
+    "Shops banked": 4639,
     "Emails": 970,
     "Streamers": 270,
     "States in the bank": 16
