@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:46:36-06:00",
+ "generated_at": "2026-11-23T12:51:34-06:00",
  "season": {
   "fleet_pnl": -2151.14,
   "closed_total": 486,
@@ -118,7 +118,7 @@
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "All-time": "454 closed \u00b7 99W\u2013355L \u00b7 $-2143.77",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 41
+    "Entries (24h)": 40
    },
    "demerits": [
     "Bag Holder \u00d7142"
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 31,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
