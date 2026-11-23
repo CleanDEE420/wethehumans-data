@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:31:35-06:00",
+ "generated_at": "2026-11-22T21:36:34-06:00",
  "season": {
   "fleet_pnl": -2040.04,
   "closed_total": 467,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 257 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 258 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 125,
@@ -111,7 +111,7 @@
     "Win rate": "18%",
     "PnL": "$-815.27",
     "Profit factor": "0.31",
-    "Watching": 257,
+    "Watching": 258,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -160,7 +160,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 4069,
+    "Shops banked": 4085,
     "Emails": 939,
     "Streamers": 270,
     "States in the bank": 15
@@ -186,9 +186,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the 9:00 PM profile post \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 33,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
     "Open decisions": 11,
