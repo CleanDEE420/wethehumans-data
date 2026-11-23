@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T22:31:40-06:00",
+ "generated_at": "2026-11-22T22:41:39-06:00",
  "season": {
-  "fleet_pnl": -2037.27,
-  "closed_total": 468,
-  "open_total": 1,
+  "fleet_pnl": -2035.96,
+  "closed_total": 469,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -85,16 +85,16 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
     "Block": "Block 1",
-    "Closed": 6,
-    "Road to 100": "6/100",
-    "Record": "2W\u20134L",
-    "Win rate": "33%",
-    "PnL": "$-3.62",
-    "Open": 1,
-    "Profit factor": "0.20"
+    "Closed": 7,
+    "Road to 100": "7/100",
+    "Record": "3W\u20134L",
+    "Win rate": "43%",
+    "PnL": "$-2.31",
+    "Open": 0,
+    "Profit factor": "0.49"
    },
    "demerits": []
   },
