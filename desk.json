@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-23T01:23:20.222733+00:00",
+ "generated_at": "2026-11-23T01:27:15.763509+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-22 19:20 CST \u2014 40 new coins seen. \u00b7 57672 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-22 19:25 CST \u2014 39 new coins seen. \u00b7 57711 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-23T01:20:54.750991+00:00"
+   "detail": "journal last entry 2026-11-23T01:25:46.452182+00:00"
   },
   {
    "seat": "EQUITY",
@@ -143,6 +143,7 @@
   {
    "label": "VECTOR",
    "key": "trend",
+   "crew": "vector",
    "block_no": 1,
    "start": 500.0,
    "now_worth": 479.5,
@@ -157,6 +158,7 @@
   {
    "label": "RECOIL",
    "key": "dip",
+   "crew": "recoil",
    "block_no": 1,
    "start": 500.0,
    "now_worth": 494.46,
@@ -171,6 +173,7 @@
   {
    "label": "GOVERNOR",
    "key": "regime",
+   "crew": "governor",
    "block_no": 1,
    "start": 500.0,
    "now_worth": 499.57,
@@ -185,6 +188,7 @@
   {
    "label": "AMP",
    "key": "chatter",
+   "crew": "amp",
    "block_no": 1,
    "start": 500.0,
    "now_worth": 496.38,
