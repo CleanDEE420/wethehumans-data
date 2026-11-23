@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T06:16:37-06:00",
+ "generated_at": "2026-11-23T06:21:34-06:00",
  "season": {
   "fleet_pnl": -2067.58,
   "closed_total": 471,
@@ -131,7 +131,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-23-storefab-parity-mirror right now.",
    "stats": {
-    "Reviews done": "137/143",
+    "Reviews done": "137/144",
     "Reviews filed": 92,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-next-pile-VET.md",
@@ -186,9 +186,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Drafting today's batches \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 33,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 5,
