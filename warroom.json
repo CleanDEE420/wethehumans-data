@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T11:01:36-06:00",
+ "generated_at": "2026-11-23T11:06:34-06:00",
  "season": {
-  "fleet_pnl": -2119.33,
-  "closed_total": 478,
-  "open_total": 1,
+  "fleet_pnl": -2131.05,
+  "closed_total": 479,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,22 +103,22 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 266 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 266, no open snipes right now.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 135,
-    "Record": "25W\u2013110L",
-    "Win rate": "19%",
-    "PnL": "$-895.87",
+    "Closed": 136,
+    "Record": "25W\u2013111L",
+    "Win rate": "18%",
+    "PnL": "$-907.59",
     "Profit factor": "0.31",
     "Watching": 266,
-    "Open": 1,
+    "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "446 closed \u00b7 96W\u2013350L \u00b7 $-2111.96",
+    "All-time": "447 closed \u00b7 96W\u2013351L \u00b7 $-2123.68",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 35
+    "Entries (24h)": 34
    },
    "demerits": [
     "Bag Holder \u00d7140"
