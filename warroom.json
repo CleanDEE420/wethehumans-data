@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T05:31:36-06:00",
+ "generated_at": "2026-11-23T05:36:39-06:00",
  "season": {
   "fleet_pnl": -2067.58,
   "closed_total": 471,
@@ -231,7 +231,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "Next pile: HOLD \u2014 founder ruling 2026-11-22 22:03 CT: 'wait for everything before it deploys and make sure its right \u2014 Ill recan tommrow.' Ahead of it: KRYPTON #106 review (running) -> Gumby vet (+ the 2 founder pile addenda: title-rarity f\u2026"
+   "next_gate": "Next pile: HOLD \u2014 founder ruling 2026-11-22 22:03 CT: 'wait for everything before it deploys and make sure its right \u2014 Ill recan tommrow.' KRYPTON #106 review of the assembled pile DONE 69/69 (ALL.done 00:21 CT Nov 23, post-deploy check) \u2014\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -246,7 +246,7 @@
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked (last 6 trimmed per founder ruling 21:54 CT). Rarity-3 fix COMPLETE 3/3. Category 1,311/1,311 landed + buyer proof done. Rarity batch closed 632 accounted (612 written, 11 left as-is by his\u2026"
+   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked (last 6 trimmed per founder ruling 21:54 CT). Rarity-3 fix: 3/3 writes landed + bind-checked; 2/3 buyer-verified, PKMNB8-046 buyer-lagging (public-index lag), delayed re-read owed. Category\u2026"
   },
   {
    "name": "wethehumans.cool",
@@ -296,17 +296,17 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "DEPLOY IN FLIGHT \u2014 founder conditional word 21:57 CT + 'ASAP' escalation 22:23 CT: ships automatically when the catch-up completes (art for cards 434-444, this week's shorts QA'd + shelved incl. 437, manifest all-ready, analytics in the pil\u2026"
+   "next_gate": "DEPLOYED 2026-11-22 ~23:5x CT (6b03d497) \u2014 catch-up complete, analytics already LIVE (answers his 'Does it have analytics yet?'). Audio backfill LIVE (244 entries, deploy 6afc98a9); 17 unrendered cards 252-268 BUILD-fated to the next voice\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: Gumby's vet \u2014 dead-man's switch review (DONE, ALL.done, Nov 15 run) + nightly drip.js review (DONE 10/10) + the 12 older ALL.done runs + nightly 2026-11-21-rarity.js (not in the queue) + 4 older complete runs without VET files (\u2026"
+   "next_gate": "waiting on: Gumby's vet \u2014 #106 next-pile (DONE 69/69, ALL.done 00:21 CT, queued 00:22 CT) + dead-man's switch review (DONE, ALL.done, Nov 15 run) + nightly drip.js review (DONE 10/10) + the 12 older ALL.done runs + nightly 2026-11-21-rarity\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 4 running (122 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim AUTHORIZED tonight ('Run t\u2026"
+   "next_gate": "Block 4 running (128 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim AUTHORIZED tonight ('Run t\u2026"
   },
   {
    "name": "StoreFab \u2014 outreach",
@@ -314,7 +314,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready (The Nerd Merchant, Baseball Card Connection, Athlon Authentics, Neuhart Cards \u2014 all re-verified 300+ live). Sends wait on: the StoreFab next-pile deploy (HOLD \u2014 his re-scan M\u2026"
   }
  ],
- "projects_as_of": "2026-11-23 12:30 AM CT",
+ "projects_as_of": "2026-11-23 05:26 AM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
