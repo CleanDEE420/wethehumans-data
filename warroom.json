@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T22:41:39-06:00",
+ "generated_at": "2026-11-22T22:46:37-06:00",
  "season": {
   "fleet_pnl": -2035.96,
   "closed_total": 469,
@@ -190,7 +190,7 @@
    "stats": {
     "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 83,
+    "Open tasks": 86,
     "Open decisions": 5,
     "Projects": 17
    },
@@ -231,7 +231,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "Next pile DEPLOYED 2026-11-22 16:14 CT (6b0363c975872d8efaafa136, placement-verified: live /app/ md5 = vetted #96 staged file; send-outreach live; test send to cleandee3@gmail.com 200, sent=1). Category batch COMPLETE 1,311/1,311 landed, 0\u2026"
+   "next_gate": "Next pile: HOLD \u2014 founder ruling 2026-11-22 22:03 CT: 'wait for everything before it deploys and make sure its right \u2014 Ill recan tommrow.' Ahead of it: KRYPTON #106 review (running) -> Gumby vet (+ the 2 founder pile addenda: title-rarity f\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -241,22 +241,22 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 10:26 CT (6afc8020, live-verified). PRODUCT DAY DONE: shop 31 -> 40 products (FH-026/028/029 x3, all PUBLIC/AVAILABLE). Ko-fi payout CONNECTED \u2014 the bio-promo nudge was AUTHORIZED tonight (\u2026"
+   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 (6afc8020, live-verified). Timer pile: founder ruled 'Keep holding' 2026-11-22 21:57 CT \u2014 stays held. FH-030/031/032: founder ruled 'Keep all 3' 21:57 CT \u2014 closed, all stay in the library.\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Category batch COMPLETE 1,311/1,311 landed + buyer proof 10:03 CT (5 pages). Rarity batch 607/607 landed (YGOA2-010 still lagging on the buyer page; backstop Mon Nov 23 09:00). Title canary AUTHORIZED tonight ('Fire the canary') \u2014 1 write (\u2026"
+   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked (last 6 trimmed per founder ruling 21:54 CT). Rarity-3 fix COMPLETE 3/3. Category 1,311/1,311 landed + buyer proof done. Rarity batch closed 632 accounted (612 written, 11 left as-is by his\u2026"
   },
   {
    "name": "wethehumans.cool",
    "status": "live",
-   "next_gate": "Graffiti pass DEPLOYED 2026-11-17 10:30 CT (6afc8026, live-verified). SC reels SCHEDULED: 7 reels, 1/day 7:30 PM CT, Sun Nov 22 \u2013 Sat Nov 28, on the WTH FB Page. eximioushuman.com zone ACTIVE (nameserver swap COMPLETE 17:07 CT); SC analytic\u2026"
+   "next_gate": "LONG-FORM LANE (new 2026-11-22): batch 1 READY \u2014 5 chapter-depth pieces, 6,706 words, Helio narrations QA-passed, banked at ~/workspace/long-form-lane/. Section rename 'Guides & Know-How' + redesigned hub (5 shelves, working search, listen\u2026"
   },
   {
    "name": "Facebook + Reels machine",
    "status": "active",
-   "next_gate": "You \u2014 okay the daily draft each morning the words are left in the box where I reply. But the page is Gumbys Stage"
+   "next_gate": "Machine \u2014 daily slots run; FB reel slate continues 1/day 19:30 CT; IG hands-off until his word (reel leg starts Wed Nov 25 when the ease-in ends, if the schedules didn't already land); week-2 reel slate prep is Gumby-side."
   },
   {
    "name": "Pinterest engine",
@@ -296,7 +296,7 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Audio backfill LIVE (244 entries, deploy 6afc98a9); the 17 unrendered cards 252-268 are BUILD-fated to the next voice render batch; 'The Night Shift' narration in the house voice as the audiobook proof before any per-chapter habit; SC decis\u2026"
+   "next_gate": "DEPLOY IN FLIGHT \u2014 founder conditional word 21:57 CT + 'ASAP' escalation 22:23 CT: ships automatically when the catch-up completes (art for cards 434-444, this week's shorts QA'd + shelved incl. 437, manifest all-ready, analytics in the pil\u2026"
   },
   {
    "name": "The Line",
@@ -311,10 +311,10 @@
   {
    "name": "StoreFab \u2014 outreach",
    "status": "active",
-   "next_gate": "First email waits on: the Wave-1 scope decision (all 4 vs The Nerd Merchant first \u2014 still open) \u2192 his tap on the first batch. The deploy word was given 15:27 CT and the test send landed. Charging flip AUTHORIZED but BLOCKED on the PaymentIn\u2026"
+   "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready (The Nerd Merchant, Baseball Card Connection, Athlon Authentics, Neuhart Cards \u2014 all re-verified 300+ live). Sends wait on: the StoreFab next-pile deploy (HOLD \u2014 his re-scan M\u2026"
   }
  ],
- "projects_as_of": "2026-11-22 10:03 PM CT",
+ "projects_as_of": "2026-11-22 10:41 PM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
