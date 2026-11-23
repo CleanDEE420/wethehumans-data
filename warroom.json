@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:01:40-06:00",
+ "generated_at": "2026-11-23T09:06:37-06:00",
  "season": {
   "fleet_pnl": -2136.75,
   "closed_total": 475,
@@ -121,15 +121,15 @@
     "Entries (24h)": 34
    },
    "demerits": [
-    "Bag Holder \u00d7139"
+    "Bag Holder \u00d7140"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab CHARGING RAIL review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-23-storefab-watch-disconnect-feedback right now.",
    "stats": {
     "Reviews done": "140/149",
     "Reviews filed": 93,
