@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:36:34-06:00",
+ "generated_at": "2026-11-22T20:41:35-06:00",
  "season": {
   "fleet_pnl": -2031.29,
   "closed_total": 463,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 260 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 261 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 122,
@@ -111,7 +111,7 @@
     "Win rate": "18%",
     "PnL": "$-805.61",
     "Profit factor": "0.32",
-    "Watching": 260,
+    "Watching": 261,
     "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -191,7 +191,7 @@
     "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 84,
-    "Open decisions": 30,
+    "Open decisions": 13,
     "Projects": 17
    },
    "demerits": []
@@ -314,26 +314,11 @@
    "next_gate": "First email waits on: final code reviews (finishing today) \u2192 your deploy word \u2192 a test email to your own inbox \u2192 your tap on the first batch."
   }
  ],
- "projects_as_of": "2026-11-22 08:18 PM CT",
+ "projects_as_of": "2026-11-22 08:36 PM CT",
  "waiting": [
   {
    "title": "Next-pile deploy word",
    "detail": "StoreFab pile (referrals, branded email, storefronts, story page, diagnosis fixes, v3 design) is built + green in staging. KRYPTON review #106 running (11/69 chunks at last read); Gumby vet next, then your word. Wave 1 o\u2026",
-   "link": null
-  },
-  {
-   "title": "Title batch canary",
-   "detail": "YGOC9-003 (Dark Blade \u2192 Ultimate Rare) \u2014 KRYPTON review #104 complete (15/15) and vetted. 1 canary write on your word, buyer-seat re-read, then the other 90 swaps. GUMBY'S CALL: Fire it \u2014 #104 is clear; my vet, then 1 wr\u2026",
-   "link": null
-  },
-  {
-   "title": "3-listing rarity fix",
-   "detail": "PKMND10-007, PKMNB9-010, PKMNB8-046 \u2014 live specific says Common, cards are truly Uncommon. Found by the Nov 22 diagnosis; one small fix run on your tap. GUMBY'S CALL: Run it \u2014 3 listings, one pass each, buyer-seat re-rea\u2026",
-   "link": null
-  },
-  {
-   "title": "Founding 10 line in outreach email",
-   "detail": "Optional block offering the first 10 connectors their first 250 fixes free. In or out \u2014 one word settles the wave-1 drafts. GUMBY'S CALL: In \u2014 the 250 pack is already ruled; the line just says it out loud ACTION: This bo\u2026",
    "link": null
   },
   {
@@ -342,18 +327,33 @@
    "link": null
   },
   {
-   "title": "Slogan pick",
-   "detail": "Shelf default is live in staging: \u201cA nickel a fix. A nickel a change. That's it.\u201d Two alternates on file; swappable on the shelf anytime, no deploy. GUMBY'S CALL: Candidate 1 \u2014 it's the shelf default and the plainest of\u2026",
-   "link": null
-  },
-  {
    "title": "Helio as saved voice",
    "detail": "Caravan notes were re-rendered in Helio after the saved \u201cDeadpan Clock\u201d voice turned out to be one you never picked. Confirm Helio locks as the default before voice.json changes. GUMBY'S CALL: Lock it in \u2014 the Caravan no\u2026",
    "link": null
   },
   {
-   "title": "Charging flip",
-   "detail": "Pricing is settled ( per verified change, packs 100/ \u00b7 500/ \u00b7 1,000/). Turning charging ON is its own go \u2014 packs can run on the existing one-time Stripe key. No rush. GUMBY'S CALL: Not yet \u2014 flip it the day wave 1 sends,\u2026",
+   "title": "Stay Curious deploy pile",
+   "detail": "Everything Stay Curious in one deploy, per your Nov 22 word: the Read/Watch switch + return-visit shuffle, the card-007 year fix (the one defective narration asset in the whole library \u2014 re-rendered, QA-passed, staged un\u2026",
+   "link": null
+  },
+  {
+   "title": "ForeverHumans tees FH-030 / 031 / 032",
+   "detail": "Keep-or-drop call on 3 banked tee designs from the Nov 20 walk-down. Never ruled; the designs sit in the library meanwhile. GUMBY'S CALL: Keep all 3 \u2014 selection-for-everyone is the standing rule; your favorites lead, not\u2026",
+   "link": null
+  },
+  {
+   "title": "Two small StoreFab pile calls",
+   "detail": "(1) A title that repeats the same rarity phrase twice gets only its first span swapped in the title-rarity fix \u2014 OK? (2) A few deep StoreFab surfaces still say \u201cisn't live\u201d where you ruled the wording is \u201csold or removed\u2026",
+   "link": null
+  },
+  {
+   "title": "ChatGPT Business Hub claims (3 brands)",
+   "detail": "Claim packets for We The Humans, StoreFab, and ForeverHumans are written copy-paste ready. The claim itself needs your Persona ID check (your hands only); Gumby stands by to place the DNS verification record the moment y\u2026",
+   "link": null
+  },
+  {
+   "title": "eBay EAudit 2 Cert ID paste",
+   "detail": "eBay granted the toolkit keyset (ticket 261108-000034, closed). The Cert ID (client secret) comes out of the developer portal into the vault \u2014 your hands only, never through chat. GUMBY'S CALL: Next PC sitting \u2014 2 minute\u2026",
    "link": null
   }
  ]
