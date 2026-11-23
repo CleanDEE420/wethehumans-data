@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:06:34-06:00",
+ "generated_at": "2026-11-23T13:16:34-06:00",
  "season": {
   "fleet_pnl": -2153.94,
   "closed_total": 487,
@@ -186,9 +186,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the 1:00 PM profile post \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 33,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
@@ -204,7 +204,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 12:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 01:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
