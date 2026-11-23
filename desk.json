@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:42:14.627649+00:00",
+ "generated_at": "2026-11-23T01:44:23.023242+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
@@ -137,7 +137,9 @@
     "symbol": "ORE",
     "pnl": 182037.18
    }
-  ]
+  ],
+  "open": 1,
+  "watching": 259
  },
  "racers": [
   {
@@ -147,6 +149,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 494.46,
+   "open": 0,
+   "last_close": "2026-11-22T08:10:06.027000+00:00",
+   "last_activity": "2026-11-22T08:10:06.027000+00:00",
    "closed": 21,
    "wins": 12,
    "losses": 9,
@@ -162,6 +167,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 499.57,
+   "open": 0,
+   "last_close": "2026-11-20T21:49:26.093000+00:00",
+   "last_activity": "2026-11-20T21:49:26.093000+00:00",
    "closed": 3,
    "wins": 2,
    "losses": 1,
@@ -177,6 +185,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 496.38,
+   "open": 1,
+   "last_close": "2026-11-20T23:35:16.023000+00:00",
+   "last_activity": "2026-11-22T22:35:02.237478+00:00",
    "closed": 6,
    "wins": 2,
    "losses": 4,
@@ -198,6 +209,9 @@
    "pf": 0.18,
    "pf_inf": false,
    "pnl": -20.5,
+   "open": 0,
+   "last_close": "2026-11-20T14:45:11.024000+00:00",
+   "last_activity": "2026-11-20T14:45:11.024000+00:00",
    "start": 500.0,
    "now_worth": 479.5
   },
@@ -212,6 +226,9 @@
    "pf": 0.17,
    "pf_inf": false,
    "pnl": -14.95,
+   "open": 3,
+   "last_close": "2026-11-20T22:37:16.131000+00:00",
+   "last_activity": "2026-11-21T01:15:02.663699+00:00",
    "start": 500.0,
    "now_worth": 485.05
   }
