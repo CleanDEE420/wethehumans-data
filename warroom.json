@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T08:41:35-06:00",
+ "generated_at": "2026-11-23T08:46:37-06:00",
  "season": {
-  "fleet_pnl": -2092.58,
-  "closed_total": 472,
-  "open_total": 3,
+  "fleet_pnl": -2117.58,
+  "closed_total": 473,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,25 +103,25 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 268 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 268 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 129,
-    "Record": "23W\u2013106L",
+    "Closed": 130,
+    "Record": "23W\u2013107L",
     "Win rate": "18%",
-    "PnL": "$-869.12",
+    "PnL": "$-894.12",
     "Profit factor": "0.30",
     "Watching": 268,
-    "Open": 3,
+    "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "440 closed \u00b7 94W\u2013346L \u00b7 $-2085.21",
+    "All-time": "441 closed \u00b7 94W\u2013347L \u00b7 $-2110.21",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 33
    },
    "demerits": [
-    "Bag Holder \u00d7138"
+    "Bag Holder \u00d7139"
    ]
   },
   {
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 31,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
