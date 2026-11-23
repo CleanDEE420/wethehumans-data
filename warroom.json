@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T19:31:45-06:00",
+ "generated_at": "2026-11-22T19:33:50-06:00",
  "season": {
-  "fleet_pnl": -2032.88,
-  "closed_total": 489,
+  "fleet_pnl": -2012.38,
+  "closed_total": 460,
   "open_total": 2,
   "milestones": [
    {
@@ -42,26 +42,6 @@
   "as_of": "2026-11-15 05:37 CST"
  },
  "crew": [
-  {
-   "id": "vector",
-   "name": "VECTOR",
-   "role": "Trend follower",
-   "alive": false,
-   "doing": "Down \u2014 last trade on his book closed Nov 20, 8:45 AM CT. Nothing since, and no restart is coming on its own.",
-   "stats": {
-    "Block": "Block 1",
-    "Closed": 29,
-    "Road to 100": "29/100",
-    "Record": "4W\u201325L",
-    "Win rate": "14%",
-    "PnL": "$-20.50",
-    "Open": 0,
-    "Profit factor": "0.18"
-   },
-   "demerits": [
-    "Dead Air"
-   ]
-  },
   {
    "id": "recoil",
    "name": "RECOIL",
@@ -163,7 +143,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-21 22:37 CT (run 14, nightly stacker): 7 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-21 22:37 CT (run 14, nightly stacker)",
@@ -208,8 +188,8 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
-    "Crew reporting in": "4 racers + ORBIT",
+    "Jobs tracked on the board": 31,
+    "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 84,
     "Open decisions": 0,
     "Projects": 17
