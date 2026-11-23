@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T15:36:41-06:00",
+ "generated_at": "2026-11-23T15:41:42-06:00",
  "season": {
-  "fleet_pnl": -2202.54,
-  "closed_total": 493,
-  "open_total": 3,
+  "fleet_pnl": -2209.16,
+  "closed_total": 494,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,20 +103,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 276 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 275 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 150,
-    "Record": "28W\u2013122L",
+    "Closed": 151,
+    "Record": "28W\u2013123L",
     "Win rate": "19%",
-    "PnL": "$-979.08",
+    "PnL": "$-985.70",
     "Profit factor": "0.31",
-    "Watching": 276,
-    "Open": 3,
+    "Watching": 275,
+    "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "461 closed \u00b7 99W\u2013362L \u00b7 $-2195.17",
+    "All-time": "462 closed \u00b7 99W\u2013363L \u00b7 $-2201.79",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 46
    },
@@ -186,9 +186,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the midday pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 31,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
