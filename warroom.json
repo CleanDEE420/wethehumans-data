@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T19:56:42-06:00",
+ "generated_at": "2026-11-22T20:01:46-06:00",
  "season": {
-  "fleet_pnl": -2012.38,
-  "closed_total": 460,
+  "fleet_pnl": -2015.33,
+  "closed_total": 461,
   "open_total": 2,
   "milestones": [
    {
@@ -106,19 +106,19 @@
    "doing": "Holding 1 snipe and tracking 258 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 119,
-    "Record": "21W\u201398L",
+    "Closed": 120,
+    "Record": "21W\u201399L",
     "Win rate": "18%",
-    "PnL": "$-786.70",
-    "Profit factor": "0.32",
+    "PnL": "$-789.65",
+    "Profit factor": "0.31",
     "Watching": 258,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "430 closed \u00b7 92W\u2013338L \u00b7 $-2002.79",
+    "All-time": "431 closed \u00b7 92W\u2013339L \u00b7 $-2005.74",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 32
+    "Entries (24h)": 33
    },
    "demerits": [
     "Bag Holder \u00d7135"
@@ -186,9 +186,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the evening pins \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 84,
     "Open decisions": 32,
