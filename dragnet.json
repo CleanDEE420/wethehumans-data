@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-23T03:54:21.422083+00:00",
- "generated_ct": "2026-11-22 21:54 CT",
+ "generated_at": "2026-11-23T06:35:23.955466+00:00",
+ "generated_ct": "2026-11-23 00:35 CT",
  "totals": {
-  "records": 4209,
+  "records": 4681,
   "with_email": 970,
-  "selling_on_ebay": 1446,
-  "with_socials": 1546,
-  "on_tcgplayer": 177,
-  "listings_counted": 656193,
+  "selling_on_ebay": 1473,
+  "with_socials": 1639,
+  "on_tcgplayer": 190,
+  "listings_counted": 687111,
   "seeds_unchecked": 0
  },
  "states": [
@@ -19,6 +19,16 @@
    "ebay_confirmed": 29,
    "targets": 127,
    "crawled": 127,
+   "status": "drag complete"
+  },
+  {
+   "state": "NC",
+   "name": "North Carolina",
+   "records": 472,
+   "emails": 0,
+   "ebay_confirmed": 27,
+   "targets": 190,
+   "crawled": 190,
    "status": "drag complete"
   },
   {
@@ -173,7 +183,7 @@
   }
  ],
  "crawl": {
-  "last_completed": "South Carolina \u2014 drag complete; website email crawl pending its sitting (6 shops queued)",
+  "last_completed": "North Carolina \u2014 drag complete; website email crawl pending its sitting (301 shops queued, ruled together with South Carolina's 6)",
   "florida_crawl": {
    "date": "2026-11-22",
    "targets": 166,
@@ -194,21 +204,29 @@
    "pending_allow": 6,
    "source": "RUN-dragnet-sc-wide.md"
   },
-  "daily_drag_resumes": "Mon Nov 23, 04:37 CT",
-  "next_state": "North Carolina",
-  "next_state_gate": "waiting on the founder's word \u2014 register first, no crawl before it"
+  "north_carolina_wide": {
+   "date": "2026-11-23",
+   "records": 472,
+   "emails": 0,
+   "ebay_confirmed": 27,
+   "pending_allow": 301,
+   "source": "RUN-dragnet-nc-wide.md"
+  },
+  "daily_drag_resumes": "Tue Nov 24, 04:37 CT",
+  "next_state": "\u2014",
+  "next_state_gate": "waiting on the founder's word \u2014 no next state named in the ring after North Carolina"
  },
  "verification": {
-  "verified": 832,
-  "qualifies_300plus": 404,
+  "verified": 1065,
+  "qualifies_300plus": 520,
   "verdicts": {
-   "qualifies": 404,
-   "below-bar": 387,
-   "inactive": 39,
-   "unresolved-identity": 2
+   "qualifies": 520,
+   "below-bar": 493,
+   "inactive": 49,
+   "unresolved-identity": 3
   },
-  "daily_cap_calls": 450,
-  "last_run_date_ct": "2026-11-22",
+  "daily_cap_calls": 385,
+  "last_run_date_ct": "2026-11-23",
   "status": "running \u2014 daily batches at the call cap; expected to finish ~Nov 24\u201325",
   "source": "outreach-audience-verification.jsonl"
  },
