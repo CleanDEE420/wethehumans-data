@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:16:38-06:00",
+ "generated_at": "2026-11-23T07:21:38-06:00",
  "season": {
   "fleet_pnl": -2092.58,
   "closed_total": 472,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 268, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 267, no open snipes right now.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 129,
@@ -111,7 +111,7 @@
     "Win rate": "18%",
     "PnL": "$-869.12",
     "Profit factor": "0.30",
-    "Watching": 268,
+    "Watching": 267,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -131,7 +131,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-23-storefab-parity-mirror right now.",
    "stats": {
-    "Reviews done": "137/147",
+    "Reviews done": "137/148",
     "Reviews filed": 92,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-next-pile-VET.md",
