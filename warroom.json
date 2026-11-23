@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T00:51:36-06:00",
+ "generated_at": "2026-11-23T00:56:37-06:00",
  "season": {
-  "fleet_pnl": -2035.96,
-  "closed_total": 469,
-  "open_total": 1,
+  "fleet_pnl": -2042.58,
+  "closed_total": 470,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,20 +103,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 271 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 270, no open snipes right now.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 126,
-    "Record": "23W\u2013103L",
+    "Closed": 127,
+    "Record": "23W\u2013104L",
     "Win rate": "18%",
-    "PnL": "$-812.50",
-    "Profit factor": "0.32",
-    "Watching": 271,
-    "Open": 1,
+    "PnL": "$-819.12",
+    "Profit factor": "0.31",
+    "Watching": 270,
+    "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "437 closed \u00b7 94W\u2013343L \u00b7 $-2028.59",
+    "All-time": "438 closed \u00b7 94W\u2013344L \u00b7 $-2035.21",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 37
    },
@@ -157,7 +157,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4442,
