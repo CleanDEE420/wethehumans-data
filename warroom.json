@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T21:21:34-06:00",
+ "generated_at": "2026-11-22T21:26:35-06:00",
  "season": {
   "fleet_pnl": -2036.04,
   "closed_total": 466,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 262 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 259 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 124,
@@ -111,7 +111,7 @@
     "Win rate": "18%",
     "PnL": "$-811.27",
     "Profit factor": "0.31",
-    "Watching": 262,
+    "Watching": 259,
     "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -160,7 +160,7 @@
    "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 4029,
+    "Shops banked": 4048,
     "Emails": 939,
     "Streamers": 270,
     "States in the bank": 15
