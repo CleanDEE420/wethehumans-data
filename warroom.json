@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:41:35-06:00",
+ "generated_at": "2026-11-22T20:46:34-06:00",
  "season": {
   "fleet_pnl": -2031.29,
   "closed_total": 463,
@@ -191,7 +191,7 @@
     "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 84,
-    "Open decisions": 13,
+    "Open decisions": 11,
     "Projects": 17
    },
    "demerits": []
@@ -224,7 +224,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "44 posted of 84 cards \u2014 40 fresh on the bench"
+   "value": "44 posted of 85 cards \u2014 41 fresh on the bench"
   }
  ],
  "projects": [
@@ -314,7 +314,7 @@
    "next_gate": "First email waits on: final code reviews (finishing today) \u2192 your deploy word \u2192 a test email to your own inbox \u2192 your tap on the first batch."
   }
  ],
- "projects_as_of": "2026-11-22 08:36 PM CT",
+ "projects_as_of": "2026-11-22 08:37 PM CT",
  "waiting": [
   {
    "title": "Next-pile deploy word",
