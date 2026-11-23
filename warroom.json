@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T07:41:39-06:00",
+ "generated_at": "2026-11-23T07:46:36-06:00",
  "season": {
   "fleet_pnl": -2092.58,
   "closed_total": 472,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 268, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 267, no open snipes right now.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 129,
@@ -111,7 +111,7 @@
     "Win rate": "18%",
     "PnL": "$-869.12",
     "Profit factor": "0.30",
-    "Watching": 268,
+    "Watching": 267,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -186,9 +186,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning quotes \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
@@ -224,7 +224,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "44 posted of 85 cards \u2014 41 fresh on the bench"
+   "value": "45 posted of 85 cards \u2014 40 fresh on the bench"
   }
  ],
  "projects": [
