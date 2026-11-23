@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:56:37-06:00",
+ "generated_at": "2026-11-23T01:01:44-06:00",
  "season": {
   "fleet_pnl": -2042.58,
   "closed_total": 470,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 270, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 268, no open snipes right now.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 127,
@@ -111,7 +111,7 @@
     "Win rate": "18%",
     "PnL": "$-819.12",
     "Profit factor": "0.31",
-    "Watching": 270,
+    "Watching": 268,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -128,10 +128,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-22-board-council-audit right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab outreach send function review \u2014 Gumby vet (FINAL, overdue wake).",
    "stats": {
-    "Reviews done": "136/142",
+    "Reviews done": "137/142",
     "Reviews filed": 91,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-outreach-send-VET.md",
