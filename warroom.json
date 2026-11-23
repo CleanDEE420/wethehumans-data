@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T13:16:34-06:00",
+ "generated_at": "2026-11-23T13:21:34-06:00",
  "season": {
   "fleet_pnl": -2153.94,
   "closed_total": 487,
@@ -128,10 +128,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-23-storefab-pass-sequence right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab CHARGING FLIP WIRING review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "143/149",
+    "Reviews done": "144/149",
     "Reviews filed": 96,
     "Held in queue": 4,
     "Latest report": "2026-11-23-storefab-charging-flip-wiring-VET.md",
