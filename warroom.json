@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-22T19:21:50-06:00",
+ "generated_at": "2026-11-22T19:24:56-06:00",
  "season": {
-  "fleet_pnl": -45.04,
-  "closed_total": 531,
-  "open_total": 5,
+  "fleet_pnl": -2032.88,
+  "closed_total": 489,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,8 +47,9 @@
    "name": "VECTOR",
    "role": "Trend follower",
    "alive": false,
-   "doing": "Down right now \u2014 the 5-minute pit check sends his restart.",
+   "doing": "Down \u2014 last trade on his book closed Nov 20, 8:45 AM CT. Nothing since, and no restart is coming on its own.",
    "stats": {
+    "Block": "Block 1",
     "Closed": 29,
     "Road to 100": "29/100",
     "Record": "4W\u201325L",
@@ -68,6 +69,7 @@
    "alive": true,
    "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
+    "Block": "Block 1",
     "Closed": 21,
     "Road to 100": "21/100",
     "Record": "12W\u20139L",
@@ -87,6 +89,7 @@
    "alive": true,
    "doing": "Reading the market weather before picking a play \u2014 no trade yet",
    "stats": {
+    "Block": "Block 1",
     "Closed": 3,
     "Road to 100": "3/100",
     "Record": "2W\u20131L",
@@ -104,6 +107,7 @@
    "alive": true,
    "doing": "Holding 1 open trade and watching the market.",
    "stats": {
+    "Block": "Block 1",
     "Closed": 6,
     "Road to 100": "6/100",
     "Record": "2W\u20134L",
@@ -115,41 +119,26 @@
    "demerits": []
   },
   {
-   "id": "stacker",
-   "name": "STACKER",
-   "role": "Quick-wins stacker",
-   "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
-   "stats": {
-    "Closed": 42,
-    "Road to 100": "42/100",
-    "Record": "9W\u201333L",
-    "Win rate": "21%",
-    "PnL": "$-14.95",
-    "Open": 3,
-    "Profit factor": "0.17"
-   },
-   "demerits": []
-  },
-  {
    "id": "orbit",
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 259 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 258 fresh Solana launches.",
    "stats": {
-    "Closed": 430,
-    "Road to 100": "430/100",
-    "Record": "92W\u2013338L",
-    "Win rate": "21%",
-    "PnL": "$+0.00",
-    "Watching": 259,
+    "Block": "Block 4 \u00b7 current",
+    "Closed": 119,
+    "Record": "21W\u201398L",
+    "Win rate": "18%",
+    "PnL": "$-786.70",
+    "Profit factor": "0.32",
+    "Watching": 258,
     "Open": 1,
+    "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
+    "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
+    "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
+    "All-time": "430 closed \u00b7 92W\u2013338L \u00b7 $-2002.79",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 34,
-    "Avg win": "$+1977.02",
-    "Avg loss": "$-11.33",
-    "Profit factor": "48.02"
+    "Entries (24h)": 34
    },
    "demerits": [
     "Bag Holder \u00d7135"
@@ -174,7 +163,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-21 22:37 CT (run 14, nightly stacker): 7 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-21 22:37 CT (run 14, nightly stacker)",
@@ -220,7 +209,7 @@
    "doing": "Waking the drip \u2014 ",
    "stats": {
     "Jobs tracked on the board": 32,
-    "Crew reporting in": "5 racers",
+    "Crew reporting in": "4 racers + ORBIT",
     "Open tasks": 84,
     "Open decisions": 0,
     "Projects": 17
