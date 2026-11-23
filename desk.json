@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-23T02:42:05.334694+00:00",
+ "generated_at": "2026-11-23T02:47:00.982867+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-22 20:40 CST \u2014 29 new coins seen. \u00b7 58274 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-22 20:45 CST \u2014 29 new coins seen. \u00b7 58303 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-23T02:40:44.455973+00:00"
+   "detail": "journal last entry 2026-11-23T02:45:43.645238+00:00"
   },
   {
    "seat": "EQUITY",
@@ -149,9 +149,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 494.46,
-   "open": 0,
+   "open": 1,
    "last_close": "2026-11-22T08:10:06.027000+00:00",
-   "last_activity": "2026-11-22T08:10:06.027000+00:00",
+   "last_activity": "2026-11-23T02:45:01.906083+00:00",
    "closed": 21,
    "wins": 12,
    "losses": 9,
@@ -1740,6 +1740,14 @@
  ],
  "flow": [
   {
+   "ts": "2026-11-23T02:45:01.906083+00:00",
+   "racer": "RECOIL",
+   "kind": "enter",
+   "symbol": "ETH/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
    "ts": "2026-11-23T02:25:55.666126+00:00",
    "racer": "ORBIT",
    "kind": "exit",
@@ -2022,16 +2030,6 @@
    "racer": "ORBIT",
    "kind": "enter",
    "symbol": "BTC",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-22T22:20:52.927743+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "COPIUM",
    "pnl": null,
    "reason": null,
    "stake": 25.0,
