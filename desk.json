@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T01:31:57.140236+00:00",
+ "generated_at": "2026-11-23T01:33:15.623378+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 432 entered all time \u00b7 1 open now \u00b7 4 Freqtrade racers (check crew status)"
+   "detail": "ORBIT paper \u00b7 432 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -141,21 +141,6 @@
  },
  "racers": [
   {
-   "label": "VECTOR",
-   "key": "trend",
-   "crew": "vector",
-   "block_no": 1,
-   "start": 500.0,
-   "now_worth": 479.5,
-   "closed": 29,
-   "wins": 4,
-   "losses": 25,
-   "win_pct": 13.8,
-   "pf": 0.18,
-   "pf_inf": false,
-   "pnl": -20.5
-  },
-  {
    "label": "RECOIL",
    "key": "dip",
    "crew": "recoil",
@@ -202,6 +187,20 @@
   }
  ],
  "retired": [
+  {
+   "label": "VECTOR",
+   "key": "trend",
+   "retired_on": "2026-11-20",
+   "closed": 29,
+   "wins": 4,
+   "losses": 25,
+   "win_pct": 13.8,
+   "pf": 0.18,
+   "pf_inf": false,
+   "pnl": -20.5,
+   "start": 500.0,
+   "now_worth": 479.5
+  },
   {
    "label": "STACKER",
    "key": "stacker",
