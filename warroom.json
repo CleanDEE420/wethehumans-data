@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T20:01:46-06:00",
+ "generated_at": "2026-11-22T20:06:39-06:00",
  "season": {
   "fleet_pnl": -2015.33,
   "closed_total": 461,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 258 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 259 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 120,
@@ -111,14 +111,14 @@
     "Win rate": "18%",
     "PnL": "$-789.65",
     "Profit factor": "0.31",
-    "Watching": 258,
+    "Watching": 259,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "All-time": "431 closed \u00b7 92W\u2013339L \u00b7 $-2005.74",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 33
+    "Entries (24h)": 32
    },
    "demerits": [
     "Bag Holder \u00d7135"
@@ -157,7 +157,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 3976,
@@ -191,7 +191,7 @@
     "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 84,
-    "Open decisions": 32,
+    "Open decisions": 35,
     "Projects": 17
    },
    "demerits": []
@@ -314,7 +314,7 @@
    "next_gate": "First email waits on: final code reviews (finishing today) \u2192 your deploy word \u2192 a test email to your own inbox \u2192 your tap on the first batch."
   }
  ],
- "projects_as_of": "2026-11-22 07:55 PM CT",
+ "projects_as_of": "2026-11-22 08:04 PM CT",
  "waiting": [
   {
    "title": "Next-pile deploy word",
