@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-23T04:32:04.269377+00:00",
+ "generated_at": "2026-11-23T04:36:53.358277+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-22 22:30 CST \u2014 25 new coins seen. \u00b7 58945 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-22 22:35 CST \u2014 34 new coins seen. \u00b7 58979 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-23T04:30:41.121512+00:00"
+   "detail": "journal last entry 2026-11-23T04:35:44.629421+00:00"
   },
   {
    "seat": "EQUITY",
@@ -184,17 +184,17 @@
    "crew": "amp",
    "block_no": 1,
    "start": 500.0,
-   "now_worth": 496.38,
-   "open": 1,
-   "last_close": "2026-11-20T23:35:16.023000+00:00",
-   "last_activity": "2026-11-22T22:35:02.237478+00:00",
-   "closed": 6,
-   "wins": 2,
+   "now_worth": 497.69,
+   "open": 0,
+   "last_close": "2026-11-23T04:35:06.333000+00:00",
+   "last_activity": "2026-11-23T04:35:06.333000+00:00",
+   "closed": 7,
+   "wins": 3,
    "losses": 4,
-   "win_pct": 33.3,
-   "pf": 0.2,
+   "win_pct": 42.9,
+   "pf": 0.49,
    "pf_inf": false,
-   "pnl": -3.62
+   "pnl": -2.31
   }
  ],
  "retired": [
@@ -1721,11 +1721,11 @@
   },
   {
    "racer": "AMP",
-   "equity": 496.38,
+   "equity": 497.69,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-chatter.runtime.json",
-   "dd_usd": 3.98,
-   "dd_pct": 0.8,
+   "dd_usd": 2.67,
+   "dd_pct": 0.5,
    "flagged": false
   },
   {
@@ -1739,6 +1739,14 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-23T04:35:06.333000+00:00",
+   "racer": "AMP",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 1.31,
+   "reason": "max_hold_6h"
+  },
   {
    "ts": "2026-11-23T03:35:46.317491+00:00",
    "racer": "ORBIT",
@@ -2024,19 +2032,17 @@
    "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-22T23:25:37.814311+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "COPIUM",
-   "pnl": 28.25,
-   "reason": "max_hold_60m",
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-23T04:35:06.333000+00:00",
+   "racer": "AMP",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 1.31,
+   "reason": "max_hold_6h"
+  },
   {
    "ts": "2026-11-23T03:35:46.317491+00:00",
    "racer": "ORBIT",
@@ -2202,16 +2208,6 @@
    "symbol": "FSDV15",
    "pnl": -2.89,
    "reason": "max_hold_60m",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-22T22:55:47.977935+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "BTC",
-   "pnl": -19.67,
-   "reason": "hard_stop_-60%",
    "stake": null,
    "suspect": false
   }
