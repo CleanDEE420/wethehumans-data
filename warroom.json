@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T19:01:40-06:00",
+ "generated_at": "2026-11-22T19:16:44-06:00",
  "season": {
   "fleet_pnl": -45.04,
   "closed_total": 531,
@@ -222,7 +222,7 @@
     "Jobs tracked on the board": 32,
     "Crew reporting in": "5 racers",
     "Open tasks": 84,
-    "Open decisions": 1,
+    "Open decisions": 0,
     "Projects": 17
    },
    "demerits": []
@@ -235,7 +235,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
@@ -345,13 +345,8 @@
    "next_gate": "First email waits on: final code reviews (finishing today) \u2192 your deploy word \u2192 a test email to your own inbox \u2192 your tap on the first batch."
   }
  ],
- "projects_as_of": "2026-11-22 02:20 PM CT",
+ "projects_as_of": "2026-11-22 07:13 PM CT",
  "waiting": [
-  {
-   "title": "Profile slot 21:00 (Sat Nov 21) failed \u2014 publish now or skip?",
-   "detail": "Tonight's 9:00 PM profile post (\"Sports cards don't get auto-priced. Ever.\") never landed: the first post-create session disappeared ~20:57 CT, then 4 retries over ~50 min were all blocked by the connector with 'an equiv\u2026",
-   "link": null
-  },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
@@ -385,6 +380,11 @@
   {
    "title": "YouTube upload connection \u2014 Google Cloud OAuth route",
    "detail": "ANSWER (audit 2026-11-11 05:30 CT) \u2014 your 'How we do this next': the longer route \u2014 your Google Cloud project + OAuth client first (your taps in Cloud Console); client id/secret go through the Secure Vault, never chat. U\u2026",
+   "link": null
+  },
+  {
+   "title": "Figure out a referral reward \u2014 free StoreFab shirt at N signups",
+   "detail": "FOUNDER IDEA 2026-11-07 ~13:10: reward sharing \u2014 a seller who brings in a number of signups earns a free StoreFab shirt. TO FIGURE OUT: (1) the number (N signups \u2014 his call); (2) what counts as a signup (account created?\u2026",
    "link": null
   }
  ]
