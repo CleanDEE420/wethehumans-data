@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T06:21:34-06:00",
+ "generated_at": "2026-11-23T06:26:35-06:00",
  "season": {
-  "fleet_pnl": -2067.58,
-  "closed_total": 471,
-  "open_total": 1,
+  "fleet_pnl": -2092.58,
+  "closed_total": 472,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,20 +103,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 270 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 269, no open snipes right now.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 128,
-    "Record": "23W\u2013105L",
+    "Closed": 129,
+    "Record": "23W\u2013106L",
     "Win rate": "18%",
-    "PnL": "$-844.12",
-    "Profit factor": "0.31",
-    "Watching": 270,
-    "Open": 1,
+    "PnL": "$-869.12",
+    "Profit factor": "0.30",
+    "Watching": 269,
+    "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "439 closed \u00b7 94W\u2013345L \u00b7 $-2060.21",
+    "All-time": "440 closed \u00b7 94W\u2013346L \u00b7 $-2085.21",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 32
    },
@@ -131,7 +131,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-23-storefab-parity-mirror right now.",
    "stats": {
-    "Reviews done": "137/144",
+    "Reviews done": "137/145",
     "Reviews filed": 92,
     "Held in queue": 4,
     "Latest report": "2026-11-22-storefab-next-pile-VET.md",
@@ -186,12 +186,12 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Scheduling today's approved batches \u2014 ",
    "stats": {
     "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
-    "Open decisions": 5,
+    "Open decisions": 6,
     "Projects": 17
    },
    "demerits": []
@@ -314,7 +314,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready (The Nerd Merchant, Baseball Card Connection, Athlon Authentics, Neuhart Cards \u2014 all re-verified 300+ live). Sends wait on: the StoreFab next-pile deploy (HOLD \u2014 his re-scan M\u2026"
   }
  ],
- "projects_as_of": "2026-11-23 05:26 AM CT",
+ "projects_as_of": "2026-11-23 06:25 AM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
@@ -342,6 +342,11 @@
    "link": null
   },
   {
+   "title": "DRAGNET: rule the SC + NC pending-allow sitting?",
+   "detail": "One ruling covers both states, staged per your Nov 22 22:08 order \u2014 no per-domain cards. South Carolina sitting: 6 shops, 6 domains. North Carolina sitting: 301 records, 283 domains (Section A: 21 domains of eBay-confirm\u2026",
+   "link": null
+  },
+  {
    "title": "Mail the DC Mechanical winding-up envelope",
    "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
    "link": null
@@ -350,11 +355,6 @@
    "title": "Update the card on GitHub billing (Belabox)",
    "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
    "link": "https://github.com/settings/billing/payment_information"
-  },
-  {
-   "title": "Driver's license renewal",
-   "detail": "Expires Dec 16, 2026 \u2014 yours to handle (already on your list; shown here so the board carries it). (due: Dec 16, 2026)",
-   "link": null
   }
  ]
 }
