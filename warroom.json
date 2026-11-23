@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T12:16:35-06:00",
+ "generated_at": "2026-11-23T12:21:34-06:00",
  "season": {
   "fleet_pnl": -2165.89,
   "closed_total": 485,
@@ -121,15 +121,15 @@
     "Entries (24h)": 42
    },
    "demerits": [
-    "Bag Holder \u00d7141"
+    "Bag Holder \u00d7142"
    ]
   },
   {
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab CHARGING FLIP WIRING review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-23-storefab-law-pass-wiring right now.",
    "stats": {
     "Reviews done": "142/149",
     "Reviews filed": 96,
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 31,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
