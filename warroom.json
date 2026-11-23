@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T09:56:34-06:00",
+ "generated_at": "2026-11-23T10:01:35-06:00",
  "season": {
   "fleet_pnl": -2119.33,
   "closed_total": 478,
@@ -132,9 +132,9 @@
    "doing": "Reviewing 2026-11-23-storefab-charging-flip-wiring right now.",
    "stats": {
     "Reviews done": "141/149",
-    "Reviews filed": 94,
+    "Reviews filed": 95,
     "Held in queue": 4,
-    "Latest report": "2026-11-23-storefab-askfab-kb-VET.md",
+    "Latest report": "2026-11-23-storefab-watch-disconnect-feedback-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 31,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
