@@ -1,13 +1,13 @@
 {
- "generated_at": "2026-11-23T01:44:40.629220+00:00",
- "generated_ct": "2026-11-22 19:44 CT",
+ "generated_at": "2026-11-23T03:54:21.422083+00:00",
+ "generated_ct": "2026-11-22 21:54 CT",
  "totals": {
-  "records": 3976,
-  "with_email": 913,
-  "selling_on_ebay": 1438,
-  "with_socials": 1441,
-  "on_tcgplayer": 168,
-  "listings_counted": 651185,
+  "records": 4209,
+  "with_email": 970,
+  "selling_on_ebay": 1446,
+  "with_socials": 1546,
+  "on_tcgplayer": 177,
+  "listings_counted": 656193,
   "seeds_unchecked": 0
  },
  "states": [
@@ -50,6 +50,16 @@
    "targets": 55,
    "crawled": null,
    "status": "banked"
+  },
+  {
+   "state": "SC",
+   "name": "South Carolina",
+   "records": 233,
+   "emails": 57,
+   "ebay_confirmed": 8,
+   "targets": 113,
+   "crawled": 113,
+   "status": "drag complete"
   },
   {
    "state": "OH",
@@ -163,7 +173,7 @@
   }
  ],
  "crawl": {
-  "last_completed": "Florida \u2014 drag complete; website email crawl done Nov 22",
+  "last_completed": "South Carolina \u2014 drag complete; website email crawl pending its sitting (6 shops queued)",
   "florida_crawl": {
    "date": "2026-11-22",
    "targets": 166,
@@ -176,8 +186,16 @@
    "source": "RUN-dragnet-florida-crawl-2026-11-22.md"
   },
   "florida_records": 618,
+  "south_carolina_wide": {
+   "date": "2026-11-23",
+   "records": 233,
+   "emails": 57,
+   "ebay_confirmed": 8,
+   "pending_allow": 6,
+   "source": "RUN-dragnet-sc-wide.md"
+  },
   "daily_drag_resumes": "Mon Nov 23, 04:37 CT",
-  "next_state": "South Carolina",
+  "next_state": "North Carolina",
   "next_state_gate": "waiting on the founder's word \u2014 register first, no crawl before it"
  },
  "verification": {
