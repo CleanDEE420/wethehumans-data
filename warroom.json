@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T09:33:53-06:00",
+ "generated_at": "2026-11-24T09:38:54-06:00",
  "season": {
   "fleet_pnl": -2232.39,
   "closed_total": 530,
-  "open_total": 2,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,7 +47,7 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 25,
@@ -55,7 +55,7 @@
     "Record": "16W\u20139L",
     "Win rate": "64%",
     "PnL": "$-2.60",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "0.83"
    },
    "demerits": [
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 270 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 271 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 184,
@@ -111,7 +111,7 @@
     "Win rate": "22%",
     "PnL": "$-1010.96",
     "Profit factor": "0.39",
-    "Watching": 270,
+    "Watching": 271,
     "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
