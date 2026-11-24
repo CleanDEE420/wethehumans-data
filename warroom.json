@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:11:41-06:00",
+ "generated_at": "2026-11-24T06:16:41-06:00",
  "season": {
   "fleet_pnl": -2214.77,
   "closed_total": 527,
@@ -128,10 +128,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 batch_full.py.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-24-toolkit-ebay-auth-endpoints right now.",
    "stats": {
-    "Reviews done": "149/154",
+    "Reviews done": "149/155",
     "Reviews filed": 99,
     "Held in queue": 4,
     "Latest report": "2026-11-24-batch_full.py.md",
@@ -204,7 +204,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
