@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T16:28:53-06:00",
+ "generated_at": "2026-11-24T16:33:53-06:00",
  "season": {
   "fleet_pnl": -2314.67,
   "closed_total": 540,
-  "open_total": 0,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 288, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 291 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 9,
@@ -111,8 +111,8 @@
     "Win rate": "11%",
     "PnL": "$-83.17",
     "Profit factor": "0.08",
-    "Watching": 288,
-    "Open": 0,
+    "Watching": 291,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
@@ -129,8 +129,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 batch_full.py.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-24-storefab-card-facts-wiring right now.",
    "stats": {
     "Reviews done": "153/159",
     "Reviews filed": 99,
