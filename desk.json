@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T15:39:19.690378+00:00",
+ "generated_at": "2026-11-24T15:41:46.775779+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
@@ -30,7 +30,7 @@
   {
    "seat": "EXIT",
    "status": "live",
-   "detail": "trail arms at +5% peak, \u22125% drop \u00b7 double-out at 2\u00d7 \u00b7 \u221260% hard stop \u00b7 60-min max hold \u00b7 rug exit under $2K mcap"
+   "detail": "trail arms at +5% peak, \u22125% drop \u00b7 un-armed floor \u221240% \u00b7 double-out at 2\u00d7 \u00b7 \u221260% hard stop \u00b7 60-min max hold \u00b7 rug exit under $2K mcap \u00b7 entry gate: concentration / creator / rugcheck"
   },
   {
    "seat": "LOGGER",
@@ -110,15 +110,28 @@
    {
     "no": 4,
     "lo": 313,
+    "hi": 412,
+    "n": 100,
+    "wins": 19,
+    "losses": 81,
+    "pnl": -686.47,
+    "pf": 0.31,
+    "final": true,
+    "start": 500.0,
+    "now_worth": -186.47
+   },
+   {
+    "no": 5,
+    "lo": 497,
     "hi": 496,
-    "n": 184,
-    "wins": 40,
-    "losses": 144,
-    "pnl": -1010.96,
-    "pf": 0.39,
+    "n": 0,
+    "wins": 0,
+    "losses": 0,
+    "pnl": 0.0,
+    "pf": null,
     "final": false,
     "start": 500.0,
-    "now_worth": -510.96
+    "now_worth": 500.0
    }
   ],
   "quarantine": [
@@ -129,6 +142,14 @@
     "wins": 2,
     "losses": 5,
     "pnl": 25.22
+   },
+   {
+    "lo": 413,
+    "hi": 496,
+    "n": 84,
+    "wins": 21,
+    "losses": 63,
+    "pnl": -324.49
    }
   ],
   "suspects": [
