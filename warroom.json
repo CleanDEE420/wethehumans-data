@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T06:31:42-06:00",
+ "generated_at": "2026-11-24T06:36:42-06:00",
  "season": {
   "fleet_pnl": -2214.77,
   "closed_total": 527,
@@ -128,8 +128,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 batch_full.py.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-24-dccommand-trading-title-mode right now.",
    "stats": {
     "Reviews done": "150/156",
     "Reviews filed": 99,
@@ -190,7 +190,7 @@
    "stats": {
     "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 96,
+    "Open tasks": 97,
     "Open decisions": 10,
     "Projects": 17
    },
@@ -314,7 +314,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of the overnight sweep: pile deployed + charging armed (Nov 23 21:31 CT) -> his hosted scan RAN (verdict: scanner wrong, store clean) -> scanner fix in KRYPTON\u2026"
   }
  ],
- "projects_as_of": "2026-11-24 06:29 AM CT",
+ "projects_as_of": "2026-11-24 06:32 AM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
