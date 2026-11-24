@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-11-23 06:40 CST",
- "generated_date": "2026-11-23",
+ "generated_at": "2026-11-24 05:40 CST",
+ "generated_date": "2026-11-24",
  "ebay": {
   "listings_live": 8319,
   "store_dex_species": 731,
-  "as_of": "2026-11-23"
+  "as_of": "2026-11-24"
  },
  "site": {
-  "pages": 234,
+  "pages": 263,
   "quotes_cards": 84,
   "office_feed": 24,
   "projects_cards": 15,
   "fb_posts_shelf": 6,
-  "as_of": "2026-11-23"
+  "as_of": "2026-11-24"
  },
  "pinterest": {
   "followers": 4953,
-  "monthly_views": 28984,
-  "pins": 7653,
-  "boards": 21,
-  "as_of": "2026-11-23"
+  "monthly_views": 29080,
+  "pins": 7681,
+  "boards": 23,
+  "as_of": "2026-11-24"
  },
  "youtube": {
   "subscribers": 148,
-  "views": 104736,
+  "views": 104739,
   "videos": 85,
-  "as_of": "2026-11-23"
+  "as_of": "2026-11-24"
  },
  "pinterest_pack": {
-  "engine_pins_total": 334,
+  "engine_pins_total": 351,
   "image_posted": 30,
   "image_total": 30,
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "video_posted": 12,
   "video_total": 12
  },
@@ -51,7 +51,7 @@
    "orders": 31,
    "gross": 170.95
   },
-  "as_of": "2026-11-23"
+  "as_of": "2026-11-24"
  },
  "inspiration_lines": 2243,
  "manual": {
@@ -132,5 +132,7 @@
   "shop_url": "https://foreverhumans-shop.fourthwall.com/",
   "site_status": "site-v2 LIVE at foreverhumans.com (deployed + domain verified Oct 29)"
  },
- "warnings": []
+ "warnings": [
+  "bluesky read failed — carried last known"
+ ]
 }
