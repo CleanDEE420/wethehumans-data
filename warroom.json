@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:56:41-06:00",
+ "generated_at": "2026-11-23T20:01:42-06:00",
  "season": {
   "fleet_pnl": -2217.29,
   "closed_total": 514,
@@ -128,10 +128,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-23-storefab-snapshot-gate-cap right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab PARITY MIRROR review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "144/151",
+    "Reviews done": "145/151",
     "Reviews filed": 97,
     "Held in queue": 4,
     "Latest report": "2026-11-23-storefab-parity-mirror-VET.md",
