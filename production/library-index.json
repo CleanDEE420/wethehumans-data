@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-23",
- "count": 683,
+ "generated": "2026-11-24",
+ "count": 752,
  "items": [
   {
    "kind": "card",
@@ -5442,7 +5442,7 @@
    "num": "334",
    "title": "The AI in Your Thermostat Thinks on the Spot",
    "topic": "wonder",
-   "state": null,
+   "state": "BANKED",
    "date": "2026-11-19",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-19-card334-wonder-fixed.mp4"
   },
@@ -5452,7 +5452,7 @@
    "num": "335",
    "title": "You Remember the First and the Last \u2014 the Middle Slips Away",
    "topic": "wonder",
-   "state": null,
+   "state": "BANKED",
    "date": "2026-11-19",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-19-card335-wonder-fixed.mp4"
   },
@@ -5482,7 +5482,7 @@
    "num": "381",
    "title": "MYTH-BUST: The Dunning-Kruger Effect Isn't Quite What the Posters Say",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-20",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-20-card381-wonder.mp4"
   },
@@ -5492,7 +5492,7 @@
    "num": "407",
    "title": "A Single Workout Can Lock In What You Just Learned",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card407-wonder.mp4"
   },
@@ -5502,7 +5502,7 @@
    "num": "406",
    "title": "Meditation Really Does Sharpen Attention \u2014 163 Studies Say So",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card406-wonder.mp4"
   },
@@ -5512,7 +5512,7 @@
    "num": "405",
    "title": "You Can Teach Your iPhone a Word It Has Never Heard",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card405-wonder.mp4"
   },
@@ -5522,7 +5522,7 @@
    "num": "404",
    "title": "Your Phone Can Teach Apple Without Ever Showing It Your Data",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card404-wonder.mp4"
   },
@@ -5532,7 +5532,7 @@
    "num": "401",
    "title": "The Smallest Country on Earth Fits Inside a City Park",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card401-wonder.mp4"
   },
@@ -5542,7 +5542,7 @@
    "num": "400",
    "title": "Your Keyboard's Origin Story Is Still Argued About",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card400-wonder.mp4"
   },
@@ -5552,7 +5552,7 @@
    "num": "399",
    "title": "The Blueprint Was Born as a Photograph Made by Sunlight",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card399-wonder.mp4"
   },
@@ -5562,7 +5562,7 @@
    "num": "398",
    "title": "The Fossil Hunter History Forgot \u2014 Until It Couldn't",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card398-wonder.mp4"
   },
@@ -5572,7 +5572,7 @@
    "num": "397",
    "title": "The Race Nobody Can Finish \u2014 On Paper",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card397-wonder.mp4"
   },
@@ -5582,7 +5582,7 @@
    "num": "396",
    "title": "Your Phone Battery Ages Because Its Insides Keep Changing",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card396-wonder.mp4"
   },
@@ -5592,7 +5592,7 @@
    "num": "432",
    "title": "The Eight-Hour Day Started as a Pay Raise",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card432-wonder.mp4"
   },
@@ -5602,7 +5602,7 @@
    "num": "430",
    "title": "A Moth Grounded a Computer \u2014 and a Word Took Off",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card430-wonder.mp4"
   },
@@ -5612,7 +5612,7 @@
    "num": "429",
    "title": "Five Lives, One Switch. What Would You Do?",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card429-wonder.mp4"
   },
@@ -5622,7 +5622,7 @@
    "num": "422",
    "title": "Your Calendar Is About Six Hours Short Every Year",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card422-wonder.mp4"
   },
@@ -5632,7 +5632,7 @@
    "num": "421",
    "title": "A Prism Doesn't Paint the Rainbow. It Sorts It.",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card421-wonder.mp4"
   },
@@ -5642,7 +5642,7 @@
    "num": "420",
    "title": "Your Headphones Fight Noise With Anti-Noise",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "BANKED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card420-wonder.mp4"
   },
@@ -5652,7 +5652,7 @@
    "num": "419",
    "title": "Tall Buildings Fight the Wind With a Giant Swinging Weight",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card419-wonder.mp4"
   },
@@ -5662,7 +5662,7 @@
    "num": "418",
    "title": "Your Phone Knows Where You Are Because Space Has Atomic Clocks",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card418-wonder.mp4"
   },
@@ -5672,7 +5672,7 @@
    "num": "416",
    "title": "A Cactus Is a Water Tank With a Night Shift",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card416-wonder.mp4"
   },
@@ -5682,7 +5682,7 @@
    "num": "413",
    "title": "The Far Side of the Moon Is the Quietest Place We Know",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card413-wonder.mp4"
   },
@@ -5692,7 +5692,7 @@
    "num": "412",
    "title": "Your Front Door Can Make You Need to Pee",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card412-wonder.mp4"
   },
@@ -5702,7 +5702,7 @@
    "num": "411",
    "title": "A Sneeze Is a Whole-Body Reset Button",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "BANKED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card411-wonder.mp4"
   },
@@ -5712,7 +5712,7 @@
    "num": "410",
    "title": "A Seal Hunts in the Dark by Feeling the Water Move",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card410-wonder.mp4"
   },
@@ -5722,7 +5722,7 @@
    "num": "409",
    "title": "A Termite Mound Breathes Once a Day",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card409-wonder.mp4"
   },
@@ -5732,7 +5732,7 @@
    "num": "408",
    "title": "Your Fridge Hums in Shifts \u2014 the Thermostat Is the Boss",
    "topic": "practical",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card408-practical.mp4"
   },
@@ -5742,7 +5742,7 @@
    "num": "393",
    "title": "A Ceiling Fan Cools You, Not the Room",
    "topic": "practical",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card393-practical.mp4"
   },
@@ -5752,7 +5752,7 @@
    "num": "392",
    "title": "A Biscuit Is Twice-Cooked \u2014 Its Name Says So",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card392-wonder.mp4"
   },
@@ -5762,7 +5762,7 @@
    "num": "444",
    "title": "How a Barcode Gets Read",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card444-wonder.mp4"
   },
@@ -5772,7 +5772,7 @@
    "num": "443",
    "title": "How a Suspension Bridge Gets Its Cables",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card443-wonder.mp4"
   },
@@ -5782,7 +5782,7 @@
    "num": "442",
    "title": "How a Road Gets Its Lines \u2014 and Its Glow",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-21",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-21-card442-wonder.mp4"
   },
@@ -6092,7 +6092,7 @@
    "num": "517",
    "title": "The Map That Traced a Killer to One Pump",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card517-wonder.mp4"
   },
@@ -6102,7 +6102,7 @@
    "num": "526",
    "title": "The World's First Modern Pigment Was an Accident",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card526-wonder.mp4"
   },
@@ -6112,7 +6112,7 @@
    "num": "525",
    "title": "One of Physics' Biggest Words Came From a Novel",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card525-wonder.mp4"
   },
@@ -6122,7 +6122,7 @@
    "num": "524",
    "title": "Whales Fertilize the Ocean With Their Own Waste",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card524-wonder.mp4"
   },
@@ -6132,7 +6132,7 @@
    "num": "523",
    "title": "These Ants Build Bridges Out of Themselves",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card523-wonder.mp4"
   },
@@ -6142,7 +6142,7 @@
    "num": "522",
    "title": "Your Coffee \"Bean\" Isn't a Bean at All",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "BANKED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card522-wonder.mp4"
   },
@@ -6152,7 +6152,7 @@
    "num": "520",
    "title": "These Ants Were Farming Long Before Humans Planted a Single Seed",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card520-wonder.mp4"
   },
@@ -6162,7 +6162,7 @@
    "num": "548",
    "title": "You Built It, So It's Worth More to You",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card548-wonder.mp4"
   },
@@ -6172,7 +6172,7 @@
    "num": "547",
    "title": "This AI Fits on a Laptop \u2014 No Supercomputer Needed",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card547-wonder.mp4"
   },
@@ -6182,7 +6182,7 @@
    "num": "546",
    "title": "Teach a Network Something New and It May Forget the Old",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card546-wonder.mp4"
   },
@@ -6192,7 +6192,7 @@
    "num": "543",
    "title": "He Found Over 300 Uses for the Peanut",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card543-wonder.mp4"
   },
@@ -6202,7 +6202,7 @@
    "num": "542",
    "title": "She Knew Everything About Red \u2014 Except What It Looks Like",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card542-wonder.mp4"
   },
@@ -6212,7 +6212,7 @@
    "num": "541",
    "title": "Africa Has 54 Countries \u2014 and Six Capitals Start With 'A'",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card541-wonder.mp4"
   },
@@ -6222,7 +6222,7 @@
    "num": "540",
    "title": "The Punch Card That Taught Machines to Count",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card540-wonder.mp4"
   },
@@ -6232,7 +6232,7 @@
    "num": "539",
    "title": "The Old Masters' White Was Cooked in Vinegar and Manure",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card539-wonder.mp4"
   },
@@ -6242,7 +6242,7 @@
    "num": "538",
    "title": "These Seaweed Forests Outpace the Amazon at Storing Carbon",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card538-wonder.mp4"
   },
@@ -6252,7 +6252,7 @@
    "num": "537",
    "title": "Bacon Smells Like Bacon Because of One Browning Reaction",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card537-wonder.mp4"
   },
@@ -6262,9 +6262,199 @@
    "num": "536",
    "title": "The Aye-Aye Knocks on Trees to Find Its Dinner",
    "topic": "wonder",
-   "state": "UNVERIFIED",
+   "state": "REJECTED",
    "date": "2026-11-23",
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card536-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "535",
+   "title": "The Platypus Hunts by Feeling Electricity",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card535-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "534",
+   "title": "The Word 'Virus' First Meant Poison, Not a Germ",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card534-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "533",
+   "title": "Space Debris Hits Ten Times Faster Than a Bullet",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card533-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "531",
+   "title": "The Secret Gas Inside Your Double-Pane Windows",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card531-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "530",
+   "title": "How Ice Cream Stays Soft",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card530-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "528",
+   "title": "The Ice Road Season",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card528-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "527",
+   "title": "Ships That Sail Across Land",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card527-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "515",
+   "title": "How a Jelly Bean Gets Its Shine",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card515-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "512",
+   "title": "The Staircase for Salmon",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card512-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "514",
+   "title": "How a Glass Bottle Is Born in Seconds",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card514-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "512",
+   "title": "The Staircase for Salmon",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card512-wonder-v2.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "510",
+   "title": "The Wall That Rises From the Seabed",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-23",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-23-card510-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "513",
+   "title": "How a Shipping Container Conquered the World",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "2026-11-24-card513-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "509",
+   "title": "You Think More People Agree With You Than Do",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card509-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "507",
+   "title": "The Face Scanner Learned Its Blind Spots From Its Homework",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card507-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "573",
+   "title": "A Whip Crack Is a Tiny Sonic Boom \u2014 Made by a Loop, Not the Tip",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card573-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "570",
+   "title": "Why AI Image Generators Struggle With Hands",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card570-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "598",
+   "title": "Rejection Rings the Brain's Alarm \u2014 but It's Not the Same as Pain",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card598-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "597",
+   "title": "Thinking of What Matters Most Can Unstick a Stressed Brain",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card597-wonder.mp4"
   },
   {
    "kind": "card",
@@ -6771,6 +6961,406 @@
    "state": "banked"
   },
   {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 549,
+   "title": "How Hoover Dam Was Built in a Dry Riverbed",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 550,
+   "title": "How a Floating Bridge Stays in Place",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 551,
+   "title": "Inside the Thames Barrier",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 552,
+   "title": "How a Crayon Is Made",
+   "topic": "How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 553,
+   "title": "How a Light Bulb's Grandson Works",
+   "topic": "How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 554,
+   "title": "How the International Space Station Stays in Orbit",
+   "topic": "Space",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 555,
+   "title": "A Candle Flame Burns as a Blue Dome in Zero Gravity",
+   "topic": "Space",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 556,
+   "title": "The Mantis Shrimp Sees Fewer Colors Than You",
+   "topic": "Animals",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 557,
+   "title": "Why a Housefly Is So Hard to Swat",
+   "topic": "Animals",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 558,
+   "title": "The Searing Gradient Inside a Steak",
+   "topic": "Food",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 559,
+   "title": "Why Shallow Tropical Water Looks Turquoise",
+   "topic": "Earth & Ocean",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 560,
+   "title": "Ancient Sculptures Were Painted \u2014 Where Did the Colour Go?",
+   "topic": "Art & How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 561,
+   "title": "How a Postal Sorting Machine Reads an Address",
+   "topic": "How Work Actually Works",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 562,
+   "title": "France Spans 12 Time Zones \u2014 More Than Russia",
+   "topic": "Geography, Places & Peoples",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 563,
+   "title": "Zeno's Dichotomy \u2014 the Halfway Journey",
+   "topic": "Philosophy & Big Questions",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 564,
+   "title": "Marie Tharp \u2014 the Woman Who Helped Map the Ocean Floor",
+   "topic": "Biography & Lives",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 565,
+   "title": "Magenta Doesn't Exist as a Wavelength",
+   "topic": "Light & Color",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 566,
+   "title": "Why a Minute Has 60 Seconds",
+   "topic": "Time & Calendar",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 567,
+   "title": "Holiday Travel: The Pre-Trip Car Inspection",
+   "topic": "Know-How \u2014 Car Tips",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 568,
+   "title": "First-Time Home-Buyer Step One: Get Pre-Approved",
+   "topic": "Know-How \u2014 Money Basics",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 569,
+   "title": "Why AI Models Can't Count the Letters in 'Strawberry'",
+   "topic": "AI & Tech",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 570,
+   "title": "Why AI Image Generators Struggle With Hands",
+   "topic": "AI & Tech",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 571,
+   "title": "MYTH-BUST: The Marshmallow Test Doesn't Predict Your Future",
+   "topic": "Proven Psychology",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 572,
+   "title": "Multitasking Actually Slows You Down",
+   "topic": "Proven Psychology",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 573,
+   "title": "A Whip Crack Is a Tiny Sonic Boom \u2014 Made by a Loop, Not the Tip",
+   "topic": "Music & Sound",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 574,
+   "title": "The Brooklyn Bridge Stands on Two Giant Wooden Boxes",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 575,
+   "title": "The Bridge That Drops Just One Inch Across Its Whole Length",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 576,
+   "title": "Why Some Tunnels Are Round",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 577,
+   "title": "How a Tree Becomes a Sheet of Paper",
+   "topic": "How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 578,
+   "title": "How a Lump of Clay Becomes Your Morning Mug",
+   "topic": "How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 579,
+   "title": "The Particle That Outlives Its Own Lifetime",
+   "topic": "Space",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 580,
+   "title": "The Moon Hides the Biggest Crater We Know",
+   "topic": "Space",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 581,
+   "title": "Penguins Huddle to Burn Less Fuel",
+   "topic": "Animals",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 582,
+   "title": "The Mole That Sees With Its Nose",
+   "topic": "Animals",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 583,
+   "title": "A Tomato Is a Fruit \u2014 the Kitchen Just Won't Admit It",
+   "topic": "Food",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 584,
+   "title": "For Greenland's Glaciers, Breaking Off Rivals Melting",
+   "topic": "Earth & Ocean",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 585,
+   "title": "Indigo Is Grown, Not Mined \u2014 and the Blue Isn't in the Leaf",
+   "topic": "Art & How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 586,
+   "title": "He Timed Workers With a Stopwatch \u2014 and Turned Work Into a Science",
+   "topic": "How Work Actually Works",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 587,
+   "title": "One River, Ten Countries \u2014 the Danube Crosses More Borders Than Any Other",
+   "topic": "Geography, Places & Peoples",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 588,
+   "title": "Does a Green Apple Prove That All Ravens Are Black?",
+   "topic": "Philosophy & Big Questions",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 589,
+   "title": "She Named Fission \u2014 and Watched the Nobel Go to Someone Else",
+   "topic": "Biography & Lives",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 590,
+   "title": "Only the Red-Orange Signs Are Really Neon",
+   "topic": "Light & Color",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 591,
+   "title": "Why Clocks Run Clockwise \u2014 the Sundial's Shadow Set the Direction",
+   "topic": "Time & Calendar",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 592,
+   "title": "The Ocean in a Seashell Is Your Own Room, Echoing Back",
+   "topic": "Music & Sound",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 593,
+   "title": "In Fog, Your Brightest Lights Are Your Worst Lights",
+   "topic": "Know-How \u2014 Car Tips",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 594,
+   "title": "Your Credit Report Is Free \u2014 Your Credit Score Is Not",
+   "topic": "Know-How \u2014 Money Basics",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 595,
+   "title": "An AI's Knowledge Has a Last Date \u2014 and It Can't See Past It",
+   "topic": "AI & Tech",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 596,
+   "title": "Why AI Pictures Spell Like a Toddler \u2014 It Never Learned the Letters",
+   "topic": "AI & Tech",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 597,
+   "title": "Thinking of What Matters Most Can Unstick a Stressed Brain",
+   "topic": "Proven Psychology",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 598,
+   "title": "Rejection Rings the Brain's Alarm \u2014 but It's Not the Same as Pain",
+   "topic": "Proven Psychology",
+   "state": "banked"
+  },
+  {
    "kind": "toolkit-folder",
    "area": "Toolkit",
    "title": "brand",
@@ -7068,7 +7658,7 @@
    "kind": "forge-folder",
    "area": "FORGE / Designs",
    "title": "asset-army-refined",
-   "count": 134,
+   "count": 136,
    "state": "banked files",
    "sample": [
     "asset-army-refined/MANIFEST.md",
@@ -7089,21 +7679,21 @@
    "kind": "forge-folder",
    "area": "FORGE / Designs",
    "title": "asset-army-seasonal",
-   "count": 185,
+   "count": 191,
    "state": "banked files",
    "sample": [
     "asset-army-seasonal/christmas/cf-xm-alert-burst-alt2.jpg",
+    "asset-army-seasonal/christmas/cf-xm-alert-burst-alt6.jpg",
     "asset-army-seasonal/christmas/cf-xm-backdrop-alt2.jpg",
+    "asset-army-seasonal/christmas/cf-xm-backdrop-alt6.jpg",
     "asset-army-seasonal/christmas/cf-xm-badge-alt2.jpg",
+    "asset-army-seasonal/christmas/cf-xm-badge-alt6.jpg",
     "asset-army-seasonal/christmas/cf-xm-ending-alt2.jpg",
+    "asset-army-seasonal/christmas/cf-xm-ending-alt6.jpg",
     "asset-army-seasonal/christmas/cf-xm-starting-soon-alt2.jpg",
     "asset-army-seasonal/christmas/contact-sheet.png",
     "asset-army-seasonal/christmas/draft-xm-alert-burst-alt3.png",
-    "asset-army-seasonal/christmas/draft-xm-alert-burst-alt5.png",
-    "asset-army-seasonal/christmas/draft-xm-backdrop-alt3.png",
-    "asset-army-seasonal/christmas/draft-xm-backdrop-alt5.png",
-    "asset-army-seasonal/christmas/draft-xm-badge-alt3.png",
-    "asset-army-seasonal/christmas/draft-xm-badge-alt5.png"
+    "asset-army-seasonal/christmas/draft-xm-alert-burst-alt5.png"
    ]
   },
   {
@@ -7164,7 +7754,7 @@
    "kind": "forge-folder",
    "area": "FORGE / Designs",
    "title": "ebay-live-line",
-   "count": 58,
+   "count": 70,
    "state": "banked files",
    "sample": [
     "ebay-live-line/card-seller/README.md",
