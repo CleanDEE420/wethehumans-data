@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-23T22:36:43-06:00",
+ "generated_at": "2026-11-23T22:41:43-06:00",
  "season": {
-  "fleet_pnl": -2175.1,
-  "closed_total": 519,
+  "fleet_pnl": -2174.26,
+  "closed_total": 520,
   "open_total": 4,
   "milestones": [
    {
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 22,
-    "Road to 100": "22/100",
-    "Record": "13W\u20139L",
-    "Win rate": "59%",
-    "PnL": "$-4.63",
-    "Open": 3,
-    "Profit factor": "0.69"
+    "Closed": 23,
+    "Road to 100": "23/100",
+    "Record": "14W\u20139L",
+    "Win rate": "61%",
+    "PnL": "$-3.79",
+    "Open": 2,
+    "Profit factor": "0.75"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 272 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 272 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 176,
@@ -112,13 +112,13 @@
     "PnL": "$-951.64",
     "Profit factor": "0.40",
     "Watching": 272,
-    "Open": 1,
+    "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "All-time": "487 closed \u00b7 109W\u2013378L \u00b7 $-2167.73",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 51
+    "Entries (24h)": 52
    },
    "demerits": [
     "Bag Holder \u00d7148"
@@ -128,8 +128,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab PARITY MIRROR review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-23-toolkit-extras-delta right now.",
    "stats": {
     "Reviews done": "146/152",
     "Reviews filed": 97,
