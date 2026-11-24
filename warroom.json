@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T19:51:43-06:00",
+ "generated_at": "2026-11-23T19:56:41-06:00",
  "season": {
-  "fleet_pnl": -2220.21,
-  "closed_total": 513,
-  "open_total": 3,
+  "fleet_pnl": -2217.29,
+  "closed_total": 514,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,22 +103,22 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 274 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 275 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 170,
-    "Record": "33W\u2013137L",
-    "Win rate": "19%",
-    "PnL": "$-996.75",
+    "Closed": 171,
+    "Record": "34W\u2013137L",
+    "Win rate": "20%",
+    "PnL": "$-993.83",
     "Profit factor": "0.37",
-    "Watching": 274,
-    "Open": 3,
+    "Watching": 275,
+    "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "481 closed \u00b7 104W\u2013377L \u00b7 $-2212.84",
+    "All-time": "482 closed \u00b7 105W\u2013377L \u00b7 $-2209.92",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 53
+    "Entries (24h)": 52
    },
    "demerits": [
     "Bag Holder \u00d7148"
@@ -157,7 +157,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4681,
@@ -186,9 +186,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the evening pins \u2014 ",
+   "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 33,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 86,
     "Open decisions": 6,
