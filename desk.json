@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-24T00:27:01.703446+00:00",
+ "generated_at": "2026-11-24T00:32:08.132515+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-23 18:25 CST \u2014 34 new coins seen. \u00b7 65478 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-23 18:30 CST \u2014 28 new coins seen. \u00b7 65506 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -18,7 +18,7 @@
     },
     {
      "name": "dexscreener_boosts",
-     "status": "answered (24 coins)"
+     "status": "answered (23 coins)"
     }
    ]
   },
@@ -35,17 +35,17 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-24T00:25:46.935856+00:00"
+   "detail": "journal last entry 2026-11-24T00:30:50.411148+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,741.52 of $500 start \u00b7 max drawdown $2,252.41 (450.5% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,714.93 of $500 start \u00b7 max drawdown $2,252.41 (450.5% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "478 verdicts logged \u00b7 192 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-24T00:20:40.064439+00:00"
+   "detail": "479 verdicts logged \u00b7 193 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-24T00:30:19.710175+00:00"
   }
  ],
  "crew": {
@@ -1677,7 +1677,7 @@
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1741.52,
+  "ending_equity": -1714.93,
   "max_dd_usd": 2252.41,
   "max_dd_pct": 450.5,
   "open_count": 2
@@ -1685,11 +1685,11 @@
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1741.52,
+   "equity": -1714.93,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 2241.52,
-   "dd_pct": 448.3,
+   "dd_usd": 2214.93,
+   "dd_pct": 443.0,
    "flagged": true
   },
   {
@@ -1739,6 +1739,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-24T00:30:50.411148+00:00",
+   "racer": "ORBIT",
+   "kind": "double_out",
+   "symbol": "JENSEN",
+   "pnl": null,
+   "reason": null,
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-24T00:25:46.935856+00:00",
    "racer": "ORBIT",
@@ -2026,16 +2036,6 @@
    "symbol": "pepe",
    "pnl": -11.28,
    "reason": "max_hold_60m",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-23T21:35:45.565941+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "ChristmASS",
-   "pnl": -6.62,
-   "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
   }
