@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-24T15:49:08.070150+00:00",
+ "generated_at": "2026-11-24T15:54:14.968217+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-24 09:45 CST \u2014 45 new coins seen. \u00b7 70615 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-24 09:50 CST \u2014 42 new coins seen. \u00b7 70657 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 498 entered all time \u00b7 0 open now \u00b7 3 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 499 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-24T15:45:59.482986+00:00"
+   "detail": "journal last entry 2026-11-24T15:51:04.922915+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,740.57 of $500 start \u00b7 max drawdown $2,252.41 (450.5% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,740.57 of $500 start \u00b7 max drawdown $2,252.41 (450.5% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -159,8 +159,8 @@
     "pnl": 182037.18
    }
   ],
-  "open": 0,
-  "watching": 270
+  "open": 1,
+  "watching": 273
  },
  "racers": [
   {
@@ -1701,7 +1701,7 @@
   "ending_equity": -1740.57,
   "max_dd_usd": 2252.41,
   "max_dd_pct": 450.5,
-  "open_count": 0
+  "open_count": 1
  },
  "equity_line": [
   {
@@ -1760,6 +1760,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-24T15:50:57.104955+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "SI",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-24T15:45:59.482986+00:00",
    "racer": "ORBIT",
@@ -2039,16 +2049,6 @@
    "symbol": "GROKIA",
    "pnl": null,
    "reason": null,
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-24T02:50:46.790584+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "CHIBI",
-   "pnl": -13.84,
-   "reason": "max_hold_60m",
    "stake": null,
    "suspect": false
   }
