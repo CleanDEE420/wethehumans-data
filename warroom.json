@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T07:16:42-06:00",
+ "generated_at": "2026-11-24T07:21:42-06:00",
  "season": {
   "fleet_pnl": -2212.39,
   "closed_total": 528,
@@ -131,7 +131,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON nightly review \u2014 batch_full.py.",
    "stats": {
-    "Reviews done": "151/156",
+    "Reviews done": "151/157",
     "Reviews filed": 99,
     "Held in queue": 4,
     "Latest report": "2026-11-24-batch_full.py.md",
