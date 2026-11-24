@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T18:46:43-06:00",
+ "generated_at": "2026-11-23T18:51:51-06:00",
  "season": {
   "fleet_pnl": -2210.37,
   "closed_total": 509,
-  "open_total": 1,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 275 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 275 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 166,
@@ -112,13 +112,13 @@
     "PnL": "$-986.91",
     "Profit factor": "0.36",
     "Watching": 275,
-    "Open": 1,
+    "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "All-time": "477 closed \u00b7 103W\u2013374L \u00b7 $-2203.00",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 48
+    "Entries (24h)": 49
    },
    "demerits": [
     "Bag Holder \u00d7147"
@@ -131,7 +131,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON StoreFab PARITY MIRROR review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "144/149",
+    "Reviews done": "144/150",
     "Reviews filed": 97,
     "Held in queue": 4,
     "Latest report": "2026-11-23-storefab-parity-mirror-VET.md",
