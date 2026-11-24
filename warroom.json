@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T04:21:42-06:00",
+ "generated_at": "2026-11-24T04:36:42-06:00",
  "season": {
   "fleet_pnl": -2194.66,
   "closed_total": 525,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 267, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 268, no open snipes right now.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 179,
@@ -111,7 +111,7 @@
     "Win rate": "22%",
     "PnL": "$-973.23",
     "Profit factor": "0.40",
-    "Watching": 267,
+    "Watching": 268,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
