@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T21:11:42-06:00",
+ "generated_at": "2026-11-23T21:16:42-06:00",
  "season": {
-  "fleet_pnl": -2197.49,
-  "closed_total": 517,
-  "open_total": 5,
+  "fleet_pnl": -2179.09,
+  "closed_total": 518,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,20 +103,20 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 273 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 271 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 174,
-    "Record": "36W\u2013138L",
+    "Closed": 175,
+    "Record": "37W\u2013138L",
     "Win rate": "21%",
-    "PnL": "$-974.03",
-    "Profit factor": "0.39",
-    "Watching": 273,
-    "Open": 2,
+    "PnL": "$-955.63",
+    "Profit factor": "0.40",
+    "Watching": 271,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "485 closed \u00b7 107W\u2013378L \u00b7 $-2190.12",
+    "All-time": "486 closed \u00b7 108W\u2013378L \u00b7 $-2171.72",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 50
    },
@@ -204,7 +204,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 09:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
