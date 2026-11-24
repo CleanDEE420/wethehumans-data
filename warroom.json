@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-23T21:06:42-06:00",
+ "generated_at": "2026-11-23T21:11:42-06:00",
  "season": {
-  "fleet_pnl": -2221.86,
-  "closed_total": 516,
-  "open_total": 6,
+  "fleet_pnl": -2197.49,
+  "closed_total": 517,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,22 +103,22 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 274 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 273 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
-    "Closed": 173,
-    "Record": "35W\u2013138L",
-    "Win rate": "20%",
-    "PnL": "$-998.40",
-    "Profit factor": "0.37",
-    "Watching": 274,
-    "Open": 3,
+    "Closed": 174,
+    "Record": "36W\u2013138L",
+    "Win rate": "21%",
+    "PnL": "$-974.03",
+    "Profit factor": "0.39",
+    "Watching": 273,
+    "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
-    "All-time": "484 closed \u00b7 106W\u2013378L \u00b7 $-2214.49",
+    "All-time": "485 closed \u00b7 107W\u2013378L \u00b7 $-2190.12",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 51
+    "Entries (24h)": 50
    },
    "demerits": [
     "Bag Holder \u00d7148"
@@ -129,9 +129,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-23-toolkit-dialin right now.",
+   "doing": "Reviewing 2026-11-23-toolkit-extras-delta right now.",
    "stats": {
-    "Reviews done": "145/152",
+    "Reviews done": "146/152",
     "Reviews filed": 97,
     "Held in queue": 4,
     "Latest report": "2026-11-23-storefab-parity-mirror-VET.md",
