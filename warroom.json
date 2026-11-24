@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T23:01:44-06:00",
+ "generated_at": "2026-11-23T23:06:44-06:00",
  "season": {
   "fleet_pnl": -2173.57,
   "closed_total": 521,
@@ -131,7 +131,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-23-storefab-scan-fix right now.",
    "stats": {
-    "Reviews done": "147/153",
+    "Reviews done": "147/154",
     "Reviews filed": 97,
     "Held in queue": 4,
     "Latest report": "2026-11-23-storefab-parity-mirror-VET.md",
@@ -188,7 +188,7 @@
    "alive": true,
    "doing": "Waking the drip \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 32,
+    "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 88,
     "Open decisions": 9,
