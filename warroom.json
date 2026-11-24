@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T01:36:42-06:00",
+ "generated_at": "2026-11-24T01:41:42-06:00",
  "season": {
   "fleet_pnl": -2175.02,
   "closed_total": 524,
@@ -190,8 +190,8 @@
    "stats": {
     "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 88,
-    "Open decisions": 9,
+    "Open tasks": 97,
+    "Open decisions": 11,
     "Projects": 17
    },
    "demerits": []
@@ -231,7 +231,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "Deploy package COMPLETE \u2014 the only gate left is his deploy word (standing word from today still governs; no new ask). KRYPTON #106 VETTED 2026-11-23 12:16 CT: CLEARED-WITH-FIXES (247 findings: 2 CONFIRMED + fixed in staging, 6 NOTED, 239 RE\u2026"
+   "next_gate": "SOAKING \u2014 pile DEPLOYED 2026-11-23 21:31 CT (deploy 6b05047d5db9110cfeacde4e) and charging ARMED (read-back verified). His hosted scan ran 22:12 CT: 97.6 / D / PARTIAL, capped by ONE row (category 1,295 F). VERDICT 22:22 CT: SCANNER WRONG,\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -241,7 +241,7 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 (6afc8020, live-verified). Timer pile: HOLD re-confirmed 2026-11-23 09:24 CT. FH-030/031/032: founder ruled 'Keep all 3' 21:57 CT Nov 22 \u2014 closed. Ko-fi payout CONNECTED; /tip/ live-verifie\u2026"
+   "next_gate": "Toolkit pile VET-COMPLETE (timers + dial-in + extras; KRYPTON #116 + #117 both CLEARED, 0 confirmed defects, suite 5,626/0) \u2014 HELD for the Nov 24 sitting by your 22:53 CT ruling; a decision card carries it. The EAudit 2 keys wake up on that\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
@@ -296,12 +296,12 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Long-form batch 1 DEPLOYED (his word per batch). Level 2 LIVE: 50 cards/night (Batch 29 banked, 548; Batch 30 next); streaks RULED OUT (\"Keep the promise \u2014 no streaks\"); topic pantry 1,123 stocked. Producer PAUSED until the tiled vision-gat\u2026"
+   "next_gate": "Producer FLOWING (vision gate + tiled pass proven; bank 573; ledger 0 unverified). Pinterest legs live (fact + shorts boards, proof 5/5). YouTube leg built and gated OFF: channel creation waits on the ACCOUNTS SITTING (decision card added t\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: Gumby's vet \u2014 #115 snapshot-gate-cap (re-vet complete 12/12, queued 20:01:53 CT) + dead-man's switch review (DONE, ALL.done, Nov 15 run) + nightly drip.js review (DONE 10/10) + the 12 older ALL.done runs + nightly 2026-11-21-rar\u2026"
+   "next_gate": "waiting on: the Nov 24 sitting (toolkit deploy + scanner-fix deploy ride it) \u2192 his re-scan. Council KRYPTON seat answers behind the scan-fix run, sequencer-launched."
   },
   {
    "name": "Trading bot \u2014 paper experiment",
@@ -311,19 +311,14 @@
   {
    "name": "StoreFab \u2014 outreach",
    "status": "active",
-   "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready (The Nerd Merchant, Baseball Card Connection, Athlon Authentics, Neuhart Cards \u2014 all re-verified 300+ live). Sends wait on: the StoreFab next-pile deploy (HOLD \u2014 his re-scan M\u2026"
+   "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of the overnight sweep: pile deployed + charging armed (Nov 23 21:31 CT) -> his hosted scan RAN (verdict: scanner wrong, store clean) -> scanner fix in KRYPTON\u2026"
   }
  ],
- "projects_as_of": "2026-11-23 08:58 PM CT",
+ "projects_as_of": "2026-11-24 01:39 AM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
    "detail": "Claim packets for We The Humans, StoreFab, and ForeverHumans are written copy-paste ready. The claim itself needs your Persona ID check (your hands only); Gumby stands by to place the DNS verification record the moment y\u2026",
-   "link": null
-  },
-  {
-   "title": "eBay EAudit 2 Cert ID paste",
-   "detail": "eBay granted the toolkit keyset (ticket 261108-000034, closed). The Cert ID (client secret) comes out of the developer portal into the vault \u2014 your hands only, never through chat. GUMBY'S CALL: Next PC sitting \u2014 2 minute\u2026",
    "link": null
   },
   {
@@ -355,6 +350,11 @@
    "title": "Tax-reserve % \u2014 Joe sets the number",
    "detail": "ACCOUNTANT BOT V2 (spec 2026-11-23, watch item 2): the bot computes a running reserve target \u2014 a fixed slice of each cup's year-to-date PROFIT (not gross) that should be sitting in the tax-reserve account. THE SLICE % IS\u2026",
    "link": null
+  },
+  {
+   "title": "Deploy the ForeverHumans toolkit pile (vet-complete \u2014 held for this sitting)",
+   "detail": "THE SITTING ITEM (founder ruling 2026-11-23 22:53 CT: hold for tomorrow's sitting). The pile: timer upgrade (chatbot timers + quiet-chat guard) + the dial-in pass (builder crash fixed at its root, Kick wording reads the\u2026",
+   "link": "https://live.foreverhumans.com"
   }
  ]
 }
