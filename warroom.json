@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T21:01:43-06:00",
+ "generated_at": "2026-11-23T21:06:42-06:00",
  "season": {
   "fleet_pnl": -2221.86,
   "closed_total": 516,
@@ -118,7 +118,7 @@
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "All-time": "484 closed \u00b7 106W\u2013378L \u00b7 $-2214.49",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 52
+    "Entries (24h)": 51
    },
    "demerits": [
     "Bag Holder \u00d7148"
@@ -128,8 +128,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab PARITY MIRROR review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-23-toolkit-dialin right now.",
    "stats": {
     "Reviews done": "145/152",
     "Reviews filed": 97,
