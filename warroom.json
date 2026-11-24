@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T11:33:54-06:00",
+ "generated_at": "2026-11-24T11:38:55-06:00",
  "season": {
   "fleet_pnl": -2252.16,
   "closed_total": 534,
@@ -119,7 +119,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "499 closed \u00b7 111W\u2013388L \u00b7 $-2246.82",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 50
+    "Entries (24h)": 48
    },
    "demerits": [
     "Bag Holder \u00d7151"
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Waking the drip \u2014 ",
+   "doing": "Posting the morning pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 31,
+    "Jobs tracked on the board": 32,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 97,
     "Open decisions": 9,
