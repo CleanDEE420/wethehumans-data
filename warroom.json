@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T19:31:43-06:00",
+ "generated_at": "2026-11-23T19:36:42-06:00",
  "season": {
   "fleet_pnl": -2220.21,
   "closed_total": 513,
@@ -131,7 +131,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-23-storefab-snapshot-gate-cap right now.",
    "stats": {
-    "Reviews done": "144/150",
+    "Reviews done": "144/151",
     "Reviews filed": 97,
     "Held in queue": 4,
     "Latest report": "2026-11-23-storefab-parity-mirror-VET.md",
