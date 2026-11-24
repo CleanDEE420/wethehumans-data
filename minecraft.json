@@ -1,0 +1,1240 @@
+{
+ "bedrock_vs_java": [
+  {
+   "bedrock": "Does not exist. Pistons, droppers, and dispensers only fire when powered the direct way.",
+   "java": "Exists \u2014 those same blocks can be powered through the block above them, and many famous contraptions depend on it.",
+   "topic": "Quasi-connectivity"
+  },
+  {
+   "bedrock": "No sweep attacks and no Sweeping Edge enchantment. One swing, one target.",
+   "java": "Swords sweep nearby mobs; Sweeping Edge boosts the sweep damage.",
+   "topic": "Sweeping attacks"
+  },
+  {
+   "bedrock": "No attack cooldown \u2014 every click lands at full strength.",
+   "java": "Attack cooldown since 1.9 \u2014 swinging early means weak hits.",
+   "topic": "Combat timing"
+  },
+  {
+   "bedrock": "No always-loaded spawn chunks. Farms only tick near a player, or inside a /tickingarea if cheats/commands are allowed on your world.",
+   "java": "Spawn chunks stay loaded around the world spawn, so some farms run with nobody nearby.",
+   "topic": "Farms running while you are away"
+  },
+  {
+   "bedrock": "Tied to simulation distance \u2014 at low sim distance, hostile mobs spawn in a tight ring close to the player, which starves Java-style mob towers.",
+   "java": "Hostile mobs spawn in a ring out to 128 blocks and despawn beyond it \u2014 the spacing most Java farm designs assume.",
+   "topic": "Mob spawning distance"
+  },
+  {
+   "bedrock": "Much harder: more health and extra attacks compared to Java. Bring your best gear and no pride.",
+   "java": "The gentler version of the same boss.",
+   "topic": "The Wither fight"
+  },
+  {
+   "bedrock": "Defaults to 1 \u2014 crops and leaves tick slower out of the box.",
+   "java": "Defaults to 3.",
+   "topic": "Random tick speed"
+  },
+  {
+   "bedrock": "Add-ons (behavior and resource packs) and the Marketplace. No mod loaders.",
+   "java": "Full mods via loaders like Fabric and NeoForge, plus datapacks.",
+   "topic": "Mods and add-ons"
+  },
+  {
+   "bedrock": "Phones, consoles, and Windows all play together \u2014 this is the family edition.",
+   "java": "PC only, and only with other Java players (unless a server runs a bridge like Geyser).",
+   "topic": "Cross-play"
+  }
+ ],
+ "current_as_of": "November 2026",
+ "farms": [
+  {
+   "bedrock_note": "Bedrock golems spawn from the village (enough villagers + beds), not from a scared-villager mechanic like classic Java designs. Java iron farm layouts copied block-for-block usually underperform or fail here.",
+   "difficulty": "Medium",
+   "edition": "Bedrock",
+   "makes": "Iron ingots, plus poppies",
+   "materials": "Around 20 villagers, 20+ beds, one workstation per villager, a zombie (optional on Bedrock \u2014 golems spawn from the village itself), water streams, hoppers and chests, and a lava or fall kill chamber.",
+   "name": "Iron Farm",
+   "rates": "A simple one-village Bedrock build gives a modest, steady trickle \u2014 think a few stacks an hour. Bigger multi-pod builds give more. Anyone quoting an exact number is quoting their world, not yours.",
+   "slug": "iron-farm",
+   "steps": [
+    "Build it well away from any existing village \u2014 stray beds and bells merge villages and break everything.",
+    "Set up a flat village pod: beds in a ring, villagers each linked to a bed and a workstation.",
+    "Let the village settle a full day cycle so golems start spawning on the platform.",
+    "Funnel golems with water into the kill chamber; collect with hoppers.",
+    "If rates are poor, check every villager can reach their workstation and sleep \u2014 unlinking is the number one Bedrock failure."
+   ]
+  },
+  {
+   "bedrock_note": "This is a Bedrock specialty: portal-based piglin spawning plus the trident killer (which has no Java equivalent) makes Bedrock gold farms better than most Java ones. The trident killer needs a trident you do not mind leaving in the machine.",
+   "difficulty": "Hard",
+   "edition": "Bedrock",
+   "makes": "Gold nuggets and ingots, rotten flesh, and solid XP",
+   "materials": "Lots of obsidian for big Nether portals, a trident killer (Bedrock's favorite machine), pistons/observers for portal ticking, hoppers, chests, and fall protection for you.",
+   "name": "Gold & XP Farm (Piglin Portal Farm)",
+   "rates": "A large portal-tick build is one of Bedrock's strongest XP sources \u2014 fast levels while it runs. Smaller single-portal builds are gentler and still worthwhile.",
+   "slug": "gold-farm",
+   "steps": [
+    "Build oversized Nether portals in the Overworld \u2014 zombified piglins spawn from portal blocks on random ticks.",
+    "Drop them through a chute to a trident killer: a thrown trident on a piston does the killing and you get the XP and player-kill drops.",
+    "Sort nuggets and flesh; smelt nuggets or craft them up to ingots.",
+    "Keep it chunk-aligned and test small first \u2014 portal farms can get laggy fast."
+   ]
+  },
+  {
+   "bedrock_note": "Works on both editions. On Bedrock there is no sweeping attack, so kills are one at a time \u2014 still fast. Keep your eyes down: look at an enderman's face and the farm comes to you.",
+   "difficulty": "Medium",
+   "edition": "Both",
+   "makes": "XP and ender pearls",
+   "materials": "An endermite in a minecart (name-tagged), building blocks out over the void, leaves or carpets, a slabbed killing platform, chests and hoppers.",
+   "name": "Enderman XP Farm (End)",
+   "rates": "Among the fastest XP in the game on both editions \u2014 levels come in minutes once it is running, if you have beaten the dragon and can build in the End.",
+   "slug": "enderman-xp-farm",
+   "steps": [
+    "After the dragon fight, bridge out from the main End island and build a spawning platform low over the void.",
+    "Hatch an endermite from thrown pearls (a few percent chance per pearl), name-tag it, and park it in a minecart above the platform.",
+    "Endermen aggro the mite, fall to the platform, and gather at your feet at low health from the fall.",
+    "One sweep at a time; collect pearls below."
+   ]
+  },
+  {
+   "bedrock_note": "On Bedrock, mind your simulation distance: hostile spawns happen in a tighter ring, so build and AFK at the distance the design expects. Java creeper-only designs mostly port, but check the spawning floors against Bedrock heights.",
+   "difficulty": "Medium",
+   "edition": "Both",
+   "makes": "Gunpowder for rockets and TNT",
+   "materials": "A spawning tower with trapdoors on ceilings (only creepers fit), cats to scare creepers into the drop, water or campfires, hoppers and chests.",
+   "name": "Creeper Farm (Gunpowder)",
+   "rates": "A steady, moderate supply \u2014 enough to keep an elytra habit fed from a well-built tower. Rates swing a lot with spawn-proofing and height.",
+   "slug": "creeper-farm",
+   "steps": [
+    "Build spawning floors with trapdoor ceilings low enough that only creepers spawn.",
+    "Place cats at the center \u2014 creepers flee cats and fall into the chute.",
+    "Kill with a fall, campfires, or magma at the bottom; collect gunpowder with hoppers.",
+    "Spawn-proof the ground and caves around you, or rates fall off a cliff."
+   ]
+  },
+  {
+   "bedrock_note": "Old zero-tick cane farms were patched out and were never a Bedrock thing anyway. The observer design works identically on both editions and will not break your world.",
+   "difficulty": "Easy",
+   "edition": "Both",
+   "makes": "Sugar cane for paper, books, and rockets",
+   "materials": "Sand or dirt, water, sugar cane, observers, pistons, a minecart-with-hopper collection line or hopper chain, chests.",
+   "name": "Sugar Cane Farm (Zero-Tick-Free, Observer Style)",
+   "rates": "Slow and honest \u2014 a row of observers and pistons gives a gentle, endless trickle that fills chests while you do other things nearby.",
+   "slug": "sugar-cane-farm",
+   "steps": [
+    "Plant cane on sand beside water, one observer watching each plant at the second block height.",
+    "Wire each observer to a piston at the same height \u2014 when cane grows to three, the piston harvests the top two.",
+    "Run a hopper minecart under the planting line to gather drops.",
+    "Scale by adding rows; it only runs while the chunks are loaded, so put it near your base."
+   ]
+  },
+  {
+   "bedrock_note": "Same build both editions. Bedrock note: bamboo farms are a top cause of 'my world got laggy' \u2014 always collect or destroy drops promptly.",
+   "difficulty": "Easy",
+   "edition": "Both",
+   "makes": "Bamboo for sticks, scaffolding, and planks \u2014 and a fine furnace fuel chain",
+   "materials": "Bamboo, dirt or grass, observers, pistons, collection hoppers or a hopper minecart, chests.",
+   "name": "Bamboo Farm",
+   "rates": "Bamboo grows fast; even a small observer farm outproduces most needs. A wall of it can feed furnaces through bamboo planks all day.",
+   "slug": "bamboo-farm",
+   "steps": [
+    "Plant a row of bamboo and place observers facing the second growth height.",
+    "Pistons beside the observers knock the stalk down when it grows past.",
+    "Collect below with hoppers; route overflow to composters or storage.",
+    "Keep the collection fast \u2014 bamboo on the ground in bulk is a lag snack."
+   ]
+  },
+  {
+   "bedrock_note": "The single most-copied, most-disappointing farm on Bedrock: Java towers assume a 128-block spawn ring; Bedrock spawns hostiles in a tighter ring set by simulation distance. Bedrock-specific tower designs exist \u2014 follow one of those, and set your AFK spot by its instructions, not the Java video's.",
+   "difficulty": "Easy",
+   "edition": "Both",
+   "makes": "Gunpowder, bones, arrows, string, rotten flesh \u2014 the whole hostile grab-bag",
+   "materials": "A tall tower of spawning platforms (or a flushing design), trapdoors, water channels, a 22+ block drop, hoppers and chests.",
+   "name": "Classic Mob Tower (General Mob Farm)",
+   "rates": "Modest on Bedrock, stronger on Java. On Bedrock, expect a useful trickle rather than Java video numbers \u2014 spawning rules differ (see the note).",
+   "slug": "mob-tower",
+   "steps": [
+    "Build dark spawning platforms stacked in a tower, with water channels pushing mobs to a central drop.",
+    "Drop mobs 22+ blocks so most die or land at a hit from death; collect below.",
+    "Light up every cave and surface within range \u2014 every lit cave is a raise for your farm.",
+    "AFK at the height the design specifies so the platforms sit inside the spawning ring."
+   ]
+  },
+  {
+   "bedrock_note": "Bedrock villagers link to beds and workstations at a distance and can re-link unpredictably when chunks reload. Keep breeder, beds, and workstations inside one tidy footprint, and re-check links after big builds nearby.",
+   "difficulty": "Easy",
+   "edition": "Both",
+   "makes": "More villagers \u2014 the fuel for trading halls, iron farms, and raid farms",
+   "materials": "More beds than villagers, a farmer villager or a chest of bread/carrots/potatoes, a contained pen, and a way to move babies out (minecart or water stream).",
+   "name": "Villager Breeder",
+   "rates": "Slow and steady: a fed breeder with enough beds produces a new villager every few minutes of loaded time.",
+   "slug": "villager-breeder",
+   "steps": [
+    "Give villagers beds \u2014 breeding is capped by unclaimed beds, not by food alone.",
+    "Feed them: farmers harvest and share crops, or throw stacks of bread and carrots yourself.",
+    "Separate the babies promptly so adults keep their beds and keep breeding.",
+    "Move villagers by minecart \u2014 it is slower than a boat on land and kinder than both."
+   ]
+  },
+  {
+   "bedrock_note": "Zombie-villager curing discounts work on Bedrock, but the discount rules have changed over versions and differ from Java's stacking. Cure once, check the price, and do not promise yourself Java-video prices. Also: on Bedrock a villager's workstation link can jump to a nearby block \u2014 keep cells spaced.",
+   "difficulty": "Medium",
+   "edition": "Both",
+   "makes": "Enchanted books, gear, emeralds, and late-game supplies at honest prices (after a cure or two)",
+   "materials": "One cell per villager with their workstation, a zombie conversion setup (optional, for discounts), rails or boats for transport, name tags for your keepers.",
+   "name": "Villager Trading Hall",
+   "rates": "Not a rates machine \u2014 a prices machine. A cured librarian can sell top enchantments for a single emerald.",
+   "slug": "trading-hall",
+   "steps": [
+    "Bring villagers in, lock each in a cell with the workstation that sets their trade, and check trades BEFORE leveling them \u2014 an unleveled villager can re-roll by breaking and replacing the workstation.",
+    "Librarians first: hunt for Mending, then your armor and tool enchants.",
+    "For the big discount: let a zombie villager get converted by a zombie, then cure with a splash potion of weakness and a golden apple.",
+    "Name-tag your best traders so a stray despawn or accident does not erase them."
+   ]
+  },
+  {
+   "bedrock_note": "Bedrock's default random tick speed is 1 (Java's is 3), so crops grow slower out of the box on Bedrock. That is normal, not a bug \u2014 plan bigger fields, or change the setting only if your world's rules allow it.",
+   "difficulty": "Easy",
+   "edition": "Both",
+   "makes": "Food, trading stock, and animal feed",
+   "materials": "Farmland, water every 4 blocks of reach, seeds/crops, light, and optionally a farmer villager plus a composter.",
+   "name": "Crop Farms (Wheat, Carrot, Potato, Beetroot)",
+   "rates": "A farmer-worked field gives a slow, free harvest forever. Manual fields give as much as you plant \u2014 the honest way.",
+   "slug": "crop-farm",
+   "steps": [
+    "Till rows with water running between them \u2014 hydrated farmland grows crops noticeably faster.",
+    "Plant in alternating crop rows where you can; mixed rows grow a touch faster than monoculture blocks.",
+    "Let a farmer villager work the field for an automatic trickle, or harvest by hand with Fortune for potatoes and carrots.",
+    "Bone meal is the accelerator when you need food now, not later."
+   ]
+  },
+  {
+   "bedrock_note": "Works both editions. Mind entity counts on Bedrock \u2014 collect drops with water into hoppers instead of letting kelp pile up on the floor of the farm.",
+   "difficulty": "Easy",
+   "edition": "Both",
+   "makes": "Kelp \u2192 dried kelp blocks, one of the best furnace fuels in the game",
+   "materials": "Kelp, water columns, observers and pistons, furnaces or smokers, hoppers, and a bamboo or kelp output feed.",
+   "name": "Kelp Farm & Fuel Loop",
+   "rates": "A modest kelp tower plus a smoker or furnace loop can make your base nearly fuel-independent.",
+   "slug": "kelp-farm",
+   "steps": [
+    "Grow kelp in a water column with an observer watching near the top.",
+    "Piston harvests the column when it reaches the observer; drops collect in water streams.",
+    "Dry the kelp in furnaces \u2014 then craft dried kelp blocks, which smelt 20 items each.",
+    "Feed a few dried kelp blocks back to dry more kelp: the loop nearly runs itself."
+   ]
+  },
+  {
+   "bedrock_note": "Identical both editions, and the friendliest 'infinite' in the game \u2014 no glitches, just patience. Lava is the longest-burning fuel there is; one bucket outlasts a kelp block five times over.",
+   "difficulty": "Easy",
+   "edition": "Both",
+   "makes": "Lava buckets \u2014 renewable furnace fuel, 100 items smelted per bucket",
+   "materials": "Lava source blocks, pointed dripstone, cauldrons, and a fireproof room.",
+   "name": "Infinite Lava (Dripstone) Farm",
+   "rates": "Slow drip, literally: each cauldron fills over time. A wall of dripstone gives a bucket whenever you need one.",
+   "slug": "lava-farm",
+   "steps": [
+    "Hang a lava source above a block, with pointed dripstone underneath it.",
+    "Place a cauldron under the dripstone tip.",
+    "Wait \u2014 lava drips through and fills the cauldron, renewable forever.",
+    "Scale sideways: one dripstone per cauldron, as many as you have patience for."
+   ]
+  }
+ ],
+ "guides": [
+  {
+   "edition": "Both",
+   "faqs": [
+    [
+     "How much does a Minecraft Realm cost?",
+     "Bedrock Realms is $3.99 a month for you plus 2 friends; Realms Plus is $7.99 for you plus 10 and adds Marketplace Pass content; Java Realms is $7.99 for you plus 10. US prices, checked November 2026. Only the owner pays \u2014 invited players join free."
+    ],
+    [
+     "Can I put my existing world on a Realm?",
+     "Yes. On Bedrock, open your Realm's edit screen, choose Replace World, and pick your local world \u2014 or use Play on Realm on the world's own edit screen. On Java, upload from the Realm's world slots in Configure Realm. Download a backup of the old Realm world first: replacing it is permanent."
+    ],
+    [
+     "Does the Realm stay online when I'm not playing?",
+     "Yes. A Realm is hosted by Mojang and stays online around the clock, so invited family can play even when the owner is offline. That always-on private world is the whole point of the subscription."
+    ]
+   ],
+   "lead": "A Realm is a private, always-online world that only invited players can join. On Bedrock you start one from the Create New World screen (Play, then Create New World, then Create on Realms); on Java you subscribe at minecraft.net and create it from the Minecraft Realms menu. Invited players never pay \u2014 only the owner subscribes.",
+   "meta": "How to start a Minecraft Realm step by step: pick Realms or Realms Plus on Bedrock, or Java Realms on PC, subscribe, name it, and upload your existing world.",
+   "page_title": "Start a Realm and Put Your World on It | Minecraft Guides \u2014 We The Humans",
+   "sections": [
+    {
+     "heading": "Before you start: which Realm does your family need?",
+     "paras": [
+      "Bedrock Realms and Java Realms are two separate services, and a subscription for one does not cover the other. A Bedrock Realm is the cross-platform one \u2014 phones, consoles, and Windows PCs all play in the same world. A Java Realm is for Java Edition on computers only.",
+      "The plans (US prices, checked November 2026): Bedrock Realms is $3.99 a month for you plus 2 friends. Realms Plus is $7.99 for you plus 10, and adds a library of Marketplace Pass content. Java Realms is $7.99 for you plus 10. First-time subscribers are offered a free trial when they sign up."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "Start a Realm on Bedrock, step by step",
+     "paras": [],
+     "steps": [
+      "Sign in with the Microsoft account that will own the Realm \u2014 pick carefully, the owner is who pays and who controls members.",
+      "Open Minecraft and tap Play, then Create New, then Create New World.",
+      "Set your world settings (name, difficulty, game mode) the way you want them.",
+      "Tap Create on Realms instead of Create.",
+      "Choose your plan: 2-player (Realms) or 10-player (Realms Plus).",
+      "Tap Subscribe Now \u2014 or start the free trial if it is offered \u2014 and agree to the terms.",
+      "Name your Realm, then complete the payment through your device's store.",
+      "Your Realm is live. It stays online around the clock, even when you are not playing."
+     ]
+    },
+    {
+     "heading": "Put an existing world on your Realm",
+     "paras": [
+      "Already have a world you love? It can move onto the Realm. On Bedrock there are two doors: on a local world's own edit screen, look for Play on Realm; or open your Realm's edit screen, go to the Game settings, choose Replace World, and pick your local world from the list.",
+      "One warning that matters: replacing a Realm world deletes the world that was on the Realm. Download a backup of the old Realm world first \u2014 the backup guide below walks through it. On Java, upload from the Realm's Configure screen, where each Realm keeps world slots you can fill from your saved worlds."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "Start a Realm on Java",
+     "paras": [],
+     "steps": [
+      "Go to minecraft.net, sign in with your Microsoft account, and open Realms.",
+      "Choose Java Realms and complete the subscription.",
+      "Launch Minecraft: Java Edition and choose Minecraft Realms on the main menu.",
+      "Follow the prompts to create your Realm and choose or upload a world.",
+      "Use Configure Realm to set the world, difficulty, and player permissions."
+     ]
+    }
+   ],
+   "slug": "start-a-realm",
+   "summary": "Create a Realm on Bedrock or Java, choose the right plan size, and move an existing world onto it so the family can play anytime.",
+   "title": "Start a Realm and Put Your World on It"
+  },
+  {
+   "edition": "Both",
+   "faqs": [
+    [
+     "Why can't my kid accept a Realm invite?",
+     "On a child Microsoft account, multiplayer starts out switched off. A parent has to allow 'You can join multiplayer games' and 'You can create and join clubs' in the child's Xbox privacy settings (account.xbox.com/settings) \u2014 Realms needs both. Sign out and back in after changing them."
+    ],
+    [
+     "Can Java players join a Bedrock Realm?",
+     "No. Java and Bedrock are two editions with separate Realms services, and they do not cross-connect. A mixed family needs everyone on Bedrock \u2014 phones, consoles, and Windows PCs all run it \u2014 or everyone on Java on computers."
+    ],
+    [
+     "Is an invite link safe to share?",
+     "Only with people you trust. Anyone holding the link can join the Realm, so send it privately, never post it publicly, and create a fresh link if an old one escapes. Gamertag invites are the safer default for family."
+    ]
+   ],
+   "lead": "On Bedrock you invite by Microsoft gamertag from your Realm's Members screen, or by sending an invite link to people you trust. On Java you invite by exact Minecraft username from Configure Realm, then Players. Bedrock players on phone, console, and PC all share one Realm \u2014 Java players have their own separate Realms and cannot cross over.",
+   "meta": "How to invite players to a Minecraft Realm: by gamertag or invite link on Bedrock, by username on Java \u2014 and what cross-platform play actually allows.",
+   "page_title": "Invite Family to Your Realm, Cross-Platform | Minecraft Guides \u2014 We The Humans",
+   "sections": [
+    {
+     "heading": "Invite on Bedrock, by gamertag",
+     "paras": [
+      "Gamertag invites are the family default: they go to exactly one person, and nobody else can use them."
+     ],
+     "steps": [
+      "Open Minecraft and go to Play, then Realms, and select your Realm.",
+      "Open the pencil (Edit) icon on the Realm and go to Members.",
+      "Choose Invite Player and type the person's exact Xbox gamertag \u2014 the handle under their profile name, not a display name or an email.",
+      "Send the invite. It appears in their game, and they accept it from the Realms area.",
+      "Check they show up in your Members list \u2014 if the name never appears, the gamertag did not resolve, so double-check the spelling."
+     ]
+    },
+    {
+     "heading": "Invite on Bedrock, by link",
+     "paras": [
+      "Bedrock Realms can also make an invite link: in your Realm's settings, turn Invite Links on, create a link, and send it privately. Your family member opens Play, then Realms, then Join Realm, and pastes the code.",
+      "Treat the link like a house key. Anyone holding it can join, so never post it in a public place \u2014 and if one escapes, turn links off and create a fresh one."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "Invite on Java",
+     "paras": [],
+     "steps": [
+      "Open Minecraft: Java Edition and choose Minecraft Realms.",
+      "Select your Realm, then Configure Realm, then Players.",
+      "Choose Invite Player and type the person's exact Minecraft username.",
+      "They accept from the Realms menu in their own game \u2014 no subscription needed on their side."
+     ]
+    },
+    {
+     "heading": "Cross-platform: who can play with whom",
+     "paras": [
+      "Bedrock is the family edition: Windows, Xbox, PlayStation, Nintendo Switch, iOS, and Android all play together in the same Bedrock Realm. Java Edition plays with Java \u2014 Windows, Mac, and Linux \u2014 and a Java player cannot join a Bedrock Realm.",
+      "One platform rule catches families out: online play on consoles also needs that console's own online subscription \u2014 Game Pass Core or Ultimate on Xbox, PlayStation Plus, or Nintendo Switch Online. That is the console's toll, not Minecraft's.",
+      "If a child's invite will not go through, the block is usually their account settings, not the game \u2014 a parent may need to allow multiplayer, clubs, and cross-network play first. The safety guide below covers those switches."
+     ],
+     "steps": []
+    }
+   ],
+   "slug": "invite-family-cross-platform",
+   "summary": "Invite by gamertag or link on Bedrock, by username on Java \u2014 plus who can actually play together across phone, console, and PC.",
+   "title": "Invite Family to Your Realm, Cross-Platform"
+  },
+  {
+   "edition": "Both",
+   "faqs": [
+    [
+     "Is Aternos really free?",
+     "Yes \u2014 completely. Aternos runs on advertising and has nothing to sell you: no premium tier, no card required. The price you pay is patience: a start queue at busy times, and a server that stops when nobody is playing."
+    ],
+    [
+     "Do Minehut free servers still have a 4-hour limit?",
+     "No. Minehut changed its free plan in summer 2026: up to 5 free servers with 1 GB of RAM and 10 player slots each, and no daily time limit. The catches now are that only 1 free server runs at a time and servers sleep while empty. Older guides describing the 4-hour limit are out of date."
+    ],
+    [
+     "Can Bedrock players join a Minehut server?",
+     "Yes. Minehut builds crossplay in: Bedrock players connect to bedrock.minehut.com on port 19132 and type /join followed by the server name in the lobby. Java players join the server address (yourname.minehut.gg) directly."
+    ]
+   ],
+   "lead": "Both are genuinely free. Aternos gives you a Java or Bedrock server you start from a web panel \u2014 funded by ads, with a queue at busy times, and it stops when empty. Minehut gives up to 5 free Java servers with crossplay built in for Bedrock friends; they sleep when empty and wake when someone joins. Neither asks for a credit card.",
+   "meta": "How to run a free Minecraft server: Aternos and Minehut setup steps, what the free plans really include in 2026, and the honest catches \u2014 queues and sleep.",
+   "page_title": "Run a Free Server with Aternos or Minehut | Minecraft Guides \u2014 We The Humans",
+   "sections": [
+    {
+     "heading": "Set up Aternos, step by step",
+     "paras": [],
+     "steps": [
+      "Go to aternos.org and click Play to sign up for a free account.",
+      "Click Create a server.",
+      "Choose Minecraft: Java Edition or Bedrock Edition \u2014 pick the edition your players use.",
+      "Set the server name and message of the day, then click Create.",
+      "In Options, turn on the whitelist and add your players' names \u2014 that keeps strangers out.",
+      "Press Start and accept the Minecraft EULA.",
+      "If Aternos is busy you will wait in a short queue \u2014 near the front, click the confirm button when it appears or you lose your place.",
+      "Share the address at the top of the panel (it looks like yourname.aternos.me). Bedrock players add it as a server with the port shown in the panel (19132)."
+     ]
+    },
+    {
+     "heading": "Set up Minehut, step by step",
+     "paras": [],
+     "steps": [
+      "Go to minehut.com and sign up \u2014 no credit card, ever.",
+      "From your dashboard, create a server and pick its name. The name becomes the address: yourname.minehut.gg.",
+      "Choose the server type: Paper if you want plugins, Fabric if you want mods, vanilla if you want neither.",
+      "Start the server from the dashboard.",
+      "Java friends join the address directly: Multiplayer, Add Server, yourname.minehut.gg.",
+      "Bedrock friends join through the Minehut lobby: connect to bedrock.minehut.com on port 19132, then type /join and your server name in the chat."
+     ]
+    },
+    {
+     "heading": "The honest catches (checked November 2026)",
+     "paras": [
+      "Aternos is completely free \u2014 famously, there is nothing to buy: no premium tier and no card on file. Ads pay for it. The trade-offs are the start queue at busy times, roughly 4 GB of storage, mods and plugins only from Aternos' built-in library, and a server that stops a few minutes after the last player leaves. Start it at least three months once in a while, too \u2014 long-abandoned servers get deleted.",
+      "Minehut's free plan changed in summer 2026, and older guides are now wrong: you get up to 5 free servers with 1 GB of RAM and 10 player slots each, and the old 4-hour daily limit is gone. The catches today are that only 1 free server can be online at a time, and servers sleep while empty \u2014 the first player to join waits a moment for the wake-up.",
+      "Neither host is 24/7 on free. If your world must be up at 3 AM with nobody on it, that is a Realm or paid hosting \u2014 free servers trade always-on for free."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "Which should your family pick?",
+     "paras": [
+      "Everyone on Bedrock (phones and consoles)? Aternos with a Bedrock server, or a Realm if you want it always on. Java players who want plugins with zero fuss? Minehut. A Java group whose Bedrock friends visit often? Minehut's built-in crossplay, or an Aternos Java server running the Geyser plugin \u2014 that last one is an advanced move, but it works."
+     ],
+     "steps": []
+    }
+   ],
+   "slug": "free-server-aternos-minehut",
+   "summary": "Two genuinely free ways to run your own server \u2014 Aternos for Java or Bedrock, Minehut for Java with Bedrock crossplay \u2014 steps and honest catches included.",
+   "title": "Run a Free Server with Aternos or Minehut"
+  },
+  {
+   "edition": "Both",
+   "faqs": [
+    [
+     "Why don't I see Export World on Android?",
+     "Your world is almost certainly saved to Application storage. Export World only works for worlds in External storage (Settings, then Storage, then File Storage Location). For an Application-storage world, upload it to a Realm and download it where you need it instead."
+    ],
+    [
+     "Can I export a world from Xbox, PlayStation, or Switch?",
+     "No \u2014 consoles don't offer file export. Upload the world to a Realm from the console, then download it from the Realm on a PC or phone. Realms also keep automatic backups you can restore from the Realm's settings."
+    ],
+    [
+     "What is a .mcworld file?",
+     "Your whole Bedrock world packed into one file \u2014 terrain, builds, player data, and its packs. Double-click it (or open it with Minecraft) on another device and the world imports into that device's Worlds list."
+    ]
+   ],
+   "lead": "On Bedrock (Windows, iPhone, Android): Play, then the pencil next to your world, scroll to the bottom, and tap Export World \u2014 then keep the .mcworld file in two places. On console there is no export button, so a Realm is your backup route. On Java, copy the world's folder out of the saves folder, or use Make Backup on the Edit World screen.",
+   "meta": "How to back up a Minecraft world: export a .mcworld on Bedrock, use Realm backups, copy Java saves \u2014 plus the Android storage catch nobody warns you about.",
+   "page_title": "Back Up Your World and Export a .mcworld | Minecraft Guides \u2014 We The Humans",
+   "sections": [
+    {
+     "heading": "Export a Bedrock world (.mcworld), step by step",
+     "paras": [],
+     "steps": [
+      "Open Minecraft and tap Play.",
+      "Find your world and tap the pencil (Edit) icon next to it \u2014 do not launch the world.",
+      "Scroll to the bottom of the world settings.",
+      "Tap Export World. Minecraft packs the whole world into a single .mcworld file.",
+      "Save it somewhere that is not just this device: a cloud drive, a USB stick, or a computer.",
+      "Make a second copy somewhere else. One copy is a file; two copies are a backup."
+     ]
+    },
+    {
+     "heading": "The Android catch nobody warns you about",
+     "paras": [
+      "On Android, Minecraft can keep worlds in two places, chosen under Settings, then Storage, then File Storage Location. Export World only works for worlds in External storage. If your world lives in Application storage, the export option may simply not appear \u2014 and newer Android versions lock the app's data folder, so copying the world folder by hand with a file manager usually fails too.",
+      "Do not fight it. Upload that world to a Realm (even for one month) and download it where you need it \u2014 the Realm route works no matter where the world is stored."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "Console players: your backup is a Realm",
+     "paras": [
+      "Xbox, PlayStation, and Switch offer no way to export a world file. The route out is a Realm: upload your world to a Realm from the console, then download it from the Realm on a PC or phone and keep that file. Realms also keep automatic backups of the Realm world itself, which the owner can restore or download from the Realm's settings \u2014 worth knowing the day a creeper-related incident takes out a build."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "Back up a Java world",
+     "paras": [],
+     "steps": [
+      "Quit to the title screen \u2014 never copy a world while it is loaded.",
+      "Easiest: Singleplayer, select the world, Edit, then Make Backup. Java keeps the backup inside its own folders.",
+      "Better: copy the world's whole folder out of the saves folder to a drive or cloud folder of your own. On Windows that is %appdata%/.minecraft/saves; on Mac, ~/Library/Application Support/minecraft/saves; on Linux, ~/.minecraft/saves.",
+      "Name the copy with the date. Future you will not remember which 'final_FINAL2' was real."
+     ]
+    },
+    {
+     "heading": "The family rule: three copies",
+     "paras": [
+      "Our Realm world survived a decade on one rule learned the hard way, back when the world file rode SD cards between phones: a world you love lives in three places. Ours sits on the Realm, in a cloud drive, and on a local drive at home. Any one of them can die and the world loses nothing. Back up before big projects, before updates, and before handing the world to a younger cousin \u2014 not after."
+     ],
+     "steps": []
+    }
+   ],
+   "slug": "backup-and-export-your-world",
+   "summary": "Export a .mcworld on Bedrock, lean on Realm backups on console, copy Java saves \u2014 and the three-copy rule that keeps a family world un-losable.",
+   "title": "Back Up Your World and Export a .mcworld"
+  },
+  {
+   "edition": "Both",
+   "faqs": [
+    [
+     "Can I move a world from my phone to my Xbox?",
+     "Yes, through a Realm: upload the world to a Realm from your phone, sign in on the Xbox with the same Microsoft account, and download it \u2014 or just play it from the Realm there. Consoles can't import .mcworld files directly, so the Realm is the bridge."
+    ],
+    [
+     "Do Bedrock worlds sync automatically between devices?",
+     "No. Bedrock worlds live on the device that created them \u2014 they don't follow your Microsoft account. They move when you move them: by .mcworld file, or through a Realm."
+    ],
+    [
+     "Can a Java world become a Bedrock world?",
+     "Yes, with a converter \u2014 Chunker is the one Microsoft's documentation points to. Convert a copy, never your only copy, and expect to check the result: most terrain and builds survive, exotic block states may not."
+    ]
+   ],
+   "lead": "Phone to PC is easy: export a .mcworld on one, open it on the other. Anything involving a console needs a Realm in the middle, because consoles cannot open world files. Java worlds move by copying the saves folder. Cross-edition moves (Java to Bedrock or back) need a converter like Chunker \u2014 doable, but a project, not a button.",
+   "meta": "How to move a Minecraft world between devices: .mcworld export for phone and PC, a Realm bridge for anything touching a console, and saves folders for Java.",
+   "page_title": "Move a World Between Phone, PC, and Console | Minecraft Guides \u2014 We The Humans",
+   "sections": [
+    {
+     "heading": "Phone or PC to phone or PC (Bedrock)",
+     "paras": [],
+     "steps": [
+      "On the source device, export the world (Play, pencil on the world, scroll down, Export World) \u2014 the backup guide above has the full walk-through and the Android storage catch.",
+      "Move the .mcworld file across: cloud drive, USB cable, or AirDrop all work. Big worlds can be hundreds of megabytes, so skip email.",
+      "On the target device, open the file with Minecraft \u2014 double-click on Windows, tap and share to Minecraft on a phone.",
+      "Minecraft shows an import message, and the world appears in your Worlds list, ready to play."
+     ]
+    },
+    {
+     "heading": "Anything to or from a console: the Realm bridge",
+     "paras": [
+      "Consoles cannot import or export world files, so a Realm does the carrying. The subscription only has to be alive while you move the world."
+     ],
+     "steps": [
+      "On the source device, put the world on a Realm: create the Realm with it, or Replace World on an existing Realm.",
+      "On the target device, sign in with the same Microsoft account and open Play, then Realms.",
+      "To play it there, just join the Realm. To own a local copy, open the Realm's edit screen, go to Game settings, and choose Download World.",
+      "Going the other way \u2014 console world to a phone or PC \u2014 works the same: upload from the console, download on the computer."
+     ]
+    },
+    {
+     "heading": "Java to Java: copy the saves folder",
+     "paras": [
+      "Quit the world first. Then copy the world's folder out of the saves folder on the old computer (%appdata%/.minecraft/saves on Windows, ~/Library/Application Support/minecraft/saves on Mac, ~/.minecraft/saves on Linux), move it to the same place on the new computer, and it appears in the Singleplayer list. Zip the folder first if you are sending it \u2014 loose folders shed files."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "Java to Bedrock (or back): a converter project",
+     "paras": [
+      "The two editions store worlds in different formats, so there is no official one-click move. The tool Microsoft's own documentation points to is Chunker, a free converter: feed it a copy of your world, let it convert, then import the result (.mcworld for Bedrock, a saves folder for Java). Most terrain and builds survive; exotic block states and some entity data may not. Always convert a copy \u2014 never your only version of the world."
+     ],
+     "steps": []
+    }
+   ],
+   "slug": "move-a-world-between-devices",
+   "summary": "Phone to PC by .mcworld file, anything involving a console by Realm, Java by saves folder \u2014 every route, with the catches named.",
+   "title": "Move a World Between Phone, PC, and Console"
+  },
+  {
+   "edition": "Both",
+   "faqs": [
+    [
+     "What is the single best setting to fix lag?",
+     "Render distance. It decides how much world your device draws and simulates around you, and it is the biggest lever on phones and older PCs. Drop it a few chunks at a time until the game smooths out \u2014 most players never miss the far view."
+    ],
+    [
+     "Why does my world lag more the longer I play it?",
+     "Worlds accumulate: dropped items, bred animals, villager crowds, hopper chains, and redstone clocks all add work that never goes away. A lag that grows over months is usually clutter, not your device \u2014 clear entities, cap your animal pens, and switch off clocks you're not using."
+    ],
+    [
+     "Is it my internet or my device?",
+     "If the picture itself stutters when you turn around, it's your device \u2014 graphics settings fix it. If the picture is smooth but blocks reappear and mobs jump around, it's the connection or the server. Try a single-player world: smooth there means the problem is online, not your hardware."
+    ]
+   ],
+   "lead": "First figure out which lag you have. A choppy picture when you turn around means your device is struggling \u2014 lower the render distance and the fancy graphics. Actions landing late \u2014 blocks reappearing, mobs teleporting \u2014 means the world or server is struggling: too many entities, or a connection problem. The fixes are different, and render distance is the biggest lever for both.",
+   "meta": "How to fix Minecraft lag: tell FPS lag from server lag, then the Bedrock and Java settings that actually help \u2014 render distance, simulation distance, entities.",
+   "page_title": "Fix Minecraft Lag: The Settings That Actually Help | Minecraft Guides \u2014 We The Humans",
+   "sections": [
+    {
+     "heading": "Turn these down first (Bedrock)",
+     "paras": [],
+     "steps": [
+      "Settings, then Video: drop Render Distance. Try 8\u201312 chunks on a phone, and go lower without shame \u2014 this one setting does more than everything else combined.",
+      "In the same Video settings, switch off the fancy extras: Fancy Graphics, Beautiful Skies, Smooth Lighting, and Fancy Leaves.",
+      "In the world's Game settings, set Simulation Distance to 4 chunks. That is how much world the game keeps alive around you \u2014 farms and mobs beyond it pause instead of eating your phone.",
+      "Restart the game after big changes. Phones especially hold onto the old settings until they get a clean start."
+     ]
+    },
+    {
+     "heading": "Turn these down first (Java)",
+     "paras": [],
+     "steps": [
+      "Options, then Video Settings: Render Distance 8\u201312 chunks, Graphics set to Fast, Clouds Off, Particles Decreased.",
+      "Still choppy on a modest PC? Install Sodium from Modrinth (see the mods page) \u2014 it replaces the rendering engine and is the single biggest free performance upgrade Java has.",
+      "Give the game more room to breathe: close the browser with 40 tabs. You know the one."
+     ]
+    },
+    {
+     "heading": "World-side causes: entities and clutter",
+     "paras": [
+      "A world that lags more every month is usually not dying hardware \u2014 it is accumulation. Dropped items sitting in loaded chunks, animal pens bred into the hundreds, villager crowds, long hopper chains, item frames on every wall, and redstone clocks that run forever all add work that never goes away.",
+      "The clean-up that pays: cap your animal pens, clear dropped-item piles, spread farms across different areas instead of stacking them all at spawn, and put an off switch on every clock. Our Realm's rule \u2014 nothing ever gets removed \u2014 makes this the one maintenance job we actually schedule."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "Server and Realm lag",
+     "paras": [
+      "If everyone online lags at once, it is the host's side: too many players or entities for the plan (free servers are small on purpose), or a server that needs a restart. If only you lag while others are fine, it is your connection or device \u2014 try a single-player world to prove it, and get closer to the router or onto a wire before blaming the game."
+     ],
+     "steps": []
+    }
+   ],
+   "slug": "fix-minecraft-lag",
+   "summary": "Diagnose which lag you actually have, then fix it: render distance first, fancy graphics second, entity clutter third.",
+   "title": "Fix Minecraft Lag: The Settings That Actually Help"
+  },
+  {
+   "edition": "Both",
+   "faqs": [
+    [
+     "Where are Minecraft's parental controls?",
+     "In the Microsoft account, not the game. Add your child to your family group at family.microsoft.com, then open their Xbox privacy settings at account.xbox.com/settings. That's where chat, multiplayer, clubs, and cross-network play are controlled \u2014 for every device they play on."
+    ],
+    [
+     "Are Realms safe for kids?",
+     "They're the safest multiplayer there is in Minecraft: a Realm is private and invite-only, so nobody can join who wasn't invited, and the owner can remove anyone. The remaining risk is the invited people themselves \u2014 which is why the family rule is 'only people we know in real life.'"
+    ],
+    [
+     "Can I turn off chat for my child?",
+     "Yes, two ways. In the Xbox privacy settings, set 'Others can communicate with voice, text, or invites' to Friends or Block. And Bedrock's profanity filter (Settings, then General) is on by default and can't be turned off while a child account is signed in."
+    ]
+   ],
+   "lead": "The controls that matter don't live in Minecraft \u2014 they live in your child's Microsoft account. At account.xbox.com/settings a parent controls who can chat with your child, whether they can join multiplayer at all, and whether they can join clubs (Realms need clubs). In the game, Bedrock's profanity filter is on by default and can't be switched off on a child account. Start with a private, invite-only Realm and you're most of the way there.",
+   "meta": "Minecraft safety for families: the Microsoft family settings that control chat, multiplayer, and invites, why Realms are the safe default, and rules that work.",
+   "page_title": "Keep Kids Safe Online: Chat, Invites & Family Settings | Minecraft Guides \u2014 We The Humans",
+   "sections": [
+    {
+     "heading": "Set up the family group first",
+     "paras": [
+      "Almost every Minecraft parental control flows through the Microsoft family group. Skip this step and half the switches below will do nothing."
+     ],
+     "steps": [
+      "Go to family.microsoft.com and sign in with your parent Microsoft account.",
+      "Add your child as a family member \u2014 they accept the invite, and their account becomes a child account you can manage. (A child account cannot exist without an adult account tied to it.)",
+      "Open your child's Xbox privacy settings at account.xbox.com/settings \u2014 these settings follow the account to every device: Xbox, PlayStation, Switch, phone, and PC.",
+      "Find Privacy & online safety, then View details & customize."
+     ]
+    },
+    {
+     "heading": "The four switches that matter",
+     "paras": [],
+     "steps": [
+      "'You can join multiplayer games' \u2014 the master switch. Off means no servers and no Realms at all. On a child account, multiplayer starts out off until a parent allows it.",
+      "'You can join cross-network play' \u2014 whether your child can play with friends on other console networks (a PlayStation friend from an Xbox, and so on).",
+      "'You can create and join clubs' \u2014 Realms run on clubs, so this one must be on for your child to join the family Realm.",
+      "'Others can communicate with voice, text, or invites' \u2014 set it to Friends so only approved friends can message your child, or Block for silence. This is the stranger switch.",
+      "While you're in the family dashboard: Spending, then 'Ask a parent' before purchases, so Marketplace and Realms charges come to you first."
+     ]
+    },
+    {
+     "heading": "In the game itself",
+     "paras": [
+      "Bedrock's profanity filter (Settings, then General, then Filter Profanity) is on by default \u2014 and while a child account is signed in, it cannot be turned off. Bad words in chat, on signs, and in books get filtered automatically. You can also mute chat from the game's multiplayer settings for a fully quiet game.",
+      "On a Realm, the owner is the moderator: you control the member list, each player's permission level (Visitor, Member, Operator), and you can remove anyone. Nobody can join a Realm who was not invited \u2014 that is what makes it the safe default for kids.",
+      "Java Edition has no built-in parental controls like these. The Java equivalents are the invite list on a Java Realm and the whitelist on a private server \u2014 control who can get in, because there is no filter deciding for you."
+     ],
+     "steps": []
+    },
+    {
+     "heading": "House rules that do the rest",
+     "paras": [
+      "Settings stop strangers; habits stop everything else. Ours: a gamertag is public, so it never contains a real name, school, or town. Public servers come from the in-game featured tab only, never from an address a stranger pastes into chat. An invite link is a house key \u2014 family only, never posted. And anyone met online who asks to move the conversation to another app is a story you tell a parent about, that day, without getting in trouble for telling."
+     ],
+     "steps": []
+    }
+   ],
+   "slug": "kids-safety-online",
+   "summary": "Where the real parental controls live (the Microsoft account, not the game), the four switches that matter, and why a private Realm is the safe default.",
+   "title": "Keep Kids Safe Online: Chat, Invites, and Family Settings"
+  },
+  {
+   "edition": "Both",
+   "faqs": [
+    [
+     "What should I do first in a new Minecraft world?",
+     "Punch a tree. Wood becomes planks, planks become a crafting table, and the table plus a wooden pickaxe unlock stone tools within minutes. Everything in the first day flows from that first log \u2014 then shelter and a bed before dark."
+    ],
+    [
+     "How do I survive the first night without a bed?",
+     "Get inside, seal the door, and light the room. A small dirt or wood box with torches is completely safe \u2014 mobs can't open doors and won't spawn in a lit space. Cook food, organize your chest, and wait for sunrise; go find sheep (3 wool, one color) tomorrow."
+    ],
+    [
+     "What should I build in the first week?",
+     "Stability, in this order: a wheat farm and an animal pen so food never runs out, full stone tools and a shield, then your first iron from careful caving. A lit, fenced base with a farm beats a pretty house that starves."
+    ]
+   ],
+   "lead": "Day one has three jobs: wood, shelter, and a bed before dark. Punch a tree, make a crafting table and a wooden pickaxe, gather stone, and close yourself into any ugly box with a door before the sun sets. Then spend the week turning it into a base: a food farm, stone tools, a shield, and your first iron.",
+   "meta": "A Minecraft survival walkthrough for brand-new players: survive the first night, then the first week \u2014 shelter, bed, food, stone, iron, and a base that lasts.",
+   "page_title": "Your First Night and First Week: A Survival Walkthrough | Minecraft Guides \u2014 We The Humans",
+   "sections": [
+    {
+     "heading": "The first ten minutes",
+     "paras": [],
+     "steps": [
+      "Punch a tree until you have a stack of logs. Everything in Minecraft starts as wood.",
+      "Turn logs into planks, and 4 planks into a crafting table. Put the table down \u2014 it is your first piece of furniture and your most important tool.",
+      "Make a wooden pickaxe (3 planks, 2 sticks) and mine stone. The moment you have cobblestone, upgrade: stone pickaxe, stone axe, stone sword.",
+      "Make a furnace (8 cobblestone) and keep it close. Grab any food you pass \u2014 apples, animals, berries \u2014 and cook it before you explore."
+     ]
+    },
+    {
+     "heading": "Before the first night",
+     "paras": [],
+     "steps": [
+      "Build any shelter: dig three blocks into a hillside and close the hole, or box yourself in with dirt and planks. Ugly is fine. A door (6 planks) keeps the night out.",
+      "Make torches: smelt one log in the furnace to get charcoal, then charcoal plus a stick equals 4 torches. Light the shelter \u2014 hostile mobs need real darkness to spawn, and a lit room is a safe room.",
+      "The goal before dark: a bed. Three wool of the same color (from sheep) plus 3 planks. Sleeping skips the night entirely and sets your spawn point here.",
+      "No bed yet? Stay inside, lit, with the door shut. Cook food, sort your chest, and wait for sunrise. Tomorrow, sheep."
+     ]
+    },
+    {
+     "heading": "Days 2\u20133: become stable",
+     "paras": [],
+     "steps": [
+      "Full stone tools, then plant wheat: till dirt next to water with a hoe, plant seeds from tall grass, and let it grow. Food you grow beats food you chase.",
+      "Fence in animals instead of eating the last two of anything \u2014 two cows and a fence are a food factory; two steaks are a snack.",
+      "Craft a shield (6 planks and 1 iron ingot) as soon as you find your first iron. It blocks arrows, creeper blasts at a distance, and most beginner deaths.",
+      "Turn on coordinates and write down your base. On Bedrock that's a world setting (Show Coordinates); on Java, F3 shows them. Future lost-you says thanks."
+     ]
+    },
+    {
+     "heading": "Days 4\u20137: iron and a future",
+     "paras": [],
+     "steps": [
+      "Cave carefully for iron: full food bar, torches in your off-hand path so you can find your way back, spare pickaxe, and never dig straight down. Ever.",
+      "Smelt iron into gear piece by piece \u2014 pickaxe first, then armor. An iron bucket earns its keep forever (water, lava, milk).",
+      "Start a sugar cane patch by water and keep every cow: paper plus leather becomes books, and books become the enchanting table that changes your late game.",
+      "Light up and fence the area around your base. A week in, you don't have a camp anymore \u2014 you have a home with a farm, a mine, and a bed that knows your name."
+     ]
+    }
+   ],
+   "slug": "first-night-first-week",
+   "summary": "From the first punched tree to a stable base: the first ten minutes, the first night, and the week that turns a dirt box into a home.",
+   "title": "Your First Night and First Week: A Survival Walkthrough"
+  }
+ ],
+ "mechanics_notes": [
+  {
+   "body": "Starting in 2026, Minecraft version numbers lead with the year. Java counts game drops one at a time (26.1, 26.2, 26.3); Bedrock counts in tens for drops (26.10, 26.30, 26.50) and also ships releases between drops (like 26.60). The same drop carries two different numbers \u2014 Wilderness Bound is Java 26.3 and Bedrock 26.50 \u2014 and the numbers are not interchangeable when you are matching a mod, a server, or a fix.",
+   "edition": "Both",
+   "title": "Version numbers changed in 2026"
+  },
+  {
+   "body": "Since late 2024 Mojang ships several smaller themed drops a year instead of one giant summer update \u2014 roughly one a quarter. Drops land on Java and Bedrock the same day. Test builds come first: snapshots on Java, previews on Bedrock.",
+   "edition": "Both",
+   "title": "Game drops, not one big yearly update"
+  },
+  {
+   "body": "Since Tricky Trials (1.21), pillager captains no longer hand you the Bad Omen effect directly. They drop an ominous bottle; you drink it when YOU choose \u2014 entering a village with Bad Omen starts a raid, and using it at a Trial Chamber starts an ominous trial instead. That one change quietly retired the old stacked raid-farm designs and replaced them with bottle-fed designs.",
+   "edition": "Both",
+   "title": "Raids run on ominous bottles now"
+  },
+  {
+   "body": "Trial Chambers are underground copper-and-tuff structures full of trial spawners that scale to your group size and pay out loot from vaults. Ominous vaults (opened with ominous trial keys) are where the heavy core comes from \u2014 the heavy core plus a breeze rod crafts the mace, whose smash damage grows the farther you fall before you land the hit.",
+   "edition": "Both",
+   "title": "Trial Chambers and the mace"
+  },
+  {
+   "body": "Chase the Skies added a ghast you raise from a dried ghast (found in the Nether, rehydrated in water) into a ghastling and then a Happy Ghast \u2014 a four-player flying mount with a harness. The same drop added the locator bar, which shows where your multiplayer friends are on screen, and made saddles craftable.",
+   "edition": "Both",
+   "title": "The Happy Ghast and the locator bar"
+  },
+  {
+   "body": "The Copper Age gave copper tools, armor, chests, and the Copper Golem, which sorts items into chests for you. Copper oxidizes through four stages unless you wax it with honeycomb; an axe scrapes a stage back off.",
+   "edition": "Both",
+   "title": "Copper finally works for a living"
+  },
+  {
+   "body": "Mounts of Mayhem added the spear \u2014 a reach weapon that hits harder from a fast mount \u2014 and the Nautilus, a tameable underwater mount whose armor comes all the way up to netherite. Zombie horsemen, camel husks, and the Parched (a desert skeleton variant) ride along in the same drop.",
+   "edition": "Both",
+   "title": "Spears and the Nautilus"
+  },
+  {
+   "body": "The bundle holds a mixed stack of up to 64 items' worth of different things in one inventory slot \u2014 perfect for the odds and ends a mining trip collects. Bundles of Bravery also brought Hardcore mode to Bedrock, years after Java.",
+   "edition": "Both",
+   "title": "Bundles are real storage now"
+  }
+ ],
+ "mod_examples": [
+  {
+   "edition": "Java",
+   "name": "Sodium",
+   "source": "Modrinth",
+   "what": "Replaces the rendering engine: big frame-rate gains and less stutter. The first mod most Java players install \u2014 current for 26.3, checked November 2026."
+  },
+  {
+   "edition": "Java",
+   "name": "Just Enough Items (JEI)",
+   "source": "Modrinth / CurseForge",
+   "what": "Every recipe and use of every item, searchable in-game. Essential the moment any content mod joins the pile."
+  },
+  {
+   "edition": "Java",
+   "name": "Xaero's Minimap",
+   "source": "Modrinth",
+   "what": "A minimap with waypoints, so 'where was that village?' stops being a question."
+  },
+  {
+   "edition": "Java",
+   "name": "AppleSkin",
+   "source": "Modrinth",
+   "what": "Shows exactly what a food will restore \u2014 hunger and saturation in numbers, so dinner becomes a decision instead of a guess."
+  },
+  {
+   "edition": "Java",
+   "name": "Create",
+   "source": "CurseForge",
+   "what": "Machines, trains, and moving contraptions \u2014 the big content mod other content mods are measured against. Runs on NeoForge or Forge."
+  },
+  {
+   "edition": "Bedrock",
+   "name": "Pickup & Carry!",
+   "source": "CurseForge",
+   "what": "Pick up mobs, chests, and even players and carry them around. Millions of downloads and still updated for current Bedrock (26.60)."
+  },
+  {
+   "edition": "Bedrock",
+   "name": "Modern Furniture (+750 Blocks)",
+   "source": "CurseForge",
+   "what": "More than 750 furniture and decor blocks \u2014 for builders who believe a house should have chairs."
+  },
+  {
+   "edition": "Bedrock",
+   "name": "Another Furniture Add-On",
+   "source": "MCPEDL",
+   "what": "The long-running free furniture staple on MCPEDL: sofas, tables, and kitchen gear for survival houses."
+  }
+ ],
+ "mod_sources": [
+  {
+   "edition": "Java (and Bedrock add-ons section)",
+   "name": "Modrinth",
+   "url": "https://modrinth.com",
+   "what": "The modern home of Minecraft mods, modpacks, datapacks, shaders, and plugins \u2014 clean pages, clear version and loader tags, and a launcher app. Start here for Java."
+  },
+  {
+   "edition": "Java",
+   "name": "CurseForge",
+   "url": "https://www.curseforge.com/minecraft",
+   "what": "The older giant of mod hosting \u2014 the biggest back-catalog of mods and modpacks, with its own app for one-click installs."
+  },
+  {
+   "edition": "Bedrock",
+   "name": "MCPEDL",
+   "url": "https://mcpedl.com",
+   "what": "The long-running home of Bedrock add-ons, maps, and texture packs (.mcpack and .mcaddon files that install with a tap)."
+  },
+  {
+   "edition": "Bedrock",
+   "name": "Minecraft Marketplace",
+   "url": "https://www.minecraft.net/en-us/marketplace",
+   "what": "The in-game store built into Bedrock \u2014 everything there is reviewed by the platform, some free, much of it paid. The safest possible source for younger players."
+  }
+ ],
+ "recent_drops": [
+  {
+   "bedrock": "26.50",
+   "date": "September 15, 2026",
+   "headline": "The Dappled Forest biome, poplar wood, abandoned camps, cushions and straw beds, and improved maps.",
+   "java": "26.3",
+   "name": "Wilderness Bound"
+  },
+  {
+   "bedrock": "26.30",
+   "date": "June 16, 2026",
+   "headline": "Sulfur Caves and sulfur springs, sulfur and cinnabar blocks, and the Sulfur Cube.",
+   "java": "26.2",
+   "name": "Chaos Cubed"
+  },
+  {
+   "bedrock": "26.10",
+   "date": "March 24, 2026",
+   "headline": "New models for baby mobs, the golden dandelion, and craftable name tags.",
+   "java": "26.1",
+   "name": "Tiny Takeover"
+  },
+  {
+   "bedrock": "1.21.130",
+   "date": "December 9, 2025",
+   "headline": "Spears, the tameable Nautilus and nautilus armor, zombie horsemen, camel husks, the Parched, and netherite horse armor. The last of the 1.21 line.",
+   "java": "1.21.11",
+   "name": "Mounts of Mayhem"
+  },
+  {
+   "bedrock": "1.21.111",
+   "date": "September 30, 2025",
+   "headline": "The Copper Golem and copper chests, copper tools and armor, and shelves \u2014 copper finally has a day job.",
+   "java": "1.21.9",
+   "name": "The Copper Age"
+  },
+  {
+   "bedrock": "1.21.90",
+   "date": "June 17, 2025",
+   "headline": "The Happy Ghast you can ride, the locator bar, craftable saddles, and Vibrant Visuals on Bedrock.",
+   "java": "1.21.6",
+   "name": "Chase the Skies"
+  },
+  {
+   "bedrock": "1.21.70",
+   "date": "March 25, 2025",
+   "headline": "Warm and cold variants of farm animals, leaf litter, wildflowers, and fallen trees.",
+   "java": "1.21.5",
+   "name": "Spring to Life"
+  },
+  {
+   "bedrock": "1.21.50",
+   "date": "December 3, 2024",
+   "headline": "The Pale Garden, pale oak, resin, and the Creaking \u2014 a mob you cannot kill directly, only outsmart.",
+   "java": "1.21.4",
+   "name": "The Garden Awakens"
+  },
+  {
+   "bedrock": "1.21.40",
+   "date": "October 22, 2024",
+   "headline": "Bundles for everyone, and Hardcore mode arrives on Bedrock.",
+   "java": "1.21.2",
+   "name": "Bundles of Bravery"
+  },
+  {
+   "bedrock": "1.21.0",
+   "date": "June 13, 2024",
+   "headline": "Trial Chambers, the Breeze and the Bogged, the crafter, ominous trials, and the mace. The last big yearly update before the game-drop schedule.",
+   "java": "1.21",
+   "name": "Tricky Trials"
+  }
+ ],
+ "servers": [
+  {
+   "address": "mc.hypixel.net",
+   "cost": "Free to join and play; optional ranks and cosmetics.",
+   "edition": "Java",
+   "known_for": "The biggest minigame network in Minecraft \u2014 SkyBlock, Bed Wars, and dozens more modes, with tens of thousands of players online at peak.",
+   "name": "Hypixel",
+   "status_note": "Verified active in server lists checked September\u2013October 2026.",
+   "url": "https://hypixel.net"
+  },
+  {
+   "address": "play.wynncraft.com",
+   "cost": "Free to join and play; optional ranks.",
+   "edition": "Java",
+   "known_for": "A full MMORPG built inside Minecraft \u2014 a handcrafted world, classes, thousands of quests, dungeons, and boss fights. No mods needed.",
+   "name": "Wynncraft",
+   "status_note": "Verified active in server lists checked September\u2013October 2026.",
+   "url": "https://wynncraft.com"
+  },
+  {
+   "address": "play.mccisland.net",
+   "cost": "Free to join and play; optional cosmetics.",
+   "edition": "Java",
+   "known_for": "Event-style party minigames from the team behind the MC Championship \u2014 polished, friendly, quick rounds.",
+   "name": "MCC Island",
+   "status_note": "Listed among active top servers in October 2026 roundups.",
+   "url": "https://mccisland.net"
+  },
+  {
+   "address": "play.cubecraft.net (or the Bedrock Servers tab)",
+   "cost": "Free to join and play; optional ranks.",
+   "edition": "Java + Bedrock",
+   "known_for": "EggWars, SkyWars, and Lucky Islands \u2014 one of the few big networks running natively on both editions.",
+   "name": "CubeCraft Games",
+   "status_note": "Verified active in server lists checked September\u2013October 2026.",
+   "url": "https://www.cubecraft.net"
+  },
+  {
+   "address": "Featured Server in-game (geo.hivebedrock.cloud)",
+   "cost": "Free to join and play; optional ranks and cosmetics.",
+   "edition": "Bedrock",
+   "known_for": "The classic Bedrock minigame network \u2014 Bed Wars, Murder Mystery, Hide and Seek, DeathRun, SkyWars. The easiest first server for console and phone players.",
+   "name": "The Hive",
+   "status_note": "Verified active in server lists checked September\u2013October 2026.",
+   "url": "https://playhive.com"
+  },
+  {
+   "address": "Featured Server in-game",
+   "cost": "Free to join and play; optional cosmetics.",
+   "edition": "Bedrock",
+   "known_for": "A Bedrock featured network with a strong PvP streak \u2014 fast minigames and duels, built for console and mobile.",
+   "name": "Galaxite",
+   "status_note": "Listed among active Bedrock networks in 2026 roundups.",
+   "url": "https://galaxite.net"
+  },
+  {
+   "address": "Featured Server in-game",
+   "cost": "Free to join and play; optional ranks.",
+   "edition": "Bedrock",
+   "known_for": "One of the longest-running Bedrock networks \u2014 Survival Games and fast-paced minigames, right in the Featured Servers tab.",
+   "name": "Lifeboat Network",
+   "status_note": "Listed among active Bedrock networks in 2026 roundups; join through the in-game Featured Servers tab for the current address.",
+   "url": "https://lbsg.net"
+  },
+  {
+   "address": "donutsmp.net",
+   "cost": "Free to join and play; optional ranks.",
+   "edition": "Java + Bedrock",
+   "known_for": "A big survival SMP with Java\u2013Bedrock crossplay \u2014 economy, claims, and a busy community, if a public survival world is what you want.",
+   "name": "DonutSMP",
+   "status_note": "Listed among active crossplay SMPs in October 2026 roundups.",
+   "url": "https://donutsmp.net"
+  },
+  {
+   "address": "See the official site for current details",
+   "cost": "\u2014",
+   "edition": "Java + Bedrock",
+   "known_for": "Once one of the biggest networks in the game, Mineplex shut down in May 2023. Reports in 2026 say it returned under new ownership. Because its story has changed hands, we list it as history: check the official site carefully before trusting any 'Mineplex' address a stranger gives you \u2014 copycat servers trade on old famous names.",
+   "name": "Mineplex \u2014 a note, not a recommendation",
+   "status_note": "Historical entry. The original network closed in May 2023; a relaunch under new ownership was reported in June 2026.",
+   "url": "https://www.mineplex.com"
+  }
+ ],
+ "skin_sources": [
+  {
+   "edition": "Both",
+   "name": "The Skindex (MinecraftSkins.com)",
+   "url": "https://www.minecraftskins.com",
+   "what": "The biggest free skin library \u2014 browse, edit in the browser, and download. The classic first stop."
+  },
+  {
+   "edition": "Java",
+   "name": "NameMC",
+   "url": "https://namemc.com/minecraft-skins",
+   "what": "Browse skins by what players actually wear, check name availability, and grab trending looks."
+  },
+  {
+   "edition": "Both",
+   "name": "Your own pixel editor",
+   "url": "https://www.minecraftskins.com/skin-editor/",
+   "what": "The Skindex editor (and tools like it) lets you paint your own skin pixel by pixel \u2014 the only skin guaranteed to be one of one."
+  }
+ ],
+ "tips": [
+  {
+   "group": "Survival Start",
+   "items": [
+    {
+     "edition": "Both",
+     "t": "Punch trees, then immediately make a crafting table and wooden pickaxe \u2014 the first ten minutes set the whole run."
+    },
+    {
+     "edition": "Both",
+     "t": "Your first shelter can be ugly. A dirt box with a door beats a beautiful grave. Beds come first: sleeping skips the night and sets your spawn."
+    },
+    {
+     "edition": "Both",
+     "t": "Cook food before you explore. Raw hunger math loses more new players than creepers do."
+    },
+    {
+     "edition": "Bedrock",
+     "t": "Mark your base coordinates. On Bedrock, turn on Show Coordinates in world settings \u2014 it is not cheating, it is a map you carry in your head."
+    },
+    {
+     "edition": "Both",
+     "t": "Torches are cheaper than respawns. Light your base area generously; hostile mobs need darkness to spawn."
+    },
+    {
+     "edition": "Both",
+     "t": "Never dig straight down. Dig a staircase or a 2-wide shaft so a lava lake is a surprise you see, not one you land in."
+    }
+   ]
+  },
+  {
+   "group": "Mining",
+   "items": [
+    {
+     "edition": "Both",
+     "t": "Diamonds live deep: the richest band is far below Y=0, with the best odds near the bottom of the world \u2014 but lava lakes live there too. Mine at around Y=-53 to -59 and keep a water bucket in hand."
+    },
+    {
+     "edition": "Both",
+     "t": "Ancient debris in the Nether is most common around Y=15. Beds explode in the Nether and clear debris-hunting tunnels fast \u2014 stand behind a block when you set one off."
+    },
+    {
+     "edition": "Both",
+     "t": "Fortune III on a pickaxe multiplies ore drops. Silk Touch brings the ore block home. Carry both jobs, not one tool pretending to be both."
+    },
+    {
+     "edition": "Both",
+     "t": "Strip mining is slow and safe; caving is fast and dramatic. Early game, cave. Late game with good armor, do whichever you enjoy \u2014 you will do a lot of it."
+    },
+    {
+     "edition": "Both",
+     "t": "A shield makes skeletons a joke and creeper blasts survivable. Cheapest power spike in the game: six planks and one iron."
+    }
+   ]
+  },
+  {
+   "group": "Enchanting & Gear",
+   "items": [
+    {
+     "edition": "Both",
+     "t": "Mending is the best enchantment in the game and it does not come from the enchanting table \u2014 fish it, raid for it, find it in loot, or buy it from a librarian villager."
+    },
+    {
+     "edition": "Both",
+     "t": "Thirty levels plus fifteen bookshelves around the table gives top-tier enchants. Do your level-30 rolls on the item you will keep, not on starter gear."
+    },
+    {
+     "edition": "Both",
+     "t": "An anvil gets more expensive every time you use it on the same item. Combine books smartly and do not repair forever \u2014 Mending ends the whole problem."
+    },
+    {
+     "edition": "Both",
+     "t": "Feather Falling IV on boots turns fatal falls into embarrassing ones. Elytra plus rockets turns travel into the best part of the game."
+    },
+    {
+     "edition": "Bedrock",
+     "t": "Bedrock has no Sweeping Edge \u2014 build your mob grinder expectations (and your sword arm) accordingly."
+    }
+   ]
+  },
+  {
+   "group": "The Nether",
+   "items": [
+    {
+     "edition": "Both",
+     "t": "Every block in the Nether is eight blocks in the Overworld. Two portals and a safe Nether road is the fastest legal travel there is."
+    },
+    {
+     "edition": "Both",
+     "t": "Wear one piece of gold armor and piglins leave you alone (mostly). Open a chest near them and all bets are off."
+    },
+    {
+     "edition": "Both",
+     "t": "Bring fire resistance potions to a fortress run. Blaze rods and wither skulls are the toll; blazes charge it."
+    },
+    {
+     "edition": "Both",
+     "t": "Beds explode in the Nether. That is a mining tool if you plan it, and a funeral if you do not."
+    },
+    {
+     "edition": "Both",
+     "t": "Soul sand valleys and basalt deltas slow you down and spawn ghasts. Mark your portal path with a block type you can spot in a panic."
+    }
+   ]
+  },
+  {
+   "group": "The End & Late Game",
+   "items": [
+    {
+     "edition": "Both",
+     "t": "Bring slow-falling potions or an elytra plan to the dragon fight, plus blocks to pillar with and a bed set outside the portal \u2014 not inside the End."
+    },
+    {
+     "edition": "Both",
+     "t": "After the dragon, the outer End islands are where elytra and shulker boxes live. Bridge carefully, bring ender pearls, and write down your gateway coordinates."
+    },
+    {
+     "edition": "Both",
+     "t": "Shulker boxes plus an ender chest is portable storage that survives your own death. The ender chest is the bank vault; the shulker is the wallet."
+    },
+    {
+     "edition": "Both",
+     "t": "Respawn the dragon with four end crystals if you want more gateways or a second egg ceremony \u2014 the egg itself never hatches, it is a trophy."
+    }
+   ]
+  },
+  {
+   "group": "Redstone Basics",
+   "items": [
+    {
+     "edition": "Both",
+     "t": "Learn four parts first: lever (a switch), repeater (delay and one-way), comparator (measures containers), observer (sees change). Ninety percent of builds are those four plus pistons."
+    },
+    {
+     "edition": "Both",
+     "t": "Redstone dust carries a signal 15 blocks. A repeater refreshes it to full strength \u2014 that is the whole secret of long runs."
+    },
+    {
+     "edition": "Bedrock",
+     "t": "Bedrock has no quasi-connectivity. If a tutorial powers a piston 'through the block above it', that step will not work on Bedrock \u2014 find the Bedrock version of the build."
+    },
+    {
+     "edition": "Both",
+     "t": "Test redstone in a flat creative test world before you build it in survival. Future you, holding the materials list, says thanks."
+    }
+   ]
+  },
+  {
+   "group": "Realms & Family Play",
+   "items": [
+    {
+     "edition": "Bedrock",
+     "t": "A Realm is a private, always-online world \u2014 family on phones, consoles, and PC can all join the same Bedrock world without anyone hosting from their device."
+    },
+    {
+     "edition": "Both",
+     "t": "Set the house rules in stone early. Ours: nothing built ever gets removed, no cheats, no creative \u2014 a world with rules becomes a world with history."
+    },
+    {
+     "edition": "Both",
+     "t": "Back the world up on a schedule and keep one copy somewhere else entirely. A world you have played for years deserves the same care as family photos."
+    },
+    {
+     "edition": "Both",
+     "t": "Give new players a starter kit and a job, not a tour. People stay in a world where they built something with their name on it."
+    },
+    {
+     "edition": "Bedrock",
+     "t": "Use the Realm's player permissions: visitors can look, members can build, and only people you trust get operator powers."
+    }
+   ]
+  }
+ ],
+ "updated": "2026-11-23",
+ "version": 1,
+ "versions": {
+  "bedrock_drop": "26.50",
+  "bedrock_latest_note": "Bedrock 26.60 landed October 27, 2026 with early Deep Freeze features available as experiments; small hotfixes follow on each platform in their own time.",
+  "bedrock_stable": "26.60 (26.5x line for the current drop, plus between-drop releases)",
+  "java_stable": "26.3",
+  "java_stable_date": "September 15, 2026",
+  "java_stable_name": "Wilderness Bound",
+  "next_drop": "Deep Freeze \u2014 Java 26.4 / Bedrock 26.70, in testing (snapshots and previews) as of November 2026, expected December 2026. Ice Caves, the Frostbite zombie, and the Freezing effect. Not released yet \u2014 anything below about it is test-build information and can change."
+ }
+}
