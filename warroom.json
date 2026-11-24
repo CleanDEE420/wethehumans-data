@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T20:56:42-06:00",
+ "generated_at": "2026-11-23T21:01:43-06:00",
  "season": {
   "fleet_pnl": -2221.86,
   "closed_total": 516,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 276 fresh Solana launches.",
+   "doing": "Holding 3 snipes and tracking 274 fresh Solana launches.",
    "stats": {
     "Block": "Block 4 \u00b7 current",
     "Closed": 173,
@@ -111,7 +111,7 @@
     "Win rate": "20%",
     "PnL": "$-998.40",
     "Profit factor": "0.37",
-    "Watching": 276,
+    "Watching": 274,
     "Open": 3,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -128,8 +128,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-23-toolkit-dialin right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab PARITY MIRROR review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "145/152",
     "Reviews filed": 97,
@@ -190,7 +190,7 @@
    "stats": {
     "Jobs tracked on the board": 31,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 89,
+    "Open tasks": 88,
     "Open decisions": 9,
     "Projects": 17
    },
@@ -231,7 +231,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "Next pile: HOLD \u2014 founder ruling 2026-11-22 22:03 CT: 'wait for everything before it deploys and make sure its right \u2014 Ill recan tommrow.' KRYPTON #106 review of the assembled pile DONE 69/69 (ALL.done 00:21 CT Nov 23, post-deploy check) \u2014\u2026"
+   "next_gate": "Deploy package COMPLETE \u2014 the only gate left is his deploy word (standing word from today still governs; no new ask). KRYPTON #106 VETTED 2026-11-23 12:16 CT: CLEARED-WITH-FIXES (247 findings: 2 CONFIRMED + fixed in staging, 6 NOTED, 239 RE\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -241,17 +241,17 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 (6afc8020, live-verified). Timer pile: founder ruled 'Keep holding' 2026-11-22 21:57 CT \u2014 stays held. FH-030/031/032: founder ruled 'Keep all 3' 21:57 CT \u2014 closed, all stay in the library.\u2026"
+   "next_gate": "Toolkit Phase 1 + Stream Buddy DEPLOYED 2026-11-17 (6afc8020, live-verified). Timer pile: HOLD re-confirmed 2026-11-23 09:24 CT. FH-030/031/032: founder ruled 'Keep all 3' 21:57 CT Nov 22 \u2014 closed. Ko-fi payout CONNECTED; /tip/ live-verifie\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked (last 6 trimmed per founder ruling 21:54 CT). Rarity-3 fix: 3/3 writes landed + bind-checked; 2/3 buyer-verified, PKMNB8-046 buyer-lagging (public-index lag), delayed re-read owed. Category\u2026"
+   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked. Rarity-3 fix: 3/3 writes landed + bind-checked. Category 1,311/1,311 landed + buyer proof done. Rarity batch closed 632 accounted. Delayed buyer-seat re-read OWED for 28 listings (6 lagging\u2026"
   },
   {
    "name": "wethehumans.cool",
    "status": "live",
-   "next_gate": "LONG-FORM LANE (new 2026-11-22): batch 1 READY \u2014 5 chapter-depth pieces, 6,706 words, Helio narrations QA-passed, banked at ~/workspace/long-form-lane/. Section rename 'Guides & Know-How' + redesigned hub (5 shelves, working search, listen\u2026"
+   "next_gate": "Batch 1 DEPLOYED 2026-11-23 09:28 CT (6b045b70, verified live): 5 chapter-depth pieces + Guides & Know-How hub, sitemap 232 URLs (+5), llms.txt. Seller School chain COMPLETE 09:47 CT (6b046019, 17 files; 12 lessons rewritten first per his 0\u2026"
   },
   {
    "name": "Facebook + Reels machine",
@@ -286,7 +286,7 @@
   {
    "name": "DC Command \u2014 the board itself",
    "status": "active",
-   "next_gate": "Factory Alive DEPLOYED 2026-11-15 (6afa04db). Board deploy DONE 2026-11-21 18:44 CT (6b023c5c244df456cff37d57 \u2014 /desk/ live, width fix). 30-min sites-stats timer REINSTALLED 23:49 CT (was swept from /etc) + proven pulling; flip timer reinst\u2026"
+   "next_gate": "Factory Alive DEPLOYED 2026-11-15 (6afa04db). Board deploy DONE 2026-11-21 18:44 CT (6b023c5c244df456cff37d57 \u2014 /desk/ live, width fix). 30-min sites-stats timer REINSTALLED 23:49 CT + proven pulling; flip timer reinstalled too. Daily sync\u2026"
   },
   {
    "name": "Household / admin",
@@ -296,17 +296,17 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "DEPLOYED 2026-11-22 ~23:5x CT (6b03d497) \u2014 catch-up complete, analytics already LIVE (answers his 'Does it have analytics yet?'). Audio backfill LIVE (244 entries, deploy 6afc98a9); 17 unrendered cards 252-268 BUILD-fated to the next voice\u2026"
+   "next_gate": "Long-form batch 1 DEPLOYED (his word per batch). Level 2 LIVE: 50 cards/night (Batch 29 banked, 548; Batch 30 next); streaks RULED OUT (\"Keep the promise \u2014 no streaks\"); topic pantry 1,123 stocked. Producer PAUSED until the tiled vision-gat\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: Gumby's vet \u2014 #106 next-pile (DONE 69/69, ALL.done 00:21 CT, queued 00:22 CT) + dead-man's switch review (DONE, ALL.done, Nov 15 run) + nightly drip.js review (DONE 10/10) + the 12 older ALL.done runs + nightly 2026-11-21-rarity\u2026"
+   "next_gate": "waiting on: Gumby's vet \u2014 #115 snapshot-gate-cap (re-vet complete 12/12, queued 20:01:53 CT) + dead-man's switch review (DONE, ALL.done, Nov 15 run) + nightly drip.js review (DONE 10/10) + the 12 older ALL.done runs + nightly 2026-11-21-rar\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 4 running (128 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim AUTHORIZED tonight ('Run t\u2026"
+   "next_gate": "Block 4 running (172 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equi\u2026"
   },
   {
    "name": "StoreFab \u2014 outreach",
@@ -314,7 +314,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready (The Nerd Merchant, Baseball Card Connection, Athlon Authentics, Neuhart Cards \u2014 all re-verified 300+ live). Sends wait on: the StoreFab next-pile deploy (HOLD \u2014 his re-scan M\u2026"
   }
  ],
- "projects_as_of": "2026-11-23 08:22 PM CT",
+ "projects_as_of": "2026-11-23 08:58 PM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
