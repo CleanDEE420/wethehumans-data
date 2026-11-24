@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T17:33:53-06:00",
+ "generated_at": "2026-11-24T17:38:54-06:00",
  "season": {
-  "fleet_pnl": -2327.81,
-  "closed_total": 541,
-  "open_total": 3,
+  "fleet_pnl": -2334.87,
+  "closed_total": 542,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,21 +103,21 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 295 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 294 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
-    "Closed": 10,
-    "Record": "1W\u20139L",
-    "Win rate": "10%",
-    "PnL": "$-96.31",
+    "Closed": 11,
+    "Record": "1W\u201310L",
+    "Win rate": "9%",
+    "PnL": "$-103.37",
     "Profit factor": "0.07",
-    "Watching": 295,
-    "Open": 3,
+    "Watching": 294,
+    "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "505 closed \u00b7 112W\u2013393L \u00b7 $-2323.36",
+    "All-time": "506 closed \u00b7 112W\u2013394L \u00b7 $-2330.42",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 36
    },
@@ -133,9 +133,9 @@
    "doing": "Reviewing 2026-11-24-storefab-card-facts-wiring right now.",
    "stats": {
     "Reviews done": "153/159",
-    "Reviews filed": 99,
+    "Reviews filed": 100,
     "Held in queue": 4,
-    "Latest report": "2026-11-24-batch_full.py.md",
+    "Latest report": "2026-11-24-storefab-card-facts-ingestion-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
