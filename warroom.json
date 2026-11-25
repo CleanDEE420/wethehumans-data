@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T07:13:53-06:00",
+ "generated_at": "2026-11-25T07:18:54-06:00",
  "season": {
   "fleet_pnl": -2232.84,
   "closed_total": 563,
@@ -129,13 +129,13 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON nightly review \u2014 bluesky_api.py.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-25-security-audit-auth-map right now.",
    "stats": {
-    "Reviews done": "157/162",
-    "Reviews filed": 102,
+    "Reviews done": "157/163",
+    "Reviews filed": 103,
     "Held in queue": 4,
-    "Latest report": "2026-11-25-bluesky_api.py.md",
+    "Latest report": "2026-11-25-storefab-box-map-fold-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
