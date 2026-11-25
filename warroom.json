@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T10:03:54-06:00",
+ "generated_at": "2026-11-25T10:08:54-06:00",
  "season": {
-  "fleet_pnl": -2246.53,
-  "closed_total": 566,
-  "open_total": 5,
+  "fleet_pnl": -2244.39,
+  "closed_total": 568,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 31,
-    "Road to 100": "31/100",
-    "Record": "20W\u201311L",
-    "Win rate": "65%",
-    "PnL": "$+0.29",
-    "Open": 2,
-    "Profit factor": "1.02"
+    "Closed": 32,
+    "Road to 100": "32/100",
+    "Record": "21W\u201311L",
+    "Win rate": "66%",
+    "PnL": "$+1.36",
+    "Open": 1,
+    "Profit factor": "1.09"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -67,16 +67,16 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 8,
-    "Road to 100": "8/100",
-    "Record": "5W\u20133L",
-    "Win rate": "62%",
-    "PnL": "$+1.53",
-    "Open": 2,
-    "Profit factor": "1.83"
+    "Closed": 9,
+    "Road to 100": "9/100",
+    "Record": "6W\u20133L",
+    "Win rate": "67%",
+    "PnL": "$+2.60",
+    "Open": 1,
+    "Profit factor": "2.41"
    },
    "demerits": []
   },
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 319, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 317, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 24,
@@ -111,7 +111,7 @@
     "Win rate": "29%",
     "PnL": "$-17.88",
     "Profit factor": "0.88",
-    "Watching": 319,
+    "Watching": 317,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -132,7 +132,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-25-security-handler-bodies right now.",
    "stats": {
-    "Reviews done": "158/164",
+    "Reviews done": "158/165",
     "Reviews filed": 103,
     "Held in queue": 4,
     "Latest report": "2026-11-25-storefab-box-map-fold-VET.md",
