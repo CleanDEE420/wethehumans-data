@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T02:29:11.455810+00:00",
+ "generated_at": "2026-11-25T02:34:17.855420+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-24 20:25 CST \u2014 14 new coins seen. \u00b7 75060 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-24 20:30 CST \u2014 25 new coins seen. \u00b7 75085 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T02:25:41.679949+00:00"
+   "detail": "journal last entry 2026-11-25T02:30:54.825921+00:00"
   },
   {
    "seat": "EQUITY",
@@ -170,9 +170,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 498.29,
-   "open": 1,
+   "open": 2,
    "last_close": "2026-11-24T17:45:06.010000+00:00",
-   "last_activity": "2026-11-25T01:45:01.984625+00:00",
+   "last_activity": "2026-11-25T02:30:01.976394+00:00",
    "closed": 26,
    "wins": 17,
    "losses": 9,
@@ -188,9 +188,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 499.57,
-   "open": 1,
+   "open": 2,
    "last_close": "2026-11-20T21:49:26.093000+00:00",
-   "last_activity": "2026-11-25T01:45:01.966547+00:00",
+   "last_activity": "2026-11-25T02:30:01.932300+00:00",
    "closed": 3,
    "wins": 2,
    "losses": 1,
@@ -1761,6 +1761,22 @@
  ],
  "flow": [
   {
+   "ts": "2026-11-25T02:30:01.976394+00:00",
+   "racer": "RECOIL",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-25T02:30:01.932300+00:00",
+   "racer": "GOVERNOR",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
    "ts": "2026-11-25T02:25:41.679949+00:00",
    "racer": "ORBIT",
    "kind": "exit",
@@ -2033,26 +2049,6 @@
    "symbol": "Valueless",
    "pnl": -14.15,
    "reason": "unarmed_floor_-40%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-24T20:26:10.257064+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "Valueless",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-24T19:11:14.296842+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "SANTIA",
-   "pnl": 7.67,
-   "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
   }
