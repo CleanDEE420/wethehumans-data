@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T08:28:54-06:00",
+ "generated_at": "2026-11-25T08:43:53-06:00",
  "season": {
   "fleet_pnl": -2232.84,
   "closed_total": 563,
-  "open_total": 4,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 319, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 323 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 23,
@@ -111,15 +111,15 @@
     "Win rate": "30%",
     "PnL": "$-0.13",
     "Profit factor": "1.00",
-    "Watching": 319,
-    "Open": 0,
+    "Watching": 323,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "518 closed \u00b7 118W\u2013400L \u00b7 $-2227.18",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 24
+    "Entries (24h)": 23
    },
    "demerits": [
     "Bag Holder \u00d7154"
@@ -129,10 +129,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-25-security-audit-auth-map right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab BOX MAP FOLD review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "157/163",
+    "Reviews done": "158/163",
     "Reviews filed": 103,
     "Held in queue": 4,
     "Latest report": "2026-11-25-storefab-box-map-fold-VET.md",
