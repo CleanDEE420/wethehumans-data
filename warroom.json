@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T10:08:54-06:00",
+ "generated_at": "2026-11-25T10:13:53-06:00",
  "season": {
   "fleet_pnl": -2244.39,
   "closed_total": 568,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 317, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 318, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 24,
@@ -111,7 +111,7 @@
     "Win rate": "29%",
     "PnL": "$-17.88",
     "Profit factor": "0.88",
-    "Watching": 317,
+    "Watching": 318,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -132,7 +132,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-25-security-handler-bodies right now.",
    "stats": {
-    "Reviews done": "158/165",
+    "Reviews done": "158/166",
     "Reviews filed": 103,
     "Held in queue": 4,
     "Latest report": "2026-11-25-storefab-box-map-fold-VET.md",
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-14-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 19,
+    "Jobs tracked on the board": 18,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 11,
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 09:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
