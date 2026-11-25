@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T01:43:54-06:00",
+ "generated_at": "2026-11-25T01:53:53-06:00",
  "season": {
   "fleet_pnl": -2231.03,
   "closed_total": 556,
-  "open_total": 1,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,7 +47,7 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 28,
@@ -55,7 +55,7 @@
     "Record": "18W\u201310L",
     "Win rate": "64%",
     "PnL": "$-1.75",
-    "Open": 0,
+    "Open": 2,
     "Profit factor": "0.88"
    },
    "demerits": [
@@ -67,7 +67,7 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 5,
@@ -75,7 +75,7 @@
     "Record": "3W\u20132L",
     "Win rate": "60%",
     "PnL": "$-0.48",
-    "Open": 0,
+    "Open": 2,
     "Profit factor": "0.73"
    },
    "demerits": []
@@ -129,10 +129,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-24-storefab-scan-by-boxes right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 bluesky_api.py.",
    "stats": {
-    "Reviews done": "155/161",
+    "Reviews done": "156/161",
     "Reviews filed": 102,
     "Held in queue": 4,
     "Latest report": "2026-11-25-bluesky_api.py.md",
