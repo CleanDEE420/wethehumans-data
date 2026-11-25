@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T20:19:22.807216+00:00",
+ "generated_at": "2026-11-25T20:24:20.231091+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 14:15 CST \u2014 50 new coins seen. \u00b7 81018 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 14:20 CST \u2014 54 new coins seen. \u00b7 81072 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 531 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 532 entered all time \u00b7 2 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T20:15:52.023481+00:00"
+   "detail": "journal last entry 2026-11-25T20:20:54.360500+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,843.92 of $500 start \u00b7 max drawdown $2,343.92 (468.8% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,843.92 of $500 start \u00b7 max drawdown $2,343.92 (468.8% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -159,7 +159,7 @@
     "pnl": 182037.18
    }
   ],
-  "open": 1,
+  "open": 2,
   "watching": 313
  },
  "racers": [
@@ -1701,7 +1701,7 @@
   "ending_equity": -1843.92,
   "max_dd_usd": 2343.92,
   "max_dd_pct": 468.8,
-  "open_count": 1
+  "open_count": 2
  },
  "equity_line": [
   {
@@ -1760,6 +1760,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-25T20:20:54.359880+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "OnlyUp",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-25T19:50:47.538000+00:00",
    "racer": "ORBIT",
@@ -2035,16 +2045,6 @@
    "symbol": "ETH/USD",
    "pnl": 2.01,
    "reason": "dip_reversion"
-  },
-  {
-   "ts": "2026-11-25T14:45:44.305497+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "MONEYGO",
-   "pnl": -17.75,
-   "reason": "unarmed_floor_-40%",
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
