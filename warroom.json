@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T22:53:54-06:00",
+ "generated_at": "2026-11-24T22:58:53-06:00",
  "season": {
   "fleet_pnl": -2228.21,
   "closed_total": 551,
@@ -145,10 +145,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": true,
-   "doing": "Nightly stacker \u2014 last run 2026-11-23 22:37 CT (run 16, nightly stacker): 13 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-24 22:37 CT (run 17, nightly stacker): 12 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-23 22:37 CT (run 16, nightly stacker)",
-    "Pieces last run": 13,
+    "Last run": "2026-11-24 22:37 CT (run 17, nightly stacker)",
+    "Pieces last run": 12,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
