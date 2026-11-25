@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:28:53-06:00",
+ "generated_at": "2026-11-25T01:43:54-06:00",
  "season": {
   "fleet_pnl": -2231.03,
   "closed_total": 556,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 300, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 299, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 21,
@@ -111,7 +111,7 @@
     "Win rate": "29%",
     "PnL": "$+0.56",
     "Profit factor": "1.00",
-    "Watching": 300,
+    "Watching": 299,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -133,9 +133,9 @@
    "doing": "Reviewing 2026-11-24-storefab-scan-by-boxes right now.",
    "stats": {
     "Reviews done": "155/161",
-    "Reviews filed": 101,
+    "Reviews filed": 102,
     "Held in queue": 4,
-    "Latest report": "2026-11-24-storefab-suggestion-box-VET.md",
+    "Latest report": "2026-11-25-bluesky_api.py.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-3-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 15,
+    "Jobs tracked on the board": 14,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 9,
