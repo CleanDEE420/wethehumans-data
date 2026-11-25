@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:03:53-06:00",
+ "generated_at": "2026-11-24T21:08:53-06:00",
  "season": {
   "fleet_pnl": -2233.53,
   "closed_total": 549,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 294, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 293, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 18,
@@ -111,7 +111,7 @@
     "Win rate": "28%",
     "PnL": "$-2.03",
     "Profit factor": "0.98",
-    "Watching": 294,
+    "Watching": 293,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -191,7 +191,7 @@
    "stats": {
     "Jobs tracked on the board": 14,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 97,
+    "Open tasks": 98,
     "Open decisions": 9,
     "Projects": 17
    },
@@ -232,7 +232,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "SOAKING \u2014 pile DEPLOYED 2026-11-23 21:31 CT (deploy 6b05047d5db9110cfeacde4e) and charging ARMED (read-back verified). His hosted scan ran 22:12 CT: 97.6 / D / PARTIAL, capped by ONE row (category 1,295 F). VERDICT 22:22 CT: SCANNER WRONG,\u2026"
+   "next_gate": "Scanner fix DEPLOYED 2026-11-24 06:07 CT (6b057dddc83c1ad3293e0ce4, suite 27/27, homepage verified live) + scan-trust core DEPLOYED 16:20 CT (6b060d9480bb82e46d6f7879, visitor-seat verified). Charging ARMED since the Nov 23 pile deploy (6b0\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -242,12 +242,12 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Toolkit pile VET-COMPLETE (timers + dial-in + extras; KRYPTON #116 + #117 both CLEARED, 0 confirmed defects, suite 5,626/0) \u2014 HELD for the Nov 24 sitting by your 22:53 CT ruling; a decision card carries it. The EAudit 2 keys wake up on that\u2026"
+   "next_gate": "Toolkit pile DEPLOYED 2026-11-24 20:04 CT (6b06417b6841fced61c5f022, live.foreverhumans.com): timer upgrade + dial-in + extras delta + EAudit 2 endpoints + _redirects; badge awarding stays OFF; EAudit 2 keys live. Solo-links live audit toni\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked. Rarity-3 fix: 3/3 writes landed + bind-checked. Category 1,311/1,311 landed + buyer proof done. Rarity batch closed 632 accounted. Delayed buyer-seat re-read OWED for 28 listings (6 lagging\u2026"
+   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked. Rarity-3 fix: 3/3 writes landed + bind-checked. Category 1,311/1,311 landed + buyer proof done. Rarity batch closed 632 accounted. STAMP PASS 2026-11-24: 29 listings not fixed (18 NEVER-REV\u2026"
   },
   {
    "name": "wethehumans.cool",
@@ -297,25 +297,25 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Producer FLOWING (vision gate + tiled pass proven; bank 573; ledger 0 unverified). Pinterest legs live (fact + shorts boards, proof 5/5). YouTube leg built and gated OFF: channel creation waits on the ACCOUNTS SITTING (decision card added t\u2026"
+   "next_gate": "Producer FLOWING (vision gate + tiled pass proven; bank 598; ledger 126 total, 0 unverified). Tesseract DOWN again (self-heal failed) \u2014 producer vision-only until it's back. Pinterest legs live (fact + shorts boards, proof 5/5). YouTube leg\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: the Nov 24 sitting (toolkit deploy + scanner-fix deploy ride it) \u2192 his re-scan. Council KRYPTON seat answers behind the scan-fix run, sequencer-launched."
+   "next_gate": "waiting on: CleanDEE's go \u2014 StoreFab deploy (card-facts wiring + suggestion box, one deploy) once the suggestion-box vet lands; his re-scan WITH the books, then his verdict; wave-1 outreach on his send word. Also waiting on: Gumby's vet \u2014 s\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 4 running (172 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equi\u2026"
+   "next_gate": "Block 4 running (202 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equi\u2026"
   },
   {
    "name": "StoreFab \u2014 outreach",
    "status": "active",
-   "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of the overnight sweep: pile deployed + charging armed (Nov 23 21:31 CT) -> his hosted scan RAN (verdict: scanner wrong, store clean) -> scanner fix in KRYPTON\u2026"
+   "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of tonight: scanner fix DEPLOYED 06:07 CT + scan-trust core DEPLOYED 16:20 CT; review #124 VETTED CLEARED-WITH-FIXES 20:01 CT; deploy set now wiring + suggestio\u2026"
   }
  ],
- "projects_as_of": "2026-11-24 08:46 PM CT",
+ "projects_as_of": "2026-11-24 09:03 PM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
