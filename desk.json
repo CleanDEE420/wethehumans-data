@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T03:34:18.375368+00:00",
+ "generated_at": "2026-11-25T03:39:17.071863+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-24 21:30 CST \u2014 15 new coins seen. \u00b7 75299 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-24 21:35 CST \u2014 12 new coins seen. \u00b7 75311 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T03:30:48.588223+00:00"
+   "detail": "journal last entry 2026-11-25T03:35:48.191187+00:00"
   },
   {
    "seat": "EQUITY",
@@ -45,7 +45,7 @@
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "515 verdicts logged \u00b7 200 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-25T03:25:20.377710+00:00"
+   "detail": "516 verdicts logged \u00b7 200 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-25T03:35:25.334265+00:00"
   }
  ],
  "crew": {
@@ -160,7 +160,7 @@
    }
   ],
   "open": 2,
-  "watching": 296
+  "watching": 297
  },
  "racers": [
   {
