@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-25T07:49:12.130488+00:00",
+ "generated_at": "2026-11-25T07:54:09.731739+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 01:45 CST \u2014 24 new coins seen. \u00b7 76262 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 01:50 CST \u2014 19 new coins seen. \u00b7 76281 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
-     "status": "answered (184 coins)"
+     "status": "answered (200 coins)"
     },
     {
      "name": "dexscreener_profiles",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T07:45:37.214471+00:00"
+   "detail": "journal last entry 2026-11-25T07:50:40.485067+00:00"
   },
   {
    "seat": "EQUITY",
@@ -160,7 +160,7 @@
    }
   ],
   "open": 0,
-  "watching": 299
+  "watching": 298
  },
  "racers": [
   {
