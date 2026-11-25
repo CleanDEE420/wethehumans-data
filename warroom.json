@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:48:53-06:00",
+ "generated_at": "2026-11-25T12:59:01-06:00",
  "season": {
   "fleet_pnl": -2304.56,
   "closed_total": 578,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 314, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 312, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 32,
@@ -111,7 +111,7 @@
     "Win rate": "28%",
     "PnL": "$-79.60",
     "Profit factor": "0.67",
-    "Watching": 314,
+    "Watching": 312,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -119,7 +119,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "527 closed \u00b7 120W\u2013407L \u00b7 $-2306.65",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 27
+    "Entries (24h)": 26
    },
    "demerits": [
     "Bag Holder \u00d7158"
@@ -144,7 +144,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": true,
+   "alive": null,
    "doing": "Nightly stacker \u2014 last run 2026-11-24 22:37 CT (run 17, nightly stacker): 12 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-24 22:37 CT (run 17, nightly stacker)",
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the 1:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 19,
+    "Jobs tracked on the board": 20,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 11,
