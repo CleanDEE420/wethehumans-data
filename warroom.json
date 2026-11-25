@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T20:33:53-06:00",
+ "generated_at": "2026-11-24T20:38:54-06:00",
  "season": {
   "fleet_pnl": -2233.53,
   "closed_total": 549,
-  "open_total": 2,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,7 +47,7 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 26,
@@ -55,7 +55,7 @@
     "Record": "17W\u20139L",
     "Win rate": "65%",
     "PnL": "$-1.71",
-    "Open": 1,
+    "Open": 2,
     "Profit factor": "0.89"
    },
    "demerits": [
@@ -67,7 +67,7 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 3,
@@ -75,7 +75,7 @@
     "Record": "2W\u20131L",
     "Win rate": "67%",
     "PnL": "$-0.43",
-    "Open": 1,
+    "Open": 2,
     "Profit factor": "0.72"
    },
    "demerits": []
@@ -129,10 +129,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-24-storefab-suggestion-box right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab CARD-FACTS INGESTION review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "154/160",
+    "Reviews done": "155/160",
     "Reviews filed": 100,
     "Held in queue": 4,
     "Latest report": "2026-11-24-storefab-card-facts-ingestion-VET.md",
