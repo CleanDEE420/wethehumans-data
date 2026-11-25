@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T12:59:01-06:00",
+ "generated_at": "2026-11-25T13:03:54-06:00",
  "season": {
   "fleet_pnl": -2304.56,
   "closed_total": 578,
@@ -144,7 +144,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": null,
+   "alive": true,
    "doing": "Nightly stacker \u2014 last run 2026-11-24 22:37 CT (run 17, nightly stacker): 12 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-24 22:37 CT (run 17, nightly stacker)",
