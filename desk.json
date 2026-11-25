@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T22:34:15.148474+00:00",
+ "generated_at": "2026-11-25T22:39:09.952707+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 16:30 CST \u2014 33 new coins seen. \u00b7 82110 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 16:35 CST \u2014 55 new coins seen. \u00b7 82165 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,17 +35,17 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T22:30:54.497845+00:00"
+   "detail": "journal last entry 2026-11-25T22:35:53.931172+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,799.81 of $500 start \u00b7 max drawdown $2,362.76 (472.6% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,780.55 of $500 start \u00b7 max drawdown $2,362.76 (472.6% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "540 verdicts logged \u00b7 200 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-25T22:01:03.018103+00:00"
+   "detail": "541 verdicts logged \u00b7 200 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-25T22:35:19.041281+00:00"
   }
  ],
  "crew": {
@@ -1698,7 +1698,7 @@
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1799.81,
+  "ending_equity": -1780.55,
   "max_dd_usd": 2362.76,
   "max_dd_pct": 472.6,
   "open_count": 2
@@ -1706,11 +1706,11 @@
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1799.81,
+   "equity": -1780.55,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 2299.81,
-   "dd_pct": 460.0,
+   "dd_usd": 2280.55,
+   "dd_pct": 456.1,
    "flagged": true
   },
   {
@@ -1760,6 +1760,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-25T22:35:53.931172+00:00",
+   "racer": "ORBIT",
+   "kind": "double_out",
+   "symbol": "Butternald",
+   "pnl": null,
+   "reason": null,
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-25T22:30:54.497159+00:00",
    "racer": "ORBIT",
@@ -2044,16 +2054,6 @@
    "pnl": -16.13,
    "reason": "unarmed_floor_-40%",
    "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-25T19:20:54.527694+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "PPK",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
    "suspect": false
   }
  ],
