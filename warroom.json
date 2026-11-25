@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T11:28:55-06:00",
+ "generated_at": "2026-11-25T11:38:53-06:00",
  "season": {
   "fleet_pnl": -2247.52,
   "closed_total": 571,
-  "open_total": 1,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 313, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 313 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 25,
@@ -112,14 +112,14 @@
     "PnL": "$-22.56",
     "Profit factor": "0.86",
     "Watching": 313,
-    "Open": 0,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "520 closed \u00b7 118W\u2013402L \u00b7 $-2249.61",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 21
+    "Entries (24h)": 22
    },
    "demerits": [
     "Bag Holder \u00d7155"
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the morning pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 18,
+    "Jobs tracked on the board": 19,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 11,
@@ -315,7 +315,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of tonight: scanner fix DEPLOYED 06:07 CT + scan-trust core DEPLOYED 16:20 CT; review #124 VETTED CLEARED-WITH-FIXES 20:01 CT; deploy set now wiring + suggestio\u2026"
   }
  ],
- "projects_as_of": "2026-11-25 06:31 AM CT",
+ "projects_as_of": "2026-11-25 11:31 AM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
