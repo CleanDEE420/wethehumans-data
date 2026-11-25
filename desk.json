@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T13:04:05.203977+00:00",
+ "generated_at": "2026-11-25T13:14:14.483215+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 07:00 CST \u2014 25 new coins seen. \u00b7 77799 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 07:10 CST \u2014 27 new coins seen. \u00b7 77847 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T13:00:48.944352+00:00"
+   "detail": "journal last entry 2026-11-25T13:10:47.576667+00:00"
   },
   {
    "seat": "EQUITY",
@@ -205,17 +205,17 @@
    "crew": "amp",
    "block_no": 1,
    "start": 500.0,
-   "now_worth": 497.69,
-   "open": 1,
-   "last_close": "2026-11-23T04:35:06.333000+00:00",
-   "last_activity": "2026-11-25T07:05:02.632652+00:00",
-   "closed": 7,
+   "now_worth": 496.58,
+   "open": 0,
+   "last_close": "2026-11-25T13:07:26.086000+00:00",
+   "last_activity": "2026-11-25T13:07:26.086000+00:00",
+   "closed": 8,
    "wins": 3,
-   "losses": 4,
-   "win_pct": 42.9,
-   "pf": 0.49,
+   "losses": 5,
+   "win_pct": 37.5,
+   "pf": 0.39,
    "pf_inf": false,
-   "pnl": -2.31
+   "pnl": -3.42
   }
  ],
  "retired": [
@@ -1742,11 +1742,11 @@
   },
   {
    "racer": "AMP",
-   "equity": 497.69,
+   "equity": 496.58,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-chatter.runtime.json",
-   "dd_usd": 2.67,
-   "dd_pct": 0.5,
+   "dd_usd": 3.78,
+   "dd_pct": 0.8,
    "flagged": false
   },
   {
@@ -1760,6 +1760,14 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-25T13:07:26.086000+00:00",
+   "racer": "AMP",
+   "kind": "exit",
+   "symbol": "ETH/USD",
+   "pnl": -1.11,
+   "reason": "max_hold_6h"
+  },
   {
    "ts": "2026-11-25T12:30:06.046000+00:00",
    "racer": "GOVERNOR",
@@ -2023,19 +2031,17 @@
    "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-25T01:05:52.441348+00:00",
-   "racer": "ORBIT",
-   "kind": "double_out",
-   "symbol": "BOOBS",
-   "pnl": null,
-   "reason": null,
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-25T13:07:26.086000+00:00",
+   "racer": "AMP",
+   "kind": "exit",
+   "symbol": "ETH/USD",
+   "pnl": -1.11,
+   "reason": "max_hold_6h"
+  },
   {
    "ts": "2026-11-25T12:30:06.046000+00:00",
    "racer": "GOVERNOR",
@@ -2186,16 +2192,6 @@
    "kind": "exit",
    "symbol": "ChristmASS",
    "pnl": -2.83,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-25T00:40:53.677285+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "WIKI",
-   "pnl": 18.77,
    "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
