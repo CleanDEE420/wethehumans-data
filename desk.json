@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T22:04:22.447643+00:00",
+ "generated_at": "2026-11-25T22:09:17.857131+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 16:00 CST \u2014 41 new coins seen. \u00b7 81902 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 16:05 CST \u2014 23 new coins seen. \u00b7 81925 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -18,7 +18,7 @@
     },
     {
      "name": "dexscreener_boosts",
-     "status": "answered (27 coins)"
+     "status": "answered (28 coins)"
     }
    ]
   },
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T22:00:55.049776+00:00"
+   "detail": "journal last entry 2026-11-25T22:05:53.959726+00:00"
   },
   {
    "seat": "EQUITY",
@@ -160,7 +160,7 @@
    }
   ],
   "open": 4,
-  "watching": 307
+  "watching": 306
  },
  "racers": [
   {
@@ -206,9 +206,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 501.55,
-   "open": 0,
+   "open": 1,
    "last_close": "2026-11-25T21:35:12.150000+00:00",
-   "last_activity": "2026-11-25T21:35:12.150000+00:00",
+   "last_activity": "2026-11-25T22:05:02.262787+00:00",
    "closed": 9,
    "wins": 4,
    "losses": 5,
@@ -1761,6 +1761,14 @@
  ],
  "flow": [
   {
+   "ts": "2026-11-25T22:05:02.262787+00:00",
+   "racer": "AMP",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
    "ts": "2026-11-25T21:56:00.962494+00:00",
    "racer": "ORBIT",
    "kind": "enter",
@@ -2043,16 +2051,6 @@
    "racer": "ORBIT",
    "kind": "enter",
    "symbol": "RECORDEGG",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-25T18:15:54.779916+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "4CHAN",
    "pnl": null,
    "reason": null,
    "stake": 25.0,
