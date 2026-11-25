@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T21:08:53-06:00",
+ "generated_at": "2026-11-24T21:13:53-06:00",
  "season": {
   "fleet_pnl": -2233.53,
   "closed_total": 549,
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 09:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
@@ -315,7 +315,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of tonight: scanner fix DEPLOYED 06:07 CT + scan-trust core DEPLOYED 16:20 CT; review #124 VETTED CLEARED-WITH-FIXES 20:01 CT; deploy set now wiring + suggestio\u2026"
   }
  ],
- "projects_as_of": "2026-11-24 09:03 PM CT",
+ "projects_as_of": "2026-11-24 09:04 PM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
