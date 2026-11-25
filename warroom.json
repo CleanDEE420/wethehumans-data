@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T19:33:59-06:00",
+ "generated_at": "2026-11-24T19:38:53-06:00",
  "season": {
   "fleet_pnl": -2307.4,
   "closed_total": 546,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 295 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 296 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 15,
@@ -111,7 +111,7 @@
     "Win rate": "20%",
     "PnL": "$-75.90",
     "Profit factor": "0.35",
-    "Watching": 295,
+    "Watching": 296,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -119,7 +119,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "510 closed \u00b7 114W\u2013396L \u00b7 $-2302.95",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 30
+    "Entries (24h)": 29
    },
    "demerits": [
     "Bag Holder \u00d7154"
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the evening pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 11,
+    "Jobs tracked on the board": 13,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 97,
     "Open decisions": 9,
