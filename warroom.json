@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T16:08:53-06:00",
+ "generated_at": "2026-11-25T16:13:54-06:00",
  "season": {
   "fleet_pnl": -2355.7,
   "closed_total": 587,
-  "open_total": 4,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -85,7 +85,7 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 9,
@@ -93,7 +93,7 @@
     "Record": "4W\u20135L",
     "Win rate": "44%",
     "PnL": "$+1.55",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "1.27"
    },
    "demerits": []
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 4 snipes and tracking 307 fresh Solana launches.",
+   "doing": "Holding 4 snipes and tracking 306 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 40,
@@ -111,7 +111,7 @@
     "Win rate": "28%",
     "PnL": "$-135.71",
     "Profit factor": "0.58",
-    "Watching": 307,
+    "Watching": 306,
     "Open": 4,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 03:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 04:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
