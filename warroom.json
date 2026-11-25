@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T15:38:54-06:00",
+ "generated_at": "2026-11-25T15:43:53-06:00",
  "season": {
-  "fleet_pnl": -2360.67,
-  "closed_total": 586,
+  "fleet_pnl": -2355.7,
+  "closed_total": 587,
   "open_total": 2,
   "milestones": [
    {
@@ -85,16 +85,16 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
     "Block": "Block 1",
-    "Closed": 8,
-    "Road to 100": "8/100",
-    "Record": "3W\u20135L",
-    "Win rate": "38%",
-    "PnL": "$-3.42",
-    "Open": 1,
-    "Profit factor": "0.39"
+    "Closed": 9,
+    "Road to 100": "9/100",
+    "Record": "4W\u20135L",
+    "Win rate": "44%",
+    "PnL": "$+1.55",
+    "Open": 0,
+    "Profit factor": "1.27"
    },
    "demerits": []
   },
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 304 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 308 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 40,
@@ -111,15 +111,15 @@
     "Win rate": "28%",
     "PnL": "$-135.71",
     "Profit factor": "0.58",
-    "Watching": 304,
-    "Open": 1,
+    "Watching": 308,
+    "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "535 closed \u00b7 122W\u2013413L \u00b7 $-2362.76",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 33
+    "Entries (24h)": 34
    },
    "demerits": [
     "Bag Holder \u00d7161"
@@ -189,7 +189,7 @@
    "alive": true,
    "doing": "Posting the midday pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 20,
+    "Jobs tracked on the board": 21,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 11,
