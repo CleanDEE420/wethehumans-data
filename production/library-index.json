@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-24",
- "count": 752,
+ "generated": "2026-11-25",
+ "count": 827,
  "items": [
   {
    "kind": "card",
@@ -6457,6 +6457,256 @@
    "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card597-wonder.mp4"
   },
   {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "592",
+   "title": "The Ocean in a Seashell Is Your Own Room, Echoing Back",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card592-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "590",
+   "title": "Only the Red-Orange Signs Are Really Neon",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card590-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "589",
+   "title": "She Named Fission \u2014 and Watched the Nobel Go to Someone Else",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card589-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "588",
+   "title": "Does a Green Apple Prove That All Ravens Are Black?",
+   "topic": "wonder",
+   "state": "REJECTED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card588-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "587",
+   "title": "One River, Ten Countries \u2014 the Danube Crosses More Borders Than Any Other",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card587-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "585",
+   "title": "Indigo Is Grown, Not Mined \u2014 and the Blue Isn't in the Leaf",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card585-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "584",
+   "title": "For Greenland's Glaciers, Breaking Off Rivals Melting",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card584-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "583",
+   "title": "A Tomato Is a Fruit \u2014 the Kitchen Just Won't Admit It",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card583-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "582",
+   "title": "The Mole That Sees With Its Nose",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card582-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "581",
+   "title": "Penguins Huddle to Burn Less Fuel",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card581-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "578",
+   "title": "How a Lump of Clay Becomes Your Morning Mug",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card578-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "577",
+   "title": "How a Tree Becomes a Sheet of Paper",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-24",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-24-card577-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "576",
+   "title": "Why Some Tunnels Are Round",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card576-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "574",
+   "title": "The Brooklyn Bridge Stands on Two Giant Wooden Boxes",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card574-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "565",
+   "title": "Magenta Doesn't Exist as a Wavelength",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card565-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "623",
+   "title": "Binaural Beats Won't Sync Your Brain \u2014 the Evidence Splits",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card623-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "622",
+   "title": "Willpower Is Not a Muscle \u2014 the Big Test Found Almost Nothing",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card622-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "621",
+   "title": "Green Tests Can Still Hide a Bug \u2014 the Tests Learned It",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card621-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "617",
+   "title": "Inside a Speaker, a Coil Pushes the Sound Out",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card617-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "616",
+   "title": "Why the Date Line Zigzags Instead of Running Straight",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card616-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "641",
+   "title": "Your Watch Counts 32,768 Vibrations to Make One Second",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card641-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "640",
+   "title": "Hummingbirds See Colours You Can't Even Imagine",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card640-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "638",
+   "title": "Could You Be a Brain in a Vat?",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card638-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "635",
+   "title": "In a Watercolour, the Paper Does the Glowing",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card635-wonder.mp4"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "634",
+   "title": "Every Night, the Ocean's Greatest Migration Swims Up \u2014 Then Back Down",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-25",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-25-card634-wonder.mp4"
+  },
+  {
    "kind": "card",
    "area": "Stay Curious",
    "num": 196,
@@ -7361,6 +7611,406 @@
    "state": "banked"
   },
   {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 599,
+   "title": "The Airport Runway You Can Drive Under",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 600,
+   "title": "The Road the Sea Takes Back Twice a Day",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 601,
+   "title": "The City Built on Stilts Over the Ocean",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 602,
+   "title": "The Brick Is 6,000 Years Old \u2014 and the Recipe Hasn't Changed",
+   "topic": "How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 603,
+   "title": "How Elevators Know Where to Stop",
+   "topic": "How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 604,
+   "title": "The Cosmic Microwave Background Is the Afterglow of the Big Bang",
+   "topic": "Space",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 605,
+   "title": "The Star That Spins 716 Times Every Second",
+   "topic": "Space",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 606,
+   "title": "The Axolotl Keeps Its Gills",
+   "topic": "Animals",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 607,
+   "title": "A Mongoose Survives Cobra Venom Because Its Nerves Won't Listen",
+   "topic": "Animals",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 608,
+   "title": "The Crunch in Your Lettuce Is Water Under Pressure",
+   "topic": "Food",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 609,
+   "title": "The Deep Ocean Remembers for a Thousand Years",
+   "topic": "Earth & Ocean",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 610,
+   "title": "Lithography Prints With Oil and Water Refusing to Mix",
+   "topic": "Art & How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 611,
+   "title": "The 1959 Copier That Flooded Offices With Paper",
+   "topic": "How Work Actually Works",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 612,
+   "title": "In Svalbard, the Sun Doesn't Set for Four Months",
+   "topic": "Geography, Places & Peoples",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 613,
+   "title": "Where Is Everybody? The Fermi Paradox",
+   "topic": "Philosophy & Big Questions",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 614,
+   "title": "The Comet That Made Maria Mitchell Famous",
+   "topic": "Biography & Lives",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 615,
+   "title": "Glow-in-the-Dark Toys Are Slowly Letting Go of Light",
+   "topic": "Light & Color",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 616,
+   "title": "Why the Date Line Zigzags Instead of Running Straight",
+   "topic": "Time & Calendar",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 617,
+   "title": "Inside a Speaker, a Coil Pushes the Sound Out",
+   "topic": "Music & Sound",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 618,
+   "title": "Coolant: Half Antifreeze, Half Water \u2014 and Check It Cold",
+   "topic": "Know-How \u2014 Car Tips",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 619,
+   "title": "The % Daily Value Is the Label's Cheat Sheet",
+   "topic": "Know-How \u2014 Life Tips",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 620,
+   "title": "The Stop Word That Ends the Answer for You",
+   "topic": "AI & Tech",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 621,
+   "title": "Green Tests Can Still Hide a Bug \u2014 the Tests Learned It",
+   "topic": "AI & Tech",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 622,
+   "title": "Willpower Is Not a Muscle \u2014 the Big Test Found Almost Nothing",
+   "topic": "Proven Psychology",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 623,
+   "title": "Binaural Beats Won't Sync Your Brain \u2014 the Evidence Splits",
+   "topic": "Proven Psychology",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 624,
+   "title": "The Eiffel Tower Was Meant to Come Down",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 625,
+   "title": "They Pushed a Road Across a Gorge, a Little at a Time",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 626,
+   "title": "One Arch, No Piers in the Water",
+   "topic": "Engineering Wonders",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 627,
+   "title": "How a Metal Slab Becomes Foil Thinner Than Paper",
+   "topic": "How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 628,
+   "title": "The Box That Gets Its Strength From Waves",
+   "topic": "How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 629,
+   "title": "Sixteen Sunrises Before Bedtime",
+   "topic": "Space",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 630,
+   "title": "Why Isn't the Night Sky as Bright as the Sun?",
+   "topic": "Space",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 631,
+   "title": "An Owl Flies on Whispering Feathers",
+   "topic": "Animals",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 632,
+   "title": "The Sea Cucumber Throws Away Its Guts \u2014 Then Grows New Ones",
+   "topic": "Animals",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 633,
+   "title": "Wasabi Doesn't Burn Your Tongue \u2014 It Hits Your Nose",
+   "topic": "Food",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 634,
+   "title": "Every Night, the Ocean's Greatest Migration Swims Up \u2014 Then Back Down",
+   "topic": "Earth & Ocean",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 635,
+   "title": "In a Watercolour, the Paper Does the Glowing",
+   "topic": "Art & How It's Made",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 636,
+   "title": "Who Names Hurricanes? A Committee, Six Lists, and a Retirement Rule",
+   "topic": "How Work Actually Works",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 637,
+   "title": "Null Island: the Busiest Place on Earth That Doesn't Exist",
+   "topic": "Geography, Places & Peoples",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 638,
+   "title": "Could You Be a Brain in a Vat?",
+   "topic": "Philosophy & Big Questions",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 639,
+   "title": "The Doctor Who Washed His Hands \u2014 and Was Laughed At",
+   "topic": "Biography & Lives",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 640,
+   "title": "Hummingbirds See Colours You Can't Even Imagine",
+   "topic": "Light & Color",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 641,
+   "title": "Your Watch Counts 32,768 Vibrations to Make One Second",
+   "topic": "Time & Calendar",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 642,
+   "title": "Two Notes Played Together Make a Third Sound That Pulses",
+   "topic": "Music & Sound",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 643,
+   "title": "That Little Tire Light Means One Tire Is Running Low",
+   "topic": "Know-How \u2014 Car Tips",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 644,
+   "title": "Compound Interest Works Both Ways \u2014 For You and Against You",
+   "topic": "Know-How \u2014 Money Basics",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 645,
+   "title": "AI Learns What 'Good' Means by Watching Humans Pick Favorites",
+   "topic": "AI & Tech",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 646,
+   "title": "To a Computer, Your Photo Is Just a Grid of Numbers",
+   "topic": "AI & Tech",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 647,
+   "title": "Mixing Up Your Practice Beats Studying One Topic at a Time",
+   "topic": "Proven Psychology",
+   "state": "banked"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 648,
+   "title": "More Choices Don't Always Help \u2014 Sometimes They Freeze You",
+   "topic": "Proven Psychology",
+   "state": "banked"
+  },
+  {
    "kind": "toolkit-folder",
    "area": "Toolkit",
    "title": "brand",
@@ -7658,7 +8308,7 @@
    "kind": "forge-folder",
    "area": "FORGE / Designs",
    "title": "asset-army-refined",
-   "count": 136,
+   "count": 138,
    "state": "banked files",
    "sample": [
     "asset-army-refined/MANIFEST.md",
@@ -7679,21 +8329,21 @@
    "kind": "forge-folder",
    "area": "FORGE / Designs",
    "title": "asset-army-seasonal",
-   "count": 191,
+   "count": 200,
    "state": "banked files",
    "sample": [
     "asset-army-seasonal/christmas/cf-xm-alert-burst-alt2.jpg",
     "asset-army-seasonal/christmas/cf-xm-alert-burst-alt6.jpg",
+    "asset-army-seasonal/christmas/cf-xm-alert-burst-alt7.jpg",
     "asset-army-seasonal/christmas/cf-xm-backdrop-alt2.jpg",
     "asset-army-seasonal/christmas/cf-xm-backdrop-alt6.jpg",
     "asset-army-seasonal/christmas/cf-xm-badge-alt2.jpg",
     "asset-army-seasonal/christmas/cf-xm-badge-alt6.jpg",
+    "asset-army-seasonal/christmas/cf-xm-badge-alt7.jpg",
+    "asset-army-seasonal/christmas/cf-xm-brb-alt7.jpg",
     "asset-army-seasonal/christmas/cf-xm-ending-alt2.jpg",
     "asset-army-seasonal/christmas/cf-xm-ending-alt6.jpg",
-    "asset-army-seasonal/christmas/cf-xm-starting-soon-alt2.jpg",
-    "asset-army-seasonal/christmas/contact-sheet.png",
-    "asset-army-seasonal/christmas/draft-xm-alert-burst-alt3.png",
-    "asset-army-seasonal/christmas/draft-xm-alert-burst-alt5.png"
+    "asset-army-seasonal/christmas/cf-xm-starting-soon-alt2.jpg"
    ]
   },
   {
@@ -7754,7 +8404,7 @@
    "kind": "forge-folder",
    "area": "FORGE / Designs",
    "title": "ebay-live-line",
-   "count": 70,
+   "count": 88,
    "state": "banked files",
    "sample": [
     "ebay-live-line/card-seller/README.md",
