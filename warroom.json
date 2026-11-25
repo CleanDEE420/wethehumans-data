@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T07:03:53-06:00",
+ "generated_at": "2026-11-25T07:13:53-06:00",
  "season": {
-  "fleet_pnl": -2231.73,
-  "closed_total": 562,
-  "open_total": 1,
+  "fleet_pnl": -2232.84,
+  "closed_total": 563,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -85,16 +85,16 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
     "Block": "Block 1",
-    "Closed": 7,
-    "Road to 100": "7/100",
-    "Record": "3W\u20134L",
-    "Win rate": "43%",
-    "PnL": "$-2.31",
-    "Open": 1,
-    "Profit factor": "0.49"
+    "Closed": 8,
+    "Road to 100": "8/100",
+    "Record": "3W\u20135L",
+    "Win rate": "38%",
+    "PnL": "$-3.42",
+    "Open": 0,
+    "Profit factor": "0.39"
    },
    "demerits": []
   },
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 311, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 314, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 23,
@@ -111,7 +111,7 @@
     "Win rate": "30%",
     "PnL": "$-0.13",
     "Profit factor": "1.00",
-    "Watching": 311,
+    "Watching": 314,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -129,10 +129,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-25-storefab-box-map-fold right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON nightly review \u2014 bluesky_api.py.",
    "stats": {
-    "Reviews done": "156/162",
+    "Reviews done": "157/162",
     "Reviews filed": 102,
     "Held in queue": 4,
     "Latest report": "2026-11-25-bluesky_api.py.md",
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
