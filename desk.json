@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T15:34:17.950738+00:00",
+ "generated_at": "2026-11-25T16:24:25.378901+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 09:30 CST \u2014 22 new coins seen. \u00b7 78678 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 10:20 CST \u2014 27 new coins seen. \u00b7 78996 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -14,7 +14,7 @@
     },
     {
      "name": "dexscreener_profiles",
-     "status": "answered (25 coins)"
+     "status": "answered (22 coins)"
     },
     {
      "name": "dexscreener_boosts",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T15:30:49.638435+00:00"
+   "detail": "journal last entry 2026-11-25T16:20:45.999527+00:00"
   },
   {
    "seat": "EQUITY",
@@ -160,7 +160,7 @@
    }
   ],
   "open": 0,
-  "watching": 319
+  "watching": 316
  },
  "racers": [
   {
@@ -169,17 +169,17 @@
    "crew": "recoil",
    "block_no": 1,
    "start": 500.0,
-   "now_worth": 500.29,
-   "open": 2,
-   "last_close": "2026-11-25T15:00:11.017000+00:00",
-   "last_activity": "2026-11-25T15:00:11.017000+00:00",
-   "closed": 31,
-   "wins": 20,
+   "now_worth": 502.13,
+   "open": 0,
+   "last_close": "2026-11-25T16:20:28.505000+00:00",
+   "last_activity": "2026-11-25T16:20:28.505000+00:00",
+   "closed": 33,
+   "wins": 22,
    "losses": 11,
-   "win_pct": 64.5,
-   "pf": 1.02,
+   "win_pct": 66.7,
+   "pf": 1.14,
    "pf_inf": false,
-   "pnl": 0.29
+   "pnl": 2.13
   },
   {
    "label": "GOVERNOR",
@@ -187,17 +187,17 @@
    "crew": "governor",
    "block_no": 1,
    "start": 500.0,
-   "now_worth": 501.53,
-   "open": 2,
-   "last_close": "2026-11-25T15:00:06.025000+00:00",
-   "last_activity": "2026-11-25T15:00:06.025000+00:00",
-   "closed": 8,
-   "wins": 5,
+   "now_worth": 503.38,
+   "open": 0,
+   "last_close": "2026-11-25T16:20:28.496000+00:00",
+   "last_activity": "2026-11-25T16:20:28.496000+00:00",
+   "closed": 10,
+   "wins": 7,
    "losses": 3,
-   "win_pct": 62.5,
-   "pf": 1.83,
+   "win_pct": 70.0,
+   "pf": 2.84,
    "pf_inf": false,
-   "pnl": 1.53
+   "pnl": 3.38
   },
   {
    "label": "AMP",
@@ -206,9 +206,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 496.58,
-   "open": 0,
+   "open": 1,
    "last_close": "2026-11-25T13:07:26.086000+00:00",
-   "last_activity": "2026-11-25T13:07:26.086000+00:00",
+   "last_activity": "2026-11-25T15:35:02.064143+00:00",
    "closed": 8,
    "wins": 3,
    "losses": 5,
@@ -1724,16 +1724,16 @@
   },
   {
    "racer": "RECOIL",
-   "equity": 500.29,
+   "equity": 502.13,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
-   "dd_usd": 5.51,
-   "dd_pct": 1.1,
+   "dd_usd": 3.68,
+   "dd_pct": 0.7,
    "flagged": false
   },
   {
    "racer": "GOVERNOR",
-   "equity": 501.53,
+   "equity": 503.38,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-regime.runtime.json",
    "dd_usd": 0.0,
@@ -1760,6 +1760,46 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-25T16:20:28.505000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": 0.76,
+   "reason": "exit_signal"
+  },
+  {
+   "ts": "2026-11-25T16:20:28.496000+00:00",
+   "racer": "GOVERNOR",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": 0.78,
+   "reason": "dip_reversion"
+  },
+  {
+   "ts": "2026-11-25T16:00:41.687000+00:00",
+   "racer": "GOVERNOR",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 1.07,
+   "reason": "dip_reversion"
+  },
+  {
+   "ts": "2026-11-25T16:00:41.682000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 1.07,
+   "reason": "exit_signal"
+  },
+  {
+   "ts": "2026-11-25T15:35:02.064143+00:00",
+   "racer": "AMP",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
   {
    "ts": "2026-11-25T15:00:11.017000+00:00",
    "racer": "RECOIL",
@@ -1851,38 +1891,6 @@
    "symbol": "ETH/USD",
    "pnl": -1.11,
    "reason": "max_hold_6h"
-  },
-  {
-   "ts": "2026-11-25T12:30:06.046000+00:00",
-   "racer": "GOVERNOR",
-   "kind": "exit",
-   "symbol": "SOL/USD",
-   "pnl": -0.1,
-   "reason": "dip_reversion"
-  },
-  {
-   "ts": "2026-11-25T12:30:06.042000+00:00",
-   "racer": "RECOIL",
-   "kind": "exit",
-   "symbol": "SOL/USD",
-   "pnl": -0.11,
-   "reason": "exit_signal"
-  },
-  {
-   "ts": "2026-11-25T12:30:06.009000+00:00",
-   "racer": "RECOIL",
-   "kind": "exit",
-   "symbol": "ETH/USD",
-   "pnl": 0.11,
-   "reason": "exit_signal"
-  },
-  {
-   "ts": "2026-11-25T12:30:06.008000+00:00",
-   "racer": "GOVERNOR",
-   "kind": "exit",
-   "symbol": "ETH/USD",
-   "pnl": 0.1,
-   "reason": "dip_reversion"
   },
   {
    "ts": "2026-11-25T12:00:43.747467+00:00",
@@ -2021,19 +2029,41 @@
    "reason": "max_hold_60m",
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-25T01:40:50.118536+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "DongCoin",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-25T16:20:28.505000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": 0.76,
+   "reason": "exit_signal"
+  },
+  {
+   "ts": "2026-11-25T16:20:28.496000+00:00",
+   "racer": "GOVERNOR",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": 0.78,
+   "reason": "dip_reversion"
+  },
+  {
+   "ts": "2026-11-25T16:00:41.687000+00:00",
+   "racer": "GOVERNOR",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 1.07,
+   "reason": "dip_reversion"
+  },
+  {
+   "ts": "2026-11-25T16:00:41.682000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 1.07,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-25T15:00:11.017000+00:00",
    "racer": "RECOIL",
@@ -2067,38 +2097,6 @@
    "symbol": "ETH/USD",
    "pnl": -1.11,
    "reason": "max_hold_6h"
-  },
-  {
-   "ts": "2026-11-25T12:30:06.046000+00:00",
-   "racer": "GOVERNOR",
-   "kind": "exit",
-   "symbol": "SOL/USD",
-   "pnl": -0.1,
-   "reason": "dip_reversion"
-  },
-  {
-   "ts": "2026-11-25T12:30:06.042000+00:00",
-   "racer": "RECOIL",
-   "kind": "exit",
-   "symbol": "SOL/USD",
-   "pnl": -0.11,
-   "reason": "exit_signal"
-  },
-  {
-   "ts": "2026-11-25T12:30:06.009000+00:00",
-   "racer": "RECOIL",
-   "kind": "exit",
-   "symbol": "ETH/USD",
-   "pnl": 0.11,
-   "reason": "exit_signal"
-  },
-  {
-   "ts": "2026-11-25T12:30:06.008000+00:00",
-   "racer": "GOVERNOR",
-   "kind": "exit",
-   "symbol": "ETH/USD",
-   "pnl": 0.1,
-   "reason": "dip_reversion"
   },
   {
    "ts": "2026-11-25T12:00:43.747467+00:00",
