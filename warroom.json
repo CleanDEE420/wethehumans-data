@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T07:38:54-06:00",
+ "generated_at": "2026-11-25T08:18:54-06:00",
  "season": {
   "fleet_pnl": -2232.84,
   "closed_total": 563,
-  "open_total": 0,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,7 +47,7 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 30,
@@ -55,7 +55,7 @@
     "Record": "19W\u201311L",
     "Win rate": "63%",
     "PnL": "$-1.76",
-    "Open": 0,
+    "Open": 2,
     "Profit factor": "0.89"
    },
    "demerits": [
@@ -67,7 +67,7 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 7,
@@ -75,7 +75,7 @@
     "Record": "4W\u20133L",
     "Win rate": "57%",
     "PnL": "$-0.48",
-    "Open": 0,
+    "Open": 2,
     "Profit factor": "0.74"
    },
    "demerits": []
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 321, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 319, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 23,
@@ -111,7 +111,7 @@
     "Win rate": "30%",
     "PnL": "$-0.13",
     "Profit factor": "1.00",
-    "Watching": 321,
+    "Watching": 319,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -119,7 +119,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "518 closed \u00b7 118W\u2013400L \u00b7 $-2227.18",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 25
+    "Entries (24h)": 24
    },
    "demerits": [
     "Bag Holder \u00d7154"
@@ -187,7 +187,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning quotes \u2014 ",
+   "doing": "Review complete \u2014 chunk-14-done",
    "stats": {
     "Jobs tracked on the board": 18,
     "Crew reporting in": "3 racers + ORBIT",
@@ -205,11 +205,11 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 1 in a row (last 08:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
-   "value": "~47 left (range 0\u201393) \u00b7 160 deploys this cycle \u00b7 pool resets Nov 27"
+   "value": "~-18 left (range -67\u201330) \u00b7 163 deploys this cycle \u00b7 pool resets Nov 27"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
@@ -225,7 +225,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "48 posted of 85 cards \u2014 37 fresh on the bench"
+   "value": "49 posted of 85 cards \u2014 36 fresh on the bench"
   }
  ],
  "projects": [
