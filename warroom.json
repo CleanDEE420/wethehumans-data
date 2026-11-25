@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:08:53-06:00",
+ "generated_at": "2026-11-25T06:13:53-06:00",
  "season": {
   "fleet_pnl": -2231.72,
   "closed_total": 558,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 305, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 306, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 23,
@@ -111,7 +111,7 @@
     "Win rate": "30%",
     "PnL": "$-0.13",
     "Profit factor": "1.00",
-    "Watching": 305,
+    "Watching": 306,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Drafting today's batches \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 14,
+    "Jobs tracked on the board": 15,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 9,
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 6 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
