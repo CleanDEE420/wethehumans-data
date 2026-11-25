@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T00:18:53-06:00",
+ "generated_at": "2026-11-25T00:23:53-06:00",
  "season": {
-  "fleet_pnl": -2228.21,
-  "closed_total": 551,
-  "open_total": 5,
+  "fleet_pnl": -2228.57,
+  "closed_total": 553,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 26,
-    "Road to 100": "26/100",
-    "Record": "17W\u20139L",
-    "Win rate": "65%",
-    "PnL": "$-1.71",
-    "Open": 2,
-    "Profit factor": "0.89"
+    "Closed": 27,
+    "Road to 100": "27/100",
+    "Record": "17W\u201310L",
+    "Win rate": "63%",
+    "PnL": "$-1.89",
+    "Open": 1,
+    "Profit factor": "0.88"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -67,16 +67,16 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 3,
-    "Road to 100": "3/100",
-    "Record": "2W\u20131L",
-    "Win rate": "67%",
-    "PnL": "$-0.43",
-    "Open": 2,
-    "Profit factor": "0.72"
+    "Closed": 4,
+    "Road to 100": "4/100",
+    "Record": "2W\u20132L",
+    "Win rate": "50%",
+    "PnL": "$-0.61",
+    "Open": 1,
+    "Profit factor": "0.65"
    },
    "demerits": []
   },
@@ -129,8 +129,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab SUGGESTION BOX review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-24-storefab-scan-by-boxes right now.",
    "stats": {
     "Reviews done": "155/161",
     "Reviews filed": 101,
@@ -315,7 +315,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of tonight: scanner fix DEPLOYED 06:07 CT + scan-trust core DEPLOYED 16:20 CT; review #124 VETTED CLEARED-WITH-FIXES 20:01 CT; deploy set now wiring + suggestio\u2026"
   }
  ],
- "projects_as_of": "2026-11-24 11:49 PM CT",
+ "projects_as_of": "2026-11-25 12:22 AM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
