@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T06:18:53-06:00",
+ "generated_at": "2026-11-25T06:23:53-06:00",
  "season": {
   "fleet_pnl": -2231.72,
   "closed_total": 558,
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 306, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 307, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 23,
@@ -111,7 +111,7 @@
     "Win rate": "30%",
     "PnL": "$-0.13",
     "Profit factor": "1.00",
-    "Watching": 306,
+    "Watching": 307,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -297,17 +297,17 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Producer FLOWING (vision gate + tiled pass proven; bank 623; ledger 126 total, 0 unverified). Tesseract RESTORED 23:35 CT \u2014 OCR gate back on the next lane run. Pinterest legs live (fact + shorts boards, proof 5/5). YouTube leg built and gat\u2026"
+   "next_gate": "Producer FLOWING (vision gate + tiled pass proven; bank 648; ledger 126 total, 0 unverified). Tesseract RESTORED 23:35 CT \u2014 OCR gate back on the next lane run; ensure_tesseract fix applied 05:30 CT (direct install first). Pinterest legs liv\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: CleanDEE's go \u2014 StoreFab deploy (card-facts wiring + suggestion box, one deploy) once the suggestion-box vet lands; his re-scan WITH the books, then his verdict; wave-1 outreach on his send word. Also waiting on: Gumby's vet \u2014 s\u2026"
+   "next_gate": "waiting on: CleanDEE's go \u2014 StoreFab deploy (card-facts wiring + suggestion box, one deploy); his re-scan WITH the books, then his verdict; wave-1 outreach on his send word. Also waiting on: Gumby's vet \u2014 scan-by-boxes review #126 (DONE 15/\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 4 running (202 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equi\u2026"
+   "next_gate": "Block 4 running (205 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equi\u2026"
   },
   {
    "name": "StoreFab \u2014 outreach",
@@ -315,7 +315,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of tonight: scanner fix DEPLOYED 06:07 CT + scan-trust core DEPLOYED 16:20 CT; review #124 VETTED CLEARED-WITH-FIXES 20:01 CT; deploy set now wiring + suggestio\u2026"
   }
  ],
- "projects_as_of": "2026-11-25 05:25 AM CT",
+ "projects_as_of": "2026-11-25 05:33 AM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
