@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T09:53:58-06:00",
+ "generated_at": "2026-11-25T09:58:58-06:00",
  "season": {
   "fleet_pnl": -2246.53,
   "closed_total": 566,
@@ -58,9 +58,7 @@
     "Open": 2,
     "Profit factor": "1.02"
    },
-   "demerits": [
-    "Bag Holder \u00d71"
-   ]
+   "demerits": []
   },
   {
    "id": "governor",
@@ -121,9 +119,7 @@
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 21
    },
-   "demerits": [
-    "Bag Holder \u00d7155"
-   ]
+   "demerits": []
   },
   {
    "id": "krypton",
@@ -187,9 +183,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the 10:00 profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 18,
+    "Jobs tracked on the board": 20,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 11,
