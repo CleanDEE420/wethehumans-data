@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T12:08:54-06:00",
+ "generated_at": "2026-11-25T12:18:53-06:00",
  "season": {
-  "fleet_pnl": -2241.44,
-  "closed_total": 572,
-  "open_total": 4,
+  "fleet_pnl": -2236.99,
+  "closed_total": 574,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,21 +103,21 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 3 snipes and tracking 316 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 315 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
-    "Closed": 26,
-    "Record": "8W\u201318L",
-    "Win rate": "31%",
-    "PnL": "$-16.48",
-    "Profit factor": "0.90",
-    "Watching": 316,
-    "Open": 3,
+    "Closed": 28,
+    "Record": "9W\u201319L",
+    "Win rate": "32%",
+    "PnL": "$-12.03",
+    "Profit factor": "0.93",
+    "Watching": 315,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "521 closed \u00b7 119W\u2013402L \u00b7 $-2243.53",
+    "All-time": "523 closed \u00b7 120W\u2013403L \u00b7 $-2239.08",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 25
    },
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-3-done",
    "stats": {
-    "Jobs tracked on the board": 19,
+    "Jobs tracked on the board": 20,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 11,
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 11:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 12:14 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
