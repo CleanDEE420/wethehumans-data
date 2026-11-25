@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-24T23:58:53-06:00",
+ "generated_at": "2026-11-25T00:13:53-06:00",
  "season": {
   "fleet_pnl": -2228.21,
   "closed_total": 551,
-  "open_total": 4,
+  "open_total": 5,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 302, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 303 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 20,
@@ -111,15 +111,15 @@
     "Win rate": "30%",
     "PnL": "$+3.29",
     "Profit factor": "1.02",
-    "Watching": 302,
-    "Open": 0,
+    "Watching": 303,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "515 closed \u00b7 117W\u2013398L \u00b7 $-2223.76",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 26
+    "Entries (24h)": 27
    },
    "demerits": [
     "Bag Holder \u00d7154"
@@ -132,7 +132,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON StoreFab SUGGESTION BOX review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "155/160",
+    "Reviews done": "155/161",
     "Reviews filed": 101,
     "Held in queue": 4,
     "Latest report": "2026-11-24-storefab-suggestion-box-VET.md",
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 11:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 1 in a row (last 12:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
