@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:08:53-06:00",
+ "generated_at": "2026-11-24T20:13:53-06:00",
  "season": {
   "fleet_pnl": -2235.93,
   "closed_total": 548,
@@ -132,7 +132,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON StoreFab CARD-FACTS INGESTION review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "154/159",
+    "Reviews done": "154/160",
     "Reviews filed": 100,
     "Held in queue": 4,
     "Latest report": "2026-11-24-storefab-card-facts-ingestion-VET.md",
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
