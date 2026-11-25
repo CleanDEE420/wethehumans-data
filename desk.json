@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-25T07:44:15.256776+00:00",
+ "generated_at": "2026-11-25T07:49:12.130488+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 01:40 CST \u2014 28 new coins seen. \u00b7 76238 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 01:45 CST \u2014 24 new coins seen. \u00b7 76262 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
-     "status": "answered (160 coins)"
+     "status": "answered (184 coins)"
     },
     {
      "name": "dexscreener_profiles",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T07:40:47.654151+00:00"
+   "detail": "journal last entry 2026-11-25T07:45:37.214471+00:00"
   },
   {
    "seat": "EQUITY",
@@ -170,9 +170,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 498.25,
-   "open": 0,
+   "open": 2,
    "last_close": "2026-11-25T07:04:31.045000+00:00",
-   "last_activity": "2026-11-25T07:04:31.045000+00:00",
+   "last_activity": "2026-11-25T07:45:02.350337+00:00",
    "closed": 28,
    "wins": 18,
    "losses": 10,
@@ -188,9 +188,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 499.52,
-   "open": 0,
+   "open": 2,
    "last_close": "2026-11-25T07:04:31.040000+00:00",
-   "last_activity": "2026-11-25T07:04:31.040000+00:00",
+   "last_activity": "2026-11-25T07:45:02.593739+00:00",
    "closed": 5,
    "wins": 3,
    "losses": 2,
@@ -1761,6 +1761,38 @@
  ],
  "flow": [
   {
+   "ts": "2026-11-25T07:45:02.593739+00:00",
+   "racer": "GOVERNOR",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-25T07:45:02.350337+00:00",
+   "racer": "RECOIL",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-25T07:45:02.218531+00:00",
+   "racer": "GOVERNOR",
+   "kind": "enter",
+   "symbol": "ETH/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-25T07:45:01.966415+00:00",
+   "racer": "RECOIL",
+   "kind": "enter",
+   "symbol": "ETH/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
    "ts": "2026-11-25T07:05:40.533413+00:00",
    "racer": "ORBIT",
    "kind": "exit",
@@ -1997,46 +2029,6 @@
    "racer": "ORBIT",
    "kind": "double_out",
    "symbol": "WIKI",
-   "pnl": null,
-   "reason": null,
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-25T00:21:10.451001+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "WIKI",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-24T23:56:00.054860+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "Jimmies",
-   "pnl": -2.51,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-24T23:45:53.931041+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "MARS",
-   "pnl": 14.04,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-24T23:40:54.887579+00:00",
-   "racer": "ORBIT",
-   "kind": "double_out",
-   "symbol": "MARS",
    "pnl": null,
    "reason": null,
    "stake": null,
