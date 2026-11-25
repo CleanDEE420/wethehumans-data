@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-25T21:49:25.703475+00:00",
+ "generated_at": "2026-11-25T21:54:14.076633+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 15:45 CST \u2014 23 new coins seen. \u00b7 81767 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 15:50 CST \u2014 42 new coins seen. \u00b7 81809 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -14,7 +14,7 @@
     },
     {
      "name": "dexscreener_profiles",
-     "status": "answered (29 coins)"
+     "status": "answered (28 coins)"
     },
     {
      "name": "dexscreener_boosts",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-25T21:45:49.584670+00:00"
+   "detail": "journal last entry 2026-11-25T21:50:51.586149+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,862.76 of $500 start \u00b7 max drawdown $2,362.76 (472.6% of bankroll) \u00b7 3 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,850.98 of $500 start \u00b7 max drawdown $2,362.76 (472.6% of bankroll) \u00b7 3 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -160,7 +160,7 @@
    }
   ],
   "open": 3,
-  "watching": 309
+  "watching": 306
  },
  "racers": [
   {
@@ -1698,7 +1698,7 @@
  ],
  "equity_summary": {
   "start": 500.0,
-  "ending_equity": -1862.76,
+  "ending_equity": -1850.98,
   "max_dd_usd": 2362.76,
   "max_dd_pct": 472.6,
   "open_count": 3
@@ -1706,11 +1706,11 @@
  "equity_line": [
   {
    "racer": "ORBIT",
-   "equity": -1862.76,
+   "equity": -1850.98,
    "basis": 500.0,
    "basis_source": "shadow bankroll (report_card convention)",
-   "dd_usd": 2362.76,
-   "dd_pct": 472.6,
+   "dd_usd": 2350.98,
+   "dd_pct": 470.2,
    "flagged": true
   },
   {
@@ -1760,6 +1760,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-25T21:50:51.585811+00:00",
+   "racer": "ORBIT",
+   "kind": "double_out",
+   "symbol": "4chanpump",
+   "pnl": null,
+   "reason": null,
+   "stake": null,
+   "suspect": false
+  },
   {
    "ts": "2026-11-25T21:40:56.908218+00:00",
    "racer": "ORBIT",
@@ -2045,16 +2055,6 @@
    "symbol": "GRAUDIA",
    "pnl": -14.71,
    "reason": "unarmed_floor_-40%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-25T18:05:53.367415+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "LENDR",
-   "pnl": 19.16,
-   "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
   }
