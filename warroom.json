@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T09:03:53-06:00",
+ "generated_at": "2026-11-25T09:08:53-06:00",
  "season": {
-  "fleet_pnl": -2250.59,
-  "closed_total": 564,
-  "open_total": 6,
+  "fleet_pnl": -2246.53,
+  "closed_total": 566,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 30,
-    "Road to 100": "30/100",
-    "Record": "19W\u201311L",
-    "Win rate": "63%",
-    "PnL": "$-1.76",
-    "Open": 3,
-    "Profit factor": "0.89"
+    "Closed": 31,
+    "Road to 100": "31/100",
+    "Record": "20W\u201311L",
+    "Win rate": "65%",
+    "PnL": "$+0.29",
+    "Open": 2,
+    "Profit factor": "1.02"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -67,16 +67,16 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 7,
-    "Road to 100": "7/100",
-    "Record": "4W\u20133L",
-    "Win rate": "57%",
-    "PnL": "$-0.48",
-    "Open": 3,
-    "Profit factor": "0.74"
+    "Closed": 8,
+    "Road to 100": "8/100",
+    "Record": "5W\u20133L",
+    "Win rate": "62%",
+    "PnL": "$+1.53",
+    "Open": 2,
+    "Profit factor": "1.83"
    },
    "demerits": []
   },
@@ -103,7 +103,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 319, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 318, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 24,
@@ -111,7 +111,7 @@
     "Win rate": "29%",
     "PnL": "$-17.88",
     "Profit factor": "0.88",
-    "Watching": 319,
+    "Watching": 318,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
