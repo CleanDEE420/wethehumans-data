@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T15:18:57-06:00",
+ "generated_at": "2026-11-25T15:23:54-06:00",
  "season": {
-  "fleet_pnl": -2345.99,
-  "closed_total": 584,
+  "fleet_pnl": -2344.45,
+  "closed_total": 585,
   "open_total": 3,
   "milestones": [
    {
@@ -103,23 +103,23 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 2 snipes and tracking 310 fresh Solana launches.",
+   "doing": "Holding 2 snipes and tracking 308 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
-    "Closed": 38,
-    "Record": "10W\u201328L",
-    "Win rate": "26%",
-    "PnL": "$-121.03",
+    "Closed": 39,
+    "Record": "11W\u201328L",
+    "Win rate": "28%",
+    "PnL": "$-119.49",
     "Profit factor": "0.61",
-    "Watching": 310,
+    "Watching": 308,
     "Open": 2,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "533 closed \u00b7 121W\u2013412L \u00b7 $-2348.08",
+    "All-time": "534 closed \u00b7 122W\u2013412L \u00b7 $-2346.54",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 32
+    "Entries (24h)": 33
    },
    "demerits": [
     "Bag Holder \u00d7160"
