@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T20:13:53-06:00",
+ "generated_at": "2026-11-24T20:18:54-06:00",
  "season": {
   "fleet_pnl": -2235.93,
   "closed_total": 548,
@@ -129,8 +129,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab CARD-FACTS INGESTION review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-24-storefab-suggestion-box right now.",
    "stats": {
     "Reviews done": "154/160",
     "Reviews filed": 100,
