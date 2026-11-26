@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T10:02:29-06:00",
+ "generated_at": "2026-11-26T10:07:27-06:00",
  "season": {
   "fleet_pnl": -2224.32,
   "closed_total": 607,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 297, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 298, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 59,
@@ -113,7 +113,7 @@
     "Win rate": "39%",
     "PnL": "$-5.04",
     "Profit factor": "0.99",
-    "Watching": 297,
+    "Watching": 298,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -132,9 +132,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-26-toolkit-asset-library right now.",
+   "doing": "Reviewing 2026-11-26-storefab-seo-ai right now.",
    "stats": {
-    "Reviews done": "164/173",
+    "Reviews done": "165/173",
     "Reviews filed": 107,
     "Held in queue": 4,
     "Latest report": "2026-11-25-storefab-outreach-v2-VET.md",
@@ -160,7 +160,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4691,
@@ -189,12 +189,12 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the 10:00 profile post \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 23,
+    "Jobs tracked on the board": 22,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 84,
-    "Open decisions": 11,
+    "Open tasks": 83,
+    "Open decisions": 3,
     "Projects": 17
    },
    "demerits": []
@@ -317,7 +317,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. WAVE 1 SENT 2026-11-25 21:17 CT (4/4, finish-line step 4 COMPLETE). Next: wave 2 \u2014 founder copy call first (tracked /go/ link, nickel/verified-charge wording, branding line)\u2026"
   }
  ],
- "projects_as_of": "2026-11-26 08:07 AM CT",
+ "projects_as_of": "2026-11-26 10:07 AM CT",
  "waiting": [
   {
    "title": "Claim StoreFab + ForeverHumans in ChatGPT's Business Hub (We The Humans is already filed)",
@@ -325,39 +325,39 @@
    "link": "https://chatgpt.com/business-hub"
   },
   {
-   "title": "Password vault sitting (Bitwarden)",
-   "detail": "PARKED \u2014 on the register so it is never forgotten; not urgent, and it stays parked until you call it. The pick is ruled: Bitwarden (free). When you call the sitting: install on phone + PC extension, one master password (\u2026",
-   "link": null
-  },
-  {
-   "title": "AIPI Lite flash",
-   "detail": "PARKED \u2014 on the register so it is never forgotten; not urgent, and it stays parked until you call it. Flashing the AIPI Lite as a portable push-to-talk Muse. Skipped in the Nov 18 sitting and carried forward since; PC si\u2026",
-   "link": null
-  },
-  {
-   "title": "Parked \u2014 the DRAGNET shop-crawl sittings (SC + NC) you held on Nov 23",
-   "detail": "One ruling covers both states, staged per your Nov 22 22:08 order \u2014 no per-domain cards. South Carolina sitting: 6 shops, 6 domains. North Carolina sitting: 301 records, 283 domains (Section A: 21 domains of eBay-confirm\u2026",
-   "link": null
-  },
-  {
    "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
    "detail": "FOUNDER ASK 2026-11-23: set the money structure up right. The 3 questions, verbatim from ~/workspace/your_files/big-dogs-money-map-2026-11-23.md \u2014 copy-paste ready: (1) \"What percentage of each payout should I be sweepin\u2026",
    "link": "sandbox://workspace/your_files/big-dogs-money-map-2026-11-23.md"
   },
   {
-   "title": "Tax-reserve % \u2014 Joe Pace sets this number at the sitting (25% placeholder until then)",
-   "detail": "ACCOUNTANT BOT V2 (spec 2026-11-23, watch item 2): the bot computes a running reserve target \u2014 a fixed slice of each cup's year-to-date PROFIT (not gross) that should be sitting in the tax-reserve account. THE SLICE % IS\u2026",
-   "link": "sandbox://workspace/your_files/big-dogs-money-map-2026-11-23.md"
-  },
-  {
-   "title": "Finish the account-map sitting \u2014 11 gaps left (Google ownership first)",
+   "title": "Finish the account-map sitting \u2014 11 gaps left (your fact-check checklist)",
    "detail": "The account map is BUILT (2026-11-23 12:35 CT, ~/workspace/your_files/account-map-2026-11-23.md): 55 accounts across 6 brand sections, 12 conflicts/gaps. The central knot is GOOGLE OWNERSHIP: the records rarely say which\u2026",
    "link": "sandbox://workspace/your_files/account-map-2026-11-23.md"
   },
   {
-   "title": "Deploy DC Command with the Trading title fix \u2014 ship it now, or build the board guard first?",
-   "detail": "Title mode built + tested 21/21, KRYPTON #121 vetted CLEARED Nov 24 \u2014 it unlocks the 1-listing Trading proof (PKMNB1-015, title Common to Uncommon) for the 29 stamp-fail listings. The board liveStatus guard was discussed\u2026",
-   "link": "https://dcmechanicalcontractors.com/"
+   "title": "Mail the DC Mechanical winding-up envelope",
+   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
+   "link": null
+  },
+  {
+   "title": "Update the card on GitHub billing (Belabox)",
+   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
+   "link": "https://github.com/settings/billing/payment_information"
+  },
+  {
+   "title": "Driver's license renewal",
+   "detail": "Expires Dec 16, 2026 \u2014 yours to handle (already on your list; shown here so the board carries it). (due: Dec 16, 2026)",
+   "link": null
+  },
+  {
+   "title": "Spotify: re-run Connect once (2 min)",
+   "detail": "Next PC sitting \u2014 2 minutes, unblocks the queue feature \u2014 Re-running Connect grants the queueAdd scope so Stream Buddy can add to your Spotify queue; the same test settles the Nov 18 twin-account question. Your separate\u2026 (due: your hands)",
+   "link": null
+  },
+  {
+   "title": "Stream Buddy first-use setup (~3 min)",
+   "detail": "Next PC sitting \u2014 3 minutes and it's done for good \u2014 The last real item on the PC sitting list (#6). Stream Buddy (Pip) has been live since Nov 17; this is just its first-use setup on CLEANmachine. (due: your hands, PC sitting leftover)",
+   "link": null
   }
  ]
 }
