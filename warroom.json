@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:07:30-06:00",
+ "generated_at": "2026-11-26T16:12:33-06:00",
  "season": {
   "fleet_pnl": -2393.5,
   "closed_total": 626,
@@ -132,9 +132,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-26-sc-bundle right now.",
+   "doing": "Reviewing 2026-11-26-storefab-terms right now.",
    "stats": {
-    "Reviews done": "176/188",
+    "Reviews done": "177/188",
     "Reviews filed": 112,
     "Held in queue": 4,
     "Latest report": "2026-11-26-bots-watchers-VET.md",
