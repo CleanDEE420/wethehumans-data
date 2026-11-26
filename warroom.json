@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T14:52:27-06:00",
+ "generated_at": "2026-11-26T14:57:28-06:00",
  "season": {
   "fleet_pnl": -2359.36,
   "closed_total": 622,
@@ -121,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "567 closed \u00b7 136W\u2013431L \u00b7 $-2368.66",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 36
+    "Entries (24h)": 35
    },
    "demerits": [
     "Bag Holder \u00d7169"
@@ -135,9 +135,9 @@
    "doing": "Reviewing 2026-11-26-holes-freshness right now.",
    "stats": {
     "Reviews done": "173/188",
-    "Reviews filed": 110,
+    "Reviews filed": 111,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-storefab-owner-dashboard-VET.md",
+    "Latest report": "2026-11-26-holes-seatproof-manifest-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -189,9 +189,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-34-done",
    "stats": {
-    "Jobs tracked on the board": 22,
+    "Jobs tracked on the board": 23,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
     "Open decisions": 3,
