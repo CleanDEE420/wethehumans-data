@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T20:03:56-06:00",
+ "generated_at": "2026-11-25T20:18:53-06:00",
  "season": {
-  "fleet_pnl": -2248.81,
-  "closed_total": 601,
-  "open_total": 2,
+  "fleet_pnl": -2197.97,
+  "closed_total": 602,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -103,21 +103,21 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 293 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 295, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
-    "Closed": 54,
-    "Record": "21W\u201333L",
-    "Win rate": "39%",
-    "PnL": "$-28.82",
-    "Profit factor": "0.92",
-    "Watching": 293,
-    "Open": 1,
+    "Closed": 55,
+    "Record": "22W\u201333L",
+    "Win rate": "40%",
+    "PnL": "$+22.02",
+    "Profit factor": "1.06",
+    "Watching": 295,
+    "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "549 closed \u00b7 132W\u2013417L \u00b7 $-2255.87",
+    "All-time": "550 closed \u00b7 133W\u2013417L \u00b7 $-2205.03",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 37
    },
@@ -129,10 +129,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON council money ideas, idea 9 \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-25-storefab-restyle-delta right now.",
    "stats": {
-    "Reviews done": "162/167",
+    "Reviews done": "162/168",
     "Reviews filed": 106,
     "Held in queue": 4,
     "Latest report": "2026-11-25-council-money-ideas-9-VET.md",
@@ -205,7 +205,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 08:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
