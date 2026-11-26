@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-26T00:49:20.575407+00:00",
+ "generated_at": "2026-11-26T01:04:24.334022+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-25 18:45 CST \u2014 25 new coins seen. \u00b7 82939 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-25 19:00 CST \u2014 29 new coins seen. \u00b7 83018 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -14,7 +14,7 @@
     },
     {
      "name": "dexscreener_profiles",
-     "status": "answered (26 coins)"
+     "status": "answered (27 coins)"
     },
     {
      "name": "dexscreener_boosts",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 547 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 548 entered all time \u00b7 2 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,17 +35,17 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-26T00:45:50.003826+00:00"
+   "detail": "journal last entry 2026-11-26T01:00:50.395363+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,773.83 of $500 start \u00b7 max drawdown $2,362.76 (472.6% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,773.83 of $500 start \u00b7 max drawdown $2,362.76 (472.6% of bankroll) \u00b7 2 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "547 verdicts logged \u00b7 201 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-26T00:40:20.355444+00:00"
+   "detail": "548 verdicts logged \u00b7 201 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-26T01:00:20.608526+00:00"
   }
  ],
  "crew": {
@@ -159,7 +159,7 @@
     "pnl": 182037.18
    }
   ],
-  "open": 1,
+  "open": 2,
   "watching": 292
  },
  "racers": [
@@ -1701,7 +1701,7 @@
   "ending_equity": -1773.83,
   "max_dd_usd": 2362.76,
   "max_dd_pct": 472.6,
-  "open_count": 1
+  "open_count": 2
  },
  "equity_line": [
   {
@@ -1760,6 +1760,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-26T00:55:47.587366+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "Zero",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-26T00:35:48.768855+00:00",
    "racer": "ORBIT",
@@ -2041,16 +2051,6 @@
    "racer": "ORBIT",
    "kind": "enter",
    "symbol": "Squirrel",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-25T21:10:54.597880+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "NORFEATH",
    "pnl": null,
    "reason": null,
    "stake": 25.0,
