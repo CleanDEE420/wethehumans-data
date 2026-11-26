@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:02:29-06:00",
+ "generated_at": "2026-11-26T08:07:30-06:00",
  "season": {
   "fleet_pnl": -2226.45,
   "closed_total": 605,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 299 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 301 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 57,
@@ -113,7 +113,7 @@
     "Win rate": "39%",
     "PnL": "$-7.17",
     "Profit factor": "0.98",
-    "Watching": 299,
+    "Watching": 301,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -211,7 +211,7 @@
   },
   {
    "label": "Netlify credits",
-   "value": "~-18 left (range -67\u201330) \u00b7 163 deploys this cycle \u00b7 pool resets Nov 27"
+   "value": "~-80 left (range -130\u2013-30) \u00b7 167 deploys this cycle \u00b7 pool resets Nov 27"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
