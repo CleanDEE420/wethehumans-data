@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-26T10:42:28-06:00",
+ "generated_at": "2026-11-26T12:57:28-06:00",
  "season": {
-  "fleet_pnl": -2245.31,
-  "closed_total": 608,
-  "open_total": 2,
+  "fleet_pnl": -2291.55,
+  "closed_total": 617,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 2 open trades and watching the market.",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 33,
-    "Road to 100": "33/100",
-    "Record": "22W\u201311L",
-    "Win rate": "67%",
-    "PnL": "$+2.13",
-    "Open": 2,
-    "Profit factor": "1.14"
+    "Closed": 34,
+    "Road to 100": "34/100",
+    "Record": "23W\u201311L",
+    "Win rate": "68%",
+    "PnL": "$+3.20",
+    "Open": 1,
+    "Profit factor": "1.21"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -105,26 +105,26 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 297, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 300, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
-    "Closed": 60,
-    "Record": "23W\u201337L",
-    "Win rate": "38%",
-    "PnL": "$-26.03",
-    "Profit factor": "0.94",
-    "Watching": 297,
+    "Closed": 68,
+    "Record": "25W\u201343L",
+    "Win rate": "37%",
+    "PnL": "$-73.34",
+    "Profit factor": "0.85",
+    "Watching": 300,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "555 closed \u00b7 134W\u2013421L \u00b7 $-2253.08",
+    "All-time": "563 closed \u00b7 136W\u2013427L \u00b7 $-2300.39",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 36
    },
    "demerits": [
-    "Bag Holder \u00d7164"
+    "Bag Holder \u00d7167"
    ]
   },
   {
@@ -132,12 +132,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-26-fh-seo-ai-search right now.",
+   "doing": "Reviewing 2026-11-26-storefab-owner-dashboard right now.",
    "stats": {
-    "Reviews done": "166/173",
-    "Reviews filed": 108,
+    "Reviews done": "170/188",
+    "Reviews filed": 109,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-storefab-seo-ai-VET.md",
+    "Latest report": "2026-11-26-storefab-speed-pile-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -207,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 12:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
