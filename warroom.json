@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:12:29-06:00",
+ "generated_at": "2026-11-26T15:17:28-06:00",
  "season": {
   "fleet_pnl": -2370.5,
   "closed_total": 624,
@@ -121,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "569 closed \u00b7 137W\u2013432L \u00b7 $-2379.80",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 34
+    "Entries (24h)": 33
    },
    "demerits": [
     "Bag Holder \u00d7169"
@@ -132,9 +132,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-26-holes-freshness right now.",
+   "doing": "Reviewing 2026-11-26-fh-privacy-page right now.",
    "stats": {
-    "Reviews done": "173/188",
+    "Reviews done": "174/188",
     "Reviews filed": 111,
     "Held in queue": 4,
     "Latest report": "2026-11-26-holes-seatproof-manifest-VET.md",
@@ -207,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 02:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 03:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
