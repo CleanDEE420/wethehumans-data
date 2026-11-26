@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:02:30-06:00",
+ "generated_at": "2026-11-26T16:07:30-06:00",
  "season": {
   "fleet_pnl": -2393.5,
   "closed_total": 626,
@@ -135,9 +135,9 @@
    "doing": "Reviewing 2026-11-26-sc-bundle right now.",
    "stats": {
     "Reviews done": "176/188",
-    "Reviews filed": 111,
+    "Reviews filed": 112,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-holes-seatproof-manifest-VET.md",
+    "Latest report": "2026-11-26-bots-watchers-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -191,7 +191,7 @@
    "alive": true,
    "doing": "Posting the 4:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 24,
+    "Jobs tracked on the board": 23,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
     "Open decisions": 3,
