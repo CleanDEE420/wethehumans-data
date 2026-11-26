@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T21:13:54-06:00",
+ "generated_at": "2026-11-25T22:28:55-06:00",
  "season": {
-  "fleet_pnl": -2197.97,
-  "closed_total": 602,
-  "open_total": 1,
+  "fleet_pnl": -2197.26,
+  "closed_total": 603,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -85,25 +85,27 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
     "Block": "Block 1",
-    "Closed": 9,
-    "Road to 100": "9/100",
-    "Record": "4W\u20135L",
-    "Win rate": "44%",
-    "PnL": "$+1.55",
-    "Open": 1,
-    "Profit factor": "1.27"
+    "Closed": 10,
+    "Road to 100": "10/100",
+    "Record": "5W\u20135L",
+    "Win rate": "50%",
+    "PnL": "$+2.26",
+    "Open": 0,
+    "Profit factor": "1.40"
    },
-   "demerits": []
+   "demerits": [
+    "FOMO Chase \u00d71"
+   ]
   },
   {
    "id": "orbit",
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 293, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 294, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 55,
@@ -111,7 +113,7 @@
     "Win rate": "40%",
     "PnL": "$+22.02",
     "Profit factor": "1.06",
-    "Watching": 293,
+    "Watching": 294,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -119,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "550 closed \u00b7 133W\u2013417L \u00b7 $-2205.03",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 37
+    "Entries (24h)": 35
    },
    "demerits": [
     "Bag Holder \u00d7163"
@@ -129,10 +131,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON council money ideas, idea 9 \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-25-storefab-outreach-v2 right now.",
    "stats": {
-    "Reviews done": "163/168",
+    "Reviews done": "163/169",
     "Reviews filed": 106,
     "Held in queue": 4,
     "Latest report": "2026-11-25-council-money-ideas-9-VET.md",
@@ -187,12 +189,12 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-14-done",
    "stats": {
-    "Jobs tracked on the board": 21,
+    "Jobs tracked on the board": 22,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 100,
-    "Open decisions": 8,
+    "Open tasks": 84,
+    "Open decisions": 13,
     "Projects": 17
    },
    "demerits": []
@@ -205,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 1 in a row (last 09:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
@@ -221,7 +223,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "648 cards banked"
+   "value": "673 cards banked"
   },
   {
    "label": "Quote card pool",
@@ -232,7 +234,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "Scanner fix DEPLOYED 2026-11-24 06:07 CT (6b057dddc83c1ad3293e0ce4, suite 27/27, homepage verified live) + scan-trust core DEPLOYED 16:20 CT (6b060d9480bb82e46d6f7879, visitor-seat verified). Charging ARMED since the Nov 23 pile deploy (6b0\u2026"
+   "next_gate": "FINISH LINE COMPLETE 2026-11-25 21:17 CT: clarity+restyle deploy SHIPPED 21:11 CT (6b07a351162bd3aba290ab76; clarity #132 + restyle both DONE + VETTED sound, no code defects) + outreach wave 1 SENT 21:17 CT to all 4 ruled sellers \u2014 StoreFab\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -297,30 +299,30 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Producer FLOWING (vision gate + tiled pass proven; bank 648; ledger 126 total, 0 unverified). Tesseract RESTORED 23:35 CT \u2014 OCR gate back on the next lane run; ensure_tesseract fix applied 05:30 CT (direct install first). Pinterest legs liv\u2026"
+   "next_gate": "Producer FLOWING (vision gate + tiled pass proven; bank 648; ledger 143 total, 62 BANKED / 81 REJECTED, 0 unverified). Tesseract RESTORED 23:35 CT \u2014 OCR gate back on the next lane run; ensure_tesseract fix applied 05:30 CT (direct install f\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "waiting on: CleanDEE's go \u2014 StoreFab deploy (card-facts wiring + suggestion box, one deploy); his re-scan WITH the books, then his verdict; wave-1 outreach on his send word. Also waiting on: Gumby's vet \u2014 scan-by-boxes review #126 (DONE 15/\u2026"
+   "next_gate": "FINISH LINE COMPLETE 21:17 CT (deploy 21:11 CT + wave 1 sent). Wave 2 gate: founder copy call (tracked /go/ link, nickel/verified-charge wording, branding line) + redeploy before wave 2. Charging soak + Trading title-mode deploy word still\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 4 running (205 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equi\u2026"
+   "next_gate": "Block 4 running (239 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equi\u2026"
   },
   {
    "name": "StoreFab \u2014 outreach",
    "status": "active",
-   "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of tonight: scanner fix DEPLOYED 06:07 CT + scan-trust core DEPLOYED 16:20 CT; review #124 VETTED CLEARED-WITH-FIXES 20:01 CT; deploy set now wiring + suggestio\u2026"
+   "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. WAVE 1 SENT 2026-11-25 21:17 CT (4/4, finish-line step 4 COMPLETE). Next: wave 2 \u2014 founder copy call first (tracked /go/ link, nickel/verified-charge wording, branding line)\u2026"
   }
  ],
- "projects_as_of": "2026-11-25 08:26 PM CT",
+ "projects_as_of": "2026-11-25 09:29 PM CT",
  "waiting": [
   {
-   "title": "ChatGPT Business Hub claims (3 brands)",
-   "detail": "Claim packets for We The Humans, StoreFab, and ForeverHumans are written copy-paste ready. The claim itself needs your Persona ID check (your hands only); Gumby stands by to place the DNS verification record the moment y\u2026",
-   "link": null
+   "title": "Claim StoreFab + ForeverHumans in ChatGPT's Business Hub (We The Humans is already filed)",
+   "detail": "We The Humans was filed Nov 24 and is in review. Two claims are left, and each needs one small confirm from you: (1) StoreFab \u2014 the cover photo (the mascot picture, or skip it); (2) ForeverHumans \u2014 which contact email to\u2026",
+   "link": "https://chatgpt.com/business-hub"
   },
   {
    "title": "Password vault sitting (Bitwarden)",
@@ -333,29 +335,29 @@
    "link": null
   },
   {
-   "title": "DRAGNET: rule the SC + NC pending-allow sitting?",
+   "title": "Parked \u2014 the DRAGNET shop-crawl sittings (SC + NC) you held on Nov 23",
    "detail": "One ruling covers both states, staged per your Nov 22 22:08 order \u2014 no per-domain cards. South Carolina sitting: 6 shops, 6 domains. North Carolina sitting: 301 records, 283 domains (Section A: 21 domains of eBay-confirm\u2026",
    "link": null
   },
   {
-   "title": "Joe Pace sitting: ask the 3 money-map questions",
+   "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
    "detail": "FOUNDER ASK 2026-11-23: set the money structure up right. The 3 questions, verbatim from ~/workspace/your_files/big-dogs-money-map-2026-11-23.md \u2014 copy-paste ready: (1) \"What percentage of each payout should I be sweepin\u2026",
-   "link": null
+   "link": "sandbox://workspace/your_files/big-dogs-money-map-2026-11-23.md"
   },
   {
-   "title": "Tax-reserve % \u2014 Joe sets the number",
+   "title": "Tax-reserve % \u2014 Joe Pace sets this number at the sitting (25% placeholder until then)",
    "detail": "ACCOUNTANT BOT V2 (spec 2026-11-23, watch item 2): the bot computes a running reserve target \u2014 a fixed slice of each cup's year-to-date PROFIT (not gross) that should be sitting in the tax-reserve account. THE SLICE % IS\u2026",
-   "link": null
+   "link": "sandbox://workspace/your_files/big-dogs-money-map-2026-11-23.md"
   },
   {
-   "title": "Accounts sitting: rule the account map's open questions (Google ownership first)",
+   "title": "Finish the account-map sitting \u2014 11 gaps left (Google ownership first)",
    "detail": "The account map is BUILT (2026-11-23 12:35 CT, ~/workspace/your_files/account-map-2026-11-23.md): 55 accounts across 6 brand sections, 12 conflicts/gaps. The central knot is GOOGLE OWNERSHIP: the records rarely say which\u2026",
-   "link": null
+   "link": "sandbox://workspace/your_files/account-map-2026-11-23.md"
   },
   {
-   "title": "Deploy dc-command with the Trading title mode \u2014 ship now, or bundle the board guard?",
+   "title": "Deploy DC Command with the Trading title fix \u2014 ship it now, or build the board guard first?",
    "detail": "Title mode built + tested 21/21, KRYPTON #121 vetted CLEARED Nov 24 \u2014 it unlocks the 1-listing Trading proof (PKMNB1-015, title Common to Uncommon) for the 29 stamp-fail listings. The board liveStatus guard was discussed\u2026",
-   "link": null
+   "link": "https://dcmechanicalcontractors.com/"
   }
  ]
 }
