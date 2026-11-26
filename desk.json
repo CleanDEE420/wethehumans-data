@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-26T19:27:50.570735+00:00",
+ "generated_at": "2026-11-26T19:37:55.676853+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-26 13:25 CST \u2014 40 new coins seen. \u00b7 89258 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-26 13:35 CST \u2014 28 new coins seen. \u00b7 89332 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 564 entered all time \u00b7 0 open now \u00b7 3 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 565 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,17 +35,17 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-26T19:25:49.949963+00:00"
+   "detail": "journal last entry 2026-11-26T19:35:53.858190+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,800.39 of $500 start \u00b7 max drawdown $2,362.76 (472.6% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,800.39 of $500 start \u00b7 max drawdown $2,362.76 (472.6% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "564 verdicts logged \u00b7 202 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-26T18:20:21.601414+00:00"
+   "detail": "565 verdicts logged \u00b7 202 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-26T19:35:21.293096+00:00"
   }
  ],
  "crew": {
@@ -159,8 +159,8 @@
     "pnl": 182037.18
    }
   ],
-  "open": 0,
-  "watching": 299
+  "open": 1,
+  "watching": 297
  },
  "racers": [
   {
@@ -169,17 +169,17 @@
    "crew": "recoil",
    "block_no": 1,
    "start": 500.0,
-   "now_worth": 503.2,
-   "open": 1,
-   "last_close": "2026-11-26T18:32:58.200000+00:00",
-   "last_activity": "2026-11-26T18:32:58.200000+00:00",
-   "closed": 34,
-   "wins": 23,
+   "now_worth": 503.66,
+   "open": 0,
+   "last_close": "2026-11-26T19:30:06.011000+00:00",
+   "last_activity": "2026-11-26T19:30:06.011000+00:00",
+   "closed": 35,
+   "wins": 24,
    "losses": 11,
-   "win_pct": 67.6,
-   "pf": 1.21,
+   "win_pct": 68.6,
+   "pf": 1.24,
    "pf_inf": false,
-   "pnl": 3.2
+   "pnl": 3.66
   },
   {
    "label": "GOVERNOR",
@@ -1701,7 +1701,7 @@
   "ending_equity": -1800.39,
   "max_dd_usd": 2362.76,
   "max_dd_pct": 472.6,
-  "open_count": 0
+  "open_count": 1
  },
  "equity_line": [
   {
@@ -1724,11 +1724,11 @@
   },
   {
    "racer": "RECOIL",
-   "equity": 503.2,
+   "equity": 503.66,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
-   "dd_usd": 2.6,
-   "dd_pct": 0.5,
+   "dd_usd": 2.14,
+   "dd_pct": 0.4,
    "flagged": false
   },
   {
@@ -1760,6 +1760,24 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-26T19:31:03.258574+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "securititty",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
+  {
+   "ts": "2026-11-26T19:30:06.011000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": 0.46,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-26T18:32:58.200000+00:00",
    "racer": "RECOIL",
@@ -2033,29 +2051,17 @@
    "reason": null,
    "stake": 25.0,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-26T11:45:43.302606+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "NUBU",
-   "pnl": -4.19,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-26T11:35:46.169485+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "NUBU",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-26T19:30:06.011000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "BTC/USD",
+   "pnl": 0.46,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-26T18:32:58.200000+00:00",
    "racer": "RECOIL",
@@ -2219,16 +2225,6 @@
    "symbol": "MemeStonks",
    "pnl": -16.7,
    "reason": "unarmed_floor_-40%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-26T01:40:57.357998+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "SKINPUSS",
-   "pnl": -6.1,
-   "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
   }
