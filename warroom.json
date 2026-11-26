@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T13:12:27-06:00",
+ "generated_at": "2026-11-26T13:22:27-06:00",
  "season": {
   "fleet_pnl": -2291.55,
   "closed_total": 617,
@@ -121,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "563 closed \u00b7 136W\u2013427L \u00b7 $-2300.39",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 36
+    "Entries (24h)": 35
    },
    "demerits": [
     "Bag Holder \u00d7167"
@@ -135,9 +135,9 @@
    "doing": "Reviewing 2026-11-26-dc-gateway-command-dashboard right now.",
    "stats": {
     "Reviews done": "171/188",
-    "Reviews filed": 109,
+    "Reviews filed": 110,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-storefab-speed-pile-VET.md",
+    "Latest report": "2026-11-26-storefab-owner-dashboard-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -160,11 +160,11 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4691,
-    "Emails": 1103,
+    "Emails": 1279,
     "Streamers": 331,
     "States in the bank": 24
    },
@@ -207,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 12:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 01:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
