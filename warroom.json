@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:57:27-06:00",
+ "generated_at": "2026-11-26T17:02:28-06:00",
  "season": {
   "fleet_pnl": -2393.5,
   "closed_total": 626,
@@ -121,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "571 closed \u00b7 137W\u2013434L \u00b7 $-2402.80",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 30
+    "Entries (24h)": 29
    },
    "demerits": [
     "Bag Holder \u00d7170"
@@ -131,8 +131,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab terms page + refund posture review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-26-vet-gaps-requeue right now.",
    "stats": {
     "Reviews done": "179/188",
     "Reviews filed": 113,
