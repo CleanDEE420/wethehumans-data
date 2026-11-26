@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25 05:40 CST",
+ "generated_at": "2026-11-25 20:41 CST",
  "generated_date": "2026-11-25",
  "ebay": {
   "listings_live": 8319,
@@ -17,7 +17,7 @@
  "pinterest": {
   "followers": 4953,
   "monthly_views": 29339,
-  "pins": 7705,
+  "pins": 7729,
   "boards": 23,
   "as_of": "2026-11-25"
  },
@@ -28,10 +28,10 @@
   "as_of": "2026-11-25"
  },
  "pinterest_pack": {
-  "engine_pins_total": 368,
+  "engine_pins_total": 385,
   "image_posted": 30,
   "image_total": 30,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "video_posted": 12,
   "video_total": 12
  },
@@ -48,18 +48,20 @@
    "gross": 3.49
   },
   "last_30d": {
-   "orders": 25,
-   "gross": 124.12
+   "orders": 20,
+   "gross": 99.89
   },
   "as_of": "2026-11-25"
  },
  "inspiration_lines": 2243,
  "manual": {
   "credit": {
-   "as_of": "2026-10-04",
-   "current": 621,
+   "as_of": "2026-11-08",
+   "current": 614,
+   "middle": 614,
+   "breakdown": "EX 614 · EQ 614 · TU 621",
    "target": 640,
-   "note": "CK Nov 2: TU 645 · EQ 632 — VantageScores, not mortgage FICO; the 640 gate is a lender's middle score"
+   "note": "middle score — the lender number for the USDA / MHDC gate"
   },
   "decisions": [
    {
