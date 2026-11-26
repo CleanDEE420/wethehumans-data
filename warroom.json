@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T23:38:54-06:00",
+ "generated_at": "2026-11-25T23:48:55-06:00",
  "season": {
   "fleet_pnl": -2197.26,
   "closed_total": 603,
@@ -132,12 +132,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON council money ideas, idea 9 \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab send-outreach v2 review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "164/169",
-    "Reviews filed": 106,
+    "Reviews filed": 107,
     "Held in queue": 4,
-    "Latest report": "2026-11-25-council-money-ideas-9-VET.md",
+    "Latest report": "2026-11-25-storefab-outreach-v2-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -189,9 +189,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-23-done",
    "stats": {
-    "Jobs tracked on the board": 21,
+    "Jobs tracked on the board": 22,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 84,
     "Open decisions": 13,
