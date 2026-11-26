@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-25T11:39:48",
+ "generated": "2026-11-26T11:40:09",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 88,
-   "visits7d": 80,
+   "pageviews7d": 94,
+   "visits7d": 81,
    "by_day": [
-    {
-     "date": "2026-11-19",
-     "pageviews": 8,
-     "visits": 8
-    },
     {
      "date": "2026-11-20",
      "pageviews": 4,
@@ -39,43 +34,43 @@
     },
     {
      "date": "2026-11-25",
-     "pageviews": 3,
-     "visits": 3
+     "pageviews": 16,
+     "visits": 11
+    },
+    {
+     "date": "2026-11-26",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
     {
      "path": "/dex-tracker/",
-     "pageviews": 50
+     "pageviews": 48
     },
     {
      "path": "/",
-     "pageviews": 9
+     "pageviews": 14
+    },
+    {
+     "path": "/links/",
+     "pageviews": 4
     },
     {
      "path": "/home-2/2016/1/18/the-apartment-of-rudee-chua-and-darien-mcdermott-5mzhr/",
      "pageviews": 3
     },
     {
-     "path": "/links/",
+     "path": "/minecraft/farms/",
      "pageviews": 3
-    },
-    {
-     "path": "/the-wall/",
-     "pageviews": 2
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 13,
-   "visits7d": 13,
+   "pageviews7d": 26,
+   "visits7d": 18,
    "by_day": [
-    {
-     "date": "2026-11-19",
-     "pageviews": 4,
-     "visits": 4
-    },
     {
      "date": "2026-11-20",
      "pageviews": 1,
@@ -100,25 +95,30 @@
      "date": "2026-11-24",
      "pageviews": 5,
      "visits": 5
+    },
+    {
+     "date": "2026-11-25",
+     "pageviews": 14,
+     "visits": 7
+    },
+    {
+     "date": "2026-11-26",
+     "pageviews": 3,
+     "visits": 2
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 13
+     "pageviews": 26
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 94,
-   "visits7d": 22,
+   "pageviews7d": 100,
+   "visits7d": 29,
    "by_day": [
-    {
-     "date": "2026-11-19",
-     "pageviews": 4,
-     "visits": 3
-    },
     {
      "date": "2026-11-21",
      "pageviews": 66,
@@ -138,16 +138,26 @@
      "date": "2026-11-24",
      "pageviews": 7,
      "visits": 7
+    },
+    {
+     "date": "2026-11-25",
+     "pageviews": 6,
+     "visits": 6
+    },
+    {
+     "date": "2026-11-26",
+     "pageviews": 4,
+     "visits": 4
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 82
+     "pageviews": 89
     },
     {
      "path": "/",
-     "pageviews": 11
+     "pageviews": 10
     },
     {
      "path": "/grading/",
