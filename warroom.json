@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T06:23:53-06:00",
+ "generated_at": "2026-11-26T06:28:56-06:00",
  "season": {
   "fleet_pnl": -2201.45,
   "closed_total": 604,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 298, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 297, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 56,
@@ -113,7 +113,7 @@
     "Win rate": "39%",
     "PnL": "$+17.83",
     "Profit factor": "1.05",
-    "Watching": 298,
+    "Watching": 297,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -194,7 +194,7 @@
     "Jobs tracked on the board": 23,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 84,
-    "Open decisions": 13,
+    "Open decisions": 17,
     "Projects": 17
    },
    "demerits": []
@@ -317,7 +317,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. WAVE 1 SENT 2026-11-25 21:17 CT (4/4, finish-line step 4 COMPLETE). Next: wave 2 \u2014 founder copy call first (tracked /go/ link, nickel/verified-charge wording, branding line)\u2026"
   }
  ],
- "projects_as_of": "2026-11-26 12:29 AM CT",
+ "projects_as_of": "2026-11-26 06:27 AM CT",
  "waiting": [
   {
    "title": "Claim StoreFab + ForeverHumans in ChatGPT's Business Hub (We The Humans is already filed)",
