@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:32:29-06:00",
+ "generated_at": "2026-11-26T08:37:29-06:00",
  "season": {
   "fleet_pnl": -2226.45,
   "closed_total": 605,
@@ -58,9 +58,7 @@
     "Open": 0,
     "Profit factor": "1.14"
    },
-   "demerits": [
-    "Bag Holder \u00d71"
-   ]
+   "demerits": []
   },
   {
    "id": "governor",
@@ -96,16 +94,14 @@
     "Open": 0,
     "Profit factor": "1.40"
    },
-   "demerits": [
-    "FOMO Chase \u00d71"
-   ]
+   "demerits": []
   },
   {
    "id": "orbit",
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 300 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 296 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 57,
@@ -113,7 +109,7 @@
     "Win rate": "39%",
     "PnL": "$-7.17",
     "Profit factor": "0.98",
-    "Watching": 300,
+    "Watching": 296,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -123,9 +119,7 @@
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 34
    },
-   "demerits": [
-    "Bag Holder \u00d7164"
-   ]
+   "demerits": []
   },
   {
    "id": "krypton",
