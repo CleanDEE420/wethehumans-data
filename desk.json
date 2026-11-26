@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-26T15:12:43.112382+00:00",
+ "generated_at": "2026-11-26T15:17:51.103147+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-26 09:10 CST \u2014 52 new coins seen. \u00b7 87533 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-26 09:15 CST \u2014 39 new coins seen. \u00b7 87572 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -14,7 +14,7 @@
     },
     {
      "name": "dexscreener_profiles",
-     "status": "answered (19 coins)"
+     "status": "answered (18 coins)"
     },
     {
      "name": "dexscreener_boosts",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-26T15:10:53.087469+00:00"
+   "detail": "journal last entry 2026-11-26T15:15:46.639282+00:00"
   },
   {
    "seat": "EQUITY",
@@ -160,7 +160,7 @@
    }
   ],
   "open": 0,
-  "watching": 299
+  "watching": 296
  },
  "racers": [
   {
@@ -170,9 +170,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 502.13,
-   "open": 0,
+   "open": 2,
    "last_close": "2026-11-25T16:20:28.505000+00:00",
-   "last_activity": "2026-11-25T16:20:28.505000+00:00",
+   "last_activity": "2026-11-26T15:15:02.745986+00:00",
    "closed": 33,
    "wins": 22,
    "losses": 11,
@@ -1761,6 +1761,22 @@
  ],
  "flow": [
   {
+   "ts": "2026-11-26T15:15:02.745986+00:00",
+   "racer": "RECOIL",
+   "kind": "enter",
+   "symbol": "ETH/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-26T15:15:02.008582+00:00",
+   "racer": "RECOIL",
+   "kind": "enter",
+   "symbol": "BTC/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
    "ts": "2026-11-26T15:10:53.087469+00:00",
    "racer": "ORBIT",
    "kind": "exit",
@@ -2036,26 +2052,6 @@
    "pnl": -19.74,
    "reason": "unarmed_floor_-40%",
    "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-25T23:25:53.827056+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "AMD",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-25T23:00:58.387660+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "PVE",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
    "suspect": false
   }
  ],
