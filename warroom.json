@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T20:28:55-06:00",
+ "generated_at": "2026-11-25T20:33:55-06:00",
  "season": {
   "fleet_pnl": -2197.97,
   "closed_total": 602,
@@ -158,12 +158,12 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4681,
     "Emails": 970,
-    "Streamers": 301,
+    "Streamers": 331,
     "States in the bank": 16
    },
    "demerits": []
@@ -187,12 +187,12 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the evening quotes \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 21,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 101,
-    "Open decisions": 11,
+    "Open tasks": 100,
+    "Open decisions": 8,
     "Projects": 17
    },
    "demerits": []
@@ -315,16 +315,11 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. Gate chain as of tonight: scanner fix DEPLOYED 06:07 CT + scan-trust core DEPLOYED 16:20 CT; review #124 VETTED CLEARED-WITH-FIXES 20:01 CT; deploy set now wiring + suggestio\u2026"
   }
  ],
- "projects_as_of": "2026-11-25 11:31 AM CT",
+ "projects_as_of": "2026-11-25 08:26 PM CT",
  "waiting": [
   {
    "title": "ChatGPT Business Hub claims (3 brands)",
    "detail": "Claim packets for We The Humans, StoreFab, and ForeverHumans are written copy-paste ready. The claim itself needs your Persona ID check (your hands only); Gumby stands by to place the DNS verification record the moment y\u2026",
-   "link": null
-  },
-  {
-   "title": "Vault the Gemini key",
-   "detail": "From the Nov 20 walk-down \u2014 still open, no answer. Once the key lives in the vault, the council seat stops depending on chat pastes. GUMBY'S CALL: Vault it \u2014 one paste, done War Room NEEDS register slug: gemini-vault.",
    "link": null
   },
   {
@@ -353,9 +348,14 @@
    "link": null
   },
   {
-   "title": "Deploy the ForeverHumans toolkit pile (vet-complete \u2014 held for this sitting)",
-   "detail": "THE SITTING ITEM (founder ruling 2026-11-23 22:53 CT: hold for tomorrow's sitting). The pile: timer upgrade (chatbot timers + quiet-chat guard) + the dial-in pass (builder crash fixed at its root, Kick wording reads the\u2026",
-   "link": "https://live.foreverhumans.com"
+   "title": "Accounts sitting: rule the account map's open questions (Google ownership first)",
+   "detail": "The account map is BUILT (2026-11-23 12:35 CT, ~/workspace/your_files/account-map-2026-11-23.md): 55 accounts across 6 brand sections, 12 conflicts/gaps. The central knot is GOOGLE OWNERSHIP: the records rarely say which\u2026",
+   "link": null
+  },
+  {
+   "title": "Deploy dc-command with the Trading title mode \u2014 ship now, or bundle the board guard?",
+   "detail": "Title mode built + tested 21/21, KRYPTON #121 vetted CLEARED Nov 24 \u2014 it unlocks the 1-listing Trading proof (PKMNB1-015, title Common to Uncommon) for the 29 stamp-fail listings. The board liveStatus guard was discussed\u2026",
+   "link": null
   }
  ]
 }
