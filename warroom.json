@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T10:08:04-06:00",
+ "generated_at": "2026-11-26T10:12:28-06:00",
  "season": {
   "fleet_pnl": -2224.32,
   "closed_total": 607,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 298, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 297, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 59,
@@ -113,7 +113,7 @@
     "Win rate": "39%",
     "PnL": "$-5.04",
     "Profit factor": "0.99",
-    "Watching": 298,
+    "Watching": 297,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -146,7 +146,7 @@
    "id": "forge",
    "name": "FORGE",
    "role": "Image maker",
-   "alive": null,
+   "alive": true,
    "doing": "Nightly stacker \u2014 last run 2026-11-25 22:37 CT (run 18, nightly stacker): 8 pieces made. Next run tonight.",
    "stats": {
     "Last run": "2026-11-25 22:37 CT (run 18, nightly stacker)",
@@ -317,7 +317,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. WAVE 1 SENT 2026-11-25 21:17 CT (4/4, finish-line step 4 COMPLETE). Next: wave 2 \u2014 founder copy call first (tracked /go/ link, nickel/verified-charge wording, branding line)\u2026"
   }
  ],
- "projects_as_of": "2026-11-26 10:07 AM CT",
+ "projects_as_of": "2026-11-26 10:08 AM CT",
  "waiting": [
   {
    "title": "Claim StoreFab + ForeverHumans in ChatGPT's Business Hub (We The Humans is already filed)",
