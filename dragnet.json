@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T16:12:41.641639+00:00",
- "generated_ct": "2026-11-26 10:12 CT",
+ "generated_at": "2026-11-26T16:13:03.234058+00:00",
+ "generated_ct": "2026-11-26 10:13 CT",
  "totals": {
   "records": 4691,
   "with_email": 1103,
@@ -306,7 +306,7 @@
    "unresolved-identity": 3
   },
   "daily_cap_calls": 50,
-  "last_run_date_ct": "2026-11-23",
+  "last_run_date_ct": "2026-11-26",
   "status": "weekly sweep (Mondays), 14-day verdict cache, marketing Browse cap 50/day \u2014 the Nov 23 claims-vs-traffic rule replaced the old daily 450/day batches",
   "source": "prospects.jsonl outreach_verification mirror (mirror of outreach-audience-verification.jsonl)"
  },
