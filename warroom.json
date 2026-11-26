@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-25T18:33:55-06:00",
+ "generated_at": "2026-11-25T18:48:53-06:00",
  "season": {
-  "fleet_pnl": -2281.82,
-  "closed_total": 596,
+  "fleet_pnl": -2266.77,
+  "closed_total": 597,
   "open_total": 2,
   "milestones": [
    {
@@ -103,21 +103,21 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 293 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 292 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
-    "Closed": 49,
-    "Record": "18W\u201331L",
-    "Win rate": "37%",
-    "PnL": "$-61.83",
-    "Profit factor": "0.83",
-    "Watching": 293,
+    "Closed": 50,
+    "Record": "19W\u201331L",
+    "Win rate": "38%",
+    "PnL": "$-46.78",
+    "Profit factor": "0.87",
+    "Watching": 292,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "544 closed \u00b7 129W\u2013415L \u00b7 $-2288.88",
+    "All-time": "545 closed \u00b7 130W\u2013415L \u00b7 $-2273.83",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 36
    },
@@ -187,9 +187,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-26-done",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 20,
+    "Jobs tracked on the board": 19,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 101,
     "Open decisions": 11,
