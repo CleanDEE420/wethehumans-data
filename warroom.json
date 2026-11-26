@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T09:32:31-06:00",
+ "generated_at": "2026-11-26T09:37:29-06:00",
  "season": {
   "fleet_pnl": -2224.32,
   "closed_total": 607,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 296, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 297, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 59,
@@ -113,7 +113,7 @@
     "Win rate": "39%",
     "PnL": "$-5.04",
     "Profit factor": "0.99",
-    "Watching": 296,
+    "Watching": 297,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -134,7 +134,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-26-toolkit-asset-library right now.",
    "stats": {
-    "Reviews done": "164/172",
+    "Reviews done": "164/173",
     "Reviews filed": 107,
     "Held in queue": 4,
     "Latest report": "2026-11-25-storefab-outreach-v2-VET.md",
@@ -160,13 +160,13 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
-    "Shops banked": 4681,
+    "Shops banked": 4691,
     "Emails": 970,
     "Streamers": 331,
-    "States in the bank": 16
+    "States in the bank": 24
    },
    "demerits": []
   },
