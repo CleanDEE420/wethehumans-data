@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T08:37:29-06:00",
+ "generated_at": "2026-11-26T08:47:27-06:00",
  "season": {
   "fleet_pnl": -2226.45,
   "closed_total": 605,
@@ -58,7 +58,9 @@
     "Open": 0,
     "Profit factor": "1.14"
    },
-   "demerits": []
+   "demerits": [
+    "Bag Holder \u00d71"
+   ]
   },
   {
    "id": "governor",
@@ -94,7 +96,9 @@
     "Open": 0,
     "Profit factor": "1.40"
    },
-   "demerits": []
+   "demerits": [
+    "FOMO Chase \u00d71"
+   ]
   },
   {
    "id": "orbit",
@@ -119,7 +123,9 @@
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 34
    },
-   "demerits": []
+   "demerits": [
+    "Bag Holder \u00d7164"
+   ]
   },
   {
    "id": "krypton",
