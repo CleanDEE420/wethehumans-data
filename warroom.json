@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T22:48:56-06:00",
+ "generated_at": "2026-11-25T23:18:55-06:00",
  "season": {
   "fleet_pnl": -2197.26,
   "closed_total": 603,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 295, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 293, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 55,
@@ -113,7 +113,7 @@
     "Win rate": "40%",
     "PnL": "$+22.02",
     "Profit factor": "1.06",
-    "Watching": 295,
+    "Watching": 293,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -147,10 +147,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": true,
-   "doing": "Nightly stacker \u2014 last run 2026-11-24 22:37 CT (run 17, nightly stacker): 12 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-25 22:37 CT (run 18, nightly stacker): 8 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-24 22:37 CT (run 17, nightly stacker)",
-    "Pieces last run": 12,
+    "Last run": "2026-11-25 22:37 CT (run 18, nightly stacker)",
+    "Pieces last run": 8,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
@@ -207,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 11:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
