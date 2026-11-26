@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T16:37:29-06:00",
+ "generated_at": "2026-11-26T16:42:28-06:00",
  "season": {
   "fleet_pnl": -2393.5,
   "closed_total": 626,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 291, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 292, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 76,
@@ -113,7 +113,7 @@
     "Win rate": "34%",
     "PnL": "$-175.75",
     "Profit factor": "0.71",
-    "Watching": 291,
+    "Watching": 292,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -121,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "571 closed \u00b7 137W\u2013434L \u00b7 $-2402.80",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 31
+    "Entries (24h)": 30
    },
    "demerits": [
     "Bag Holder \u00d7170"
@@ -191,7 +191,7 @@
    "alive": true,
    "doing": "Posting the 4:00 PM profile post \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 24,
+    "Jobs tracked on the board": 23,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
     "Open decisions": 3,
