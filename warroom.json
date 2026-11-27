@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T23:17:49-06:00",
+ "generated_at": "2026-11-26T23:22:45-06:00",
  "season": {
   "fleet_pnl": -2332.69,
   "closed_total": 633,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 302 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 301 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 83,
@@ -113,7 +113,7 @@
     "Win rate": "36%",
     "PnL": "$-114.94",
     "Profit factor": "0.82",
-    "Watching": 302,
+    "Watching": 301,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -134,7 +134,7 @@
    "alive": null,
    "doing": "Last review filed: KRYPTON ORBIT leg-consistency review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "184/189",
+    "Reviews done": "184/190",
     "Reviews filed": 122,
     "Held in queue": 4,
     "Latest report": "2026-11-26-orbit-leg-consistency-VET.md",
@@ -194,7 +194,7 @@
     "Jobs tracked on the board": 8,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
-    "Open decisions": 6,
+    "Open decisions": 11,
     "Projects": 17
    },
    "demerits": []
@@ -317,7 +317,7 @@
    "next_gate": "NOV 27: 1Up Games Calhoun sends first (day-3 cap 10, token minted at send time) - contacted becomes 10. NEXT WAVE PREPARED tonight (not sent): 5 sellers with same-day VERIFIED findings - Kit Young Cards, RK Collectibles, 4 Sharp Corners, Li\u2026"
   }
  ],
- "projects_as_of": "2026-11-26 11:13 PM CT",
+ "projects_as_of": "2026-11-26 11:22 PM CT",
  "waiting": [
   {
    "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
@@ -330,16 +330,6 @@
    "link": "sandbox://workspace/your_files/account-map-2026-11-23.md"
   },
   {
-   "title": "Council Nov 26: trading desk S8.5 - what to do with markout now the check has run",
-   "detail": "The markout check RAN Nov 26: 1s/10s/1m markout is NOT computable (snapshots every 300s) and ORBIT markout is not computable at any horizon (no per-mint price path kept). Coarse racer markouts exist: GOVERNOR favourable\u2026",
-   "link": null
-  },
-  {
-   "title": "Council Nov 26: the DRAGNET bank is the #1 unworked asset - work it through the gates",
-   "detail": "Both council seats ranked this the #1 miss, unprompted: 4,691 sellers banked, 1,279 emails, 9 ever contacted, 0 replies. Both seats also prescribed blasting 50-100 auto-personalized emails - GUMBY VETOED that part: it br\u2026",
-   "link": null
-  },
-  {
    "title": "Council Nov 26: collapse the watcher stack to exception-only reporting",
    "detail": "KRYPTON and Groq converged: the machine is over-watched - 2x/day board audits, a nightly opportunity sweep, per-lane watchers, and council brief-sweeps overlap heavily, and every layer burns the agent attention the tier\u2026",
    "link": null
@@ -350,14 +340,24 @@
    "link": null
   },
   {
-   "title": "Mail the DC Mechanical winding-up envelope",
-   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
+   "title": "Scout: replace dying Tesseract OCR with RapidOCR (pip, no apt)",
+   "detail": "WHAT: RapidOCR runs the same PaddleOCR models on ONNX Runtime \u2014 installs with pip into the toolbox, no apt anywhere, so a VM replacement can't kill OCR the way it keeps killing Tesseract. Apache-2.0 code + models, active\u2026",
    "link": null
   },
   {
-   "title": "Update the card on GitHub billing (Belabox)",
-   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
-   "link": "https://github.com/settings/billing/payment_information"
+   "title": "Scout: add Qwen3-VL-8B vision model to KRYPTON on the PC (fits the GPU whole)",
+   "detail": "WHAT: Qwen3-VL-8B is a vision model that reads screenshots, photos and page layouts. At ~5-6 GB it fits entirely in the RTX 4060's 8 GB \u2014 fast, fully local, Apache-2.0, loads in LM Studio. WHY: the KRYPTON vision gate ke\u2026",
+   "link": null
+  },
+  {
+   "title": "Scout: council seats \u2014 add Gemini free tier, fix Groq's model list",
+   "detail": "WHAT: Gemini's free API tier joins Groq as a council/grunt seat (Flash/Flash-Lite, ). Rule from Google's own pricing page: free-tier content is used to improve Google's products \u2014 non-sensitive work only, never seller da\u2026",
+   "link": null
+  },
+  {
+   "title": "Scout: test Streamer.bot for your own stream automation (Kick + OBS, free)",
+   "detail": "WHAT: Streamer.bot is a free Windows app that runs stream automation locally \u2014 467 triggers, native Kick support, deep OBS control, chat commands and alerts. Honest trade-off: it is free but closed-source, not open sourc\u2026",
+   "link": null
   }
  ]
 }
