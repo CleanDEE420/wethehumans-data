@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T04:02:45-06:00",
+ "generated_at": "2026-11-27T04:17:45-06:00",
  "season": {
   "fleet_pnl": -2357.63,
   "closed_total": 635,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 302, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 303, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 85,
@@ -113,7 +113,7 @@
     "Win rate": "36%",
     "PnL": "$-139.88",
     "Profit factor": "0.79",
-    "Watching": 302,
+    "Watching": 303,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -207,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 03:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 04:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
