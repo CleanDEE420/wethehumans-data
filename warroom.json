@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T01:42:45-06:00",
+ "generated_at": "2026-11-27T01:47:45-06:00",
  "season": {
   "fleet_pnl": -2332.63,
   "closed_total": 634,
@@ -132,12 +132,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON ORBIT leg-consistency review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON title batch-runner review (2026-11-22) \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "184/190",
-    "Reviews filed": 122,
+    "Reviews filed": 125,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-orbit-leg-consistency-VET.md",
+    "Latest report": "2026-11-22-ebay-title-batch-runner-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
