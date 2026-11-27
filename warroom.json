@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T08:47:48-06:00",
+ "generated_at": "2026-11-27T08:52:44-06:00",
  "season": {
   "fleet_pnl": -2357.04,
   "closed_total": 639,
-  "open_total": 0,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,7 +47,7 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "doing": "Holding 3 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 35,
@@ -55,7 +55,7 @@
     "Record": "24W\u201311L",
     "Win rate": "69%",
     "PnL": "$+3.66",
-    "Open": 0,
+    "Open": 3,
     "Profit factor": "1.24"
    },
    "demerits": [
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 281, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 279, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 89,
@@ -113,7 +113,7 @@
     "Win rate": "36%",
     "PnL": "$-139.29",
     "Profit factor": "0.79",
-    "Watching": 281,
+    "Watching": 279,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -135,9 +135,9 @@
    "doing": "Reviewing 2026-11-27-toolkit-lane1-buildouts right now.",
    "stats": {
     "Reviews done": "185/192",
-    "Reviews filed": 125,
+    "Reviews filed": 126,
     "Held in queue": 4,
-    "Latest report": "2026-11-22-ebay-title-batch-runner-VET.md",
+    "Latest report": "2026-11-27-toolkit-whatnot-pipe-RAW.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
