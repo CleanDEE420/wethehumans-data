@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-26T20:52:47-06:00",
+ "generated_at": "2026-11-26T21:02:47-06:00",
  "season": {
-  "fleet_pnl": -2348.88,
-  "closed_total": 632,
-  "open_total": 1,
+  "fleet_pnl": -2332.69,
+  "closed_total": 633,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -105,21 +105,21 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 310 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 310, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
-    "Closed": 82,
-    "Record": "29W\u201353L",
-    "Win rate": "35%",
-    "PnL": "$-131.13",
-    "Profit factor": "0.79",
+    "Closed": 83,
+    "Record": "30W\u201353L",
+    "Win rate": "36%",
+    "PnL": "$-114.94",
+    "Profit factor": "0.82",
     "Watching": 310,
-    "Open": 1,
+    "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "577 closed \u00b7 140W\u2013437L \u00b7 $-2358.18",
+    "All-time": "578 closed \u00b7 141W\u2013437L \u00b7 $-2341.99",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 28
    },
@@ -317,7 +317,7 @@
    "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. WAVE 1 SENT 2026-11-25 21:17 CT (4/4, finish-line step 4 COMPLETE). Next: wave 2 \u2014 founder copy call first (tracked /go/ link, nickel/verified-charge wording, branding line)\u2026"
   }
  ],
- "projects_as_of": "2026-11-26 10:29 AM CT",
+ "projects_as_of": "2026-11-26 09:01 PM CT",
  "waiting": [
   {
    "title": "Claim StoreFab + ForeverHumans in ChatGPT's Business Hub (We The Humans is already filed)",
