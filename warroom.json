@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T11:52:45-06:00",
+ "generated_at": "2026-11-27T12:02:45-06:00",
  "season": {
   "fleet_pnl": -2383.85,
   "closed_total": 648,
@@ -121,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "593 closed \u00b7 145W\u2013448L \u00b7 $-2393.15",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 32
+    "Entries (24h)": 31
    },
    "demerits": [
     "Bag Holder \u00d7173"
@@ -131,10 +131,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-27-toolkit-whatnot-webhooks right now.",
+   "alive": null,
+   "doing": "Last review filed: 2026-11-27-toolkit-lane1-buildouts-RAW.",
    "stats": {
-    "Reviews done": "187/193",
+    "Reviews done": "188/193",
     "Reviews filed": 127,
     "Held in queue": 4,
     "Latest report": "2026-11-27-toolkit-lane1-buildouts-RAW.md",
