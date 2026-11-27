@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:32:29-06:00",
+ "generated_at": "2026-11-26T20:37:56-06:00",
  "season": {
   "fleet_pnl": -2348.88,
   "closed_total": 632,
@@ -131,13 +131,13 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-26-storefab-rarity-502-fix right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON StoreFab security headers review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "182/188",
-    "Reviews filed": 114,
+    "Reviews done": "183/188",
+    "Reviews filed": 115,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-expiry-quota-ledger-VET.md",
+    "Latest report": "2026-11-26-storefab-security-headers-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -189,9 +189,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-25-done",
    "stats": {
-    "Jobs tracked on the board": 22,
+    "Jobs tracked on the board": 23,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
     "Open decisions": 3,
