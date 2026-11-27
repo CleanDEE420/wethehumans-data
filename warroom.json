@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T08:02:48-06:00",
+ "generated_at": "2026-11-27T08:07:46-06:00",
  "season": {
-  "fleet_pnl": -2362.97,
-  "closed_total": 637,
-  "open_total": 1,
+  "fleet_pnl": -2356.2,
+  "closed_total": 638,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -105,21 +105,21 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 286 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 283, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
-    "Closed": 87,
-    "Record": "31W\u201356L",
+    "Closed": 88,
+    "Record": "32W\u201356L",
     "Win rate": "36%",
-    "PnL": "$-145.22",
-    "Profit factor": "0.78",
-    "Watching": 286,
-    "Open": 1,
+    "PnL": "$-138.45",
+    "Profit factor": "0.79",
+    "Watching": 283,
+    "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "582 closed \u00b7 142W\u2013440L \u00b7 $-2372.27",
+    "All-time": "583 closed \u00b7 143W\u2013440L \u00b7 $-2365.50",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 30
    },
@@ -211,7 +211,7 @@
   },
   {
    "label": "Netlify credits",
-   "value": "~-80 left (range -130\u2013-30) \u00b7 167 deploys this cycle \u00b7 pool resets Nov 27"
+   "value": "~2475 left (range 2474\u20132475) \u00b7 0 deploys this cycle \u00b7 pool resets Nov 27"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
