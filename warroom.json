@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T07:42:45-06:00",
+ "generated_at": "2026-11-27T07:47:45-06:00",
  "season": {
   "fleet_pnl": -2362.97,
   "closed_total": 637,
-  "open_total": 0,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 286, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 286 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 87,
@@ -114,7 +114,7 @@
     "PnL": "$-145.22",
     "Profit factor": "0.78",
     "Watching": 286,
-    "Open": 0,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
@@ -160,7 +160,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4691,
@@ -227,7 +227,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "52 posted of 85 cards \u2014 33 fresh on the bench"
+   "value": "53 posted of 85 cards \u2014 32 fresh on the bench"
   }
  ],
  "projects": [
