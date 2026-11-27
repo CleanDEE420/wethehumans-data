@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T09:07:45-06:00",
+ "generated_at": "2026-11-27T09:17:45-06:00",
  "season": {
   "fleet_pnl": -2357.04,
   "closed_total": 639,
@@ -160,7 +160,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4691,
@@ -207,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 3 in a row (last 08:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 4 in a row (last 09:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
