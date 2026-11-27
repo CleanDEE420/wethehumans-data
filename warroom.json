@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:07:29-06:00",
+ "generated_at": "2026-11-26T20:12:27-06:00",
  "season": {
   "fleet_pnl": -2356.93,
   "closed_total": 631,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 310 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 309 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 81,
@@ -113,7 +113,7 @@
     "Win rate": "35%",
     "PnL": "$-139.18",
     "Profit factor": "0.78",
-    "Watching": 310,
+    "Watching": 309,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -132,9 +132,9 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": true,
-   "doing": "Reviewing 2026-11-26-fh-sales-stats-reader right now.",
+   "doing": "Reviewing 2026-11-26-storefab-security-headers right now.",
    "stats": {
-    "Reviews done": "180/188",
+    "Reviews done": "181/188",
     "Reviews filed": 114,
     "Held in queue": 4,
     "Latest report": "2026-11-26-expiry-quota-ledger-VET.md",
