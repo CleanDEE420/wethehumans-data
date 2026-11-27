@@ -1,0 +1,6 @@
+{
+  "whatnotPipe": {
+    "enabled": true,
+    "webhooks": true
+  }
+}
