@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-27T18:58:14.266999+00:00",
+ "generated_at": "2026-11-27T19:03:15.509609+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-27 12:55 CST \u2014 32 new coins seen. \u00b7 96213 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-27 13:00 CST \u2014 30 new coins seen. \u00b7 96243 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -14,7 +14,7 @@
     },
     {
      "name": "dexscreener_profiles",
-     "status": "answered (14 coins)"
+     "status": "answered (15 coins)"
     },
     {
      "name": "dexscreener_boosts",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-27T18:56:05.294841+00:00"
+   "detail": "journal last entry 2026-11-27T19:01:02.897284+00:00"
   },
   {
    "seat": "EQUITY",
@@ -169,17 +169,17 @@
    "crew": "recoil",
    "block_no": 1,
    "start": 500.0,
-   "now_worth": 503.66,
-   "open": 3,
-   "last_close": "2026-11-26T19:30:06.011000+00:00",
-   "last_activity": "2026-11-27T14:45:02.923536+00:00",
-   "closed": 35,
+   "now_worth": 503.65,
+   "open": 2,
+   "last_close": "2026-11-27T19:00:06.016000+00:00",
+   "last_activity": "2026-11-27T19:00:06.016000+00:00",
+   "closed": 36,
    "wins": 24,
-   "losses": 11,
-   "win_pct": 68.6,
+   "losses": 12,
+   "win_pct": 66.7,
    "pf": 1.24,
    "pf_inf": false,
-   "pnl": 3.66
+   "pnl": 3.65
   },
   {
    "label": "GOVERNOR",
@@ -1724,10 +1724,10 @@
   },
   {
    "racer": "RECOIL",
-   "equity": 503.66,
+   "equity": 503.65,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
-   "dd_usd": 2.14,
+   "dd_usd": 2.15,
    "dd_pct": 0.4,
    "flagged": false
   },
@@ -1760,6 +1760,14 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-27T19:00:06.016000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": -0.01,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-27T18:40:53.999599+00:00",
    "racer": "ORBIT",
@@ -2041,19 +2049,17 @@
    "reason": null,
    "stake": 25.0,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-27T14:00:46.941655+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "TWORBIT",
-   "pnl": 6.77,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-27T19:00:06.016000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": -0.01,
+   "reason": "exit_signal"
+  },
   {
    "ts": "2026-11-27T18:40:53.999599+00:00",
    "racer": "ORBIT",
@@ -2220,16 +2226,6 @@
    "kind": "exit",
    "symbol": "VOLALITY",
    "pnl": 0.06,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-27T02:55:40.384776+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "SpaceXCoin",
-   "pnl": 16.19,
    "reason": "trailing_-5%_from_peak",
    "stake": null,
    "suspect": false
