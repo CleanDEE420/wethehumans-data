@@ -1,6 +1,6 @@
 {
- "generated": "2026-11-26",
- "count": 2442,
+ "generated": "2026-11-27",
+ "count": 2859,
  "items": [
   {
    "kind": "card",
@@ -9613,6 +9613,193 @@
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fb90be39bb8be1.webp"
   },
   {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "688",
+   "title": "Peanuts Aren't Nuts \u2014 They're Beans in Disguise",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card688-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e4ab4b34deb107.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "006",
+   "title": "Lightning Is Five Times Hotter Than the Surface of the Sun",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card006-wonder-cool.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b7c4219758476e.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "687",
+   "title": "Your Pruney Fingers Are Your Nerves at Work",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card687-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-06235c3f89cffe.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "686",
+   "title": "All Earth's Water Fits in a Ball 860 Miles Wide",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card686-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4a51e9e1eec6c2.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "684",
+   "title": "You're Moving at 67,000 Miles an Hour Right Now",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card684-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a502ff913e97bf.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "682",
+   "title": "How a Bee's Wing Beats So Fast",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card682-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9666fd33f3e011.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "681",
+   "title": "How Can a Woodpecker Keep Its Tongue So Long?",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card681-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0e25db030f8835.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "680",
+   "title": "How Penguins Keep Their Feet From Freezing on Ice",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card680-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e85b258b90d7fe.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "679",
+   "title": "How a Gecko Climbs Smooth Glass",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card679-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-31b7d9637702c0.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "678",
+   "title": "The Gas Pump Clicks Off Because It Can't Breathe",
+   "topic": "practical",
+   "state": "BANKED",
+   "date": "2026-11-26",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-26-card678-practical.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f6e83cb1121d6a.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "676",
+   "title": "Inside a Spray Can, Pressure Does the Pushing",
+   "topic": "practical",
+   "state": "BANKED",
+   "date": "2026-11-27",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-27-card676-practical.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-28d595537bd218.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "675",
+   "title": "A Thermos Works Because of Nothing",
+   "topic": "practical",
+   "state": "BANKED",
+   "date": "2026-11-27",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-27-card675-practical.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-885273cf68d831.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "723",
+   "title": "One Screw Thread for Every Workshop in Britain",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-27",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-27-card723-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-48904f241755b5.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "722",
+   "title": "Van Gogh's Yellows Are Turning Brown",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-27",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-27-card722-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-96ab47fadbfe82.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "748",
+   "title": "Before Cash Registers, Money Flew Through the Walls",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-27",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-27-card748-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d33c5f89c40762.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "747",
+   "title": "The Red in the Old Masters' Paintings Came From Bugs",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-27",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-27-card747-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3c8fa05bc99ba2.webp"
+  },
+  {
+   "kind": "short",
+   "area": "Stay Curious",
+   "num": "744",
+   "title": "Half a Phone Call Grabs Your Brain Harder Than a Whole One",
+   "topic": "wonder",
+   "state": "BANKED",
+   "date": "2026-11-27",
+   "file": "~/workspace/your_files/stay-curious-videos/2026-11-27-card744-wonder.mp4",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-512c7dc7c4cc8b.webp"
+  },
+  {
    "kind": "card",
    "area": "Stay Curious",
    "num": 196,
@@ -9883,6 +10070,466 @@
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4217fc95b0869f.webp"
   },
   {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 699,
+   "title": "Inside Your Thermostat, Two Metals Bend to Flip the Heat",
+   "topic": "How Everyday Things Work",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-03c5c878aed17a.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 700,
+   "title": "Inside Your Bike's Back Wheel, Tiny Pawls Let You Coast",
+   "topic": "How Everyday Things Work",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-5b6b832a5613f9.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 701,
+   "title": "The Four Towers That Feed Hoover Dam Its Power",
+   "topic": "Engineering Wonders",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b54febf6788623.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 702,
+   "title": "How Chewing Gum Is Made: From a 600-Kilo Loaf to Your Pocket",
+   "topic": "How It's Made",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b552ccc4d152c2.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 703,
+   "title": "Why Pine Cones Open When They Dry \u2014 and Shut in the Rain",
+   "topic": "Nature",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-98ae18125f37eb.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 704,
+   "title": "The Shrimp That Fires a Bubble",
+   "topic": "Animals",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f12b77688d34ef.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 705,
+   "title": "An Elephant's Trunk Runs on 40,000 Muscles",
+   "topic": "Animals",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9d94ce43d9da89.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 706,
+   "title": "A Cheetah's Spine Is a Spring",
+   "topic": "Animals",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a79b81543a6db1.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 707,
+   "title": "If the Sun Were a Front Door",
+   "topic": "Space",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7290588a13a275.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 708,
+   "title": "The Moon Is Thirty Earths Away",
+   "topic": "Space",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-64568391ee9a9a.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 709,
+   "title": "The Deepest Scar on Earth Is a Slow-Motion Collision",
+   "topic": "Earth & Ocean",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-638e47b6783210.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 710,
+   "title": "You Are Born With About 10,000 Taste Buds",
+   "topic": "The Body",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-da06100b21b4d6.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 711,
+   "title": "The First Meal in Space Came in a Tube",
+   "topic": "Food",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e199e3606b03fe.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 712,
+   "title": "Emoji Means \"Picture Character\"",
+   "topic": "Words & Language",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7fb2d5312717d2.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 713,
+   "title": "The First Spacewalk Almost Had No Way Back",
+   "topic": "History & Firsts",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8d77d444d42e3c.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 714,
+   "title": "With Chains On, Slow Down to 25 or 30",
+   "topic": "Know-How (Car Tips)",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2b765fbdde6ebc.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 715,
+   "title": "The Tax Credit That Can Pay You Back",
+   "topic": "Know-How (Money Basics)",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-5c849710aa7ef9.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 716,
+   "title": "An AI Can Ace a Test It Already Saw",
+   "topic": "AI & Tech",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-99efe519252913.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 717,
+   "title": "The Word Math That Turns King Into Queen",
+   "topic": "AI & Tech",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4c4c47c4e0e3c4.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 718,
+   "title": "The First Number You Hear Pulls Your Guess",
+   "topic": "Proven Psychology",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-565659602f1f78.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 719,
+   "title": "MYTH-BUST: Brain-Training Games Don't Make You Smarter",
+   "topic": "Proven Psychology",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4750a12b3a3ae7.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 720,
+   "title": "Design Society Without Knowing Your Place in It",
+   "topic": "Philosophy & Big Questions",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b2771f0c40f00d.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 721,
+   "title": "The Woman Who Saw the Greenhouse Effect First",
+   "topic": "Biography & Lives",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-019b1c5cfa822e.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 722,
+   "title": "Van Gogh's Yellows Are Turning Brown",
+   "topic": "Art & How It's Made",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c2b1d9ba7bc371.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 723,
+   "title": "One Screw Thread for Every Workshop in Britain",
+   "topic": "How Work Actually Works",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-81a5cf3edf6aa1.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 724,
+   "title": "The Lock With No Key: Discs That Must Agree",
+   "topic": "How Everyday Things Work",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-05c66a113e4fb2.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 725,
+   "title": "The Sprinkler That Waits for Heat, Not Smoke",
+   "topic": "How Everyday Things Work",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-93625461146853.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 726,
+   "title": "Bending Near-Light-Speed Protons Around a 27-Kilometre Ring",
+   "topic": "Engineering Wonders",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4a2d07f639285d.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 727,
+   "title": "Why Your Jeans Fade White, Not Lighter Blue",
+   "topic": "How It's Made",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-181102f6192177.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 728,
+   "title": "The Desert That Feeds the Rainforest",
+   "topic": "Nature",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1c76a4ded05097.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 729,
+   "title": "How an Albatross Flies Thousands of Miles While Hardly Flapping",
+   "topic": "Animals",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7b9b3786251920.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 730,
+   "title": "Inside a Bird, Air Flows One Way",
+   "topic": "Animals",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7b687923dd5548.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 731,
+   "title": "Why a Flamingo Can Sleep Standing on One Leg",
+   "topic": "Animals",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3455d7d03937eb.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 732,
+   "title": "Saturn Wears a Hexagon at Its North Pole",
+   "topic": "Space",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6043dfdbad5074.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 733,
+   "title": "The Sunlight on Neptune Left Four Hours Ago",
+   "topic": "Space",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-39c8f2cfb430a9.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 734,
+   "title": "The Ocean Has a Hidden Highway for Sound",
+   "topic": "Earth & Ocean",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c000f3f0f76af8.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 735,
+   "title": "Your Blood Cells Live About Four Months \u2014 Then the Spleen Eats Them",
+   "topic": "The Body",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-25897263f426b7.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 736,
+   "title": "Astronauts Grew Radishes in Orbit \u2014 Then Ate the Harvest",
+   "topic": "Food",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b438b08f54e40d.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 737,
+   "title": "Awful Used to Be a Compliment",
+   "topic": "Words & Language",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f7ec6880f6473b.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 738,
+   "title": "The Oldest Photograph Still in Existence Shows a Rooftop",
+   "topic": "History & Firsts",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e2d8b0369ba5c3.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 739,
+   "title": "Flash Floods: Move Up, Not Out",
+   "topic": "Know-How \u2014 Survival & Safety",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e1515362d2ea8b.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 740,
+   "title": "Your Bank Balance Is Not Your Available Balance",
+   "topic": "Know-How \u2014 Money Basics",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7266a44d39e69d.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 741,
+   "title": "How a Chatbot Learns to Use Tools",
+   "topic": "AI & Tech",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1447f2fed95d55.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 742,
+   "title": "AI-Generated Code Still Needs a Human Check",
+   "topic": "AI & Tech",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-08b38b122ede7d.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 743,
+   "title": "Songs With Words Steal Your Reading",
+   "topic": "Proven Psychology",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-457d791c1adab0.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 744,
+   "title": "Half a Phone Call Grabs Your Brain Harder Than a Whole One",
+   "topic": "Proven Psychology",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9cc2e927ffc880.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 745,
+   "title": "One Box or Two? The Puzzle Where Both Answers Look Right",
+   "topic": "Philosophy & Big Questions",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2a00c70e24ef58.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 746,
+   "title": "The Boy Who Stole His Reading, One Crust of Bread at a Time",
+   "topic": "Biography & Lives",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6ba68b55e98a30.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 747,
+   "title": "The Red in the Old Masters' Paintings Came From Bugs",
+   "topic": "Art & How It's Made",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7979d458a9218d.webp"
+  },
+  {
+   "kind": "card",
+   "area": "Stay Curious",
+   "num": 748,
+   "title": "Before Cash Registers, Money Flew Through the Walls",
+   "topic": "How Work Actually Works",
+   "state": "banked",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d4bc61f6dc54ee.webp"
+  },
+  {
+   "kind": "toolkit-folder",
+   "area": "Toolkit",
+   "title": "badges",
+   "count": 1,
+   "state": "drafts/staged",
+   "sample": [
+    "badges/day-one.png"
+   ]
+  },
+  {
    "kind": "toolkit-folder",
    "area": "Toolkit",
    "title": "brand",
@@ -9917,7 +10564,7 @@
    "kind": "toolkit-folder",
    "area": "Toolkit",
    "title": "buddy-skins",
-   "count": 354,
+   "count": 360,
    "state": "drafts/staged",
    "sample": [
     "buddy-skins/card-guardian/celebrate/frame-01.png",
@@ -9959,11 +10606,21 @@
    "kind": "toolkit-folder",
    "area": "Toolkit",
    "title": "frames",
-   "count": 2,
+   "count": 14,
    "state": "drafts/staged",
    "sample": [
+    "frames/frame-v2-cozy.png",
+    "frames/frame-v2-graffiti.png",
+    "frames/frame-v2-haunted.png",
+    "frames/frame-v2-neon-arcade.png",
+    "frames/frame-v2-retro.png",
+    "frames/frame-v2-trippy.png",
     "frames/neon-graffiti-card-shop.png",
-    "frames/neon-graffiti-slim.png"
+    "frames/neon-graffiti-slim.png",
+    "frames/thumbs/frame-v2-cozy.webp",
+    "frames/thumbs/frame-v2-graffiti.webp",
+    "frames/thumbs/frame-v2-haunted.webp",
+    "frames/thumbs/frame-v2-neon-arcade.webp"
    ]
   },
   {
@@ -10026,6 +10683,27 @@
   {
    "kind": "toolkit-folder",
    "area": "Toolkit",
+   "title": "library",
+   "count": 314,
+   "state": "drafts/staged",
+   "sample": [
+    "library/ebay-live/card-seller/cf-el-card-brb.webp",
+    "library/ebay-live/card-seller/cf-el-card-ending.webp",
+    "library/ebay-live/card-seller/cf-el-card-on-deck.webp",
+    "library/ebay-live/card-seller/el-card-backdrop.webp",
+    "library/ebay-live/card-seller/el-card-big-hit.webp",
+    "library/ebay-live/card-seller/el-card-starting-soon.webp",
+    "library/ebay-live/card-seller/thumbs/cf-el-card-brb.webp",
+    "library/ebay-live/card-seller/thumbs/cf-el-card-ending.webp",
+    "library/ebay-live/card-seller/thumbs/cf-el-card-on-deck.webp",
+    "library/ebay-live/card-seller/thumbs/el-card-backdrop.webp",
+    "library/ebay-live/card-seller/thumbs/el-card-big-hit.webp",
+    "library/ebay-live/card-seller/thumbs/el-card-starting-soon.webp"
+   ]
+  },
+  {
+   "kind": "toolkit-folder",
+   "area": "Toolkit",
    "title": "pieces",
    "count": 144,
    "state": "drafts/staged",
@@ -10048,7 +10726,7 @@
    "kind": "toolkit-folder",
    "area": "Toolkit",
    "title": "sounds",
-   "count": 34,
+   "count": 36,
    "state": "drafts/staged",
    "sample": [
     "sounds/board/airhorn.wav",
@@ -10180,7 +10858,7 @@
    "kind": "forge-folder",
    "area": "FORGE / Designs",
    "title": "asset-army-refined",
-   "count": 140,
+   "count": 142,
    "state": "banked files",
    "sample": [
     "asset-army-refined/MANIFEST.md",
@@ -10201,21 +10879,21 @@
    "kind": "forge-folder",
    "area": "FORGE / Designs",
    "title": "asset-army-seasonal",
-   "count": 213,
+   "count": 224,
    "state": "banked files",
    "sample": [
     "asset-army-seasonal/christmas/cf-xm-alert-burst-alt2.jpg",
     "asset-army-seasonal/christmas/cf-xm-alert-burst-alt6.jpg",
     "asset-army-seasonal/christmas/cf-xm-alert-burst-alt7.jpg",
+    "asset-army-seasonal/christmas/cf-xm-alert-burst-alt9-raw.png",
+    "asset-army-seasonal/christmas/cf-xm-alert-burst-alt9.jpg",
     "asset-army-seasonal/christmas/cf-xm-backdrop-alt2.jpg",
     "asset-army-seasonal/christmas/cf-xm-backdrop-alt6.jpg",
+    "asset-army-seasonal/christmas/cf-xm-backdrop-alt9.jpg",
     "asset-army-seasonal/christmas/cf-xm-badge-alt2.jpg",
     "asset-army-seasonal/christmas/cf-xm-badge-alt6.jpg",
     "asset-army-seasonal/christmas/cf-xm-badge-alt7.jpg",
-    "asset-army-seasonal/christmas/cf-xm-brb-alt7.jpg",
-    "asset-army-seasonal/christmas/cf-xm-ending-alt2.jpg",
-    "asset-army-seasonal/christmas/cf-xm-ending-alt6.jpg",
-    "asset-army-seasonal/christmas/cf-xm-starting-soon-alt2.jpg"
+    "asset-army-seasonal/christmas/cf-xm-badge-alt9-raw.png"
    ]
   },
   {
@@ -10502,6 +11180,15 @@
   {
    "kind": "asset",
    "area": "Toolkit",
+   "title": "day one",
+   "topic": "badges",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/badges/day-one.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-65524d254823e9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
    "title": "FH 023 foreverhumans tag",
    "topic": "brand",
    "state": "in the toolkit",
@@ -10547,6 +11234,15 @@
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-anim/wave/frame-01.png",
    "count": 6,
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6e63ddb33c23ab.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "thumb",
+   "topic": "buddy-skins",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-skins/card-guardian/thumb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fc152ab9f9e0c9.webp"
   },
   {
    "kind": "asset",
@@ -10631,6 +11327,15 @@
   {
    "kind": "asset",
    "area": "Toolkit",
+   "title": "thumb",
+   "topic": "buddy-skins",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-skins/curiosity-owl/thumb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-56ae3e77f1c1ad.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
    "title": "frame \u2014 set",
    "topic": "buddy-skins",
    "state": "in the toolkit",
@@ -10707,6 +11412,15 @@
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-skins/curiosity-owl/wave/frame-01.png",
    "count": 6,
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4c04c28fb2179d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "thumb",
+   "topic": "buddy-skins",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-skins/forge-golem/thumb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c06baff16f9e38.webp"
   },
   {
    "kind": "asset",
@@ -10791,6 +11505,15 @@
   {
    "kind": "asset",
    "area": "Toolkit",
+   "title": "thumb",
+   "topic": "buddy-skins",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-skins/headphone-seed/thumb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2630fad50becec.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
    "title": "frame \u2014 set",
    "topic": "buddy-skins",
    "state": "in the toolkit",
@@ -10871,6 +11594,15 @@
   {
    "kind": "asset",
    "area": "Toolkit",
+   "title": "thumb",
+   "topic": "buddy-skins",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-skins/sprout/thumb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7d6558689c564d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
    "title": "frame \u2014 set",
    "topic": "buddy-skins",
    "state": "in the toolkit",
@@ -10947,6 +11679,15 @@
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-skins/sprout/wave/frame-01.png",
    "count": 6,
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-21852a76c00a56.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "thumb",
+   "topic": "buddy-skins",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/buddy-skins/welder-spark/thumb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b92284bc1c758f.webp"
   },
   {
    "kind": "asset",
@@ -11126,6 +11867,60 @@
    "state": "in the toolkit",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/fonts/space-grotesk-500.woff2",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/tile-font.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 cozy",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/frame-v2-cozy.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c70d99a4d1881f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 graffiti",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/frame-v2-graffiti.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-40d7c5f89ba71b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 haunted",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/frame-v2-haunted.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6be66777efc971.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 neon arcade",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/frame-v2-neon-arcade.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f603c9fa866cc7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 retro",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/frame-v2-retro.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-dd2719a1e926f0.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 trippy",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/frame-v2-trippy.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f9f2633ac7b328.webp"
   },
   {
    "kind": "asset",
@@ -11693,6 +12488,60 @@
    "state": "in the toolkit",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames-drafts/proof-stretch-sheet.png",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c7bda3cb692b4a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 cozy",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/thumbs/frame-v2-cozy.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ff1790330c2f88.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 graffiti",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/thumbs/frame-v2-graffiti.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8b2dc5252a8591.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 haunted",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/thumbs/frame-v2-haunted.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b794fd14fa1600.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 neon arcade",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/thumbs/frame-v2-neon-arcade.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0ad40ecfb04dbd.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 retro",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/thumbs/frame-v2-retro.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-226e5effc0b38d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "frame v2 trippy",
+   "topic": "frames",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/frames/thumbs/frame-v2-trippy.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0a41de2adc9707.webp"
   },
   {
    "kind": "asset",
@@ -12647,6 +13496,2832 @@
    "state": "in the toolkit",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/illustrated/fb-wn-art-trippy.webp",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-59149b51815b96.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el card brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/cf-el-card-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8454648a047ddf.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el card ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/cf-el-card-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1f8d85a20693a9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el card on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/cf-el-card-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-5de83698ebdf9b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el card backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/el-card-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-80ec82c0d89130.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el card big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/el-card-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-84a1616db09443.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el card starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/el-card-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-30e872fc198132.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el card brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/thumbs/cf-el-card-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-698265c8463b32.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el card ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/thumbs/cf-el-card-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4f705a6c84637c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el card on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/thumbs/cf-el-card-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7d4ebb010fb7ee.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el card backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/thumbs/el-card-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-63e19262e248a8.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el card big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/thumbs/el-card-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-35f863d6599c87.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el card starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/card-seller/thumbs/el-card-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1c415323656718.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el cozy big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/cf-el-cozy-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f836528973698b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/el-cozy-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-65e9ff8318c3eb.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/el-cozy-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f0b68f7573ee66.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/el-cozy-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-03f41f26d7ecfb.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/el-cozy-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-bb3e057fb152be.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/el-cozy-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-13387dc86f5120.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el cozy big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/thumbs/cf-el-cozy-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-10a77cdf298edd.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/thumbs/el-cozy-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c6df99483eca73.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/thumbs/el-cozy-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-02035638014580.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/thumbs/el-cozy-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1055a6a1b845d5.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/thumbs/el-cozy-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-34019daeb01be6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el cozy starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/cozy-irl/thumbs/el-cozy-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-58bd17b2e43af9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/el-game-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f1768143448623.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/el-game-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a7562dcd5acaa6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/el-game-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-223c276bd7f783.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/el-game-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-bf0c01f35484aa.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/el-game-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-121cfd5f5bb236.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/el-game-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-538f6e51a40562.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/thumbs/el-game-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e8c4e7a3239934.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/thumbs/el-game-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c1e04ad4b302ef.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/thumbs/el-game-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ce81f40fb384c6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/thumbs/el-game-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-95c3c09f1a5359.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/thumbs/el-game-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f7b1f894de28fc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el game starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/gamers/thumbs/el-game-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9be10fdb381492.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el retail starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/cf-el-retail-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3c2318a167d324.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/el-retail-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e2b3969b9b8227.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/el-retail-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f6c809a2749834.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/el-retail-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7d012008de515b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/el-retail-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-99df850b261923.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/el-retail-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d366f9362e33d8.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el retail starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/thumbs/cf-el-retail-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-00753668f1b96c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/thumbs/el-retail-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-05a01728032450.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/thumbs/el-retail-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-83f607679a8b3e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/thumbs/el-retail-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0aab94b928d114.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/thumbs/el-retail-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3260eba6de302d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el retail on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/general-retail/thumbs/el-retail-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-dd9d7f651d12dd.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el lux ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/cf-el-lux-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d1cc16fda50a01.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/el-lux-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fe286335a0d1f3.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/el-lux-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-67e24078f69fe4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/el-lux-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a8fa09ac9a36f1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/el-lux-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2e7a8349192993.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/el-lux-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c5b79319689bf9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el lux ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/thumbs/cf-el-lux-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4541b13674cc2f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/thumbs/el-lux-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fbbd5dc994ad7a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/thumbs/el-lux-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-123722a59f73a4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/thumbs/el-lux-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c8bd2fd3ee0d89.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/thumbs/el-lux-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e01bd8349f072b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el lux starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/luxury/thumbs/el-lux-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9446b3f029bf95.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el fashion backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/cf-el-fashion-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-005e8b15e7c7e6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el fashion brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/cf-el-fashion-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-aa221f9b25d3cc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el fashion big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/el-fashion-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e36a4e48132ac5.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el fashion ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/el-fashion-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7e610a54a26806.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el fashion on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/el-fashion-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f4f0218c8f889c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el fashion starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/el-fashion-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a5d8ec1f959004.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el fashion backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/thumbs/cf-el-fashion-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a84cfef7959c3e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf el fashion brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/thumbs/cf-el-fashion-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a685d3a8264006.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el fashion big hit",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/thumbs/el-fashion-big-hit.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-61c5a96737f85e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el fashion ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/thumbs/el-fashion-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9ba2e24478dd33.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el fashion on deck",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/thumbs/el-fashion-on-deck.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-953acaa9612474.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "el fashion starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/ebay-live/sneakers-fashion/thumbs/el-fashion-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d73fe3634628a3.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm alert burst alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-alert-burst-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d22b15693ec371.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm alert burst alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-alert-burst-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-64e0a800eef1db.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm alert burst alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-alert-burst-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-eff25499739151.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm backdrop alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-backdrop-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f8879a035d0fb3.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm backdrop alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-backdrop-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e059e33e831cc0.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm badge alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-badge-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a8122512c8f52e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm badge alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-badge-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e76609ff89b8df.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm badge alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-badge-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-904567ec3ffbfa.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm brb alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-brb-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-68673f11d04574.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm ending alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-ending-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-612af27877cd42.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm ending alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-ending-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-05e5d9aaba6a9d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm starting soon alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/cf-xm-starting-soon-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-265813892e5977.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm alert burst alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-alert-burst-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-cf74188405a7f1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm alert burst alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-alert-burst-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2c103c0e6dd8dc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm backdrop alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-backdrop-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-54a9118b723576.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm backdrop alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-backdrop-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1ce6c9afedb132.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm badge alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-badge-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-69353e6f190bb1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm badge alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-badge-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-dcfa8ea5c9eb9c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm brb alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-brb-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c22ab95d00b200.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm brb alt5",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-brb-alt5.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8768ef24b170db.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm brb alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-brb-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-06ff4ab768ccf2.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm brb alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-brb-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-71a80262027b0f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm ending alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-ending-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-18cde38ecb7261.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm ending alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-ending-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f5fc71a0ec245d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm ending alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-ending-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fb668b83bf5ec7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm starting soon alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-starting-soon-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1c4d14182b58e6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm starting soon alt5",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-starting-soon-alt5.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ad240ecd4635b9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm starting soon alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-starting-soon-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-722a2afacbaa19.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm starting soon alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/local-xm-starting-soon-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4202fa38afad67.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0a5f906efd6780.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-66a4132e87cbed.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm backdrop alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-backdrop-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-07fb131d984f7b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-00fada565b300f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm badge alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-badge-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9aa747592a393a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-086653c11f7936.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm brb alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-brb-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9a5db99deafa53.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c9dfc004079481.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm ending alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-ending-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1bcb278ad1c3f1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-10f2a96d8db7d8.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm starting soon alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-starting-soon-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fb652ae36ad410.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/xm-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3c2f36a9b6c067.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm alert burst alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-alert-burst-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-eb6ac2982a4f8d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm alert burst alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-alert-burst-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3bfc2e6b337a53.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm alert burst alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-alert-burst-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-172b8168dc3be9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm backdrop alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-backdrop-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-899949b8c20c0f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm backdrop alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-backdrop-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0fc3305d586814.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm badge alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-badge-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0b9e492c3e63bf.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm badge alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-badge-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-989751ae556cce.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm badge alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-badge-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f242c5ffecea21.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm brb alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-brb-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-038bd28fa621dd.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm ending alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-ending-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8c120cc4b56e8d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm ending alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-ending-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-233d0fcb68e39f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf xm starting soon alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/cf-xm-starting-soon-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0df816f080918e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm alert burst alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-alert-burst-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-5d04971d561672.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm alert burst alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-alert-burst-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-55bf07cdd0730d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm backdrop alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-backdrop-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-577f9789841dae.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm backdrop alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-backdrop-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-34b96e344d6959.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm badge alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-badge-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c1e6342c4c9464.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm badge alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-badge-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0ac258a8ba2136.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm brb alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-brb-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8b80e8b145d4fd.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm brb alt5",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-brb-alt5.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-395d89ee83863d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm brb alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-brb-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-58d9f1fe6acbfd.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm brb alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-brb-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-608466182bbc27.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm ending alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-ending-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-af9abd88bf80e0.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm ending alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-ending-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-16c37b73ce2b0f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm ending alt8",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-ending-alt8.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f4e07fb651d120.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm starting soon alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-starting-soon-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-14f3fadeb0c912.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm starting soon alt5",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-starting-soon-alt5.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ccdfc200e18317.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm starting soon alt6",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-starting-soon-alt6.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-21e8921ca1ba2f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local xm starting soon alt7",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/local-xm-starting-soon-alt7.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-af24777723049b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-34743edad7d99d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d8f7b53ae8e2a9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm backdrop alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-backdrop-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-281b8d2505dba8.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9398cc8bcecdf7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm badge alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-badge-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-dd03a0806254d6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ec88eb2d759bcb.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm brb alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-brb-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-915a60b0ab7c5a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c0381687618a1c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm ending alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-ending-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-15a9117a9de9b6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e2d46b2d3db487.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm starting soon alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-starting-soon-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-98e8895112ec8d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "xm starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/christmas/thumbs/xm-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3af32f4a2fbd24.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/cf-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-30ecea06186d5b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf ea alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/cf-ea-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f687f36f75c652.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf ea badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/cf-ea-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e841924a2a9e86.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ea backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/ea-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-33b4f791fca9e7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ea brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/ea-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-93f020907e97df.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ea ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/ea-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-599e05efd21c78.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ea starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/ea-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b9e20bd175b9e8.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/thumbs/cf-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b1fe275f673b92.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf ea alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/thumbs/cf-ea-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2b913b05198df1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf ea badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/thumbs/cf-ea-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c62bf89345c148.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ea backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/thumbs/ea-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4407cef511ac0e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ea brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/thumbs/ea-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2661893030bdc9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ea ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/thumbs/ea-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-02ab4647706f31.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ea starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/easter/thumbs/ea-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-11a936ee8211be.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/local-hw-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-59d7fcc1bb4a43.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/local-hw-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-45efbc79ec0d4a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/local-hw-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-863d0acc98d9ba.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/local-hw-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0eeffebde652cc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/local-hw-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e290f75589af6a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/local-hw-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e0cb016fac7bc5.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/thumbs/local-hw-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-5c1ca8f0ad69a8.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/thumbs/local-hw-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ac10cc762a4a20.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/thumbs/local-hw-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2f12f274f720cc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/thumbs/local-hw-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-605bf250a3e008.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/thumbs/local-hw-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fa8e0542e354ce.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local hw starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/halloween/thumbs/local-hw-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c55ed87c32b4ad.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/local-ny-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-205a8a90195673.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny backdrop alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/local-ny-backdrop-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-565e83ca8bf0c4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny badge alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/local-ny-badge-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-5c51ae7a3ecaca.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny brb alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/local-ny-brb-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a829d973c000cf.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny brb alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/local-ny-brb-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-95c82a0b5ba76e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny ending alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/local-ny-ending-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e77ed137776f3e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny starting soon alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/local-ny-starting-soon-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-957f060cc1731e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny starting soon alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/local-ny-starting-soon-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-35c2977a2456a1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/ny-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6b737b9ae957b0.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/ny-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2c71b9ce335aec.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/ny-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-669790a7f72e8e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/ny-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-cf70a67caabcd4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/ny-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8d091c7a629a0c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/ny-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4ec14b6cb3b2e7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/local-ny-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-de519b3b80bba6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny backdrop alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/local-ny-backdrop-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ce3a1a558c13ec.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny badge alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/local-ny-badge-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c8f7710e89d3ba.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny brb alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/local-ny-brb-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3aa0e0259af4b0.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny brb alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/local-ny-brb-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6e9df3b3ed4e0f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny ending alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/local-ny-ending-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ad9489c0f99a11.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny starting soon alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/local-ny-starting-soon-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-02bff4e354719f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local ny starting soon alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/local-ny-starting-soon-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-acd90b81c92b78.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/ny-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1e0daa004d19d7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/ny-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-50fa77d8a711b5.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/ny-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f7ec5aebae25b2.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/ny-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0a2cec414818d3.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/ny-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6b25dc6bccae03.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "ny starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/new-year/thumbs/ny-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3542dc6659a4d6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/sp-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-15fe9b7a1281cc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/sp-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-36c19f7f443606.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/sp-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-391e1db23e87d8.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/sp-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3ee3894d00d94c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/sp-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-538955990c8bcc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/sp-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fef08e6a963be4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/sp-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-eb39281915f0fc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/thumbs/sp-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a952520b8982a4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/thumbs/sp-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6da460ac65caeb.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/thumbs/sp-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-596664cff7d13f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/thumbs/sp-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d309c11f339bd5.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/thumbs/sp-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b356faf0dc5d4f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/thumbs/sp-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-bdee87e56b5527.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "sp starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/st-patricks/thumbs/sp-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-506515e0faf175.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf su alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/cf-su-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-863511eb017d36.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf su badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/cf-su-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3bf0ec7bcf722c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "su backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/su-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a8370e0ac7f595.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "su brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/su-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-863e1e4f392a7b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "su ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/su-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d452accecbb0c0.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "su starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/su-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e20ffbf6cad284.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf su alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/thumbs/cf-su-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-68170688778102.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf su badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/thumbs/cf-su-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fad53659f39728.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "su backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/thumbs/su-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a48d720a432cb5.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "su brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/thumbs/su-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-82e0493c584c4a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "su ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/thumbs/su-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1ec86cb6343189.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "su starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/summer/thumbs/su-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-455cc24e32daf4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg alert burst alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/cf-tg-alert-burst-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e0a082470ddd5e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg backdrop alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/cf-tg-backdrop-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ae07dba023f755.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg backdrop alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/cf-tg-backdrop-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1d0c455b926281.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg badge alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/cf-tg-badge-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-03155706b1f4ab.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg brb alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/cf-tg-brb-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d331b88ce87d3b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg ending alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/cf-tg-ending-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6a78c369d4ed5a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg starting soon alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/cf-tg-starting-soon-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1ae89e3560b185.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8a55430866c6e9.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg alert burst alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-alert-burst-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-865dacf4569295.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg backdrop alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-backdrop-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-61fc753b99a4d1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg badge alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-badge-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-75c8280f5e8ef4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg badge alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-badge-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-401ad15f4bfdd5.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg brb alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-brb-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4943d0c3ea236d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg brb alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-brb-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ac16c3274cb614.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg ending alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-ending-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ead85772fcf65f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg ending alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-ending-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4353b20dd04b2f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg starting soon alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-starting-soon-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-747657a9516c3e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg starting soon alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/local-tg-starting-soon-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e2cd4207187295.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-bd3ab7a0414c4f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg alert pie",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-alert-pie.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-65185ba67386fd.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg backdrop alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-backdrop-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-291311fd780c43.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4983af01a27313.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg badge leaf",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-badge-leaf.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-dd2aafc8c0fffc.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-095c122c0764f4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-bd6004432c040a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8c972b9aba9f75.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg starting soon alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-starting-soon-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7901127443d943.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/tg-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-63ca5d35b64417.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg alert burst alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/cf-tg-alert-burst-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-50c6c72665a136.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg backdrop alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/cf-tg-backdrop-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-203b033bb5b302.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg backdrop alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/cf-tg-backdrop-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6fcc77c069bc85.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg badge alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/cf-tg-badge-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-80cf9665ab7b22.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg brb alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/cf-tg-brb-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-eb36117fd8d35b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg ending alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/cf-tg-ending-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a913b94f97f539.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "cf tg starting soon alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/cf-tg-starting-soon-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-9743b6786be1f6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg alert burst alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-alert-burst-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-dea70754e358d6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg alert burst alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-alert-burst-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4cc2e6dd329483.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg backdrop alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-backdrop-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b205c39c8f403e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg badge alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-badge-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-5df1421a33dddd.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg badge alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-badge-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fd395d0b2f8142.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg brb alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-brb-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-7e20b0ee28a12a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg brb alt3",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-brb-alt3.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a4480a0efe02e7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg ending alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-ending-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3b4ce8c746d674.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg ending alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-ending-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-be6484b951d9f6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg starting soon alt2",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-starting-soon-alt2.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8d21d0f9456d3e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local tg starting soon alt4",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/local-tg-starting-soon-alt4.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3146d97946a483.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-604a5a0d7196b4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg alert pie",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-alert-pie.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-be354cf71aeab7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg backdrop alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-backdrop-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a83ef61cc2d9c5.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0f96aaab492f23.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg badge leaf",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-badge-leaf.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-126673f798a333.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4cf9c7d9612ef8.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-310d1ac93210ef.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d0328fcd7562a6.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg starting soon alt",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-starting-soon-alt.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3ddbc4cef0195e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "tg starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/thanksgiving/thumbs/tg-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-89ba1c14db90e0.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/va-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f4fccf44de0d16.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/va-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-536773be352456.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/va-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-1d56f4dfecc93c.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/va-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2ee90271f97fc1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/va-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-d118d2f79ec006.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/va-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-aeea2c5d06001a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/thumbs/va-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-99f56c43a0e18e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/thumbs/va-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c4d4a80e38fdc1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/thumbs/va-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-512efbe8472a56.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/thumbs/va-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-74ae96d6a2cb0a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/thumbs/va-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-3b5b7054e1f13f.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "va starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/valentines/thumbs/va-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-ca359b2bdec0a4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/local-wc-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-4dcf36c337bc3d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/local-wc-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-df8e4e6c7d4a7b.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/local-wc-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-c5d047e37f7851.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/local-wc-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-f1098ec5f9c7d7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/local-wc-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6b11deec259469.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/local-wc-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b5e7ade1aeda82.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc alert burst",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/thumbs/local-wc-alert-burst.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-550c459b322795.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc backdrop",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/thumbs/local-wc-backdrop.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2793f40aa61340.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc badge",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/thumbs/local-wc-badge.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b433fc3c1a2ad1.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc brb",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/thumbs/local-wc-brb.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2535eb5bbc05a2.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc ending",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/thumbs/local-wc-ending.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-8b3bedc7d13234.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "local wc starting soon",
+   "topic": "library",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/library/seasonal/winter-cozy/thumbs/local-wc-starting-soon.webp",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-03426d2b656d7f.webp"
   },
   {
    "kind": "asset",
@@ -13992,6 +17667,15 @@
   {
    "kind": "asset",
    "area": "Toolkit",
+   "title": "snd buddy",
+   "topic": "sounds",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/sounds/snd-buddy.mp3",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/tile-audio.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
    "title": "snd cheer",
    "topic": "sounds",
    "state": "in the toolkit",
@@ -14005,6 +17689,15 @@
    "topic": "sounds",
    "state": "in the toolkit",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/sounds/snd-follow.mp3",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/tile-audio.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "Toolkit",
+   "title": "snd frame",
+   "topic": "sounds",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/assets/sounds/snd-frame.mp3",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/tile-audio.webp"
   },
   {
@@ -16638,6 +20331,15 @@
   {
    "kind": "asset",
    "area": "FORGE / Designs",
+   "title": "cf xm alert burst alt9",
+   "topic": "asset-army-refined",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-refined/seasonal/cf-xm-alert-burst-alt9.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-cafd1e352865f7.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
    "title": "cf xm badge alt2",
    "topic": "asset-army-refined",
    "state": "banked",
@@ -16661,6 +20363,15 @@
    "state": "banked",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-refined/seasonal/cf-xm-badge-alt7.png",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-a3f20ec754750a.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
+   "title": "cf xm badge alt9",
+   "topic": "asset-army-refined",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-refined/seasonal/cf-xm-badge-alt9.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-5e4b18d2d7cfa0.webp"
   },
   {
    "kind": "asset",
@@ -17520,6 +21231,24 @@
   {
    "kind": "asset",
    "area": "FORGE / Designs",
+   "title": "cf xm alert burst alt9 raw",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-alert-burst-alt9-raw.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-20ae951a1f6743.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
+   "title": "cf xm alert burst alt9",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-alert-burst-alt9.jpg",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-2990253cf51af3.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
    "title": "cf xm backdrop alt2",
    "topic": "asset-army-seasonal",
    "state": "banked",
@@ -17534,6 +21263,15 @@
    "state": "banked",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-backdrop-alt6.jpg",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-cc96f324c9e7e4.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
+   "title": "cf xm backdrop alt9",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-backdrop-alt9.jpg",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-82267b01492984.webp"
   },
   {
    "kind": "asset",
@@ -17565,11 +21303,38 @@
   {
    "kind": "asset",
    "area": "FORGE / Designs",
+   "title": "cf xm badge alt9 raw",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-badge-alt9-raw.png",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-fbc08c76625c7d.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
+   "title": "cf xm badge alt9",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-badge-alt9.jpg",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e96979aef44650.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
    "title": "cf xm brb alt7",
    "topic": "asset-army-seasonal",
    "state": "banked",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-brb-alt7.jpg",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-13e41703c69a9e.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
+   "title": "cf xm brb alt9",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-brb-alt9.jpg",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-b88f49eec5b251.webp"
   },
   {
    "kind": "asset",
@@ -17592,11 +21357,38 @@
   {
    "kind": "asset",
    "area": "FORGE / Designs",
+   "title": "cf xm ending alt9",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-ending-alt9.jpg",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-6a869eb8aad160.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
    "title": "cf xm starting soon alt2",
    "topic": "asset-army-seasonal",
    "state": "banked",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-starting-soon-alt2.jpg",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-e1b340f7b09307.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
+   "title": "cf xm starting soon alt8",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-starting-soon-alt8.jpg",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-0983de6d3dfcce.webp"
+  },
+  {
+   "kind": "asset",
+   "area": "FORGE / Designs",
+   "title": "cf xm starting soon alt9",
+   "topic": "asset-army-seasonal",
+   "state": "banked",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/files/designs/asset-army-seasonal/christmas/cf-xm-starting-soon-alt9.jpg",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/t-bf7ccc3ce6e84e.webp"
   },
   {
    "kind": "asset",
@@ -24483,6 +28275,24 @@
    "topic": "toolkit guides",
    "state": "in the toolkit",
    "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/guides/blurry-stream-bitrate.md",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/tile-doc.webp"
+  },
+  {
+   "kind": "guide",
+   "area": "How-to",
+   "title": "Your First Stream Checklist (One Page, Both Apps)",
+   "topic": "toolkit guides",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/guides/first-stream-checklist.md",
+   "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/tile-doc.webp"
+  },
+  {
+   "kind": "guide",
+   "area": "How-to",
+   "title": "Set Up Your Going-Live Posts (Megaphone)",
+   "topic": "toolkit guides",
+   "state": "in the toolkit",
+   "path": "goals/foreverhumans-streamer-toolkit-and-referral-network/toolkit/guides/going-live-megaphone.md",
    "thumb": "https://raw.githubusercontent.com/CleanDEE420/wethehumans-data/main/production/thumbs/tile-doc.webp"
   },
   {
