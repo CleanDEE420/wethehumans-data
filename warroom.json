@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T06:32:45-06:00",
+ "generated_at": "2026-11-27T06:37:45-06:00",
  "season": {
   "fleet_pnl": -2357.63,
   "closed_total": 635,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 295, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 294, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 85,
@@ -113,7 +113,7 @@
     "Win rate": "36%",
     "PnL": "$-139.88",
     "Profit factor": "0.79",
-    "Watching": 295,
+    "Watching": 294,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -191,10 +191,10 @@
    "alive": true,
    "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 9,
+    "Jobs tracked on the board": 10,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 82,
-    "Open decisions": 2,
+    "Open decisions": 10,
     "Projects": 17
    },
    "demerits": []
@@ -317,7 +317,7 @@
    "next_gate": "NOV 27: 1Up Games sends 09:00 CT (job created) - contacted becomes 10. The 4 phrase-held letters (Kit Young, 4 Sharp Corners, Little Shop, Evolve) wait on HIS ruling on the template phrasing - next cap day at the earliest. PLUS10 STAGED (no\u2026"
   }
  ],
- "projects_as_of": "2026-11-27 05:26 AM CT",
+ "projects_as_of": "2026-11-27 06:34 AM CT",
  "waiting": [
   {
    "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
@@ -330,33 +330,33 @@
    "link": "sandbox://workspace/your_files/account-map-2026-11-23.md"
   },
   {
-   "title": "Mail the DC Mechanical winding-up envelope",
-   "detail": "Form LLC-13 + check to the Secretary of State \u00b7 the kit is filled out and ready (due: when ready)",
+   "title": "StoreFab commercial song \u2014 Suno Pro, one month, ?",
+   "detail": "Stage 4 song UN-PARKED by founder ruling Nov 26 20:43 CT (reverses the Nov 9 park); lyrics v2 draft staged at his taste gate. The money gate is STILL CLOSED: nothing generated, nothing spent. The one money question (STAG\u2026",
    "link": null
   },
   {
-   "title": "Update the card on GitHub billing (Belabox)",
-   "detail": "Belabox Cloud rides the GitHub Sponsors sub \u2014 payment failed Oct 30, retries into mid-Nov; if it lapses, FPV\u2192OBS goes dark. Your tap only: github.com/settings/billing/payment_information (due: mid-Nov)",
-   "link": "https://github.com/settings/billing/payment_information"
-  },
-  {
-   "title": "Driver's license renewal",
-   "detail": "Expires Dec 16, 2026 \u2014 yours to handle (already on your list; shown here so the board carries it). (due: Dec 16, 2026)",
+   "title": "Wave-4 letters \u2014 approve the '3 looked the same' phrasing?",
+   "detail": "Your 23:47 CT conditional send permission covers the next wave only if each letter meets the rules with the custom HTML. 1Up Games Calhoun passed word-for-word verification and sends Fri Nov 27 09:00 CT alone. The other\u2026",
    "link": null
   },
   {
-   "title": "Spotify: re-run Connect once (2 min)",
-   "detail": "Next PC sitting \u2014 2 minutes, unblocks the queue feature \u2014 Re-running Connect grants the queueAdd scope so Stream Buddy can add to your Spotify queue; the same test settles the Nov 18 twin-account question. Your separate\u2026 (due: your hands)",
+   "title": "RK Collectibles \u2014 your second look at its email",
+   "detail": "RK Collectibles is HELD out of the wave-4 set for YOUR second look at its personal-looking email address. Your blanket 23:47 send permission does NOT cover it. Nothing sends to RK until you have looked and ruled. GUMBY'S\u2026",
    "link": null
   },
   {
-   "title": "Stream Buddy first-use setup (~3 min)",
-   "detail": "Next PC sitting \u2014 3 minutes and it's done for good \u2014 The last real item on the PC sitting list (#6). Stream Buddy (Pip) has been live since Nov 17; this is just its first-use setup on CLEANmachine. (due: your hands, PC sitting leftover)",
+   "title": "StoreFab cohort charging \u2014 code never charges after the free pack",
+   "detail": "PARKED \u2014 on the register so it is never forgotten; not urgent, and it stays parked until you call it. Pre-existing code-vs-ruling tension, flagged Nov 26 21:10 CT from the stale-copy sweep: the Founding-cohort copy now f\u2026",
    "link": null
   },
   {
-   "title": "Buffer: finish the setup + capture",
-   "detail": "Finish it next time you're in Buffer \u2014 ForeverHumans X + the capture \u2014 You un-parked Buffer and connected WeTheHumansCOOL X + thewonderingponderer TikTok yourself. Still open: add the ForeverHumans X account, and the Gum\u2026 (due: you started it Nov 22)",
+   "title": "Pick the next Stay Curious 'cool slot' video \u2014 Gumby's pick: card 713",
+   "detail": "Cool slot is ELIGIBLE (10 productions since the last cool, none banked Nov 26) and capped 1/day, max 1 in 10 videos. Candidate awaiting your ruling: card 713 'The First Spacewalk Almost Had No Way Back' (wonder, batch 36\u2026",
+   "link": null
+  },
+  {
+   "title": "Etsy tumbler/wrap line \u2014 point FORGE at it or not",
+   "detail": "The Etsy FORGE lines are built + staged (17 products: SVG bundles, clipart, Stay Curious decks, coloring/gallery/planner, 5 greeting designs) \u2014 but tumbler wraps were EXCLUDED throughout, in every lane, because your ruli\u2026",
    "link": null
   }
  ]
