@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:57:45-06:00",
+ "generated_at": "2026-11-27T08:02:48-06:00",
  "season": {
   "fleet_pnl": -2362.97,
   "closed_total": 637,
@@ -134,7 +134,7 @@
    "alive": true,
    "doing": "Reviewing 2026-11-26-toolkit-whatnot-pipe right now.",
    "stats": {
-    "Reviews done": "184/191",
+    "Reviews done": "184/192",
     "Reviews filed": 125,
     "Held in queue": 4,
     "Latest report": "2026-11-22-ebay-title-batch-runner-VET.md",
@@ -160,7 +160,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": true,
+   "alive": null,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4691,
