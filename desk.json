@@ -1,16 +1,16 @@
 {
- "generated_at": "2026-11-27T16:13:28.689629+00:00",
+ "generated_at": "2026-11-27T16:18:00.095474+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-27 10:10 CST \u2014 3 new coins seen. \u00b7 95288 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-27 10:15 CST \u2014 0 new coins seen. \u00b7 95288 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
-     "status": "FAILED \u2014 stale \u2014 newest launch event is 266 min old (listener down?)"
+     "status": "FAILED \u2014 stale \u2014 newest launch event is 271 min old (listener down?)"
     },
     {
      "name": "dexscreener_profiles",
@@ -18,7 +18,7 @@
     },
     {
      "name": "dexscreener_boosts",
-     "status": "answered (17 coins)"
+     "status": "answered (19 coins)"
     }
    ]
   },
@@ -45,7 +45,7 @@
   {
    "seat": "RISK GATE",
    "status": "shadow",
-   "detail": "587 verdicts logged \u00b7 205 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-27T15:40:45.228337+00:00"
+   "detail": "588 verdicts logged \u00b7 205 would-block \u00b7 shadow only \u2014 blocks nothing \u00b7 last 2026-11-27T16:15:35.687108+00:00"
   }
  ],
  "crew": {
