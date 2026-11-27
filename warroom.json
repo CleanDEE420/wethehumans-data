@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:37:45-06:00",
+ "generated_at": "2026-11-26T22:42:47-06:00",
  "season": {
   "fleet_pnl": -2332.69,
   "closed_total": 633,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 305, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 303, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 83,
@@ -113,7 +113,7 @@
     "Win rate": "36%",
     "PnL": "$-114.94",
     "Profit factor": "0.82",
-    "Watching": 305,
+    "Watching": 303,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -131,10 +131,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-26-orbit-leg-consistency right now.",
+   "alive": null,
+   "doing": "Last review filed: KRYPTON holes freshness review \u2014 Gumby vet (FINAL).",
    "stats": {
-    "Reviews done": "183/189",
+    "Reviews done": "184/189",
     "Reviews filed": 121,
     "Held in queue": 4,
     "Latest report": "2026-11-26-holes-freshness-VET.md",
