@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:07:46-06:00",
+ "generated_at": "2026-11-26T21:12:47-06:00",
  "season": {
   "fleet_pnl": -2332.69,
   "closed_total": 633,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 309, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 308, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 83,
@@ -113,7 +113,7 @@
     "Win rate": "36%",
     "PnL": "$-114.94",
     "Profit factor": "0.82",
-    "Watching": 309,
+    "Watching": 308,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -132,12 +132,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab drip-wake verdict fix review (#140) \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON DC Command gateway \u2014 command-dashboard pile review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "183/188",
-    "Reviews filed": 119,
+    "Reviews filed": 120,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-storefab-drip-wake-verdict-VET.md",
+    "Latest report": "2026-11-26-dc-gateway-command-dashboard-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -317,7 +317,7 @@
    "next_gate": "WAVE 3 SENT 2026-11-26 09:35 CT (3/4). Next: 1Up Games Calhoun sends Nov 27 (day-3 cap 10). 9 contacted - 4 follow-ups - 0 replies. Held 4 clean stores get NOTHING, ever. Wave 4 candidates: bar-fitters with email now 32 (was 29 - resume cra\u2026"
   }
  ],
- "projects_as_of": "2026-11-26 09:03 PM CT",
+ "projects_as_of": "2026-11-26 09:07 PM CT",
  "waiting": [
   {
    "title": "Claim StoreFab + ForeverHumans in ChatGPT's Business Hub (We The Humans is already filed)",
