@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:17:48-06:00",
+ "generated_at": "2026-11-26T21:22:45-06:00",
  "season": {
   "fleet_pnl": -2332.69,
   "closed_total": 633,
@@ -132,12 +132,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON DC Command gateway \u2014 command-dashboard pile review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON holes freshness review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "183/188",
-    "Reviews filed": 120,
+    "Reviews filed": 121,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-dc-gateway-command-dashboard-VET.md",
+    "Latest report": "2026-11-26-holes-freshness-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
