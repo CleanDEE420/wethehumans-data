@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T10:22:45-06:00",
+ "generated_at": "2026-11-27T10:27:46-06:00",
  "season": {
   "fleet_pnl": -2380.32,
   "closed_total": 641,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 277 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 276 fresh Solana launches.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 91,
@@ -113,7 +113,7 @@
     "Win rate": "35%",
     "PnL": "$-162.57",
     "Profit factor": "0.76",
-    "Watching": 277,
+    "Watching": 276,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -131,8 +131,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: 2026-11-27-toolkit-whatnot-pipe-RAW.",
+   "alive": true,
+   "doing": "Reviewing 2026-11-27-storefab-cohort-charging right now.",
    "stats": {
     "Reviews done": "186/193",
     "Reviews filed": 126,
@@ -189,9 +189,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-24-done",
    "stats": {
-    "Jobs tracked on the board": 11,
+    "Jobs tracked on the board": 12,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 82,
     "Open decisions": 2,
