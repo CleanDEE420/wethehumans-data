@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:12:50-06:00",
+ "generated_at": "2026-11-26T22:17:57-06:00",
  "season": {
   "fleet_pnl": -2332.69,
   "closed_total": 633,
@@ -131,8 +131,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON holes freshness review \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-26-orbit-leg-consistency right now.",
    "stats": {
     "Reviews done": "183/189",
     "Reviews filed": 121,
@@ -207,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 2 in a row (last 09:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
