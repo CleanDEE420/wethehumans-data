@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T21:02:47-06:00",
+ "generated_at": "2026-11-26T21:07:46-06:00",
  "season": {
   "fleet_pnl": -2332.69,
   "closed_total": 633,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 310, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 309, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 83,
@@ -113,7 +113,7 @@
     "Win rate": "36%",
     "PnL": "$-114.94",
     "Profit factor": "0.82",
-    "Watching": 310,
+    "Watching": 309,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -132,12 +132,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab rarity 502 fix review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON StoreFab drip-wake verdict fix review (#140) \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "183/188",
-    "Reviews filed": 116,
+    "Reviews filed": 119,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-storefab-rarity-502-fix-VET.md",
+    "Latest report": "2026-11-26-storefab-drip-wake-verdict-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -193,7 +193,7 @@
    "stats": {
     "Jobs tracked on the board": 22,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 83,
+    "Open tasks": 81,
     "Open decisions": 3,
     "Projects": 17
    },
@@ -234,7 +234,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "FINISH LINE COMPLETE 2026-11-25 21:17 CT: clarity+restyle deploy SHIPPED 21:11 CT (6b07a351162bd3aba290ab76; clarity #132 + restyle both DONE + VETTED sound, no code defects) + outreach wave 1 SENT 21:17 CT to all 4 ruled sellers \u2014 StoreFab\u2026"
+   "next_gate": "FINISH PROGRAM (ordered 2026-11-26 10:44 CT, 6-piece everything-in set, NOTHING deployed yet): SEO #136 SOUND/cleared - speed #139 vetted - owner tiles #141 vetted - headers #152 vetted - drip #140 complete but UNVETTED - rarity #153 comple\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -244,12 +244,12 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "Toolkit pile DEPLOYED 2026-11-24 20:04 CT (6b06417b6841fced61c5f022, live.foreverhumans.com): timer upgrade + dial-in + extras delta + EAudit 2 endpoints + _redirects; badge awarding stays OFF; EAudit 2 keys live. Solo-links live audit toni\u2026"
+   "next_gate": "Mobile fix DEPLOYED 2026-11-26 09:31 CT (6b0850e3912e484ff2999ef6; 40 products render at 390px, verified). FH SEO #137 VETTED 17:27 CT - conditional go ARMED, ships on his next FH deploy word. Asset library #135 still UNVETTED (toolkit go w\u2026"
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked. Rarity-3 fix: 3/3 writes landed + bind-checked. Category 1,311/1,311 landed + buyer proof done. Rarity batch closed 632 accounted. STAMP PASS 2026-11-24: 29 listings not fixed (18 NEVER-REV\u2026"
+   "next_gate": "Title batch COMPLETE 91/91 written + bind-checked. Rarity-3 fix: 3/3 writes landed + bind-checked. Category 1,311/1,311 landed + buyer proof done. Rarity batch closed 632 accounted. STAMP PASS 2026-11-24: 29 listings not fixed - republish r\u2026"
   },
   {
    "name": "wethehumans.cool",
@@ -259,7 +259,7 @@
   {
    "name": "Facebook + Reels machine",
    "status": "active",
-   "next_gate": "Machine \u2014 daily slots run; FB reel slate continues 1/day 19:30 CT; IG hands-off until his word (reel leg starts Wed Nov 25 when the ease-in ends, if the schedules didn't already land); week-2 reel slate prep is Gumby-side."
+   "next_gate": "Machine \u2014 daily slots run; FB reel slate continues 1/day 19:30 CT; IG hands-off until his word (reel leg starts Wed Nov 25 when the ease-in ends, if the schedules didn't already land); week-2 reel slate prep is Gumby-side. 16:00 slot Nov 26\u2026"
   },
   {
    "name": "Pinterest engine",
@@ -299,25 +299,25 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Producer FLOWING (vision gate + tiled pass proven; bank 648; ledger 143 total, 62 BANKED / 81 REJECTED, 0 unverified). Tesseract RESTORED 23:35 CT \u2014 OCR gate back on the next lane run; ensure_tesseract fix applied 05:30 CT (direct install f\u2026"
+   "next_gate": "Producer FLOWING (bank 697 on disk; ledger 157 total, 76 BANKED / 81 REJECTED, 0 unverified; 14 banked today). Tesseract ABSENT (VM boot wiped it; patch staged, lane-idle-only). Live site serves 667 card pages; publish manifest 602. Item-5\u2026"
   },
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "FINISH LINE COMPLETE 21:17 CT (deploy 21:11 CT + wave 1 sent). Wave 2 gate: founder copy call (tracked /go/ link, nickel/verified-charge wording, branding line) + redeploy before wave 2. Charging soak + Trading title-mode deploy word still\u2026"
+   "next_gate": "StoreFab finish program: #140 (drip) + #153 (rarity) vets pending, then his deploy word. Vet backlog: #135, #140, #144, #147, #150, #153 unvetted; queue-mark lag on 5 (VET filed, queue says queued); dead-man's switch vet 6+ days overdue (ca\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Block 4 running (239 closed since boundary 313); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equi\u2026"
+   "next_gate": "Block 4 running (266 closed, trades 313-578); KRYPTON orbit-block3 DONE + VETTED; price-check DONE + VETTED + ADOPTED (live); kill-switch % still owed (matters only at real-money time); launch-sniping paper sim live (LEONIDA, FOXE); equity-\u2026"
   },
   {
    "name": "StoreFab \u2014 outreach",
    "status": "active",
-   "next_gate": "Wave-1 scope RULED 2026-11-22 21:57 CT: ALL 4 sellers when ready. WAVE 1 SENT 2026-11-25 21:17 CT (4/4, finish-line step 4 COMPLETE). Next: wave 2 \u2014 founder copy call first (tracked /go/ link, nickel/verified-charge wording, branding line)\u2026"
+   "next_gate": "WAVE 3 SENT 2026-11-26 09:35 CT (3/4). Next: 1Up Games Calhoun sends Nov 27 (day-3 cap 10). 9 contacted - 4 follow-ups - 0 replies. Held 4 clean stores get NOTHING, ever. Wave 4 candidates: bar-fitters with email now 32 (was 29 - resume cra\u2026"
   }
  ],
- "projects_as_of": "2026-11-26 09:01 PM CT",
+ "projects_as_of": "2026-11-26 09:03 PM CT",
  "waiting": [
   {
    "title": "Claim StoreFab + ForeverHumans in ChatGPT's Business Hub (We The Humans is already filed)",
