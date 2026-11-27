@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T19:42:27-06:00",
+ "generated_at": "2026-11-26T19:47:27-06:00",
  "season": {
   "fleet_pnl": -2340.14,
   "closed_total": 630,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 305, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 306, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 80,
@@ -113,7 +113,7 @@
     "Win rate": "35%",
     "PnL": "$-122.39",
     "Profit factor": "0.80",
-    "Watching": 305,
+    "Watching": 306,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -121,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "575 closed \u00b7 139W\u2013436L \u00b7 $-2349.44",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 27
+    "Entries (24h)": 25
    },
    "demerits": [
     "Bag Holder \u00d7170"
@@ -227,7 +227,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "51 posted of 85 cards \u2014 34 fresh on the bench"
+   "value": "52 posted of 85 cards \u2014 33 fresh on the bench"
   }
  ],
  "projects": [
