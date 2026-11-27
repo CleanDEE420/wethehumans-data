@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T07:37:46-06:00",
+ "generated_at": "2026-11-27T07:42:45-06:00",
  "season": {
   "fleet_pnl": -2362.97,
   "closed_total": 637,
@@ -131,8 +131,8 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": null,
-   "doing": "Last review filed: KRYPTON title batch-runner review (2026-11-22) \u2014 Gumby vet (FINAL).",
+   "alive": true,
+   "doing": "Reviewing 2026-11-26-toolkit-whatnot-pipe right now.",
    "stats": {
     "Reviews done": "184/191",
     "Reviews filed": 125,
@@ -189,9 +189,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-25-done",
    "stats": {
-    "Jobs tracked on the board": 10,
+    "Jobs tracked on the board": 11,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 82,
     "Open decisions": 10,
