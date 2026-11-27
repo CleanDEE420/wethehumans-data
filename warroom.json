@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T05:22:45-06:00",
+ "generated_at": "2026-11-27T05:27:44-06:00",
  "season": {
   "fleet_pnl": -2357.63,
   "closed_total": 635,
@@ -193,7 +193,7 @@
    "stats": {
     "Jobs tracked on the board": 8,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 83,
+    "Open tasks": 82,
     "Open decisions": 2,
     "Projects": 17
    },
@@ -234,7 +234,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "TWO deploy-word items wait: (1) the suggestion-box repair - the live feedback box renders but CANNOT SEND (tonight's CSP blocks its 2 hosts); fix staged + verified in all 3 CSP copies - 1 small repair deploy on his word. (2) The drip wake s\u2026"
+   "next_gate": "TWO deploy-word items wait: (1) the suggestion-box repair - the live feedback box renders but CANNOT SEND (the shipped CSP blocks its 2 hosts); fix staged + verified in all 3 CSP copies - 1 small repair deploy on his word. (2) The drip wake\u2026"
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -304,20 +304,20 @@
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "Vets cleared tonight: #135, #137, #140, #152, #153 + DC gateway - the deploy gates they held are all resolved. Still owed: dead-man's switch vet (6+ days overdue, oldest proof debt), #150 requeue per-run records, #144/#147, 5 queue-mark lag\u2026"
+   "next_gate": "Vets cleared overnight: leg-consistency, #144 holes-freshness, #153 rarity. Still owed: dead-man's switch vet (7+ days overdue, oldest proof debt), #147 sc-bundle, #150 per-run VET records (3 of 28 filed), 5 queue-mark lags (all still read\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Lane 5 landed Nov 26 (paper only): leg-consistency BUILT in staging (KRYPTON review queued; adoption at a block boundary after vet); markout S8 RAN - 1s/10s/1m not computable at 300s cadence, coarse racer markouts computed (his S8.5 call is\u2026"
+   "next_gate": "Leg-consistency review DONE + VETTED (3 confirmed + 2 vet-added, all fixed in staging; vetted totals 500 ok / 14 warn / 1 suspect / 64 skipped) - adoption at a block boundary on his word. Markout S8.5 RULED + EXECUTED (coarse racer markouts\u2026"
   },
   {
    "name": "StoreFab \u2014 outreach",
    "status": "active",
-   "next_gate": "NOV 27: 1Up Games Calhoun sends first (day-3 cap 10, token minted at send time) - contacted becomes 10. NEXT WAVE PREPARED tonight (not sent): 5 sellers with same-day VERIFIED findings - Kit Young Cards, RK Collectibles, 4 Sharp Corners, Li\u2026"
+   "next_gate": "NOV 27: 1Up Games sends 09:00 CT (job created) - contacted becomes 10. The 4 phrase-held letters (Kit Young, 4 Sharp Corners, Little Shop, Evolve) wait on HIS ruling on the template phrasing - next cap day at the earliest. PLUS10 STAGED (no\u2026"
   }
  ],
- "projects_as_of": "2026-11-27 05:19 AM CT",
+ "projects_as_of": "2026-11-27 05:26 AM CT",
  "waiting": [
   {
    "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
