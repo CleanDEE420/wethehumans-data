@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-27T20:03:10.454498+00:00",
+ "generated_at": "2026-11-27T20:08:23.569802+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-27 14:00 CST \u2014 32 new coins seen. \u00b7 96647 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-27 14:05 CST \u2014 38 new coins seen. \u00b7 96685 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -14,7 +14,7 @@
     },
     {
      "name": "dexscreener_profiles",
-     "status": "answered (17 coins)"
+     "status": "answered (20 coins)"
     },
     {
      "name": "dexscreener_boosts",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 596 entered all time \u00b7 0 open now \u00b7 3 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 597 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-27T20:01:16.065092+00:00"
+   "detail": "journal last entry 2026-11-27T20:06:22.308131+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,907.22 of $500 start \u00b7 max drawdown $2,412.20 (482.4% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,907.22 of $500 start \u00b7 max drawdown $2,412.20 (482.4% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -159,8 +159,8 @@
     "pnl": 182037.18
    }
   ],
-  "open": 0,
-  "watching": 275
+  "open": 1,
+  "watching": 276
  },
  "racers": [
   {
@@ -1701,7 +1701,7 @@
   "ending_equity": -1907.22,
   "max_dd_usd": 2412.2,
   "max_dd_pct": 482.4,
-  "open_count": 0
+  "open_count": 1
  },
  "equity_line": [
   {
@@ -1760,6 +1760,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-27T20:06:22.306779+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "BTCAT",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-27T19:31:23.575000+00:00",
    "racer": "RECOIL",
@@ -2035,14 +2045,6 @@
    "racer": "RECOIL",
    "kind": "enter",
    "symbol": "ETH/USD",
-   "pnl": null,
-   "reason": null
-  },
-  {
-   "ts": "2026-11-27T14:45:02.176144+00:00",
-   "racer": "RECOIL",
-   "kind": "enter",
-   "symbol": "BTC/USD",
    "pnl": null,
    "reason": null
   }
