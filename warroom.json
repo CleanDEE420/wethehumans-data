@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T10:07:47-06:00",
+ "generated_at": "2026-11-27T10:12:45-06:00",
  "season": {
   "fleet_pnl": -2380.32,
   "closed_total": 641,
-  "open_total": 3,
+  "open_total": 4,
   "milestones": [
    {
     "name": "First Blood",
@@ -85,7 +85,7 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 10,
@@ -93,7 +93,7 @@
     "Record": "5W\u20135L",
     "Win rate": "50%",
     "PnL": "$+2.26",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "1.40"
    },
    "demerits": [
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 275, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 276, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 91,
@@ -113,7 +113,7 @@
     "Win rate": "35%",
     "PnL": "$-162.57",
     "Profit factor": "0.76",
-    "Watching": 275,
+    "Watching": 276,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
