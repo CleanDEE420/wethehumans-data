@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T08:07:46-06:00",
+ "generated_at": "2026-11-27T08:12:48-06:00",
  "season": {
   "fleet_pnl": -2356.2,
   "closed_total": 638,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 283, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 284, no open snipes right now.",
    "stats": {
     "Block": "Block 5 \u00b7 current",
     "Closed": 88,
@@ -113,7 +113,7 @@
     "Win rate": "36%",
     "PnL": "$-138.45",
     "Profit factor": "0.79",
-    "Watching": 283,
+    "Watching": 284,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -189,9 +189,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-26-done",
    "stats": {
-    "Jobs tracked on the board": 10,
+    "Jobs tracked on the board": 11,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 82,
     "Open decisions": 10,
