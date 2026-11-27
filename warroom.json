@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T22:42:47-06:00",
+ "generated_at": "2026-11-26T22:52:47-06:00",
  "season": {
   "fleet_pnl": -2332.69,
   "closed_total": 633,
@@ -132,12 +132,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON holes freshness review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON ORBIT leg-consistency review \u2014 Gumby vet (FINAL).",
    "stats": {
     "Reviews done": "184/189",
-    "Reviews filed": 121,
+    "Reviews filed": 122,
     "Held in queue": 4,
-    "Latest report": "2026-11-26-holes-freshness-VET.md",
+    "Latest report": "2026-11-26-orbit-leg-consistency-VET.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -189,7 +189,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Review complete \u2014 chunk-25-done",
+   "doing": "Review complete \u2014 chunk-28-done",
    "stats": {
     "Jobs tracked on the board": 9,
     "Crew reporting in": "3 racers + ORBIT",
