@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T18:12:28-06:00",
+ "generated_at": "2026-11-26T18:17:28-06:00",
  "season": {
   "fleet_pnl": -2400.13,
   "closed_total": 628,
@@ -121,7 +121,7 @@
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "All-time": "573 closed \u00b7 138W\u2013435L \u00b7 $-2409.43",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 30
+    "Entries (24h)": 29
    },
    "demerits": [
     "Bag Holder \u00d7170"
@@ -189,9 +189,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-25-done",
    "stats": {
-    "Jobs tracked on the board": 22,
+    "Jobs tracked on the board": 23,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 83,
     "Open decisions": 3,
@@ -207,7 +207,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 05:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 1 in a row (last 06:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
