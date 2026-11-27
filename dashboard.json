@@ -1,37 +1,37 @@
 {
- "generated_at": "2026-11-26 05:40 CST",
- "generated_date": "2026-11-26",
+ "generated_at": "2026-11-27 05:40 CST",
+ "generated_date": "2026-11-27",
  "ebay": {
   "listings_live": 8319,
   "store_dex_species": 731,
-  "as_of": "2026-11-26"
+  "as_of": "2026-11-27"
  },
  "site": {
-  "pages": 263,
+  "pages": 213,
   "quotes_cards": 84,
   "office_feed": 24,
   "projects_cards": 15,
   "fb_posts_shelf": 6,
-  "as_of": "2026-11-26"
+  "as_of": "2026-11-27"
  },
  "pinterest": {
-  "followers": 4953,
-  "monthly_views": 29627,
-  "pins": 7729,
+  "followers": 4954,
+  "monthly_views": 29717,
+  "pins": 7753,
   "boards": 23,
-  "as_of": "2026-11-26"
+  "as_of": "2026-11-27"
  },
  "youtube": {
   "subscribers": 148,
   "views": 104741,
   "videos": 85,
-  "as_of": "2026-11-26"
+  "as_of": "2026-11-27"
  },
  "pinterest_pack": {
-  "engine_pins_total": 385,
+  "engine_pins_total": 402,
   "image_posted": 30,
   "image_total": 30,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "video_posted": 12,
   "video_total": 12
  },
@@ -45,13 +45,13 @@
  "ebay_sales": {
   "last_7d": {
    "orders": 1,
-   "gross": 3.49
+   "gross": 5.21
   },
   "last_30d": {
    "orders": 19,
-   "gross": 94.67
+   "gross": 97.03
   },
-  "as_of": "2026-11-26"
+  "as_of": "2026-11-27"
  },
  "inspiration_lines": 2243,
  "manual": {
