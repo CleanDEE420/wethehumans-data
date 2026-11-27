@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T20:22:33-06:00",
+ "generated_at": "2026-11-26T20:27:27-06:00",
  "season": {
   "fleet_pnl": -2348.88,
   "closed_total": 632,
@@ -131,10 +131,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-26-storefab-security-headers right now.",
+   "alive": null,
+   "doing": "Last review filed: VET \u2014 Expiry/quota ledger aggregator KRYPTON review (4 chunks, 14 findings) \u2014 Gumby, 2026-11-26.",
    "stats": {
-    "Reviews done": "181/188",
+    "Reviews done": "182/188",
     "Reviews filed": 114,
     "Held in queue": 4,
     "Latest report": "2026-11-26-expiry-quota-ledger-VET.md",
