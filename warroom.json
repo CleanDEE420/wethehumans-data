@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T10:17:45-06:00",
+ "generated_at": "2026-11-27T10:22:45-06:00",
  "season": {
   "fleet_pnl": -2380.32,
   "closed_total": 641,
@@ -131,10 +131,10 @@
    "id": "krypton",
    "name": "KRYPTON",
    "role": "Code reviewer",
-   "alive": true,
-   "doing": "Reviewing 2026-11-27-toolkit-lane1-buildouts right now.",
+   "alive": null,
+   "doing": "Last review filed: 2026-11-27-toolkit-whatnot-pipe-RAW.",
    "stats": {
-    "Reviews done": "185/193",
+    "Reviews done": "186/193",
     "Reviews filed": 126,
     "Held in queue": 4,
     "Latest report": "2026-11-27-toolkit-whatnot-pipe-RAW.md",
