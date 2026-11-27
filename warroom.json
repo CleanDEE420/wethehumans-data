@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T14:17:56-06:00",
+ "generated_at": "2026-11-27T17:07:45-06:00",
  "season": {
-  "fleet_pnl": -2414.48,
-  "closed_total": 654,
-  "open_total": 1,
+  "fleet_pnl": -2436.28,
+  "closed_total": 662,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,7 +47,7 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 38,
@@ -55,7 +55,7 @@
     "Record": "24W\u201314L",
     "Win rate": "63%",
     "PnL": "$+1.79",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "1.10"
    },
    "demerits": [
@@ -67,7 +67,7 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 10,
@@ -75,7 +75,7 @@
     "Record": "7W\u20133L",
     "Win rate": "70%",
     "PnL": "$+3.38",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "2.84"
    },
    "demerits": []
@@ -85,16 +85,16 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
    "stats": {
     "Block": "Block 1",
-    "Closed": 10,
-    "Road to 100": "10/100",
-    "Record": "5W\u20135L",
-    "Win rate": "50%",
-    "PnL": "$+2.26",
-    "Open": 1,
-    "Profit factor": "1.40"
+    "Closed": 11,
+    "Road to 100": "11/100",
+    "Record": "5W\u20136L",
+    "Win rate": "45%",
+    "PnL": "$+1.52",
+    "Open": 0,
+    "Profit factor": "1.24"
    },
    "demerits": [
     "FOMO Chase \u00d71"
@@ -105,26 +105,27 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 274, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 272 fresh Solana launches.",
    "stats": {
-    "Block": "Block 5 \u00b7 current",
-    "Closed": 101,
-    "Record": "34W\u201367L",
-    "Win rate": "34%",
-    "PnL": "$-194.86",
-    "Profit factor": "0.74",
-    "Watching": 274,
-    "Open": 0,
+    "Block": "Block 6 \u00b7 current",
+    "Closed": 8,
+    "Record": "3W\u20135L",
+    "Win rate": "38%",
+    "PnL": "$-35.75",
+    "Profit factor": "0.45",
+    "Watching": 272,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
-    "All-time": "596 closed \u00b7 145W\u2013451L \u00b7 $-2421.91",
+    "Block 5 (final)": "100 closed \u00b7 34W\u201366L \u00b7 $-180.17",
+    "All-time": "603 closed \u00b7 148W\u2013455L \u00b7 $-2442.97",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 29
+    "Entries (24h)": 33
    },
    "demerits": [
-    "Bag Holder \u00d7173"
+    "Bag Holder \u00d7175"
    ]
   },
   {
@@ -189,9 +190,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Review complete \u2014 chunk-13-done",
    "stats": {
-    "Jobs tracked on the board": 13,
+    "Jobs tracked on the board": 16,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 82,
     "Open decisions": 2,
@@ -207,7 +208,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 0 in a row (last 02:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 04:13 PM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
