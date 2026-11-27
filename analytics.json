@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-26T11:40:09",
+ "generated": "2026-11-27T11:39:41",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 94,
-   "visits7d": 81,
+   "pageviews7d": 110,
+   "visits7d": 82,
    "by_day": [
-    {
-     "date": "2026-11-20",
-     "pageviews": 4,
-     "visits": 4
-    },
     {
      "date": "2026-11-21",
      "pageviews": 2,
@@ -39,8 +34,13 @@
     },
     {
      "date": "2026-11-26",
-     "pageviews": 1,
-     "visits": 1
+     "pageviews": 3,
+     "visits": 3
+    },
+    {
+     "date": "2026-11-27",
+     "pageviews": 18,
+     "visits": 3
     }
    ],
    "top_pages": [
@@ -50,32 +50,27 @@
     },
     {
      "path": "/",
-     "pageviews": 14
+     "pageviews": 16
     },
     {
      "path": "/links/",
-     "pageviews": 4
-    },
-    {
-     "path": "/home-2/2016/1/18/the-apartment-of-rudee-chua-and-darien-mcdermott-5mzhr/",
-     "pageviews": 3
+     "pageviews": 5
     },
     {
      "path": "/minecraft/farms/",
+     "pageviews": 4
+    },
+    {
+     "path": "/minecraft/our-realm/",
      "pageviews": 3
     }
    ]
   },
   "foreverhumans.com": {
    "status": "live",
-   "pageviews7d": 26,
-   "visits7d": 18,
+   "pageviews7d": 34,
+   "visits7d": 26,
    "by_day": [
-    {
-     "date": "2026-11-20",
-     "pageviews": 1,
-     "visits": 1
-    },
     {
      "date": "2026-11-21",
      "pageviews": 1,
@@ -103,21 +98,26 @@
     },
     {
      "date": "2026-11-26",
-     "pageviews": 3,
-     "visits": 2
+     "pageviews": 6,
+     "visits": 5
+    },
+    {
+     "date": "2026-11-27",
+     "pageviews": 6,
+     "visits": 6
     }
    ],
    "top_pages": [
     {
      "path": "/",
-     "pageviews": 26
+     "pageviews": 34
     }
    ]
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 100,
-   "visits7d": 29,
+   "pageviews7d": 104,
+   "visits7d": 33,
    "by_day": [
     {
      "date": "2026-11-21",
@@ -146,14 +146,14 @@
     },
     {
      "date": "2026-11-26",
-     "pageviews": 4,
-     "visits": 4
+     "pageviews": 8,
+     "visits": 8
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 89
+     "pageviews": 93
     },
     {
      "path": "/",
