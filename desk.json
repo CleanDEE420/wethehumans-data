@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-28T05:18:24.445274+00:00",
+ "generated_at": "2026-11-28T05:23:13.215812+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-27 23:15 CST \u2014 15 new coins seen. \u00b7 99858 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-27 23:20 CST \u2014 15 new coins seen. \u00b7 99873 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-28T05:15:50.861956+00:00"
+   "detail": "journal last entry 2026-11-28T05:20:59.296513+00:00"
   },
   {
    "seat": "EQUITY",
