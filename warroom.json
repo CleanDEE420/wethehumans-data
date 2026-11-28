@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T23:32:53-06:00",
+ "generated_at": "2026-11-27T23:47:53-06:00",
  "season": {
   "fleet_pnl": -2416.05,
   "closed_total": 670,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 269, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 268, no open snipes right now.",
    "stats": {
     "Block": "Block 6 \u00b7 current",
     "Closed": 14,
@@ -113,7 +113,7 @@
     "Win rate": "43%",
     "PnL": "$-16.21",
     "Profit factor": "0.85",
-    "Watching": 269,
+    "Watching": 268,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -194,8 +194,8 @@
    "stats": {
     "Jobs tracked on the board": 17,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 79,
-    "Open decisions": 2,
+    "Open tasks": 80,
+    "Open decisions": 3,
     "Projects": 19
    },
    "demerits": []
@@ -328,7 +328,7 @@
    "next_gate": "You \u2014 run the webhook table SQL in the ForeverHumans Supabase project; then alerts push live instead of polling."
   }
  ],
- "projects_as_of": "2026-11-27 07:28 PM CT",
+ "projects_as_of": "2026-11-27 11:45 PM CT",
  "waiting": [
   {
    "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
@@ -339,6 +339,11 @@
    "title": "Finish the account-map sitting \u2014 11 gaps left (your fact-check checklist)",
    "detail": "The account map is BUILT (2026-11-23 12:35 CT, ~/workspace/your_files/account-map-2026-11-23.md): 55 accounts across 6 brand sections, 12 conflicts/gaps. The central knot is GOOGLE OWNERSHIP: the records rarely say which\u2026",
    "link": "sandbox://workspace/your_files/account-map-2026-11-23.md"
+  },
+  {
+   "title": "StoreFab drip is flapping \u2014 add a flap alert?",
+   "detail": "Nightly sweep 2026-11-27: the hourly StoreFab drip wake failed about half of today's wakes (timeout, 'no evidence', posted 0), interleaved with clean runs \u2014 so the 24-consecutive-failure escalation never fires and a half\u2026",
+   "link": null
   },
   {
    "title": "Mail the DC Mechanical winding-up envelope",
@@ -363,11 +368,6 @@
   {
    "title": "Stream Buddy first-use setup (~3 min)",
    "detail": "Next PC sitting \u2014 3 minutes and it's done for good. \u2014 The last real item on the PC sitting list (#6). Stream Buddy (Pip) has been live since Nov 17; this is just its first-use setup on CLEANmachine. (due: run Stream Buddy's first-use setup once on the PC (~3 min))",
-   "link": null
-  },
-  {
-   "title": "Buffer: finish the setup + capture",
-   "detail": "Finish it next time you're in Buffer \u2014 then the X/TikTok lanes can post. \u2014 You un-parked Buffer and connected WeTheHumansCOOL X + thewonderingponderer TikTok yourself. Still open: add the ForeverHumans X account, and the\u2026 (due: add the ForeverHumans X account in Buffer + finish the capture (~5 min))",
    "link": null
   }
  ]
