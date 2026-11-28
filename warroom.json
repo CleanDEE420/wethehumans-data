@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-28T06:07:53-06:00",
+ "generated_at": "2026-11-28T06:12:53-06:00",
  "season": {
   "fleet_pnl": -2458.69,
   "closed_total": 674,
-  "open_total": 2,
+  "open_total": 3,
   "milestones": [
    {
     "name": "First Blood",
@@ -85,7 +85,7 @@
    "name": "AMP",
    "role": "Chatter trader",
    "alive": true,
-   "doing": "Listening for Reddit chatter spikes \u2014 quiet right now",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 11,
@@ -93,7 +93,7 @@
     "Record": "5W\u20136L",
     "Win rate": "45%",
     "PnL": "$+1.52",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "1.24"
    },
    "demerits": [
@@ -190,9 +190,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Drafting today's batches \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 17,
+    "Jobs tracked on the board": 18,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 80,
     "Open decisions": 3,
