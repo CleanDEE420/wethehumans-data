@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-28T14:13:14.904839+00:00",
+ "generated_at": "2026-11-28T14:18:24.316766+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-28 08:10 CST \u2014 24 new coins seen. \u00b7 101988 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-28 08:15 CST \u2014 26 new coins seen. \u00b7 102014 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 614 entered all time \u00b7 0 open now \u00b7 3 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 615 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-28T14:10:46.829240+00:00"
+   "detail": "journal last entry 2026-11-28T14:16:07.488132+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,966.07 of $500 start \u00b7 max drawdown $2,466.07 (493.2% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,966.07 of $500 start \u00b7 max drawdown $2,466.07 (493.2% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -178,7 +178,7 @@
     "pnl": 182037.18
    }
   ],
-  "open": 0,
+  "open": 1,
   "watching": 260
  },
  "racers": [
@@ -1730,7 +1730,7 @@
   "ending_equity": -1966.07,
   "max_dd_usd": 2466.07,
   "max_dd_pct": 493.2,
-  "open_count": 0
+  "open_count": 1
  },
  "equity_line": [
   {
@@ -1789,6 +1789,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-28T14:16:07.487650+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "nothing",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-28T13:45:02.489898+00:00",
    "racer": "GOVERNOR",
@@ -2063,16 +2073,6 @@
    "pnl": null,
    "reason": null,
    "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-28T00:40:59.898580+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "Memeball",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
    "suspect": false
   }
  ],
