@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-28T07:23:20.711928+00:00",
+ "generated_at": "2026-11-28T07:28:23.024916+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-28 01:20 CST \u2014 10 new coins seen. \u00b7 100209 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-28 01:25 CST \u2014 18 new coins seen. \u00b7 100227 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -18,14 +18,14 @@
     },
     {
      "name": "dexscreener_boosts",
-     "status": "answered (30 coins)"
+     "status": "answered (29 coins)"
     }
    ]
   },
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 613 entered all time \u00b7 0 open now \u00b7 3 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 614 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-28T07:20:51.754233+00:00"
+   "detail": "journal last entry 2026-11-28T07:25:49.390497+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,963.73 of $500 start \u00b7 max drawdown $2,463.73 (492.7% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,963.73 of $500 start \u00b7 max drawdown $2,463.73 (492.7% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -178,8 +178,8 @@
     "pnl": 182037.18
    }
   ],
-  "open": 0,
-  "watching": 262
+  "open": 1,
+  "watching": 264
  },
  "racers": [
   {
@@ -1730,7 +1730,7 @@
   "ending_equity": -1963.73,
   "max_dd_usd": 2463.73,
   "max_dd_pct": 492.7,
-  "open_count": 0
+  "open_count": 1
  },
  "equity_line": [
   {
@@ -1789,6 +1789,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-28T07:25:49.390497+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "Claude",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-28T07:10:55.022441+00:00",
    "racer": "ORBIT",
@@ -2066,16 +2076,6 @@
    "symbol": "BLR",
    "pnl": 11.41,
    "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-27T21:46:29.512642+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "CI",
-   "pnl": -15.46,
-   "reason": "unarmed_floor_-40%",
    "stake": null,
    "suspect": false
   }
