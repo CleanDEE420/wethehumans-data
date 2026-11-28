@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T19:37:56-06:00",
+ "generated_at": "2026-11-27T19:48:03-06:00",
  "season": {
   "fleet_pnl": -2431.52,
   "closed_total": 666,
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 276, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 275, no open snipes right now.",
    "stats": {
     "Block": "Block 6 \u00b7 current",
     "Closed": 10,
@@ -113,7 +113,7 @@
     "Win rate": "40%",
     "PnL": "$-31.68",
     "Profit factor": "0.61",
-    "Watching": 276,
+    "Watching": 275,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
@@ -161,12 +161,12 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4691,
     "Emails": 1288,
-    "Streamers": 361,
+    "Streamers": 363,
     "States in the bank": 24
    },
    "demerits": []
@@ -190,9 +190,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "On watch over the machine.",
+   "doing": "Posting the evening pins \u2014 ",
    "stats": {
-    "Jobs tracked on the board": 15,
+    "Jobs tracked on the board": 17,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 79,
     "Open decisions": 2,
@@ -228,7 +228,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "53 posted of 85 cards \u2014 32 fresh on the bench"
+   "value": "54 posted of 85 cards \u2014 31 fresh on the bench"
   }
  ],
  "projects": [
