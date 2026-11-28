@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-28T15:03:11.110007+00:00",
+ "generated_at": "2026-11-28T15:08:24.571071+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-28 09:00 CST \u2014 23 new coins seen. \u00b7 102258 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-28 09:05 CST \u2014 23 new coins seen. \u00b7 102281 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -25,7 +25,7 @@
   {
    "seat": "SNIPER / EXECUTOR",
    "status": "live",
-   "detail": "ORBIT paper \u00b7 617 entered all time \u00b7 0 open now \u00b7 3 Freqtrade racers (all running)"
+   "detail": "ORBIT paper \u00b7 618 entered all time \u00b7 1 open now \u00b7 3 Freqtrade racers (all running)"
   },
   {
    "seat": "EXIT",
@@ -35,12 +35,12 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-28T15:00:48.767675+00:00"
+   "detail": "journal last entry 2026-11-28T15:06:31.706460+00:00"
   },
   {
    "seat": "EQUITY",
    "status": "measure-only",
-   "detail": "shadow bankroll $-1,975.30 of $500 start \u00b7 max drawdown $2,475.30 (495.1% of bankroll) \u00b7 0 open \u00b7 guards nothing \u2014 measurement only"
+   "detail": "shadow bankroll $-1,975.30 of $500 start \u00b7 max drawdown $2,475.30 (495.1% of bankroll) \u00b7 1 open \u00b7 guards nothing \u2014 measurement only"
   },
   {
    "seat": "RISK GATE",
@@ -178,8 +178,8 @@
     "pnl": 182037.18
    }
   ],
-  "open": 0,
-  "watching": 259
+  "open": 1,
+  "watching": 260
  },
  "racers": [
   {
@@ -1730,7 +1730,7 @@
   "ending_equity": -1975.3,
   "max_dd_usd": 2475.3,
   "max_dd_pct": 495.1,
-  "open_count": 0
+  "open_count": 1
  },
  "equity_line": [
   {
@@ -1789,6 +1789,16 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-28T15:06:31.706460+00:00",
+   "racer": "ORBIT",
+   "kind": "enter",
+   "symbol": "Bedlington",
+   "pnl": null,
+   "reason": null,
+   "stake": 25.0,
+   "suspect": false
+  },
   {
    "ts": "2026-11-28T15:00:11.011000+00:00",
    "racer": "GOVERNOR",
@@ -2054,16 +2064,6 @@
    "symbol": "BITCOINU",
    "pnl": null,
    "reason": null,
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-28T05:01:20.723333+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "RICE",
-   "pnl": -15.65,
-   "reason": "unarmed_floor_-40%",
    "stake": null,
    "suspect": false
   }
