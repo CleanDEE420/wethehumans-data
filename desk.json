@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-28T13:43:15.313354+00:00",
+ "generated_at": "2026-11-28T13:48:21.413989+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-28 07:40 CST \u2014 24 new coins seen. \u00b7 101840 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-28 07:45 CST \u2014 21 new coins seen. \u00b7 101861 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-28T13:40:39.054392+00:00"
+   "detail": "journal last entry 2026-11-28T13:46:05.713049+00:00"
   },
   {
    "seat": "EQUITY",
@@ -179,7 +179,7 @@
    }
   ],
   "open": 0,
-  "watching": 261
+  "watching": 260
  },
  "racers": [
   {
@@ -189,9 +189,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 502.14,
-   "open": 1,
+   "open": 3,
    "last_close": "2026-11-28T00:16:14.002000+00:00",
-   "last_activity": "2026-11-28T10:30:02.243898+00:00",
+   "last_activity": "2026-11-28T13:45:02.126403+00:00",
    "closed": 39,
    "wins": 25,
    "losses": 14,
@@ -209,9 +209,9 @@
    "block_no": 1,
    "start": 500.0,
    "now_worth": 503.72,
-   "open": 1,
+   "open": 3,
    "last_close": "2026-11-28T00:16:13.471000+00:00",
-   "last_activity": "2026-11-28T10:30:02.363098+00:00",
+   "last_activity": "2026-11-28T13:45:02.489898+00:00",
    "closed": 11,
    "wins": 8,
    "losses": 3,
@@ -1790,6 +1790,38 @@
  ],
  "flow": [
   {
+   "ts": "2026-11-28T13:45:02.489898+00:00",
+   "racer": "GOVERNOR",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-28T13:45:02.126403+00:00",
+   "racer": "RECOIL",
+   "kind": "enter",
+   "symbol": "SOL/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-28T13:45:02.068135+00:00",
+   "racer": "GOVERNOR",
+   "kind": "enter",
+   "symbol": "ETH/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
+   "ts": "2026-11-28T13:45:01.692414+00:00",
+   "racer": "RECOIL",
+   "kind": "enter",
+   "symbol": "ETH/USD",
+   "pnl": null,
+   "reason": null
+  },
+  {
    "ts": "2026-11-28T12:05:02.139520+00:00",
    "racer": "AMP",
    "kind": "enter",
@@ -2038,42 +2070,6 @@
    "racer": "ORBIT",
    "kind": "enter",
    "symbol": "Memeball",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-28T00:16:14.002000+00:00",
-   "racer": "RECOIL",
-   "kind": "exit",
-   "symbol": "ETH/USD",
-   "pnl": 0.34,
-   "reason": "exit_signal"
-  },
-  {
-   "ts": "2026-11-28T00:16:13.471000+00:00",
-   "racer": "GOVERNOR",
-   "kind": "exit",
-   "symbol": "ETH/USD",
-   "pnl": 0.34,
-   "reason": "dip_reversion"
-  },
-  {
-   "ts": "2026-11-27T23:10:45.567472+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "Hyperball",
-   "pnl": -16.87,
-   "reason": "unarmed_floor_-40%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-27T23:01:22.410876+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "Hyperball",
    "pnl": null,
    "reason": null,
    "stake": 25.0,
