@@ -1,17 +1,12 @@
 {
- "generated": "2026-11-27T11:39:41",
+ "generated": "2026-11-28T11:39:51",
  "window_days": 7,
  "sites": {
   "wethehumans.cool": {
    "status": "live",
-   "pageviews7d": 110,
-   "visits7d": 82,
+   "pageviews7d": 127,
+   "visits7d": 94,
    "by_day": [
-    {
-     "date": "2026-11-21",
-     "pageviews": 2,
-     "visits": 2
-    },
     {
      "date": "2026-11-22",
      "pageviews": 57,
@@ -39,30 +34,35 @@
     },
     {
      "date": "2026-11-27",
+     "pageviews": 19,
+     "visits": 4
+    },
+    {
+     "date": "2026-11-28",
      "pageviews": 18,
-     "visits": 3
+     "visits": 13
     }
    ],
    "top_pages": [
     {
      "path": "/dex-tracker/",
-     "pageviews": 48
+     "pageviews": 49
     },
     {
      "path": "/",
-     "pageviews": 16
+     "pageviews": 22
     },
     {
      "path": "/links/",
-     "pageviews": 5
+     "pageviews": 8
     },
     {
      "path": "/minecraft/farms/",
      "pageviews": 4
     },
     {
-     "path": "/minecraft/our-realm/",
-     "pageviews": 3
+     "path": "/minecraft/",
+     "pageviews": 4
     }
    ]
   },
@@ -71,11 +71,6 @@
    "pageviews7d": 34,
    "visits7d": 26,
    "by_day": [
-    {
-     "date": "2026-11-21",
-     "pageviews": 1,
-     "visits": 1
-    },
     {
      "date": "2026-11-22",
      "pageviews": 1,
@@ -105,6 +100,11 @@
      "date": "2026-11-27",
      "pageviews": 6,
      "visits": 6
+    },
+    {
+     "date": "2026-11-28",
+     "pageviews": 1,
+     "visits": 1
     }
    ],
    "top_pages": [
@@ -116,14 +116,9 @@
   },
   "storefabapp.com": {
    "status": "live",
-   "pageviews7d": 104,
+   "pageviews7d": 41,
    "visits7d": 33,
    "by_day": [
-    {
-     "date": "2026-11-21",
-     "pageviews": 66,
-     "visits": 3
-    },
     {
      "date": "2026-11-22",
      "pageviews": 15,
@@ -148,16 +143,21 @@
      "date": "2026-11-26",
      "pageviews": 8,
      "visits": 8
+    },
+    {
+     "date": "2026-11-27",
+     "pageviews": 3,
+     "visits": 3
     }
    ],
    "top_pages": [
     {
      "path": "/app/",
-     "pageviews": 93
+     "pageviews": 32
     },
     {
      "path": "/",
-     "pageviews": 10
+     "pageviews": 8
     },
     {
      "path": "/grading/",
