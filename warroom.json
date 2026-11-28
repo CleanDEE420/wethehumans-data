@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T18:17:53-06:00",
+ "generated_at": "2026-11-27T18:22:53-06:00",
  "season": {
-  "fleet_pnl": -2453.15,
-  "closed_total": 663,
-  "open_total": 2,
+  "fleet_pnl": -2452.46,
+  "closed_total": 665,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
     "Block": "Block 1",
-    "Closed": 38,
-    "Road to 100": "38/100",
-    "Record": "24W\u201314L",
-    "Win rate": "63%",
-    "PnL": "$+1.79",
-    "Open": 1,
-    "Profit factor": "1.10"
+    "Closed": 39,
+    "Road to 100": "39/100",
+    "Record": "25W\u201314L",
+    "Win rate": "64%",
+    "PnL": "$+2.14",
+    "Open": 0,
+    "Profit factor": "1.12"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -67,16 +67,16 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
    "stats": {
     "Block": "Block 1",
-    "Closed": 10,
-    "Road to 100": "10/100",
-    "Record": "7W\u20133L",
-    "Win rate": "70%",
-    "PnL": "$+3.38",
-    "Open": 1,
-    "Profit factor": "2.84"
+    "Closed": 11,
+    "Road to 100": "11/100",
+    "Record": "8W\u20133L",
+    "Win rate": "73%",
+    "PnL": "$+3.72",
+    "Open": 0,
+    "Profit factor": "3.03"
    },
    "demerits": []
   },
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 275, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 274, no open snipes right now.",
    "stats": {
     "Block": "Block 6 \u00b7 current",
     "Closed": 9,
@@ -113,7 +113,7 @@
     "Win rate": "33%",
     "PnL": "$-52.62",
     "Profit factor": "0.36",
-    "Watching": 275,
+    "Watching": 274,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
