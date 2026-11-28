@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:02:54-06:00",
+ "generated_at": "2026-11-28T08:07:54-06:00",
  "season": {
   "fleet_pnl": -2458.69,
   "closed_total": 674,
@@ -209,10 +209,6 @@
   {
    "label": "StoreFab drip wake",
    "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
-  },
-  {
-   "label": "Netlify credits",
-   "value": "~2475 left (range 2474\u20132475) \u00b7 0 deploys this cycle \u00b7 pool resets Nov 27"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
