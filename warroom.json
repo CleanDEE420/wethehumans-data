@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-28T04:17:53-06:00",
+ "generated_at": "2026-11-28T04:37:54-06:00",
  "season": {
   "fleet_pnl": -2458.69,
   "closed_total": 674,
-  "open_total": 0,
+  "open_total": 2,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,7 +47,7 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 39,
@@ -55,7 +55,7 @@
     "Record": "25W\u201314L",
     "Win rate": "64%",
     "PnL": "$+2.14",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "1.12"
    },
    "demerits": [
@@ -67,7 +67,7 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
+   "doing": "Holding 1 open trade and watching the market.",
    "stats": {
     "Block": "Block 1",
     "Closed": 11,
@@ -75,7 +75,7 @@
     "Record": "8W\u20133L",
     "Win rate": "73%",
     "PnL": "$+3.72",
-    "Open": 0,
+    "Open": 1,
     "Profit factor": "3.03"
    },
    "demerits": []
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 255, no open snipes right now.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 254, no open snipes right now.",
    "stats": {
     "Block": "Block 6 \u00b7 current",
     "Closed": 18,
@@ -113,7 +113,7 @@
     "Win rate": "33%",
     "PnL": "$-58.85",
     "Profit factor": "0.62",
-    "Watching": 255,
+    "Watching": 254,
     "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
