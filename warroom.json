@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T05:17:54-06:00",
+ "generated_at": "2026-11-28T05:22:54-06:00",
  "season": {
   "fleet_pnl": -2458.69,
   "closed_total": 674,
@@ -305,7 +305,7 @@
   {
    "name": "The Line",
    "status": "active",
-   "next_gate": "Vets cleared overnight: leg-consistency, #144 holes-freshness, #153 rarity. Still owed: dead-man's switch vet (7+ days overdue, oldest proof debt), #147 sc-bundle, #150 per-run VET records (3 of 28 filed), 5 queue-mark lags (all still read\u2026"
+   "next_gate": "Owed: Magic loader relaunch (main agent, log in hand) \u00b7 nightly-driver watchdog-coverage build \u00b7 dead-man's switch vet (oldest proof debt) \u00b7 #147 sc-bundle vet \u00b7 Gumby's vet of the toolkit lane-1 + Whatnot-pipe RAW reviews. StoreFab pile wa\u2026"
   },
   {
    "name": "Trading bot \u2014 paper experiment",
@@ -328,7 +328,7 @@
    "next_gate": "You \u2014 run the webhook table SQL in the ForeverHumans Supabase project; then alerts push live instead of polling."
   }
  ],
- "projects_as_of": "2026-11-27 11:45 PM CT",
+ "projects_as_of": "2026-11-28 05:22 AM CT",
  "waiting": [
   {
    "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
