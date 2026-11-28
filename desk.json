@@ -1,12 +1,12 @@
 {
- "generated_at": "2026-11-28T15:58:22.240711+00:00",
+ "generated_at": "2026-11-28T16:03:18.691010+00:00",
  "paper": true,
  "cadence": "The bots' books are mirrored from the PC about every 5 minutes; this feed republishes when the numbers change. The page re-checks every 60 seconds.",
  "seats": [
   {
    "seat": "SCANNER",
    "status": "live",
-   "detail": "launch feed \u00b7 last radar run 2026-11-28 09:55 CST \u2014 40 new coins seen. \u00b7 102570 launches seen all time",
+   "detail": "launch feed \u00b7 last radar run 2026-11-28 10:00 CST \u2014 31 new coins seen. \u00b7 102601 launches seen all time",
    "sources": [
     {
      "name": "pumpportal_launch_feed",
@@ -35,7 +35,7 @@
   {
    "seat": "LOGGER",
    "status": "live",
-   "detail": "journal last entry 2026-11-28T15:55:57.893729+00:00"
+   "detail": "journal last entry 2026-11-28T16:00:54.020024+00:00"
   },
   {
    "seat": "EQUITY",
@@ -188,17 +188,17 @@
    "crew": "recoil",
    "block_no": 1,
    "start": 500.0,
-   "now_worth": 502.21,
-   "open": 1,
-   "last_close": "2026-11-28T15:00:11.010000+00:00",
-   "last_activity": "2026-11-28T15:00:11.010000+00:00",
-   "closed": 41,
-   "wins": 26,
+   "now_worth": 502.71,
+   "open": 0,
+   "last_close": "2026-11-28T16:00:11.643000+00:00",
+   "last_activity": "2026-11-28T16:00:11.643000+00:00",
+   "closed": 42,
+   "wins": 27,
    "losses": 15,
-   "win_pct": 63.4,
-   "pf": 1.13,
+   "win_pct": 64.3,
+   "pf": 1.16,
    "pf_inf": false,
-   "pnl": 2.21,
+   "pnl": 2.71,
    "best_pct": 0.020488301526409444,
    "best_streak": 6
   },
@@ -208,17 +208,17 @@
    "crew": "governor",
    "block_no": 1,
    "start": 500.0,
-   "now_worth": 503.8,
-   "open": 1,
-   "last_close": "2026-11-28T15:00:11.011000+00:00",
-   "last_activity": "2026-11-28T15:00:11.011000+00:00",
-   "closed": 13,
-   "wins": 9,
+   "now_worth": 504.28,
+   "open": 0,
+   "last_close": "2026-11-28T16:00:11.643000+00:00",
+   "last_activity": "2026-11-28T16:00:11.643000+00:00",
+   "closed": 14,
+   "wins": 10,
    "losses": 4,
-   "win_pct": 69.2,
-   "pf": 2.82,
+   "win_pct": 71.4,
+   "pf": 3.06,
    "pf_inf": false,
-   "pnl": 3.8,
+   "pnl": 4.28,
    "best_pct": 0.020035098872480447,
    "best_streak": 4
   },
@@ -1753,16 +1753,16 @@
   },
   {
    "racer": "RECOIL",
-   "equity": 502.21,
+   "equity": 502.71,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-dip.runtime.json",
-   "dd_usd": 3.59,
-   "dd_pct": 0.7,
+   "dd_usd": 3.09,
+   "dd_pct": 0.6,
    "flagged": false
   },
   {
    "racer": "GOVERNOR",
-   "equity": 503.8,
+   "equity": 504.28,
    "basis": 500.0,
    "basis_source": "dry_run_wallet in user_data/config-regime.runtime.json",
    "dd_usd": 0.0,
@@ -1789,6 +1789,22 @@
   }
  ],
  "flow": [
+  {
+   "ts": "2026-11-28T16:00:11.643000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 0.5,
+   "reason": "exit_signal"
+  },
+  {
+   "ts": "2026-11-28T16:00:11.643000+00:00",
+   "racer": "GOVERNOR",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 0.48,
+   "reason": "dip_reversion"
+  },
   {
    "ts": "2026-11-28T15:55:57.893729+00:00",
    "racer": "ORBIT",
@@ -2046,29 +2062,25 @@
    "reason": null,
    "stake": null,
    "suspect": false
-  },
-  {
-   "ts": "2026-11-28T06:50:43.270705+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "Air",
-   "pnl": -14.66,
-   "reason": "unarmed_floor_-40%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-28T06:41:11.753349+00:00",
-   "racer": "ORBIT",
-   "kind": "enter",
-   "symbol": "Air",
-   "pnl": null,
-   "reason": null,
-   "stake": 25.0,
-   "suspect": false
   }
  ],
  "decision_log": [
+  {
+   "ts": "2026-11-28T16:00:11.643000+00:00",
+   "racer": "RECOIL",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 0.5,
+   "reason": "exit_signal"
+  },
+  {
+   "ts": "2026-11-28T16:00:11.643000+00:00",
+   "racer": "GOVERNOR",
+   "kind": "exit",
+   "symbol": "SOL/USD",
+   "pnl": 0.48,
+   "reason": "dip_reversion"
+  },
   {
    "ts": "2026-11-28T15:55:57.893729+00:00",
    "racer": "ORBIT",
@@ -2217,26 +2229,6 @@
    "kind": "exit",
    "symbol": "RICE",
    "pnl": -15.65,
-   "reason": "unarmed_floor_-40%",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-28T04:15:57.292208+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "PRISMEICE",
-   "pnl": 21.64,
-   "reason": "trailing_-5%_from_peak",
-   "stake": null,
-   "suspect": false
-  },
-  {
-   "ts": "2026-11-28T03:50:52.007681+00:00",
-   "racer": "ORBIT",
-   "kind": "exit",
-   "symbol": "BTCBALLS",
-   "pnl": -12.85,
    "reason": "unarmed_floor_-40%",
    "stake": null,
    "suspect": false
