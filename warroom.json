@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T01:42:53-06:00",
+ "generated_at": "2026-11-28T01:47:53-06:00",
  "season": {
   "fleet_pnl": -2456.35,
   "closed_total": 673,
@@ -133,12 +133,12 @@
    "name": "KRYPTON",
    "role": "Code reviewer",
    "alive": null,
-   "doing": "Last review filed: KRYPTON StoreFab cohort-charging review \u2014 Gumby vet (FINAL).",
+   "doing": "Last review filed: KRYPTON nightly review \u2014 bluesky_api.py.",
    "stats": {
     "Reviews done": "188/193",
-    "Reviews filed": 128,
+    "Reviews filed": 129,
     "Held in queue": 4,
-    "Latest report": "2026-11-27-storefab-cohort-charging-VET.md",
+    "Latest report": "2026-11-28-bluesky_api.py.md",
     "Brain": "qwen3.5-9b (fast)"
    },
    "demerits": []
@@ -224,7 +224,7 @@
   },
   {
    "label": "Stay Curious fact bank",
-   "value": "773 cards banked"
+   "value": "798 cards banked"
   },
   {
    "label": "Quote card pool",
