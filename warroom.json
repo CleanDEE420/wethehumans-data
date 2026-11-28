@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-28T08:32:53-06:00",
+ "generated_at": "2026-11-28T08:37:53-06:00",
  "season": {
-  "fleet_pnl": -2458.69,
-  "closed_total": 674,
-  "open_total": 8,
+  "fleet_pnl": -2459.18,
+  "closed_total": 676,
+  "open_total": 6,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 39,
-    "Road to 100": "39/100",
-    "Record": "25W\u201314L",
-    "Win rate": "64%",
-    "PnL": "$+2.14",
-    "Open": 3,
-    "Profit factor": "1.12"
+    "Closed": 40,
+    "Road to 100": "40/100",
+    "Record": "25W\u201315L",
+    "Win rate": "62%",
+    "PnL": "$+1.89",
+    "Open": 2,
+    "Profit factor": "1.11"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -67,16 +67,16 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 3 open trades and watching the market.",
+   "doing": "Holding 2 open trades and watching the market.",
    "stats": {
     "Block": "Block 1",
-    "Closed": 11,
-    "Road to 100": "11/100",
-    "Record": "8W\u20133L",
-    "Win rate": "73%",
-    "PnL": "$+3.72",
-    "Open": 3,
-    "Profit factor": "3.03"
+    "Closed": 12,
+    "Road to 100": "12/100",
+    "Record": "8W\u20134L",
+    "Win rate": "67%",
+    "PnL": "$+3.48",
+    "Open": 2,
+    "Profit factor": "2.67"
    },
    "demerits": []
   },
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 259 fresh Solana launches.",
+   "doing": "Holding 1 snipe and tracking 258 fresh Solana launches.",
    "stats": {
     "Block": "Block 6 \u00b7 current",
     "Closed": 18,
@@ -113,7 +113,7 @@
     "Win rate": "33%",
     "PnL": "$-58.85",
     "Profit factor": "0.62",
-    "Watching": 259,
+    "Watching": 258,
     "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
