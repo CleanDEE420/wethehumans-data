@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T10:12:52-06:00",
+ "generated_at": "2026-11-28T10:17:53-06:00",
  "season": {
   "fleet_pnl": -2473.84,
   "closed_total": 686,
@@ -208,7 +208,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 1 in a row (last 09:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 10:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Big Fix \u2014 Waves C + D (queued behind B)",
