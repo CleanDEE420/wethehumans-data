@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-28T10:02:58-06:00",
+ "generated_at": "2026-11-28T10:07:55-06:00",
  "season": {
-  "fleet_pnl": -2474.82,
-  "closed_total": 684,
-  "open_total": 3,
+  "fleet_pnl": -2473.84,
+  "closed_total": 686,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -47,16 +47,16 @@
    "name": "RECOIL",
    "role": "Dip buyer",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Watching BTC/ETH/SOL for a sharp dip to buy \u2014 none yet",
    "stats": {
     "Block": "Block 1",
-    "Closed": 41,
-    "Road to 100": "41/100",
-    "Record": "26W\u201315L",
-    "Win rate": "63%",
-    "PnL": "$+2.21",
-    "Open": 1,
-    "Profit factor": "1.13"
+    "Closed": 42,
+    "Road to 100": "42/100",
+    "Record": "27W\u201315L",
+    "Win rate": "64%",
+    "PnL": "$+2.71",
+    "Open": 0,
+    "Profit factor": "1.16"
    },
    "demerits": [
     "Bag Holder \u00d71"
@@ -67,16 +67,16 @@
    "name": "GOVERNOR",
    "role": "Regime switcher",
    "alive": true,
-   "doing": "Holding 1 open trade and watching the market.",
+   "doing": "Reading the market weather before picking a play \u2014 no trade yet",
    "stats": {
     "Block": "Block 1",
-    "Closed": 13,
-    "Road to 100": "13/100",
-    "Record": "9W\u20134L",
-    "Win rate": "69%",
-    "PnL": "$+3.80",
-    "Open": 1,
-    "Profit factor": "2.82"
+    "Closed": 14,
+    "Road to 100": "14/100",
+    "Record": "10W\u20134L",
+    "Win rate": "71%",
+    "PnL": "$+4.28",
+    "Open": 0,
+    "Profit factor": "3.06"
    },
    "demerits": []
   },
