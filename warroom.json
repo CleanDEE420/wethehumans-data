@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T07:12:53-06:00",
+ "generated_at": "2026-11-28T07:17:53-06:00",
  "season": {
   "fleet_pnl": -2458.69,
   "closed_total": 674,
@@ -122,7 +122,7 @@
     "Block 5 (final)": "100 closed \u00b7 34W\u201366L \u00b7 $-180.17",
     "All-time": "613 closed \u00b7 151W\u2013462L \u00b7 $-2466.07",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 32
+    "Entries (24h)": 31
    },
    "demerits": [
     "Bag Holder \u00d7180"
@@ -208,7 +208,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 5 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 0 in a row (last 07:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
