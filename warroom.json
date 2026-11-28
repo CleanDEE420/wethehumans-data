@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T08:07:54-06:00",
+ "generated_at": "2026-11-28T08:12:53-06:00",
  "season": {
   "fleet_pnl": -2458.69,
   "closed_total": 674,
@@ -161,7 +161,7 @@
    "id": "dragnet",
    "name": "DRAGNET",
    "role": "Lead hunter",
-   "alive": null,
+   "alive": true,
    "doing": "Banking card shops state by state and small streamers on the side \u2014 outreach on hold, zero sends.",
    "stats": {
     "Shops banked": 4691,
@@ -190,7 +190,7 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Posting the morning quotes \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
     "Jobs tracked on the board": 20,
     "Crew reporting in": "3 racers + ORBIT",
@@ -224,7 +224,7 @@
   },
   {
    "label": "Quote card pool",
-   "value": "54 posted of 85 cards \u2014 31 fresh on the bench"
+   "value": "55 posted of 85 cards \u2014 30 fresh on the bench"
   }
  ],
  "projects": [
