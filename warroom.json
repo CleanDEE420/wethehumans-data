@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-28T06:12:53-06:00",
+ "generated_at": "2026-11-28T06:17:53-06:00",
  "season": {
   "fleet_pnl": -2458.69,
   "closed_total": 674,
@@ -190,9 +190,9 @@
    "name": "GUMBY",
    "role": "Pit boss",
    "alive": true,
-   "doing": "Drafting today's batches \u2014 ",
+   "doing": "On watch over the machine.",
    "stats": {
-    "Jobs tracked on the board": 18,
+    "Jobs tracked on the board": 19,
     "Crew reporting in": "3 racers + ORBIT",
     "Open tasks": 80,
     "Open decisions": 3,
@@ -208,7 +208,7 @@
   },
   {
    "label": "StoreFab drip wake",
-   "value": "Hourly wake returning 200 \u2014 4 in a row (last 05:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
+   "value": "Hourly wake returning 200 \u2014 5 in a row (last 06:13 AM CT); posts still landing, latency fix staged awaiting the deploy word"
   },
   {
    "label": "Netlify credits",
@@ -328,7 +328,7 @@
    "next_gate": "You \u2014 run the webhook table SQL in the ForeverHumans Supabase project; then alerts push live instead of polling."
   }
  ],
- "projects_as_of": "2026-11-28 05:23 AM CT",
+ "projects_as_of": "2026-11-28 06:13 AM CT",
  "waiting": [
   {
    "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
