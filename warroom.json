@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T22:47:53-06:00",
+ "generated_at": "2026-11-27T22:52:54-06:00",
  "season": {
   "fleet_pnl": -2422.73,
   "closed_total": 668,
-  "open_total": 0,
+  "open_total": 1,
   "milestones": [
    {
     "name": "First Blood",
@@ -105,7 +105,7 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Scanning brand-new Solana coins \u2014 tracking 271, no open snipes right now.",
+   "doing": "Holding 1 snipe and tracking 273 fresh Solana launches.",
    "stats": {
     "Block": "Block 6 \u00b7 current",
     "Closed": 12,
@@ -113,8 +113,8 @@
     "Win rate": "42%",
     "PnL": "$-22.89",
     "Profit factor": "0.76",
-    "Watching": 271,
-    "Open": 0,
+    "Watching": 273,
+    "Open": 1,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
@@ -122,7 +122,7 @@
     "Block 5 (final)": "100 closed \u00b7 34W\u201366L \u00b7 $-180.17",
     "All-time": "607 closed \u00b7 150W\u2013457L \u00b7 $-2430.11",
     "Best trade": "BUTTHOLE +$116.35",
-    "Entries (24h)": 29
+    "Entries (24h)": 30
    },
    "demerits": [
     "Bag Holder \u00d7176"
@@ -148,10 +148,10 @@
    "name": "FORGE",
    "role": "Image maker",
    "alive": true,
-   "doing": "Nightly stacker \u2014 last run 2026-11-26 22:37 CT (run 19, nightly stacker): 7 pieces made. Next run tonight.",
+   "doing": "Nightly stacker \u2014 last run 2026-11-27 22:37 CT (run 20, nightly stacker): 6 pieces made. Next run tonight.",
    "stats": {
-    "Last run": "2026-11-26 22:37 CT (run 19, nightly stacker)",
-    "Pieces last run": 7,
+    "Last run": "2026-11-27 22:37 CT (run 20, nightly stacker)",
+    "Pieces last run": 6,
     "Lanes": "ComfyUI local + Cloudflare + draft",
     "Master index files": "12293"
    },
