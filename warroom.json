@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-27T19:22:55-06:00",
+ "generated_at": "2026-11-27T19:32:55-06:00",
  "season": {
-  "fleet_pnl": -2452.46,
-  "closed_total": 665,
-  "open_total": 1,
+  "fleet_pnl": -2431.52,
+  "closed_total": 666,
+  "open_total": 0,
   "milestones": [
    {
     "name": "First Blood",
@@ -105,22 +105,22 @@
    "name": "ORBIT",
    "role": "Moonshot sniper",
    "alive": true,
-   "doing": "Holding 1 snipe and tracking 275 fresh Solana launches.",
+   "doing": "Scanning brand-new Solana coins \u2014 tracking 275, no open snipes right now.",
    "stats": {
     "Block": "Block 6 \u00b7 current",
-    "Closed": 9,
-    "Record": "3W\u20136L",
-    "Win rate": "33%",
-    "PnL": "$-52.62",
-    "Profit factor": "0.36",
+    "Closed": 10,
+    "Record": "4W\u20136L",
+    "Win rate": "40%",
+    "PnL": "$-31.68",
+    "Profit factor": "0.61",
     "Watching": 275,
-    "Open": 1,
+    "Open": 0,
     "Block 1 (final)": "100 closed \u00b7 33W\u201367L \u00b7 $-491.05",
     "Block 2 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-470.63",
     "Block 3 (final)": "100 closed \u00b7 16W\u201384L \u00b7 $-248.02",
     "Block 4 (final)": "100 closed \u00b7 19W\u201381L \u00b7 $-686.47",
     "Block 5 (final)": "100 closed \u00b7 34W\u201366L \u00b7 $-180.17",
-    "All-time": "604 closed \u00b7 148W\u2013456L \u00b7 $-2459.84",
+    "All-time": "605 closed \u00b7 149W\u2013456L \u00b7 $-2438.90",
     "Best trade": "BUTTHOLE +$116.35",
     "Entries (24h)": 30
    },
@@ -194,9 +194,9 @@
    "stats": {
     "Jobs tracked on the board": 15,
     "Crew reporting in": "3 racers + ORBIT",
-    "Open tasks": 82,
+    "Open tasks": 79,
     "Open decisions": 2,
-    "Projects": 17
+    "Projects": 19
    },
    "demerits": []
   }
@@ -235,7 +235,7 @@
   {
    "name": "StoreFab \u2014 seller tools",
    "status": "active",
-   "next_gate": "TWO deploy-word items wait: (1) the suggestion-box repair - the live feedback box renders but CANNOT SEND (the shipped CSP blocks its 2 hosts); fix staged + verified in all 3 CSP copies - 1 small repair deploy on his word. (2) The drip wake\u2026"
+   "next_gate": "You \u2014 one deploy word ships the staged StoreFab pile."
   },
   {
    "name": "Gemini chatbot \u2014 wethehumans.cool",
@@ -245,27 +245,27 @@
   {
    "name": "ForeverHumans shop",
    "status": "live",
-   "next_gate": "THE TOOLKIT SITTING (one deploy word ships it all): layout + clarity pass (Show Prep steps + status line), the TILE PASS (11 screens tiled, purpose line on every screen, Theme/Alerts live overlay previews, backdrop thumbnails), Stage & Layo\u2026"
+   "next_gate": "Machine \u2014 nothing owed. Next Product Day is Friday."
   },
   {
    "name": "eBay store \u2014 CleanDEE's CleanCards",
    "status": "active",
-   "next_gate": "REPUBLISH PATH PROVEN 6 OF 6: proof PKMNB1-015 PASSED its delayed buyer-seat verdict 20:36 CT + the batch of 5 landed 5/5 PASS delayed verdicts ~21:24 CT (BATCH-5-RECORD.md - money identical on all 6, no markdown lost). 23 of the 29 stuck l\u2026"
+   "next_gate": "You \u2014 say the word and the last 23 republish fixes run."
   },
   {
    "name": "wethehumans.cool",
    "status": "live",
-   "next_gate": "Indexing fix DEPLOYED + verified live Nov 26 (6b08eeddbebd2e88cae2708d): sitemap 170 entries / 0 home-2, /home-2/ 404s, search index 146 / 0 home-2. HIS 2 TAPS remain: re-request both Search Console validations in his login. Header armor: t\u2026"
+   "next_gate": "You \u2014 re-request the 2 Search Console validations when you're in there."
   },
   {
    "name": "Facebook + Reels machine",
    "status": "active",
-   "next_gate": "Nov 26 final: Page 5/5 scheduled; profile 4 of 5 landed (10:00, 13:00, 19:00, 21:00 published + verified). The 16:00 slot FAILED (session vanished mid-publish; 4 read-backs confirm it never posted) - retry ONLY on his word, or he posts it b\u2026"
+   "next_gate": "Machine \u2014 batches draft at 06:15 daily for your one approval."
   },
   {
    "name": "Pinterest engine",
-   "status": "waiting",
-   "next_gate": "Engine total now 402 pins (Nov 26 evening run). The board TILE still shows 7,729 - that is the account's all-time pin count, not the engine's; the relabel rides the DC accuracy pile (BUILD fate). FH tees: the curated 28-pin manifest is STAG\u2026"
+   "status": "active",
+   "next_gate": "Machine \u2014 nothing owed."
   },
   {
    "name": "DC Mechanical closure",
@@ -280,7 +280,7 @@
   {
    "name": "First home",
    "status": "active",
-   "next_gate": "You \u2014 keep the credit grind going"
+   "next_gate": "You \u2014 peek at the Experian result before Dec 3."
   },
   {
    "name": "National Pok\u00e9dex chase",
@@ -290,7 +290,7 @@
   {
    "name": "DC Command \u2014 the board itself",
    "status": "active",
-   "next_gate": "ACCURACY LEFTOVERS - all BUILD fate, Gumby-side, none need the founder: (1) Sites billing tile renderer (165 is wired in the numbers; the tile still shows the labelled estimate) - own build + KRYPTON review; (2) liveStatus.dragnet publisher\u2026"
+   "next_gate": "You \u2014 paste the Groq key in Netlify (dc-command env) when you feel like it."
   },
   {
    "name": "Household / admin",
@@ -300,7 +300,7 @@
   {
    "name": "Stay Curious \u2014 eximioushuman.com",
    "status": "active",
-   "next_gate": "Staged fixes ride the next deploy: header armor (amended set) + the connect-src audit found SC SOUND (no shelf hosts missed). Lane-4 card fixes (11 cards) ride the next lane pass - no gate. The rendered-stamp swap over live build_dodge.py w\u2026"
+   "next_gate": "You \u2014 posting call on the banked cards when you're ready."
   },
   {
    "name": "The Line",
@@ -310,15 +310,25 @@
   {
    "name": "Trading bot \u2014 paper experiment",
    "status": "active",
-   "next_gate": "Leg-consistency review DONE + VETTED (3 confirmed + 2 vet-added, all fixed in staging; vetted totals 500 ok / 14 warn / 1 suspect / 64 skipped) - adoption at a block boundary on his word. Markout S8.5 RULED + EXECUTED (coarse racer markouts\u2026"
+   "next_gate": "You \u2014 Block 6 floor pick: tighten it, revert to Block 3 shape, or keep."
   },
   {
    "name": "StoreFab \u2014 outreach",
    "status": "active",
-   "next_gate": "NOV 27: 1Up Games sends 09:00 CT (job created) - contacted becomes 10. The 4 phrase-held letters (Kit Young, 4 Sharp Corners, Little Shop, Evolve) wait on HIS ruling on the template phrasing - next cap day at the earliest. PLUS10 STAGED (no\u2026"
+   "next_gate": "You \u2014 RK Collectibles: send or hold."
+  },
+  {
+   "name": "Etsy \u2014 WeTheHumansPrints",
+   "status": "live",
+   "next_gate": "You \u2014 the first-6 price-fit sweep rides the next sitting."
+  },
+  {
+   "name": "ForeverHumans toolkit \u2014 streamer tools",
+   "status": "live",
+   "next_gate": "You \u2014 run the webhook table SQL in the ForeverHumans Supabase project; then alerts push live instead of polling."
   }
  ],
- "projects_as_of": "2026-11-27 09:20 AM CT",
+ "projects_as_of": "2026-11-27 07:28 PM CT",
  "waiting": [
   {
    "title": "Book the Joe Pace sitting \u2014 the 3 money questions for your tax preparer",
